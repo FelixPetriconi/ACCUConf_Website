@@ -12,6 +12,20 @@ processes people are using: D, Chapel, Java, Kotlin, C#, F#, Groovy, Rust, Go, P
 just a few programming languages about which there have been sessions at ACCU conferences.  The ACCU
 Conference is looking for sessions that will be interesting to people who create software.
 
+The ACCU conference has:
+
+* 90 minute sessions, either:
+** 60 minute presentation with 30 minutes questions and answersfootnote:[Some people choose to structure this
+   as 90 minutes of interactive presentation instead of 60 minutes presentation and 30 minutes  Q&A, and
+   that is fine – the point is to have interaction and dialogue. A 90 minutes one-way presentation without
+   interaction is not really what we want.].
+** a workshopfootnote:[A workshop is all about people doing things.].
+* 180 minute workshopsfootnote:[For the situation when 90 minutes is just too short for the activity.].
+* 20 minute sessions, 15 minute presentation and 5 minutes questions and answers.
+* full day (6 hour with breaks) pre-conference workshops
+
+There are also lightning talk sessions, but, as ever, these are organised at the conference.
+
 The ACCU Conference is put on by ACCU (https://accu.org), but is open to anyone who wishes to be there
 either as a presenter or just an attender.
 
