@@ -21,12 +21,12 @@ BLOG_AUTHOR = "ACCU"  # (translatable)
 BLOG_TITLE = "ACCU Conference"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://conference.accu.org/site/"
+SITE_URL = "https://conference.accu.org/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://conference.accu.org/"
 BLOG_EMAIL = "conference@accu.org"
-BLOG_DESCRIPTION = "This is the static part of the ACCU conference website."  # (translatable)
+BLOG_DESCRIPTION = "This is the ACCU conference website."  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -133,8 +133,6 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         #("/archive.html", "Archive"),
         #("/categories/", "Tags"),
-        #(SITE_URL + "proposals/register", "Register"),
-        #(SITE_URL + "proposals/proposal", "Submit proposal"),
         #("/rss.xml", "RSS feed"),
     ),
 }
@@ -174,14 +172,14 @@ THEME_COLOR = '#363e6d'
 #
 
 POSTS = (
-    ("posts/*.rst", "posts", "post.tmpl"),
-    ("posts/*.md", "posts", "post.tmpl"),
-    ("posts/*.adoc", "posts", "post.tmpl"),
+    ("posts/*.rst", "news", "post.tmpl"),
+    ("posts/*.md", "news", "post.tmpl"),
+    ("posts/*.adoc", "news", "post.tmpl"),
 )
 PAGES = (
-    ("stories/*.rst", "stories", "story.tmpl"),
-    ("stories/*.md", "stories", "story.tmpl"),
-    ("stories/*.adoc", "stories", "story.tmpl"),
+    ("pages/*.rst", "", "story.tmpl"),
+    ("pages/*.md", "", "story.tmpl"),
+    ("pages/*.adoc", "", "story.tmpl"),
 )
 
 
@@ -473,6 +471,7 @@ HIDDEN_AUTHORS = ['ACCU', 'Guest']
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
 # INDEX_PATH = ""
+INDEX_PATH= "news"
 
 # Optional HTML that displayed on “main” blog index.html files.
 # May be used for a greeting. (translatable)
