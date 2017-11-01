@@ -2,6 +2,8 @@
 .. title: ACCU 2018
 ////
 
+image::images/2018/conf2015-JamesMcNellis-accu2015-begins.jpg[]
+
 *The ACCU conference call for session proposals is open. There is a separate Web application for entering
 and amending proposals:* https://cfp.conference.accu.org
 
@@ -35,4 +37,6 @@ software, and all related things. The tag line for the organisation is _Professi
 
 The call for session proposals is now open. If you have an idea for a session do submit it at
 https://cfp.conference.accu.org If you want to mull an idea over with someone before submitting, please
-email the  mailto:conference@accu.org[conference chair].
+email the  mailto:conference@accu.org[conference chair]. Some notes about the lead presenter deals are link:/lead_presenter_deals.html[here].
+
+The ACCU conference latest news/blog is link:/blog/index/html[here].
