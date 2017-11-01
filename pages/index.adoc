@@ -39,4 +39,4 @@ The call for session proposals is now open. If you have an idea for a session do
 https://cfp.conference.accu.org If you want to mull an idea over with someone before submitting, please
 email the  mailto:conference@accu.org[conference chair]. Some notes about the lead presenter deals are link:/lead_presenter_deals.html[here].
 
-The ACCU conference latest news/blog is link:/blog/index/html[here].
+The ACCU conference latest news/blog is link:/news/index.html[here].
