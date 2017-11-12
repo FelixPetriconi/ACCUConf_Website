@@ -40,3 +40,11 @@ https://cfp.conference.accu.org If you want to mull an idea over with someone be
 email the  mailto:conference@accu.org[conference chair]. Some notes about the lead presenter deals are link:/lead_presenter_deals.html[here].
 
 The ACCU conference latest news/blog is link:/news/index.html[here].
+
+There is an ACCUConf YouTube channel which is
+https://www.youtube.com/channel/UCJhay24LTpO1s4bIZxuIqKw[here].
+
+There is an https://twitter.com/ACCUConf[@ACCUConf] Twitter account and
+https://twitter.com/hashtag/ACCUConf[#ACCUConf] is used as the hashtag.
+
+The conference code of conduct is https://conference.accu.org/coc_code_of_conduct.html[here].
