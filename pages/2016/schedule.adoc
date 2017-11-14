@@ -45,7 +45,9 @@ link:speakers.html#Mike_Long[Mike Long]
 |09:30
 5+^|link:sessions.html#A_Glimpse_of_Trygve:_From_Class-oriented_Programming_to_Real_OO[A Glimpse of Trygve: From Class-oriented Programming to Real OO] +
  +
-link:speakers.html#Cope[Cope]
+link:speakers.html#Cope[Cope] +
+ +
+ link:/PDFs/2016/Cope_keynote.pdf[slides]
 
 |10:30
 5+^|Break
