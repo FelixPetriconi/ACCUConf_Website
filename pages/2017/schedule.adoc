@@ -27,7 +27,9 @@ _The schedule is subject to change without notice until 2017-04-29._
 link:presenters.html#XNicolai_Josuttis[Nicolai Josuttis]
 |link:sessions.html#XTheArtofWritingReasonableConcurrentCode[The Art of Writing Reasonable Concurrent Code] +
  +
-link:presenters.html#XFelix_Petriconi[Felix Petriconi]
+link:presenters.html#XFelix_Petriconi[Felix Petriconi] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Felix__Petriconi_TheArtOfWritingReasonableConcurrentCode-Handout.pdf[_slides_]
 |link:sessions.html#XTestablearchitecture[Testable architecture] +
  +
 link:presenters.html#XSeb_Rose[Seb Rose] +
@@ -56,6 +58,8 @@ link:presenters.html#XBrad_Chamberlain[Brad Chamberlain]
  +
 link:presenters.html#XRuss_Miles[Russ Miles] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Russ_Miles_Slides.pdf[_slides_] +
+ +
 link:https://www.youtube.com/watch?v=mFO7vALe9bg[_video_]
 
 |10:30
@@ -64,24 +68,33 @@ link:https://www.youtube.com/watch?v=mFO7vALe9bg[_video_]
 |11:00
 |link:sessions.html#XParallelAlgorithms[Parallel Algorithms] +
  +
-link:presenters.html#XDietmar_Kühl[Dietmar Kühl]
+link:presenters.html#XDietmar_Kühl[Dietmar Kühl] +
+ + 
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Dietmar_Kuhl_Slides.pdf[_slides_]
 |link:sessions.html#XLockfreeprogrammingwithmodernC[Lock-free programming with modern {cpp}] +
  +
 link:presenters.html#XTimur_Doumler[Timur Doumler] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Timur_Doumler_Slides.pdf[_slides_] +
+ +
 link:https://www.youtube.com/watch?v=qdrp6k4rcP4[_video_]
 |link:sessions.html#XThenightmareofMoveSemanticsforSimpleClasses[The nightmare of Move Semantics for Simple Classes] +
  +
-link:presenters.html#XNicolai_Josuttis[Nicolai Josuttis]
+link:presenters.html#XNicolai_Josuttis[Nicolai Josuttis] +
+ + 
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Nico_Josuttis_Slides.pdf[_slides_]
 |link:sessions.html#XATestofStrength[A Test of Strength] +
  +
 link:presenters.html#XChris_Oldwood[Chris Oldwood] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Chris_Oldwood_slides.pdf[_slides_] +
+ +
 link:https://www.youtube.com/watch?v=C4Se7DeIY48[_video_]
 |link:sessions.html#XThelinkfromobjecttoexecutabletheroleoflinkerinadevelopmenttoolchain[The link from object to executable - the role of linker in a development toolchain] +
  +
-link:presenters.html#XPeter_Smith[Peter Smith]
-
+link:presenters.html#XPeter_Smith[Peter Smith] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Peter_Smith_Slides.pdf[_slides_]
 |12:30
 5+^|Lunch
 
@@ -89,6 +102,8 @@ link:presenters.html#XPeter_Smith[Peter Smith]
 |link:sessions.html#XTheDetectionIdiomasimplerwaytoSFINAE[The Detection Idiom - a simpler way to SFINAE] +
  +
 link:presenters.html#XMarshall_Clow[Marshall Clow] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Marshall_Clow_Slides.pdf[_slides_] +
  +
 link:https://www.youtube.com/watch?v=o1ekBpEFcPc[_video_]
 |link:sessions.html#XAtomicsmemoryorderswhatfor[Atomic's memory orders, what for?] +
@@ -100,15 +115,21 @@ link:https://www.youtube.com/watch?v=A_vAG6LIHwQ[_video_]
  +
 link:presenters.html#XRoger_Orr[Roger Orr] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Roger_Orr_Bluff_Your_Way_In_X64_Assembler.pdf[_slides_]
+ +
 link:https://www.youtube.com/watch?v=RI7VL-g6J7g[_video_]
 |link:sessions.html#XThinkingOutsidetheSynchronisationQuadrant[Thinking Outside the Synchronisation Quadrant] +
  +
 link:presenters.html#XKevlin_Henney[Kevlin Henney] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Kevlin_Henney_Slides.pdf[_slides_] +
+ +
 link:https://www.youtube.com/watch?v=UJrmee7o68A[_video_]
 |link:sessions.html#XTheMirALStory[The MirAL Story] +
  +
-link:presenters.html#XAlan_Griffiths[Alan Griffiths]
+link:presenters.html#XAlan_Griffiths[Alan Griffiths] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Alan_Griffiths_Slides.pdf[_slides_]
 
 |15:30
 5+^|Break
@@ -118,10 +139,14 @@ link:presenters.html#XAlan_Griffiths[Alan Griffiths]
  +
 link:presenters.html#XAnastasia_Kazakova[Anastasia Kazakova] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Anastasia_Kazakova_Slides.pdf[_slides_] +
+ +
 link:https://www.youtube.com/watch?v=4giOynD7Emg[_video_]
 |link:sessions.html#XMetaprogramminginC14[Metaprogramming in {cpp}14] +
  +
 link:presenters.html#XLouis_Dionne[Louis Dionne] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Louis_Dionne_slides.pdf[_slides_] +
  +
 link:https://www.youtube.com/watch?v=Oc4enqNH-Mc[_video_]
 |link:sessions.html#XTimegentlemenplease[Time gentlemen please] +
@@ -130,6 +155,8 @@ link:presenters.html#XNeil_Horlock[Neil Horlock]
 |link:sessions.html#XHowtowriteaprogramminglanguage[How to write a programming language] +
  +
 link:presenters.html#XAndy_Balaam[Andy Balaam] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Andy_Balaam_(pdf_export).pdf[_slides_] +
  +
 link:https://www.youtube.com/watch?v=82-XjMzKaC8[_video_]
 |link:sessions.html#XCCountdownPubQuiz[{cpp} Countdown Pub Quiz] +
@@ -181,18 +208,26 @@ link:https://www.youtube.com/watch?v=2RsLObr_Q2c[_video_]
  +
 link:presenters.html#XJohn_Lakos[John Lakos] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/John_Lakos_Slides.pdf[_slides_] +
+ +
 link:https://www.youtube.com/watch?v=d1DpVR0tw0U[_video_]
 |link:sessions.html#XDocumentationforsoftwaredevelopers[Documentation for software developers] +
  +
 link:presenters.html#XPeter_Hilton[Peter Hilton]
 |link:sessions.html#XFunctionalProgrammingfortheWebwithElm[Functional Programming for the Web with Elm] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Peter_Hilton_session.pdf[_slides_] +
+ +
 link:presenters.html#XAustin_Bingham[Austin Bingham] +
+ + 
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Austin_Bingham_-_Functional_Programming_for_the_Web_with_Elm.pdf[_slides_] +
  +
 link:https://www.youtube.com/watch?v=u3lUh1x72ao[_video_]
 |link:sessions.html#XTheProgrammerCEOandhowtodoasoftwarestartup[The Programmer CEO, and how to do a software startup] +
  +
-link:presenters.html#XGreg_Law[Greg Law]
+link:presenters.html#XGreg_Law[Greg Law] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Greg_Law_-_The_Programmer_CEO.pdf[_slides_]
 
 |12:30
 5+^|Lunch
@@ -202,10 +237,14 @@ link:presenters.html#XGreg_Law[Greg Law]
  +
 link:presenters.html#XPeter_Sommerlad[Peter Sommerlad] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Peter_Sommerlad_core_guidelines.pdf[_slides_] +
+ +
 link:https://www.youtube.com/watch?v=fQ926v4ZzAM[_video_]
 |link:sessions.html#XAnOverviewofProgramOptimizationTechniques[An Overview of Program Optimization Techniques] +
  +
 link:presenters.html#XMathias_Gaunard[Mathias Gaunard] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Mathias_Gaunard_-_An_Overview_of_Program_Optimization_Techniques.pdf[_slides_] +
  +
 link:https://www.youtube.com/watch?v=pEvm5NNc6ko[_video_]
 |link:sessions.html#XStandardisedCoroutineConcurrencyinPython3[Standardised Coroutine Concurrency in Python 3] +
@@ -216,6 +255,8 @@ link:https://www.youtube.com/watch?v=tS08IP5ibTs[_video_]
 |link:sessions.html#XAnintroductiontoKotlinbyexample[An introduction to Kotlin by example] +
  +
 link:presenters.html#XDmitry_Kandalov[Dmitry Kandalov] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Dmitry_Kandalov_Kotlin-by-example_slides.pdf[_slides_] +
  +
 link:https://www.youtube.com/watch?v=uZqo21geUa0[_video_]
 |link:sessions.html#XDeterministicComponentsforInteractiveDistributedSystemsBenefitsandImplementation[Deterministic Components for Interactive Distributed Systems: Benefits and Implementation] +
@@ -235,13 +276,19 @@ link:https://www.youtube.com/watch?v=dlh-UnmCARk[_video_]
  +
 link:presenters.html#XHubert_Matthews[Hubert Matthews] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Hubert_Matthews_-_TypeSystemIsYourFriend_ACCU2017.pdf[_slides_] +
+ +
 link:https://www.youtube.com/watch?v=MCiVdu7gScs[_video_]
 |link:sessions.html#XWhylimitingyourworkinprogresswillspeedupyourproject[Why limiting your work in progress will speed up your project] +
  +
-link:presenters.html#XMichel_Grootjans[Michel Grootjans]
+link:presenters.html#XMichel_Grootjans[Michel Grootjans] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Michel-Grootjans_WIP_slides.pdf[_slides_]
 |link:sessions.html#XDNSat30[DNS at 30] +
  +
 link:presenters.html#XJim_Hague[Jim Hague] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Jim_Hague_-_DNS_At_30.pdf[_slides_] +
  +
 link:https://www.youtube.com/watch?v=TwXJ9-dQDsY[_video_]
 |link:sessions.html#XEmbracingModernCMake[Embracing Modern CMake] +
@@ -287,12 +334,16 @@ link:https://www.youtube.com/watch?v=t5YuuLMyKpc[_video_]
  +
 link:presenters.html#XGreg_Law[Greg Law] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Greg_Law_-_CI_Realising_Potential.pdf[_slides_] +
+ +
 link:https://www.youtube.com/watch?v=jNGjAas532I[_video_] +
  +
  +
 link:sessions.html#XRequirementCreativity[Requirement: Creativity] +
  +
 link:presenters.html#XDirk_Haun[Dirk Haun] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Dirk_Haun_15min_Requirement_Creativity.pdf[_slides_] +
  +
 link:https://www.youtube.com/watch?v=zYEQEtdkf6M[_video_] +
  +
@@ -323,10 +374,13 @@ link:sessions.html#XNamedparameters[Named parameters] +
  +
 link:presenters.html#XOdin_Holmes[Odin Holmes] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Odin_Holmes_Slides_-_Names_Parameters.pdf[_slides_] +
  +
 link:sessions.html#XMissingOptimizationsonNodebasedContainers[Missing Optimizations on Node-based Containers] +
  +
 link:presenters.html#XElliot_Goodrich[Elliot Goodrich] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Elliot_Goodrich_ACCU_2017_-_Missing_Optimizations_in_Node-Based_Containers_-_Elliot_Goodrich.pdf[_slides_]
  +
 link:https://www.youtube.com/watch?v=iRILTuGbyEg[_video_] +
  +
@@ -340,10 +394,14 @@ link:presenters.html#XSamathy_Barratt[Samathy Barratt] +
  +
 link:presenters.html#XSeb_Rose[Seb Rose] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Seb_Rose_-_Intro_to_TDD_and_BDD.pdf[_slides_] +
+ +
 link:https://www.youtube.com/watch?v=l95DsKm5fbY[_video_] +
  +
  +
 link:sessions.html#XLLVMCCcompilerfrontendinJava[ LLVM C/{cpp} compiler frontend in Java] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Seb_Rose_-_Intro_to_TDD_and_BDD.pdf[_slides_] +
  +
 link:presenters.html#XPetr_Kudriavtsev[Petr Kudriavtsev] +
 link:presenters.html#XVladimir_Voskresensky[Vladimir Voskresensky] +
@@ -355,6 +413,8 @@ link:sessions.html#XEasyHighConstancy[Easy High Constancy] +
  +
 link:presenters.html#XSergey_Nepomnyachiy[Sergey Nepomnyachiy] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Sergey_Nepomnyachi_Slides.pdf[_slides_] +
+ +
 link:https://www.youtube.com/watch?v=0KuKuW-HzzE[_video_] +
  +
  +
@@ -362,12 +422,16 @@ link:sessions.html#XDesignandEvolutionofcyberdojo[Design and Evolution of cyber-
  +
 link:presenters.html#XJon_Jagger[Jon Jagger] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Jon_Jagger_Slides.pdf[_slides_] +
+ +
 link:https://www.youtube.com/watch?v=eR_RENdIIzw[_video_] +
  +
 
 |link:sessions.html#XContractsprogrammingafterC17[Contracts programming after {cpp}17] +
  +
 link:presenters.html#XJDaniel_Garcia[J Daniel Garcia] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/j-danie-garcia-contracts.pdf[_slides_] +
  +
 link:https://www.youtube.com/watch?v=IBas3S2HtdU[_video_]
 |link:sessions.html#XACCUTheViewFromTheConference[ACCU - The View From The Conference] +
@@ -382,20 +446,28 @@ link:presenters.html#XNigel_Lester[Nigel Lester]
  +
 link:presenters.html#XSergei_Sadovnikov[Sergei Sadovnikov] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Sergei_Sadovnikov_-_Clang_source_code_generation_tool_slides.pdf[_slides_] +
+ +
 link:https://www.youtube.com/watch?v=aPTyatTI42k[_video_]
 |link:sessions.html#XUsingTrompeloeilamockingframeworkformodernC[Using Trompeloeil, a mocking framework for modern {cpp}] +
  +
 link:presenters.html#XBjörn_Fahller[Björn Fahller] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Bj%C3%B6rn_Fahller_Trompeloeil.pdf[_slides_]
  +
 link:https://www.youtube.com/watch?v=HCh6cs9nXt0[_video_]
 |link:sessions.html#XMasteringGitsindex[Mastering Git's index] +
  +
 link:presenters.html#XCharles_Bailey[Charles Bailey] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Charles_Bailey_Slides.pdf[_slides_] +
+ +
 link:https://www.youtube.com/watch?v=lFBW2qBAcaU[_video_]
 |link:sessions.html#XHistoryofTimeAsynchronousC[History of Time: Asynchronous {cpp}] +
  +
 link:presenters.html#XSteven_Simpson[Steven Simpson] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/StevenSimpson_AsynchronousCpp_ACCU2017.pdf[_slides_] +
  +
 link:https://www.youtube.com/watch?v=Z8tbjyZFAVQ[_video_]
 |link:sessions.html#XIntroductiontoBlockchaintechnologyandhowtobuildsomethingusefulwithit[Introduction to Blockchain technology, and how to build something useful with it] +
@@ -418,10 +490,14 @@ link:https://www.youtube.com/watch?v=d76cJ_RBGbY[_video_]
  +
 link:presenters.html#XBurkhard_Kloss[Burkhard Kloss] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/BurkhardKloss_SoftwareEthics.pdf[_slides_] +
+ +
 link:https://www.youtube.com/watch?v=jR2AMNdK7Do[_video_]
 |link:sessions.html#XImprovingSenseofSmellforLowLevelDebugging[Improving Sense of Smell for Low-Level Debugging] +
  +
 link:presenters.html#XMatthew_Dodkins[Matthew Dodkins] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Matthew_Dodkins_-_Improving_Sense_of_Smell_for_Low_Level_Debugging.pdf[_slides_] +
  +
 link:https://www.youtube.com/watch?v=BuyQowqngTk[_video_]
 |link:sessions.html#XPOSIXviolatescoreguidelinesAnewtakeontheoperatingsysteminterface[POSIX violates core guidelines: A new take on the operating system interface] +
@@ -455,23 +531,33 @@ link:presenters.html#XIngve_Vormestrand[Ingve Vormestrand]
 |09:30
 |link:sessions.html#XDealingwithstringsinC[Dealing with strings in {cpp}] +
  +
-link:presenters.html#XArjan_vanLeeuwen[Arjan van Leeuwen]
+link:presenters.html#XArjan_vanLeeuwen[Arjan van Leeuwen] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Arjan_van_Leeuwen_-_Dealing_with_Strings_in_C%2B%2B.pdf[_slides_]
 |link:sessions.html#XImplementingvariantvisitationusinglambdas[Implementing `variant` visitation using lambdas] +
  +
 link:presenters.html#XVittorio_Romeo[Vittorio Romeo] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Vittorio_Romeo_-_Implementing_Variant_Visitation_Using_Lambdas.pdf[_slides_] +
+ +
 link:https://www.youtube.com/watch?v=mqei4JJRQ7s[_video_]
 |link:sessions.html#XWritinggoodBDDscenarios[Writing good BDD scenarios] +
  +
-link:presenters.html#XSeb_Rose[Seb Rose]
+link:presenters.html#XSeb_Rose[Seb Rose] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Seb_Rose_-_Better_BDD_Scenarios.pdf[_slides_]
 |link:sessions.html#XMongrelMonadsDirtyDirtyDirty[Mongrel Monads, Dirty, Dirty, Dirty] +
  +
 link:presenters.html#XNiall_Douglas[Niall Douglas] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Niall_Douglas_Slides.pdf[_slides_] +
+ +
 link:https://www.youtube.com/watch?v=XVofgKH-uu4[_video_]
 |link:sessions.html#Xah64Amemoryanalyzerforuninstrumentedcores[ah64: A memory analyzer for un-instrumented cores] +
  +
-link:presenters.html#XTim_Boddy[Tim Boddy]
+link:presenters.html#XTim_Boddy[Tim Boddy] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Tim_Boddy_slides.pdf[_slides_]
 
 |11:00
 5+^|Break
@@ -486,10 +572,14 @@ link:https://www.youtube.com/watch?v=TZs8b3FGo5A[_video_]
  +
 link:presenters.html#XAnthony_Williams[Anthony Williams] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Anthony_Williams_-_Concurrency_parallelism_and_coroutines.pdf[_slides_] +
+ +
 link:https://www.youtube.com/watch?v=UhrIKqDADX8[_video_]
 |link:sessions.html#XHowtopresenteffectivelyinameeting[How to present effectively in a meeting] +
  +
-link:presenters.html#XDirk_Haun[Dirk Haun]
+link:presenters.html#XDirk_Haun[Dirk Haun] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Dirk_Haun_Present_Effectively.pdf[_slides_]
 |link:sessions.html#XFunctionalCForFunAndProfit[Functional {cpp} For Fun And Profit] +
  +
 link:presenters.html#XPhil_Nash[Phil Nash] +
@@ -497,7 +587,9 @@ link:presenters.html#XPhil_Nash[Phil Nash] +
 link:https://www.youtube.com/watch?v=8hW-LT8qFT0[_video_]
 |link:sessions.html#XKnuthAmdahlIspurnthee[Knuth, Amdahl: I spurn thee!] +
  +
-link:presenters.html#XJason_McGuiness[Jason McGuiness]
+link:presenters.html#XJason_McGuiness[Jason McGuiness] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Jason_McGuiness_slides.pdf[_slides_]
 
 |13:00
 5+^|Lunch
@@ -513,24 +605,34 @@ link:presenters.html#XJason_McGuiness[Jason McGuiness]
  +
 link:presenters.html#XOdin_Holmes[Odin Holmes] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Odin_Holmes_-_modern_cpp_design_reloaded.pdf[_slides_] +
+ +
 link:https://www.youtube.com/watch?v=jkjXIh3E9v0[_video_]
 |link:sessions.html#XIntroductiontoQt3D[Introduction to Qt 3D] +
  +
 link:presenters.html#XJames_Turner[James Turner] +
 link:presenters.html#XGiuseppe_DAngelo[Giuseppe D'Angelo] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Giuseppe_D'Angelo_-_Slides.pdf[_slides_] +
+ +
 link:https://www.youtube.com/watch?v=1S_AVHaVsLA[_video_]
 |link:sessions.html#XPracticalCodeReviewusingtools[Practical Code Review using tools] +
  +
-link:presenters.html#XSven_Rosvall[Sven Rosvall]
+link:presenters.html#XSven_Rosvall[Sven Rosvall] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Sven_Rosvall_-_Code_Review_Tools.pdf[_slides_]
 |link:sessions.html#XABrowseThroughES2016[A Browse Through ES2016] +
  +
 link:presenters.html#XJez_Higgins[Jez Higgins] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Jez_Higgins_-_A_Browse_Through_ES2016.pdf[_slides_] +
+ +
 link:https://www.youtube.com/watch?v=Px4_gglU-e4[_video_]
 |link:sessions.html#XGotToTestThemAll[Got To Test Them All] +
  +
-link:presenters.html#XSteve_Love[Steve Love]
+link:presenters.html#XSteve_Love[Steve Love] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Steve_Love_-_Got_To_Test_Them_All.pdf[_slides_]
 
 |16:00
 5+^|Break
@@ -538,7 +640,9 @@ link:presenters.html#XSteve_Love[Steve Love]
 |16:30
 5+^|link:sessions.html#XThoughtsonMetaclasses[Thoughts on Metaclasses] +
  +
-link:presenters.html#XHerb_Sutter[Herb Sutter]
+link:presenters.html#XHerb_Sutter[Herb Sutter] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Herb_Sutter_-_d0360r0_meta_-_present.pdf[_slides_]
 
 |17:30
 5+^|Close
