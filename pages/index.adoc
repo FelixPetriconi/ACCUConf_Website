@@ -4,8 +4,9 @@
 
 image::images/2018/conf2015-JamesMcNellis-accu2015-begins.jpg[]
 
-*The ACCU conference call for session proposals is open. There is a separate Web application for entering
-and amending proposals:* https://cfp.conference.accu.org
+*The ACCU conference call for session proposals has now closed.  All submitters will shortly be emailed to
+ confirm their submissions. The conference committee will now begin the hard task of reviewing and
+ selecting. Thanks to everyone who has submitted.*
 
 Historically, ACCU has a lot of {cpp} and C content, and is proud of that: ACCU is the foremost annual
 conference for people interested in {cpp} and C, at least in and around the UK. But it is not just a {cpp}
