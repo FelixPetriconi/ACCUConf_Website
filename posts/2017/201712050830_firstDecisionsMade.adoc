@@ -1,0 +1,24 @@
+////
+.. title: First Decisions Made
+.. date: 2017-12-05T08:30+00:00
+.. type: text
+////
+
+So the ACCU 2018 call for session proposals ended 2017-11-17T23:59+00:00 exactly as anticipated. The
+committee then went through all the proposals and scored them and, if appropriate, added a comment
+or two. Also a number of irritants and glitches with the system were noted and added as issues to the
+https://github.com/ACCUConf/ACCUConf_Submission_Web_Application[source repository]footnote:[If anyone who
+used the system and had irritants or spotted glitches with it, or indeed has suggestions for improvements,
+please feel free to add issues so we can make the system better for next year.].
+
+The committee met, some physically, some via video call, a couple of people had to send their apologies for
+absence, in Reading Saturday 2017-12-02 to review the situation, and make decisions. Some of the decisions
+were very hard to make since we had many more excellent session proposals than we have space for in the
+conference schedule.
+
+It is now necessary to transfer the decisions made into data in the database, make all the consistency and
+correctness checks, and then we can begin the process of informing people of the results, and doing the
+sub-editing on scheduled proposals so the session data can be published. Despite the improvements made to
+the system compared to last year, this remains a non-trivial activity. The question is whether things are
+ready to send out notifications of acceptance before the Winter Solstice, Christmas, Hogmanay, New Year
+holiday period. Just at the moment it is not possible to tell.
