@@ -1,0 +1,15 @@
+////
+.. title: Session timetable swap
+.. date: 2018-03-07T12:40+00:00
+.. type: text
+////
+
+There has been lots of activity in ACCU organising over the last two months, but we failed to tell people
+the news. Our "There is a month to go" resolution is to report more news.
+
+The news of the moment is that we have swapped a couple of sessions: Eoin Woods' session "Common Webapp
+Vulnerabilities and What to Do About Them" has moved from Wednesday 2018-04-11T16:00+01:00 to Thursday
+2018-04-12T16:00+01:00, and Florian Gilcher's session "Three years of Rust – A look around" has moved a day
+forward and will be where Eoin's session was, i.e. it's a straight swap of schedule slot.
+
+As ever the current state of the schedule is at https://conference.accu.org/2018/schedule.html

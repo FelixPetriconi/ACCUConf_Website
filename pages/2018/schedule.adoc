@@ -1,0 +1,457 @@
+
+////
+.. title: ACCU 2018 Schedule
+.. description: Schedule with links to session blurbs and presenter bios.
+.. type: text
+////
+
+_The schedule is subject to change without notice until 2018-04-14._
+
+
+
+<<<
+
+== Tuesday 2018-04-10
+
+[cols="5*^", options="header"]
+|===
+|
+|Bristol 3
+|Empire
+|SS Great Britain
+|Wallace
+
+|10:00
+|link:sessions.html#XC17inPractice[{cpp}17 in Practice] +
+ +
+link:presenters.html#XNicolaiJosuttis[Nicolai Josuttis]
+|link:sessions.html#X100babystepsawayfromspaghetticode[100 baby steps away from spaghetti code] +
+ +
+link:presenters.html#XArneMertz[Arne Mertz]
+|link:sessions.html#XPythoncppIntegrationwithpybind11[Python/{cpp} Integration with pybind11] +
+ +
+link:presenters.html#XAustinBingham[Austin Bingham]
+|link:sessions.html#XConcurrencywithoutfearRust[Concurrency without fear: Rust] +
+ +
+link:presenters.html#XFlorianGilcher[Florian Gilcher]
+|===
+
+
+<<<
+
+== Wednesday 2018-04-11
+
+[cols="6*^", options="header"]
+|===
+|
+|*Bristol 1*
+|*Bristol 2*
+|*Bristol 3*
+|*Empire*
+|*SS Great Britain*
+
+|09:30
+5+^|link:sessions.html#XDiversityandInclusivityinTech[Diversity & Inclusivity in Tech] +
+ +
+link:presenters.html#XGenAshley[Gen Ashley]
+
+|10:30
+5+^|Break
+
+|11:00
+|link:sessions.html#XDesigningmultithreadedcodeforscalability[Designing multithreaded code for scalability] +
+ +
+link:presenters.html#XAnthonyWilliams[Anthony Williams]
+|link:sessions.html#XRuntimePolymorphismBacktotheBasics[Runtime Polymorphism: Back to the Basics] +
+ +
+link:presenters.html#XLouisDionne[Louis Dionne]
+|link:sessions.html#XFightingthecontrolstragedyandmadnessforpilotsandprogrammers[Fighting the controls: tragedy and madness for pilots and programmers] +
+ +
+link:presenters.html#XDanieleProcida[Daniele Procida]
+|link:sessions.html#XSwiftDrivenDevelopment[Swift Driven Development] +
+ +
+link:presenters.html#XPhilNash[Phil Nash]
+|link:sessions.html#XCoroutinesexplained[Coroutines explained] +
+ +
+link:presenters.html#XDmitryKandalov[Dmitry Kandalov]
+
+|12:30
+5+^|Lunch
+
+|13:00
+5+^|WIBU Workshop, Conservatory/ACCU Lounge
+
+|13:45
+5+^|Lunch
+
+|14:00
+|link:sessions.html#XNothingisbetterthancopyormove[Nothing is better than copy or move] +
+ +
+link:presenters.html#XRogerOrr[Roger Orr]
+|link:sessions.html#X105STLAlgorithmsinLessThananHour[105 STL Algorithms in Less Than an Hour] +
+ +
+link:presenters.html#XJonathanBoccara[Jonathan Boccara]
+|link:sessions.html#XPlayingwithProjections[Playing with Projections] +
+ +
+link:presenters.html#XMichelGrootjans[Michel Grootjans]
+|link:sessions.html#XChrisandJezsOldSkoolArtisanSoftwareWorkshop[Chris and Jez's Old Skool Artisan Software Workshop] +
+ +
+link:presenters.html#XJezHiggins[Jez Higgins] +
+link:presenters.html#XChrisOldwood[Chris Oldwood]
+|link:sessions.html#XSchemeLispFeeltheCool[Scheme Lisp: Feel the Cool] +
+ +
+link:presenters.html#XAndyBalaam[Andy Balaam]
+
+|15:30
+5+^|Break
+
+|16:00
+|link:sessions.html#XIjustwantedtopointtosomething[I just wanted to point to something!] +
+ +
+link:presenters.html#XJonathanMüller[Jonathan Müller]
+|link:sessions.html#XCTemplatesRevised[{cpp} Templates Revised] +
+ +
+link:presenters.html#XNicolaiJosuttis[Nicolai Josuttis]
+|link:sessions.html#XHowtoavoidbottleneckswhenconvertingserialcodetomultithreaded[How to avoid bottlenecks when converting serial code to multithreaded] +
+ +
+link:presenters.html#XWojciechBasalaj[Wojciech Basalaj] +
+link:presenters.html#XRichardCorden[Richard Corden]
+|link:sessions.html#XAQuantumDataStructureForClassicalComputers[A Quantum Data Structure For Classical Computers] +
+ +
+link:presenters.html#XCharleyBay[Charley Bay]
+|link:sessions.html#XThreeyearsofRustAlookaround[Three years of Rust - A look around] +
+ +
+link:presenters.html#XFlorianGilcher[Florian Gilcher]
+
+|17:30
+5+^|Break
+
+|18:00
+5+^|Lightning Talks (1 hour)
+
+|19:00
+5+^|Welcome Reception
+|===
+
+
+<<<
+
+== Thursday 2018-04-12
+
+[cols="6*^", options="header"]
+|===
+|
+|*Bristol 1*
+|*Bristol 2*
+|*Bristol 3*
+|*Empire*
+|*SS Great Britain*
+
+|09:30
+5+^|link:sessions.html#XKotlinNativeEmbracingexistingecosystems[Kotlin/Native – Embracing existing ecosystems] +
+ +
+link:presenters.html#XHadiHariri[Hadi Hariri]
+
+|10:30
+5+^|Break
+
+|11:00
+|link:sessions.html#XClassTemplateArgumentDeductioninC17[Class Template Argument Deduction in {cpp}17] +
+ +
+link:presenters.html#XTimurDoumler[Timur Doumler]
+|link:sessions.html#XFinallyExecutorsforC[Finally Executors for {cpp}] +
+ +
+link:presenters.html#XDetlefVollmann[Detlef Vollmann]
+|link:sessions.html#XHownottoleadateamofsoftwareprofessionals[How not to lead a team of software professionals] +
+ +
+link:presenters.html#XArjanvanLeeuwen[Arjan van Leeuwen]
+|link:sessions.html#XC17TheBestFeatures[{cpp}17 - The Best Features] +
+ +
+link:presenters.html#XNicolaiJosuttis[Nicolai Josuttis] +
+ +
+ +
+link:sessions.html#XHowPythonWinsNewFriends[How Python Wins New Friends] +
+ +
+link:presenters.html#XSteveHolden[Steve Holden] +
+ +
+ +
+link:sessions.html#XTheBadlandsofCProfessionalGameDevelopment[The Badlands of {cpp}: Professional Game Development] +
+ +
+link:presenters.html#XValentinGalea[Valentin Galea] +
+ +
+ +
+link:sessions.html#XWouldreserveupgradedowngradeMethodsImprovestdshared_mutex[Would 'reserve'/'upgrade'/'downgrade' Methods Improve 'std::shared_mutex'?] +
+ +
+link:presenters.html#XJeffreyMendelsohn[Jeffrey Mendelsohn] +
+ +
+
+|link:sessions.html#XHigherorderfunctionsfortherestofus[Higher order functions for the rest of us.] +
+ +
+link:presenters.html#XBjörnFahller[Björn Fahller] +
+ +
+ +
+link:sessions.html#XBootstrappingaLocalCUserGroup[Bootstrapping a Local {cpp} User Group] +
+ +
+link:presenters.html#XVictorCiura[Victor Ciura] +
+ +
+ +
+link:sessions.html#XBuildingaTechCommunityintheEastfromalmostNothing[Building a Tech Community in the East from (almost) Nothing] +
+ +
+link:presenters.html#XPaulGrenyer[Paul Grenyer] +
+ +
+
+
+|12:30
+5+^|Lunch
+
+|14:00
+|link:sessions.html#XCModulesandLargeScaleDevelopment[{cpp} Modules and Large Scale Development] +
+ +
+link:presenters.html#XJohnLakos[John Lakos]
+|link:sessions.html#XConceptBasedTesting[Concept Based Testing] +
+ +
+link:presenters.html#XDietmarKühl[Dietmar Kühl]
+|link:sessions.html#XSimplytheBestOptimisingwithanEvolutionaryComputingFramework[Simply the Best: Optimising with an Evolutionary Computing Framework] +
+ +
+link:presenters.html#XFrancesBuontempo[Frances Buontempo] +
+link:presenters.html#XChristopherSimons[Christopher Simons]
+|link:sessions.html#XMockingFramworksconsideredharmful[Mocking Framworks considered, harmful?!] +
+ +
+link:presenters.html#XPeterSommerlad[Peter Sommerlad]
+|link:sessions.html#XReadandwriteconsideredharmful[Read and write considered harmful] +
+ +
+link:presenters.html#XHubertMatthews[Hubert Matthews]
+
+|15:30
+5+^|Break
+
+|16:00
+|link:sessions.html#XCCountdownPubQuiz[{cpp} Countdown Pub Quiz] +
+ +
+link:presenters.html#XJonJagger[Jon Jagger]
+|link:sessions.html#XParallelDesignPatternsandStreamParallelism[Parallel Design Patterns and Stream Parallelism] +
+ +
+link:presenters.html#XJDanielGarcia[J. Daniel Garcia]
+|link:sessions.html#XProceduralProgrammingItsBackItNeverWentAway[Procedural Programming: It's Back? It Never Went Away] +
+ +
+link:presenters.html#XKevlinHenney[Kevlin Henney]
+|link:sessions.html#XAlchemicalCodeRejuvenation[Alchemical Code Rejuvenation] +
+ +
+link:presenters.html#XUbertoBarbini[Uberto Barbini]
+|link:sessions.html#XCommonWebappVulnerabilitiesandWhattoDoAboutThem[Common Webapp Vulnerabilities and What to Do About Them] +
+ +
+link:presenters.html#XEoinWoods[Eoin Woods]
+
+|17:30
+5+^|Break
+
+|18:00
+5+^|Lightning Talks (1 hour)
+
+|19:30
+5+^|Conference Dinner (19:30 for drinks, 20:00 service)
+|===
+
+
+<<<
+
+== Friday 2018-04-13
+
+[cols="6*^", options="header"]
+|===
+|
+|*Bristol 1*
+|*Bristol 2*
+|*Bristol 3*
+|*Empire*
+|*SS Great Britain*
+
+|09:30
+5+^|link:sessions.html#XTheShapeofaProgram[The Shape of a Program] +
+ +
+link:presenters.html#XLisaLippincott[Lisa Lippincott]
+
+|10:30
+5+^|Break
+
+|11:00
+|link:sessions.html#XLinuxUserKernelABItheoftensurprisingrealitiesofhowCandCprogramsreallytalktotheOS[Linux User/Kernel ABI: the often surprising realities of how C and {cpp} programs really talk to the OS] +
+ +
+link:presenters.html#XGregLaw[Greg Law]
+|link:sessions.html#XCAPIandABIversioning[{cpp} API & ABI versioning] +
+ +
+link:presenters.html#XMathieuRopert[Mathieu Ropert]
+|link:sessions.html#XSimplicitynotjustforbeginners[Simplicity: not just for beginners] +
+ +
+link:presenters.html#XKateGregory[Kate Gregory]
+|link:sessions.html#XEmbracingModernCMakeLibraryDependenciesandPackages[Embracing Modern CMake – Library Dependencies and Packages] +
+ +
+link:presenters.html#XStephenKelly[Stephen Kelly]
+|link:sessions.html#XGraphsFromNovicetoGraphanista[Graphs: From Novice to Graphanista] +
+ +
+link:presenters.html#XDomDavis[Dom Davis]
+
+|12:30
+5+^|Lunch
+
+|14:00
+|link:sessions.html#XCTodayTheBeastisBack[{cpp} Today: The Beast is Back] +
+ +
+link:presenters.html#XJonKalb[Jon Kalb]
+|link:sessions.html#XDebugCWithoutRunning[Debug {cpp} Without Running] +
+ +
+link:presenters.html#XAnastasiaKazakova[Anastasia Kazakova]
+|link:sessions.html#XHackersguidetoWebAssembly[Hacker's guide to Web Assembly] +
+ +
+link:presenters.html#XVigneshwerDhinakaran[Vigneshwer Dhinakaran] +
+ +
+ +
+link:sessions.html#XTheongoingdesignandevolutionofcyberdojo[The ongoing design and evolution of cyber-dojo] +
+ +
+link:presenters.html#XJonJagger[Jon Jagger] +
+ +
+ +
+link:sessions.html#XTalesofCthe6502andtheBBCwithaddedpython[Tales of C, the 6502 and the BBC (with added python)] +
+ +
+link:presenters.html#XBenjaminMisell[Benjamin Misell ] +
+ +
+
+|link:sessions.html#XWhatsnewaboutfakenews[What's new about fake news?] +
+ +
+link:presenters.html#XGailOllis[Gail Ollis] +
+ +
+ +
+link:sessions.html#XCanIchangemyorganisation[Can I change my organisation?] +
+ +
+link:presenters.html#XFelixPetriconi[Felix Petriconi] +
+ +
+ +
+link:sessions.html#XUptoSpeedSuggestionstowardbetteronboardingdocumentation[Up to Speed - Suggestions toward better on-boarding documentation] +
+ +
+link:presenters.html#XSamathyBarratt[Samathy Barratt] +
+ +
+
+|link:sessions.html#XGreaseAMessagePassingApproachtoProtocolStacksinRust[Grease: A Message-Passing Approach to Protocol Stacks in Rust] +
+ +
+link:presenters.html#XJonathantheJPsterPallant[Jonathan 'theJPster' Pallant]
+
+|15:30
+5+^|Break
+
+|16:00
+|link:sessions.html#XHCCBringingModernCtoaGPUNearYou[HCC: Bringing Modern {cpp} to a GPU Near You] +
+ +
+link:presenters.html#XAlexVoicu[Alex Voicu]
+|link:sessions.html#XTheIncredibleShrinkingStandard[The Incredible Shrinking Standard] +
+ +
+link:presenters.html#XAlisdairMeredith[Alisdair Meredith]
+|link:sessions.html#XCryptographyforProgrammers[Cryptography for Programmers] +
+ +
+link:presenters.html#XDanielJames[Daniel James]
+|link:sessions.html#XThefantasticfourcodingpatternsofContinuousDelivery[The fantastic four coding patterns of Continuous Delivery] +
+ +
+link:presenters.html#XLucaMinudel[Luca Minudel]
+|link:sessions.html#XCodeReviewsWhyWhatandHow[Code Reviews: Why, What and How] +
+ +
+link:presenters.html#XArneMertz[Arne Mertz]
+
+|17:30
+5+^|Break
+
+|18:00
+5+^|Lightning Talks (1 hour)
+
+|19:00
+5+^|Bloomberg Event
+|===
+
+
+<<<
+
+== Saturday 2018-04-14
+
+[cols="6*^", options="header"]
+|===
+|
+|*Bristol 1*
+|*Bristol 2*
+|*Bristol 3*
+|*Empire*
+|*SS Great Britain*
+
+|09:30
+|link:sessions.html#XThese10tricksthatonlylibraryimplementorsknow[These 10 tricks that only library implementors know!] +
+ +
+link:presenters.html#XMarshallClow[Marshall Clow] +
+link:presenters.html#XJonathanWakeley[Jonathan Wakeley]
+|link:sessions.html#XThereIsABetterFuture[There Is A Better Future] +
+ +
+link:presenters.html#XFelixPetriconi[Felix Petriconi]
+|link:sessions.html#XBestpracticeswhenaccessingBigDataoranyotherdata[Best practices when accessing Big Data or any other data!] +
+ +
+link:presenters.html#XRosemaryFrancis[Rosemary Francis]
+|link:sessions.html#XCreatinganIncrementalArchitectureforyourSystem[Creating an Incremental Architecture for your System] +
+ +
+link:presenters.html#XGiovanniAsproni[Giovanni Asproni]
+|link:sessions.html#XMultiCoringandNonBlockinginsteadofMultiThreadingorusingReActorstobuildScalableInteractiveDistributedSystems["Multi-Coring" and "Non-Blocking" instead of "Multi-Threading", or using (Re)Actors to build Scalable Interactive Distributed Systems] +
+ +
+link:presenters.html#XSergeyIgnatchenko[Sergey Ignatchenko]
+
+|11:00
+5+^|Break
+
+|11:30
+|link:sessions.html#XThemightychallengeofmodellinggeopoliticalbehaviourinTotalWarhowAIcandeliverentertainment[The mighty challenge of modelling geopolitical behaviour in Total War: how AI can deliver entertainment.] +
+ +
+link:presenters.html#XGuyDavidson[Guy Davidson] +
+link:presenters.html#XDuyguCakmak[Duygu Cakmak]
+|link:sessions.html#XZeroallocationandnotypeerasurefutures[Zero-allocation & no type erasure futures] +
+ +
+link:presenters.html#XVittorioRomeo[Vittorio Romeo]
+|link:sessions.html#XMonolithicDelivery[Monolithic Delivery] +
+ +
+link:presenters.html#XChrisOldwood[Chris Oldwood]
+|link:sessions.html#XHackersguidetoRustProgramming[Hacker's guide to Rust Programming] +
+ +
+link:presenters.html#XVigneshwerDhinakaran[Vigneshwer Dhinakaran]
+|link:sessions.html#XScriptingGit[Scripting Git] +
+ +
+link:presenters.html#XCharlesBailey[Charles Bailey]
+
+|13:00
+5+^|Lunch
+
+|13:30
+5+^|ACCU AGM
+
+|
+5+^|
+
+|14:30
+|link:sessions.html#XHeterogeneousProgramminginCtoday[Heterogeneous Programming in {cpp} today] +
+ +
+link:presenters.html#XMichaelWong[Michael Wong]
+|link:sessions.html#XTypesafeCLOL[Type safe {cpp} – LOL! :-)] +
+ +
+link:presenters.html#XBjörnFahller[Björn Fahller]
+|link:sessions.html#XBuildingModernNativeApplicationswithGradle[Building Modern Native Applications with Gradle] +
+ +
+link:presenters.html#XSchalkCronjé[Schalk Cronjé]
+|link:sessions.html#XTurtlesHillclimbingHammersPaperbags[Turtles! Hill climbing! Hammers! Paper bags!] +
+ +
+link:presenters.html#XFrancesBuontempo[Frances Buontempo]
+|link:sessions.html#XHowtobepolitetounicorns[How to be polite to unicorns] +
+ +
+link:presenters.html#XOdinHolmes[Odin Holmes]
+
+|16:00
+5+^|Break
+
+|16:30
+5+^|link:sessions.html#XSoftwaredevelopmentlearningtowalkagain[Software development – learning to walk again] +
+ +
+link:presenters.html#XSebRose[Seb Rose]
+
+|17:30
+5+^|Close
+|===

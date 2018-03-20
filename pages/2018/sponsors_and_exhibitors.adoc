@@ -1,0 +1,61 @@
+////
+.. title: ACCU 2018 Sponsors
+.. description: Sponsors and Exhibitors
+.. type: text
+////
+
+This page is dedicated to the sponsors and exhibitors of ACCU 2018. The presence of the exhibitors and the
+contributions of the sponsors is a core component of the conference, and so we have here a permanent record
+of their presence, logos of the moment, and links to the pages that were relevant at the time of the
+conference. (As ever with the Web, links may eventually fail.)
+
+{empty} +
+{empty} +
+
+image::/assets/images/2018_SponsorLogos/Bloomberg_black.png[Bloomberg, align="center", link=https://www.techatbloomberg.com/]
+
+{empty} +
+{empty} +
+
+image::/assets/images/2018_SponsorLogos/Jetbrains_NL.jpg[JetBrains, align="center", width=70%, link=https://www.jetbrains.com/]
+
+{empty} +
+{empty} +
+
+image::/assets/images/2018_SponsorLogos/Undo_Master_3x.png[Undo, align="center", width=60%, link=http://undo.io/]
+
+
+image::/assets/images/2018_SponsorLogos/MosaicLogo.png[Mosaic, align="center", link=http://mosaic.fm/]
+
+
+image::/assets/images/2018_SponsorLogos/jfrog_conan_logo.png[JFrog Conan, align="center", link=https://www.conan.io/]
+
+{empty} +
+{empty} +
+
+image::/assets/images/2018_SponsorLogos/KDAB_logo.png[KDAB, align="center", width=70%, link=https://www.kdab.com/]
+
+{empty} +
+{empty} +
+
+image::/assets/images/2018_SponsorLogos/ws_logo_P321.jpg[WIBU, align="center", link=https://www.wibu.com/]
+
+{empty} +
+{empty} +
+
+image::/assets/images/2018_SponsorLogos/SNSystemsLogo.png[SN Systems, align="center", link=http://snsystems.com/]
+
+{empty} +
+{empty} +
+
+image::/assets/images/2018_SponsorLogos/Riverblade.png[Riverblade, align="center", link=https://www.riverblade.co.uk/]
+
+{empty} +
+{empty} +
+
+image::/assets/images/2018_SponsorLogos/QBS.png[QBS, align="center", width=70%, link=http://www.qbssoftware.com/products/Intel_Parallel_Studio_XE/overview/_prodintelparxe/]
+
+{empty} +
+{empty} +
+
+image::/assets/images/2018_SponsorLogos/Five-AI-logo.png[Five AI, align="center", link=http://www.five.ai]

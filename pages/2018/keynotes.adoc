@@ -1,0 +1,133 @@
+////
+.. title: Keynote Speakers
+.. type: text
+////
+
+[[GenAshley]]
+== Gen Ashley
+
+=== Title
+
+image:/images/2018/Keynotes/genAshley.jpeg[Gen Ashley image, width=250, float=right]
+
+Wednesday 2018-04-11T09:30+01:00
+
+==== Blurb
+
+TBN
+
+==== Bio
+
+Gen is the Director of https://www.womenwhocode.com/[Women Who Code London] and is a very active leader in
+the tech community in London. Aside from her involvement with Women Who Code she is a Lead for
+https://www.womentechmakers.com/[Google Women Techmakers London], https://2017.spaceappschallenge.org/[NASA
+Space Apps Challenge London] and https://twittercommunity.com/[Twitter Developer Community London].  She is
+also part of the leadership committee for http://adaslist.co/[Ada's List] (a network for women in
+technology). She is co-organiser of http://coedco.de/[COED:CODE],
+http://www.opentechschool.org/[OpenTechSchool London] and London Game Developers. She was the Head of
+Developer Outreach at Skills Matter and a former VP/Business Development Manager/Project Manager at
+Citigroup. In 2016 Gen helped lead Anita Borg Institute London and was actively instrumental in delivering
+the very first 1-Day Grace Hopper Conference in Europe which was held in London.
+
+
+[[HadiHariri]]
+== Hadi Hariri
+
+=== Kotlin/Native – Embracing existing ecosystems
+
+image:/images/2018/Keynotes/hadiHariri.png[Hadi Hariri image, width=250, float=right]
+
+Thursday 2018-04-12T09:30+01:00
+
+==== Blurb
+
+Kotlin is a language that has been around on the JVM for a number of years, and over time has gained
+popularity. Its adoption by Android developers has given way for Google to announce official support for the
+language. But Kotlin goes beyond the JVM and Android. It also targets JavaScript and Native. The latter
+opens the door up to multiple platforms including iOS, macOS, Windows, and Linux.
+
+Of course, when talking native, the de facto language is C. It’s widely used, known by all and an industry
+standard. What can Kotlin possibly bring to the table that might entice someone to use it? In this talk
+we’re going to take a look at Kotlin and see why its focus on embracing existing platforms and providing
+smooth interoperability, along with the conciseness and readability of the language can lead to an
+attractive option for those developing native applications.
+
+==== Bio
+
+Developer and creator of many things OSS, his passions includes Web Development and Software
+Architecture. Has authored a couple of books, a few courses and has been speaking at industry events for
+over 15 years. Host to Talking Kotlin, he works at JetBrains leading the Developer Advocacy team, and spends
+as much time as he can writing code.
+
+
+[LisaLippincott]
+== Lisa Lippincott
+
+=== The Shape of a Program
+
+image:/images/2018/Keynotes/lisaLippincott.jpeg[Lisa Lippincott image, width=250, float=right]
+
+
+==== Blurb
+
+When we talk about programs, we often use metaphors of space: we speak of connection and separation, of
+paths and boundaries, of areas and lengths. We clearly have some intuition that sees a program as a shape.
+
+In this talk, I will take this intuition seriously, applying topology, the fundamental mathematics of
+space. I will show how a program can be mathematically described as a shape ― a bitopological manifold ―
+arranging actions and capabilities in a frame of time, space, causality, and possibility.
+
+No previous knowledge of topology will be assumed.
+
+==== Bio
+
+Lisa Lippincott designed the software architectures of Tanium and BigFix, two systems for managing large
+fleets of computers. She's also a language nerd, and has contributed to arcane parts of the {cpp}
+standard. In her spare time, she studies mathematical logic, and wants to make computer-checked proofs of
+correctness a routine part of programming.
+
+
+[[SebRose]]
+== Seb Rose
+
+=== Software development – learning to walk again
+
+image:/images/2018/Keynotes/sebRose.jpeg[Seb Rose image, width=250, float=right]
+
+
+==== Blurb
+
+Software development seems to advance at an ever increasing pace.  However, lurking under the surface of
+relentless progress, I believe there is a rich strata of continuity. In this session we will explore these
+foundational aspects of our trade - informally and illustrated by some pretty pictures.
+
+The first article I wrote for an ACCU journal was in 2003 (https://accu.org/index.php/articles/363) where I
+drew an awkward analogy between software projects and building a shed. Over the years, I’ve found that I
+have a penchant for analogies and this session will continue in that vein. Don’t worry, though, I’m not
+going to bore you with pictures of building sites or aphorisms from lean manufacturing.
+
+Instead, I’m going to take you on a gentle walk on some mountainous paths in the south of France. There’ll
+be red wine and unit testing; oak forests and scope creep; deep river gorges and CI pipelines. I’ll ask you
+to walk with me and take a close look at the concepts that underpin our profession.
+
+“We must learn to walk before we can run” is an age-old adage. We all learned to walk decades ago. Many of
+us learnt how to develop software shortly thereafter. However, just as running is not simply walking faster,
+neither is better software development simply working with the latest shiny tools. By slowing down,
+observing our behaviour, considering alternatives, and deliberately practicing different approaches we can
+re-learn how to develop software. Or confirm that how we’re doing it now is just fine.
+
+As long-time ACCU conference chair, Jon Jagger, reminds us in the FAQ of the wonderful Cyber-Dojo: “Stop
+trying to go faster; start trying to go slower. Don’t think about finishing; think about improving. Think
+about practising.”
+
+==== Bio
+
+Seb has been involved in the full development lifecycle with experience that ranges from Architecture to
+Support, from BASIC to Ruby. He’s a partner in Cucumber Limited, who help teams adopt and refine their agile
+practices, with a particular focus on collaboration and automated testing.
+
+Regular speaker at conferences and occasional contributor to software journals. Co-author of “BDD Books 1:
+Discovery” (LeanPub), lead author of “The Cucumber for Java Book” (Pragmatic Programmers), and contributing
+author to “97 Things Every Programmer Should Know” (O’Reilly).
+
+He blogs at cucumber.io and tweets as @sebrose.
