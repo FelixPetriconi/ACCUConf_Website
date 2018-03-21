@@ -197,7 +197,9 @@ link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/John_Lakos_Slide
 link:https://www.youtube.com/watch?v=d1DpVR0tw0U[video]
 |link:sessions.html#XDocumentationforsoftwaredevelopers[Documentation for software developers] +
  +
-link:presenters.html#XPeter_Hilton[Peter Hilton]
+link:presenters.html#XPeter_Hilton[Peter Hilton] +
+ +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Peter_Hilton_session.pdf[slides]
 |link:sessions.html#XFunctionalProgrammingfortheWebwithElm[Functional Programming for the Web with Elm] +
  +
 link:presenters.html#XAustin_Bingham[Austin Bingham] +
