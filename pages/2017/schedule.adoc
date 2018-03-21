@@ -370,7 +370,7 @@ link:presenters.html#XSamathy_Barratt[Samathy Barratt] +
  +
 link:presenters.html#XSeb_Rose[Seb Rose] +
  +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Seb_Rose_-\_Intro_to_TDD_and_BDD.pdf[slides] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Seb_Rose_-&#x5f;Intro_to_TDD_and_BDD.pdf[slides] +
 link:https://www.youtube.com/watch?v=l95DsKm5fbY[video] +
  +
  +
