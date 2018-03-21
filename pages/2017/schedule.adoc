@@ -200,8 +200,6 @@ link:https://www.youtube.com/watch?v=d1DpVR0tw0U[video]
 link:presenters.html#XPeter_Hilton[Peter Hilton]
 |link:sessions.html#XFunctionalProgrammingfortheWebwithElm[Functional Programming for the Web with Elm] +
  +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Peter_Hilton_session.pdf[slides] +
- +
 link:presenters.html#XAustin_Bingham[Austin Bingham] +
  +
 link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Austin_Bingham_-_Functional_Programming_for_the_Web_with_Elm.pdf[slides] +
