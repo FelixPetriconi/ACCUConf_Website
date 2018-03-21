@@ -335,6 +335,7 @@ link:sessions.html#XEfficientdataaggregationwithFenwicktrees[Efficient data aggr
  +
 link:presenters.html#XAhto_Truu[Ahto Truu] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Ahto_Truu_Slides.pdf[slides] +
 link:https://www.youtube.com/watch?v=-tkl8UYVFT4[video] +
  +
 
