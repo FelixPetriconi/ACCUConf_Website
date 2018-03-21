@@ -257,7 +257,6 @@ link:https://www.youtube.com/watch?v=dlh-UnmCARk[video]
 link:presenters.html#XHubert_Matthews[Hubert Matthews] +
  +
 link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Hubert_Matthews_-_TypeSystemIsYourFriend_ACCU2017.pdf[slides] +
- +
 link:https://www.youtube.com/watch?v=MCiVdu7gScs[video]
 |link:sessions.html#XWhylimitingyourworkinprogresswillspeedupyourproject[Why limiting your work in progress will speed up your project] +
  +
@@ -336,6 +335,7 @@ link:sessions.html#XEfficientdataaggregationwithFenwicktrees[Efficient data aggr
  +
 link:presenters.html#XAhto_Truu[Ahto Truu] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Ahto_Truu_Slides.pdf[slides] +
 link:https://www.youtube.com/watch?v=-tkl8UYVFT4[video] +
  +
 
@@ -371,18 +371,16 @@ link:presenters.html#XSamathy_Barratt[Samathy Barratt] +
  +
 link:presenters.html#XSeb_Rose[Seb Rose] +
  +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Seb_Rose_-_Intro_to_TDD_and_BDD.pdf[slides] +
- +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Seb_Rose_-&#x5f;Intro_to_TDD_and_BDD.pdf[slides] +
 link:https://www.youtube.com/watch?v=l95DsKm5fbY[video] +
  +
  +
 link:sessions.html#XLLVMCCcompilerfrontendinJava[ LLVM C/{cpp} compiler frontend in Java] +
  +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Seb_Rose_-_Intro_to_TDD_and_BDD.pdf[slides] +
- +
 link:presenters.html#XPetr_Kudriavtsev[Petr Kudriavtsev] +
 link:presenters.html#XVladimir_Voskresensky[Vladimir Voskresensky] +
  +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Petr_Kudryavtsev_Slides.pdf[slides] +
 link:https://www.youtube.com/watch?v=HVn5sghEjAA[video]
  +
  +
@@ -577,7 +575,7 @@ link:https://www.youtube.com/watch?v=jkjXIh3E9v0[video]
 link:presenters.html#XJames_Turner[James Turner] +
 link:presenters.html#XGiuseppe_DAngelo[Giuseppe D'Angelo] +
  +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Giuseppe_D'Angelo_-_Slides.pdf[slides] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2017/Giuseppe_D\'Angelo_-_Slides.pdf[slides] +
 link:https://www.youtube.com/watch?v=1S_AVHaVsLA[video]
 |link:sessions.html#XPracticalCodeReviewusingtools[Practical Code Review using tools] +
  +
