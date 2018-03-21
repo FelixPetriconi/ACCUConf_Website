@@ -1,31 +1,53 @@
-[![Build Status](https://travis-ci.org/ACCUConf/ACCUConf_Website.svg?branch=master)](https://travis-ci.org/ACCUConf/ACCUConf_Website)
-
-Static page content: ![Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
-
-Flask application code: [![Licence](https://img.shields.io/badge/license-GPL_3-green.svg)](https://www.gnu.org/licenses/gpl-3.0.txt)
-
+![Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
 
 # ACCU Conference Website
 
 ## Introduction
 
-This repository contains the framework for the [ACCU Conference website](http://conference.accu.org)
-(http://conference.accu.org). The driver and manager of the dynamic content is a Flask application, the
-static content is managed as a Nikola website. It is assumed that Python 3 is used for both Flask and
-Nikola.
+This repository contains the source for the [ACCU Conference website](http://conference.accu.org)
+(http://conference.accu.org). The content is managed as a Nikola website.
 
-## The Toolchain
+## Getting Started
 
-Git, obviously, but also [Nikola](https://getnikola.com/) and [Flask](http://flask.pocoo.org/).
+Git and [Nikola](https://getnikola.com/) are needed, Git to clone this repository and Nikola to build the website.
 
-Many operating system distributions package Nikola and Flask (some only the Python 2 version though :-( If
-there is not a suitable package then creating a virtualenv and installing Nikola and Flask from PyPI using
-pip works well – Python 3 being the most senble choice of Python obviously.
+Most operating system distributions package Git. If yours doesn't have Git you will need to install it via
+the most idiomatic way for your operating system.
+
+Many operating system distributions package Nikola (some only the Python 2 version though :-( If there is
+not a suitable package then creating a virtualenv and installing Nikola from PyPI using pip works well, as
+does using per-user installed packages – Python 3 being the most senble choice of Python obviously. The file
+`requirements.txt` contains a list of the things needed to build the website. So if you need to set up your
+environment, the command:
+
+    pip3 install --user --upgrade -r requirements.txt
+
+is a good way of setting up per-user packages initially, but also of updating – which should be done
+regularly. This will put the `nikola` executable in `$HOME/.local/bin` so you need to make sure that path is
+in your `PATH`.
+
+With that done:
+
+    nikola build
+
+should build the website in ./output.
+
+## Adding Material
+
+By convention all source is Asciidoc, even though Markdown or ReStructuredText are possible. So only
+Asciidoc please.
+
+There are two sorts of material, posts and stories. Posts are blog entries, and will appear on the front
+page. Stories are free standing pages, that will have to be linked to from blog entries, the menu, or
+somewhere on the front page.
+
+The Code of Conduct and various pages from previous years conferences are stories.
+
+Posts, aka blog entries, have a source file name consisting of the date of creation in ISO8601 format
+followed by an underscore followed by the title in camel case with no spaces, with the `adoc` extension.
+
 
 ## The Licence
 
-All text material in the Nikola managed part of this repository is licenced
-under
-[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd-nc/4.0/). The
-code of the Flask application is licenced under
-the [GNU Public Licence version 3](https://www.gnu.org/licenses/gpl-3.0.en.html) (GPLv3).
+All material in this repository is licensed under
+[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd-nc/4.0/).

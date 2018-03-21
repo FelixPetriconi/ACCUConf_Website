@@ -1,0 +1,1046 @@
+
+////
+.. title: ACCU 2018 Sessions
+.. description: List of session blurbs with links to presenters.
+.. type: text
+////
+
+[[XMultiCoringandNonBlockinginsteadofMultiThreadingorusingReActorstobuildScalableInteractiveDistributedSystems]]
+== "Multi-Coring" and "Non-Blocking" instead of "Multi-Threading", or using (Re)Actors to build Scalable Interactive Distributed Systems
+=== link:presenters.html#XSergeyIgnatchenko[Sergey Ignatchenko]
+
+There is a long tradition of describing programs as "multi-threaded", implying all kinds of benefits out of it. However, there is growing understanding in the industry that the whole concept of "multi-threading" is _way too low-level_ to deal with while we're programming business logic, and that the whole notion of "multi-threading" should be seen as a _mere implementation detail_ to enable two much more abstract and much-better-mapped-into-end-user's-space concepts: "multi-coring" and "(mostly-)non-blocking". Sure, we MAY use multi-threading to implement both these high-level concepts (or MAY use something different - more on it in the talk) - but multi-threading should still stay a means to an end, rather than an end in itself. 
+
+As one way to illustrate how this generic paradigm shift from Multi-Threading to Multi-Coring and (Mostly-)Non-Blocking can be applied in practice - we'll discuss a very practical approach to building Shared-Nothing systems potentially scalable to thousands(!) of cores, and capable of achieving millisecond-level responsiveness without too many problems (using an MMOG as an example). Best of all, business/game logic of such systems doesn't require to be reasoned about in terms of multi-threading (among other things, avoiding the potential to forget about mutexes or to lock mutexes in incorrect order), and can be designed in a completely thread-agnostic manner, which is a Good Thing(tm) per se. In addition, this approach has several side-but-extremely-important benefits: in particular, it can be made testable, allows to introduce goodies such as post-mortem production debugging and replay-based regression testing, tends to outperform naive mutex-based multithreaded systems, scales well beyond one single box, etc. 
+
+In general - pretty much any message-passing approach allows to achieve all these goodies, but we'll concentrate on one incarnation of message-passing, more specifically - on (Re)Actors (a.k.a. Actors, Reactors, ad-hoc Finite State Machines, and good ol' Event-Driven Programs).
+
+
+[[X100babystepsawayfromspaghetticode]]
+== 100 baby steps away from spaghetti code
+=== link:presenters.html#XArneMertz[Arne Mertz]
+
+In this workshop, we will take a {cpp} program consisting of a single long function and, using baby step refactoring with the help of CLion's refactoring support:
+
+- Extract domain concepts and logic into domain classes
+- Separate infrastructure logic into infrastructure classes
+- Separate presentation logic with a kind of MVC pattern
+ 
+Evaluation/training licenses for CLion will be provided.
+
+
+[[X105STLAlgorithmsinLessThananHour]]
+== 105 STL Algorithms in Less Than an Hour
+=== link:presenters.html#XJonathanBoccara[Jonathan Boccara]
+
+We are all aware that we should know the STL algorithms. Including them in
+our designs allows us to make our code more expressive and more robust. And
+sometimes, in a spectacular way.
+
+But do you know your STL algorithms?
+
+In this presentation, you'll see the 105 algorithms that the STL currently has,
+including those added in {cpp}11 and {cpp}17. But more than just a listing, the
+point of this presentation is to highlight the different groups of algorithms, the
+patterns they form in the STL, and how the algorithms relate together.
+
+This kind of big picture is the best way I know to actually remember them
+all, and constitute a toolbox chock-full of ways to make our code more
+expressive and more robust.
+
+
+
+[[XAQuantumDataStructureForClassicalComputers]]
+== A Quantum Data Structure For Classical Computers
+=== link:presenters.html#XCharleyBay[Charley Bay]
+
+Classical computing fundamentally occurs through sequenced access to (mutable) state.  In contrast, quantum computing relies upon the phenomenon of quantum interference, where computed results obscure the cause-and-effect reasoning that would otherwise be achieved through ordered operations.  The implication is that quantum computing appears to “transcend-time”, and requires alternative software engineering strategies to govern dependencies and regulate state changes at scale.
+
+Whereas functional programming manages complexity through “pure” computations without side-effect, quantum programming demands data structures that rely upon entanglement, and coherence.  A quantum data structure within a classical machine represents “superpositioned state” where the inspected value varies based on (perhaps non-observable) context.
+
+We describe the aspects of a quantum data structure; enumerate requirements necessary for implementation; compare with historical classical computing concerns; and present {cpp} code to illustrate quantum corollaries for classical computing idioms.  A goal is to broaden computational options for existing software engineering challenges on today’s systems, as well as begin discussion for new types of design appropriate for emerging hardware increasingly reliant upon quantum effects.
+
+
+[[XAlchemicalCodeRejuvenation]]
+== Alchemical Code Rejuvenation
+=== link:presenters.html#XUbertoBarbini[Uberto Barbini]
+
+The first step to improve legacy code seems a catch 22. You cannot refactor without tests and you cannot test without refactoring first. We will explore how can we solve this deadlock.
+This is an hands-on workshop to show some original techniques to refactor efficiently big code bases which I used while working in investment banks. The goal is to be able to work in a TDD fashion on big legacy application without risky rewrites or big refactoring. Instead we will see how to separate and disentangle small bits of code at time.
+We will try to simulate a hard-to-test legacy code base and we will use some meta-refactoring techniques to be able to clean up the code, without.
+We will also focus on how to use TDD "to design at a sustainable pace" and how to use tests to better listen to code.
+
+
+[[XBestpracticeswhenaccessingBigDataoranyotherdata]]
+== Best practices when accessing Big Data or any other data!
+=== link:presenters.html#XRosemaryFrancis[Rosemary Francis]
+
+In this talk I will explore best practices when accessing data on local or shared file systems. I will use examples of what can go wrong taken from real customer problems to back up how simple guidelines and good use of available tools can make a massive difference to the performance, reliability, scalability and portability of your code. There are free and commercial tools that can help, but they need to be combined with good coding and good working practices. Data doesn't have to be big to cause a problem, but as data sets grow, the way we access data has never been a more important consideration. Our customers work in scientific and high-performance computing with different trade-offs to make between time-to-market, reliability and performance, but what they all have in common is that they have to care about I/O.
+
+
+[[XBootstrappingaLocalCUserGroup]]
+== Bootstrapping a Local {cpp} User Group
+=== link:presenters.html#XVictorCiura[Victor Ciura]
+
+In the past months some of my {cpp} friends and I have been trying to bootstrap a local {cpp} user group, in our hometown of Craiova, Romania. 
+There are plenty of Romanian software companies in our region, international software R&D centers and even big-name companies. But, sadly for us, few of those actually have significant {cpp} development teams. Most of them are into C# .NET, Java, web development, embedded/automotive(C). However, we reckoned that there should be a sufficiently big pool of {cpp} programmers to fuel our future meetups.
+
+With lots of enthusiasm and little experience in this regard, we reached-out to our {cpp} friends from different local companies and started a communication channel for sharing {cpp} goodies: links, blog-posts, videos, articles, code snippets, conference trip reports, etc. 
+We tried different mediums like: email lists, Slack, Facebook Groups, Twitter, but there’s no better way to share info and discuss technical issues than face to face. Not even a high quality {cpp} blog-post/article, nor even a very charismatic and professional speaker from a conference recording can compare with the experience of actually attending a conference. There’s so much more to a meetup or a conference than the actual technical content shared: the ad-hoc discussions, the lunch breaks, the long friendly debates and rants over drinks in the evening, the so-called “hallway track” that no conference ever records on camera.
+
+Although many developers think of programming as a communication between humans and machines, I reckon that programming is actually a social activity: sharing ideas and experiences is what makes us all better at it.
+
+
+[[XBuildingModernNativeApplicationswithGradle]]
+== Building Modern Native Applications with Gradle
+=== link:presenters.html#XSchalkCronjé[Schalk Cronjé]
+
+Build tools are the cornerstones of software construction, but does not always get the attention they deserve. Build sciprts and recipes are many times constructed in a hurry without due care leading to suboptimal or brittle builds. This becomes especially true in the native space.
+
+The session starts with the requirements of a moern build tool in the native space and then continues to show how Gradle fits in with this requirement. practical examples will be shown how to layout and build C & {cpp} programs, also leading to other native languages such as D, Rust & Go. it will also show how easy it is to manage polyglot environments and to build cross-platform or to target multiple hardware/operating system environments. It will also show how to integrate with other tools such as 
+
+* GNU Make
+* CMake
+* Doxygen
+* Conan
+
+It will also demontrate the power of distributed artifact caching. 
+
+it is hoped that the attendee can leave with a number of practical examples to get started with Gradle and thus reduce the learning curve.
+
+
+[[XBuildingaTechCommunityintheEastfromalmostNothing]]
+== Building a Tech Community in the East from (almost) Nothing
+=== link:presenters.html#XPaulGrenyer[Paul Grenyer]
+
+When they think of Norwich and Norfolk, most people don’t think of Tech, but Norwich and the surrounding area is packed with tech businesses and software developers. Six years ago very few of them knew any others existed. There was no sense of community and very little collaboration.
+
+Today a local tech community, bigger than the ACCU globally, exists in Norwich and Norfolk. A world class conference attracts more than 400 people, including international speakers,  per year and each November a handful of new companies are born from a 54 hour startup event. And there’s more. Much more.
+
+In this session you learn how one of the strongest tech communities in the country was born from a few individuals’ aspirations and a lot of influence from the ACCU and xTc.
+
+
+[[XCAPIandABIversioning]]
+== {cpp} API & ABI versioning
+=== link:presenters.html#XMathieuRopert[Mathieu Ropert]
+
+Software keeps changing, but not always as fast as its clients.
+A key to maintaining a library in the long run is to ensure a proper handling of the changes and their impacts.
+While it is sometimes necessary to break the API or the ABI, one must first know if and how his changes will translate to impacts on API or ABI.
+
+In this talk I will define API and ABI in terms of impacts on compatibility, explain the difference between breaking and non-breaking changes and present a few techniques to handle them.
+We will quickly explain what APIs are, with an emphasis on the notion of contracts. Then the usually lesser known notion of ABI will be explained, going over the concepts of mangling, vtable layout and most importantly sizes, alignment and offsets in data structures.
+Finally we will discuss the two most important versioning strategies today, Semantic Versioning and Live at Head and how they can be used to handle changes to the API and the ABI over time and help clients adapt to them.
+
+
+[[XCCountdownPubQuiz]]
+== {cpp} Countdown Pub Quiz
+=== link:presenters.html#XJonJagger[Jon Jagger]
+
+This is a fun session based loosely on the popular UK TV game show Countdown [1].
+
+In the TV version, in each round, contestants have 30 seconds to find the longest word using only a small set of letters.
+
+In this version, in each round, teams have ~7 minutes to write the smallest {cpp} program which includes a given set of tokens.
+
+For example, the tokens in one round might be:
+
+const std::vector<std::string>> tokens =
+{
+    "catch",
+    "->",
+    "[",
+    ";",
+    "--",
+    "foobar",
+    "operator",
+};
+
+A winning program (53 characters long) might be:
+
+class c {
+  c operator->(){
+    foobar: try{
+    }
+    catch(c x[]){
+        x--;
+    }
+  }
+};
+
+Numbers are limited: minimum two people per team, maximum 12 teams.
+
+Each team will need a laptop with wifi and a modern browser.
+
+All programs will be written in the browser using a customized cyber-dojo [2] which will automatically tell you your program’s size, and your score.
+
+NB Although scheduled in a conference room, this session will take place in the hotel bar – how else could it be a "pub quiz" if not held in a "pub".
+
+[1] http://www.channel4.com/programmes/countdown
+[2] http://cyber-dojo.org
+
+
+[[XCModulesandLargeScaleDevelopment]]
+== {cpp} Modules and Large Scale Development
+=== link:presenters.html#XJohnLakos[John Lakos]
+
+Much has been said about how the upcoming module feature in {cpp} will improve compilation speeds and reduce reliance on the {cpp} preprocessor. However, program architecture will see the biggest impact. This talk explains how modules will change how you develop, organize, and deploy your code. We will also cover the stable migration of a large code base to be consumable both as modules and normal headers. All examples will be using the latest draft of the Modules TS.
+
+
+[[XCTemplatesRevised]]
+== {cpp} Templates Revised
+=== link:presenters.html#XNicolaiJosuttis[Nicolai Josuttis]
+
+In 2003 we published "{cpp} Templates - The Complete Guide". Now, 14 years and 3 major {cpp} versions later, we are published the second edition. The content grew and changed dramatically. And I, the representative application programmer among the authors, learned a lot while at the same time shaking my head again and again.
+
+This talk is a personal overview of the changes Modern {cpp} brought to generic {cpp} programming and what that means for ordinary application programmers. It's not only about new features, it's also about the discussions we had regarding style and usability (for example, about our recommendations of how to declare parameters in function templates).
+
+
+[[XCTodayTheBeastisBack]]
+== {cpp} Today: The Beast is Back
+=== link:presenters.html#XJonKalb[Jon Kalb]
+
+This presentation will cover why engineers looking for performance choose {cpp}. I will present a historical perspective of {cpp} focusing on what's going on in the {cpp} community right now and where the language and its user base is heading. With a renewed interest in performance for both data centers and mobile devices, and the success of open source software libraries, {cpp} is back and it is hot. This presentation will explain why {cpp} is most software engineers' go-to language for performance. You will receive a rough historical sketch that puts {cpp} in perspective and covers its popularity ups and downs.
+
+This talk is based, in part, on the book "{cpp} Today: The Beast is Back" published by O'Reilly.
+
+
+[[XC17TheBestFeatures]]
+== {cpp}17 - The Best Features
+=== link:presenters.html#XNicolaiJosuttis[Nicolai Josuttis]
+
+{cpp}17 is out for a year now and at least partially supported by Clang, GCC, and Visual Studio.
+While {cpp} is no revolution and changes the style of programming (as {cpp}11 did),  it is a remarkable collection of many many features both in the core language and the library.
+
+Time to list the best and mopst useful improvements {cpp}17 (in my opinion) provides.
+
+
+
+[[XC17inPractice]]
+== {cpp}17 in Practice
+=== link:presenters.html#XNicolaiJosuttis[Nicolai Josuttis]
+
+{cpp}17 is out for a year now and at least partially supported by Clang, GCC, and Visual Studio.
+While {cpp} is no revolution and changes the style of programming (as {cpp}11 did),  it is a remarkable collection of many many features both in the core language and the library.
+It might look that all this is easy to learn and to use.
+But beware, {cpp}17 is a lot more complex than it looks like.
+There are nice hidden features, significant remarkable design issues, and important pitfalls (especially when combining new features).
+
+This tutorial discusses the new features with the focus of remarkable applications and traps that can occure in practice.
+
+
+[[XCanIchangemyorganisation]]
+== Can I change my organisation?
+=== link:presenters.html#XFelixPetriconi[Felix Petriconi]
+
+Are you satisfied how software is developed in your organisation?
+Would you like to improve it?
+But you think, as an individual you cannot change anything?
+
+I want to challenge this claim!
+
+In this short session I want to show you a way out of this dilemma based on advice given me by respected professionals and experiences that I gained over the last decade.
+
+
+
+
+[[XChrisandJezsOldSkoolArtisanSoftwareWorkshop]]
+== Chris and Jez's Old Skool Artisan Software Workshop
+=== link:presenters.html#XChrisOldwood[Chris Oldwood], link:presenters.html#XJezHiggins[Jez Higgins]
+
+Chris and Jez are old and have been programming a long time.  You can tell they're old by their grey hair and unfamiliarity with the works of Camila Cabello, and you can tell they've programming a long time by their insistence on proper clicky keyboards and the battered copies of Stevens propping up their monitors.
+
+But once they were young!
+
+Before they were programmers they were hobbists, spending hours, nay days, nay nights and days, cranking out game after game written in screen after screen of Basic (Locomotive and Sinclair respectively).
+
+Can they take their combined 50 years of software development experience and project it back to 1984? Can they apply test driven development, source code control, and continuous integration to the programming environments of their youth? 
+
+Join Chris and Jez as, armed with an Amstrad CPC 464 and a cassette recorder, they attempt to find out.
+
+
+[[XClassTemplateArgumentDeductioninC17]]
+== Class Template Argument Deduction in {cpp}17
+=== link:presenters.html#XTimurDoumler[Timur Doumler]
+
+Class Template Argument Deduction (CTAD) is a very useful {cpp} language feature that was added in {cpp}17. This talk is a comprehensive and practice-oriented introduction to this new technique.
+
+In this talk I'll present how CTAD and automatic deduction guides lets you write cleaner and shorter code, show how to interact with it when using the {cpp} standard library and when designing your own classes, explain when and how user-defined deduction guides should be used, and cover the language rules behind all of this.
+
+We will also discuss the various pitfalls that lie in wait: wrong and surprising template arguments being deduced, your constructor not being selected even if you think it should be, and automatic CTAD sometimes leading to unsafe and broken code – and how to circumnavigate those pitfalls.
+
+
+[[XCodeReviewsWhyWhatandHow]]
+== Code Reviews: Why, What and How
+=== link:presenters.html#XArneMertz[Arne Mertz]
+
+Code reviews can be an important instrument to not only improve the quality of our code but also for knowledge transfer. They can be crucial when we develop software with a general-purpose language that allows solving problems in multiple different ways. Both junior and senior developers can benefit from code reviews if they are done the right way. It is vital to project success to make code reviews efficient by focusing on the right parts of our code, making them less cumbersome and not wasting developer time with fruitless discussions.
+
+In this session, I want to discuss the different ways in which our projects and ourselves can benefit from code reviews as well as how reviews should (and should not) be done.
+
+
+[[XCommonWebappVulnerabilitiesandWhattoDoAboutThem]]
+== Common Webapp Vulnerabilities and What to Do About Them
+=== link:presenters.html#XEoinWoods[Eoin Woods]
+
+With more and more services becoming Internet facing, web application security is now a problem for most of us.  In response to this, the OWASP security community have been working for years to catalogue, understand and prioritise common web application vulnerabilities, published as the “OWASP Top 10 List” which has recently been updated for the 2017 revision (the previous version being the 2013 edition).
+
+What many security practitioners find amazing is how stable the content of the list is, with the same vulnerabilities being introduced into systems again and again, over many years.  In this session we will review the 2017 OWASP Top 10 list to understand the vulnerabilities and dig into the implementation details of some of the more important of them to identify practical mitigations for them in our own applications.
+
+
+[[XConceptBasedTesting]]
+== Concept Based Testing
+=== link:presenters.html#XDietmarKühl[Dietmar Kühl]
+
+With concepts being added to the next revision of {cpp} it is expected that new concepts get defined. Each concept defines a set of operations used by generic code. One such use could be a generic test verifying that all parts of a concept are defined and checking generic interactions between a concept’s operations. Ideally, such a test even works with classes only partially modelling a concept to guide the implementation of classes.
+
+This presentation doesn’t use the actual concept extensions but shows how generic tests can be created using features of {cpp}17. For the generic tests the detection idiom and constexpr if are used to determine availability of required operations and gracefully dealing with the abseence of operations. The generic tests should be able to cover basics of classes modelling a concept. Obviously, specific behaviour for classes will still require corresponding tests.
+
+Attendees are expected to be familiar with {cpp}. However, deep knowledge of template meta programming is *not* needed.
+
+
+[[XConcurrencywithoutfearRust]]
+== Concurrency without fear: Rust
+=== link:presenters.html#XFlorianGilcher[Florian Gilcher]
+
+"Safe. Concurrent. Fast. Pick three."
+
+Rusts original slogan is bold claim, and definitely one that needs careful examination. In this workshop, we're going to take a first step towards investigating these things by building a small concurrent server system in Rust, step by step.
+
+The workshop introduces fundamental ideas of the Rust language, like ownership and borrowing, along with its concurrency support.
+
+You'll leave the course with your first written Rust program that does something with real-world applicability and can be used to explore Rust further.
+
+
+[[XCoroutinesexplained]]
+== Coroutines explained
+=== link:presenters.html#XDmitryKandalov[Dmitry Kandalov]
+
+Coroutines have received quite a bit of attention recently from language designers with async/await in JavaScript 2017, Python 3.5 new syntax and Kotlin 1.1 coroutines support. This session explains what coroutines are, how they differ between programming languages and how to use coroutines for fun and profit.
+
+Target audience: software developers with some experience programming in Java or similar language.
+
+
+[[XCreatinganIncrementalArchitectureforyourSystem]]
+== Creating an Incremental Architecture for your System
+=== link:presenters.html#XGiovanniAsproni[Giovanni Asproni]
+
+Experience has taught us that creating an architecture for a system with a big design up-front is a bad idea as, usually, we don't have all the necessary information to design the system at the very start. Even in moderate-sized systems, requirements tend to change significantly, often making the initial design unfit for purpose.
+
+On the other hand, no up-front design can be just as bad. The code tends to become unmaintainable pretty quickly, and system qualities like performances, scalability, security, latency, etc. can be very difficult or impossible to retrofit.
+
+In this talk Giovanni shows a different way to create a software architecture with just the right amount of design, which can be evolved (or changed) incrementally as the system grows and changes - by taking care of some important qualities of the system early in the design, and delaying the design of other aspects to the last responsible moment.
+
+
+[[XCryptographyforProgrammers]]
+== Cryptography for Programmers
+=== link:presenters.html#XDanielJames[Daniel James]
+
+In an increasingly hostile world security is becoming more and more important in today's software design.  Increasing regulation also means that security measures are mandated in the design of new software.
+
+Many programmers, however, are unfamiliar with security concepts and jargon, and find the learning curve challenging.
+
+This talk will give an introduction to cryptographic techniques and an overview of the use of cryptography in software. It is aimed at programmers, not at mathematicians or at cryptographers. 
+
+The talk will be language-agnostic, but will include some discussion of common cryptographic APIs, which are typically written to be C-callable.
+
+
+[[XDebugCWithoutRunning]]
+== Debug {cpp} Without Running
+=== link:presenters.html#XAnastasiaKazakova[Anastasia Kazakova]
+
+Macros, templates, compile-time evaluation and code generation, reflection and metaclasses – {cpp} tends to hide the final code passed to the compiler under the tons of various names and aliases. Add here the preprocessor that shadows the actual running curve of your program with dozens of alternatives mixed in a non-trivial way. While this allows to avoid boilerplate code and reduce copy-paste and other errors, such an approach demands better tooling support to make the debugging process easier.
+
+To find an error in such a code, one has to continuously read-fix-run it and compare the results with some etalon, or to debug in order to find actual substitutions. But should you really wait until your code is run or even compiled to debug it? Or how to deal with the situations when the code can’t be run on the local machine? A text editor with code completion won’t help, while a smart IDE that “gets” your code can do a better job.
+
+In this talk we’ll see interesting approaches to solving cases like macro and typedef ‘debug’, understanding types when auto/decltype hide them, dealing with different code branches depending on the preprocessor’s pass-through, and other ideas. Some suggestions are already implemented as ready-to-use features in CLion and ReSharper {cpp}, tools for {cpp} from JetBrains (that means I can show it in action), others are planned for the future. The aim of this talk is to share the workflows supported by the tools that can help {cpp} developers create better modern {cpp} code.
+
+
+[[XDesigningmultithreadedcodeforscalability]]
+== Designing multithreaded code for scalability
+=== link:presenters.html#XAnthonyWilliams[Anthony Williams]
+
+As the number of cores in our machines increases, scalability is no longer just a concern for HPC developers, but something everyone writing multithreaded code needs to think about. If you don't think about scalability, then adding more cores might *hurt* rather than help.
+
+In this presentation we will look at the issues that prevent multithreaded code from being scalable, and how to address those issues, both from a design perspective, and also with regard to the tools available in the {cpp} toolkit to help us.
+
+
+[[XDiversityandInclusivityinTech]]
+== Diversity & Inclusivity in Tech
+=== link:presenters.html#XGenAshley[Gen Ashley]
+
+TBN
+
+
+[[XEmbracingModernCMakeLibraryDependenciesandPackages]]
+== Embracing Modern CMake – Library Dependencies and Packages
+=== link:presenters.html#XStephenKelly[Stephen Kelly]
+
+Improvements in CMake in the last few years have propagated widely into updated guidelines for how to write CMake code, including those delivered at this conference last year.
+
+Once your code is target-centric and making use of transitive usage requirements, what's next? CMake offers a lot more tools to help library developers cater for their users - allowing them to easily create modern packages which can be used as intuitively as first-party code.
+
+This talk focuses on consuming a library written by someone else, considering whether the library is 'CMake aware' or not, and offering a set of guidelines for how to be a 'good citizen' when creating a library or a set of libraries with CMake.
+
+
+[[XFightingthecontrolstragedyandmadnessforpilotsandprogrammers]]
+== Fighting the controls: tragedy and madness for pilots and programmers
+=== link:presenters.html#XDanieleProcida[Daniele Procida]
+
+Damn it, this can’t be happening! 
+
+As programmers, we find ourselves time and again spiralling down into tighter loops of desperate troubleshooting, fighting the controls of our machinery and descending into what feels like a kind of madness. Later, when it's all over, we realise that the clues we needed to recover the situation were staring us in the face all along, but we somehow couldn't even see them.
+
+Why do planes crash so rarely, and programs crash so often? Why are pilots' mistakes rarely repeated, and programmers' mistakes repeated endlessly?
+
+There's a reason for it: the nature of debugging means that it quickly tips us into these states, and then very effectively keeps us there.
+
+In programming we have worked hard to improve some aspects of programmers' work, creating methodologies, development frameworks, paradigms, practices and thinking deeply about how to solve the problems of producing good code. We have done very little work to improve the way we debug our code,
+
+The good news is that although programmers have not developed very adequate strategies or techniques for mitigating the risks that debugging draws us into, other industries, and in particular aviation, have. We can learn from their lessons without paying their price.
+
+This is a technical talk about processes and methodologies in software development, based on an analysis of programming as a creative craft. It uses analogies and parallels from other disciplines to illuminate aspects of programming that often remain obscure to programmers themselves, and draws upon the lessons of aviation to provide concrete, practical ways to improve the way programmers debug code.
+
+
+[[XFinallyExecutorsforC]]
+== Finally Executors for {cpp}
+=== link:presenters.html#XDetlefVollmann[Detlef Vollmann]
+
+Executors (or schedulers) will be a base building block in {cpp} for asynchronous and parallel work.
+At the ACCU conference 2014 Detlef presented the then current proposal for addition of executors to {cpp}, with the caveat that it wasn't officially accepted at the time.  As it turned out, the game changed significantly.
+
+For quite some time the {cpp} committee was blocked on the discussion of three more or less competing proposals for executors.
+But starting in summer 2016, there was put together a group that tried in regular conference calls to bring forward a common proposal.  These efforts eventually produced a common proposal for the Issaquah meeting in November 2016.
+This common proposal got general agreement though quite some details changed since then.  At the Albuquerque meeting in November 2017
+the proposal became an inofficial draft TS.
+
+This talk will present the new proposal and look at the consequences for concurrent and parallel programming.  The interactions with the different coroutine proposals will also be investigated including.
+A number of completely different concrete executor examples will be presented to show what a wide range is covered by this basic parallel and concurrent building block.
+
+
+[[XGraphsFromNovicetoGraphanista]]
+== Graphs: From Novice to Graphanista
+=== link:presenters.html#XDomDavis[Dom Davis]
+
+Look at any course on computer science and you'll find something on data structures and algorithms. We've invented programming languages that let us express our data in practically any way imaginable, with complex data structures suited for the task at hand - and then we go and persist it to a database table. A 2 dimensional array, with all the shoehorning and normalising that goes along with it.
+
+In this session we'll look at an alternative format for storing data: the graph. From the absolute basics of how graph databases work, through to modelling your data and solving complex problems, we'll go from novice to Graphanista.
+
+
+[[XGreaseAMessagePassingApproachtoProtocolStacksinRust]]
+== Grease: A Message-Passing Approach to Protocol Stacks in Rust
+=== link:presenters.html#XJonathantheJPsterPallant[Jonathan 'theJPster' Pallant]
+
+Jonathan will be talking about the design of protocol stacks using a
+message-passing architecture. As a Senior Technical Consultant and Embedded
+Systems Engineer at Cambridge Consultants, designing and working on
+protocol stacks is basically the bread and butter of Jonathan's day job.
+Firstly, Jonathan will introduce some terms to clarify what exactly what he
+considers a protocol stack to be, and then introduce the message passing
+architecture Cambridge Consultants use when implementing these stacks. This
+is a well-proven model for building software that Cambridge Consultants
+have used on countless projects, scaling from the very small to the very
+large.
+
+In the second part of this talk Jonathan introduces a novel implementation
+of this model in the Rust programming language (known as Grease) and
+discusses how this compares to a traditional C implementation.
+
+
+
+[[XHCCBringingModernCtoaGPUNearYou]]
+== HCC: Bringing Modern {cpp} to a GPU Near You
+=== link:presenters.html#XAlexVoicu[Alex Voicu]
+
+HCC (Heterogeneous {cpp} Compiler) is a thin extension to the Clang front-end associated with a minimalistic runtime component. Their union allows the direct compilation and execution of standard, idiomatic {cpp}98/11/14/17 on AMD GPUs. For example, the user is not required to use para-linguistic annotations to mark a body of code for GPU compilation. Similarly, GPU code is not segregated - it is all single-source, straightforward {cpp}. More notably, it enables the direct, unmodified use of some standard library components, such as algorithms, as they ship in mainstream implementations such as libc++ or libstdc++. This capability is unique to HCC. In this presentation we describe our work in the three complementary areas of language design, compiler implementation and runtime implementation, which enables this functionality. We will demonstrate how clean {cpp} source code gets compiled into machine ISA, and how the latter is used by the runtime to drive GPU execution. The discussion is set within the context of answering three "why?"s coming from three very different groups:
+    - "why would you ever need this?" asked by experienced GPU programmers, who do not see much benefit from actually supporting the full {cpp} language;
+    - "why would you ever need this?" asked by experienced {cpp} programmers with no exposure to GPU programming, who do not see why the language must evolve / the compiler cannot simply automatically generate everything;
+    - "why would you ever need this?" asked by those who would want to "ship it" since it works for a very specific case, and would rather not wait for the robust implementation of language features as they are specified in the standard.
+
+
+[[XHackersguidetoRustProgramming]]
+== Hacker's guide to Rust Programming
+=== link:presenters.html#XVigneshwerDhinakaran[Vigneshwer Dhinakaran]
+
+Venture deep into the belly of the Rust programming language design and concepts to uncover the secret incantations to create safe and fast applications
+
+General Description
+
+Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. It won the first place for "most loved programming language" in the Stack Overflow Developer Survey in 2016 and 2017.
+
+But what makes Rust so fast & safe? Starting from the basics, this workshop will walk you through the core design & concepts of Rust Language which includes:
+
+* Syntax and keywords in Rust
+* Concept of ownership and borrowing to understand memory safety & management
+* Polymorphism using Traits
+* Error handling in Rust
+* Package management using Cargo tool
+* Famous Rust tools like clippy, Rustfmt, Rustup etc
+* Live demos of web development, FFI to understand different applications
+
+Discover this and more tips to build creating highly concurrent and highly safe systems using Rust.
+
+
+[[XHackersguidetoWebAssembly]]
+== Hacker's guide to Web Assembly
+=== link:presenters.html#XVigneshwerDhinakaran[Vigneshwer Dhinakaran]
+
+Starting from the basics, this talk will walk you through what WebAssembly is, and then why it’s fast.
+
+WebAssembly is a new low-level binary compile format that will do a better job at being a compiler target than JavaScript. It’s being called “the future of the web platform” and did you know that its promising features in terms of speed, reusability and safety has brought major browser vendors working together to make it a reality and the MVP is already available in major browsers.
+
+Want to know how WebAssembly work? Why is WebAssembly so fast? How to build web apps using C/{cpp}/Rust? In this talk we’ll look at history, basics, applications and deep dive into the core concepts of WebAssembly with help of live demos and coding.
+
+
+[[XHeterogeneousProgramminginCtoday]]
+== Heterogeneous Programming in {cpp} today
+=== link:presenters.html#XMichaelWong[Michael Wong]
+
+So why is the world rushing to add Massive Parallelism to base languages when consortiums and companies have been trying to fill that space for years? How is the landscape of Heterogeneous Parallelism changing in the various standards, and specifications? How will today's programming models address the needs of future Internet of Things, self-driving cars and Machine Learning.  I will give an overview as well as a deep dive into what C, {cpp} is doing to add parallelism, but also how consortiums like Khronos OpenCL/SYCL is pushing forward into the High-level Modern {cpp}  Language support for GPU/Accelerators and SIMD programming. And ultimately, how these will converge into the future {cpp} Standard through future {cpp}20 proposals such as executors, and affinity from my capacity of leading many of these efforts as chair of Wg2 `s SG14.
+
+
+[[XHigherorderfunctionsfortherestofus]]
+== Higher order functions for the rest of us.
+=== link:presenters.html#XBjörnFahller[Björn Fahller]
+
+Higher order functions, i.e., functions that accept functions as arguments, or return functions, are a core part of functional programming. The {cpp} standard library also has an abundance of higher order functions, but it is rare for {cpp} developers to write their own.
+
+I will show some simple types of higher order functions you can easily write yourself, that will reduce repetition, increase code clarity, and make you a more productive programmer.
+
+
+[[XHowPythonWinsNewFriends]]
+== How Python Wins New Friends
+=== link:presenters.html#XSteveHolden[Steve Holden]
+
+In less than thirty years Python has consistently risen in popularity, and is now the most-used language for teaching programming.
+
+This talk tries to summarise the aspects of Python and its communities that have contributed to this success.
+
+
+[[XHownottoleadateamofsoftwareprofessionals]]
+== How not to lead a team of software professionals
+=== link:presenters.html#XArjanvanLeeuwen[Arjan van Leeuwen]
+
+At some point in your career as a software professional, you might want to or be asked to lead or manage some other software professionals. I’ve been asked this around 3 years ago, first as a ‘technical lead’, and then as team lead for a cross-functional team of 8 software professionals. And since that time I’ve been struggling constantly to become better.
+
+I used to have a pretty clear idea of how to see and judge my own work - after all, every day I could look at the code I had produced, check the problems I had solved, and even occasionally see users be happy with my changes. I was comfortable with the work I did. But all of that changed when I became a team lead: I didn’t know what to do, how to do it, who to do it to, and most of all, I didn’t know anymore how to measure my own accomplishments.
+
+In the process of learning how to do my new job, I’ve made many mistakes. This talk is an honest look at all the things that can and did go wrong on the road to becoming a better team lead. Whether you want to start leading others or you’ve already been doing so for some time, I hope you can learn from (or laugh with) my mistakes and join in to tell me more about things you have experienced.
+
+
+[[XHowtoavoidbottleneckswhenconvertingserialcodetomultithreaded]]
+== How to avoid bottlenecks when converting serial code to multithreaded
+=== link:presenters.html#XRichardCorden[Richard Corden], link:presenters.html#XWojciechBasalaj[Wojciech Basalaj]
+
+This session is focused on the most common sources of bottlenecks in serial C and {cpp} code, which prevent correct and efficient concurrent execution. We start by showing a piece of code to be made multithreaded, get attendees views on it, and proceed by formulating simple coding rules that would ensure correct and performant conversion. These may represent different challenges in terms of ease of detection and restricting programming freedom, with preference given to simple and targeted rules.
+
+Once a number of bottlenecks are covered, we will arrive at a set of best practice rules for multithreaded code. This collection of rules forms a key part of the upcoming RePhrase Coding Standard, which is being developed as part of the Horizon 2020 Programme. The portion of the coding standard that is outside of the scope of this session is on preventing the most common faults in multithreaded C and {cpp} software, which is a more widely understood challenge.
+
+
+[[XHowtobepolitetounicorns]]
+== How to be polite to unicorns
+=== link:presenters.html#XOdinHolmes[Odin Holmes]
+
+In this talk, we will explore some optimization potential of features in boost as well as different implementations of the standard library. Using concrete examples we will examine why some library implementation strategies compile slow, how to drastically increase compilation speed and what one can do with all the extra compile time.
+This is a very hand on presentation of some of the things I learned working on different metaprogramming and template heavy libraries. As one example we will look at different std::tuple implementations, make them compile faster and then spend the freed up compile time on optimizing the memory layout in order to shrink its footprint.
+
+
+[[XIjustwantedtopointtosomething]]
+== I just wanted to point to something!
+=== link:presenters.html#XJonathanMüller[Jonathan Müller]
+
+Every non-trivial programming language needs a way to refer to another object that is stored in a different place. In some programming languages this behavior is the default ­— they have reference semantics.
+
+But this is not the case in {cpp}. In {cpp} you need a special type to refer to another object: a pointer. I mean a reference ... or `std::reference_wrapper`? Or maybe a smart pointer. But probably `std::string_view` if the object is a string. And sometimes an iterator if you're pointing to anything in a container. Or maybe something completely different.
+
+Confused? Maybe not. Maybe you are experienced and know what to choose. But did you always choose correctly? This talk will provide comprehensive guidelines.
+
+We'll answer questions like:
+
+* When should I use a reference, when a pointer, when something different?
+* If references are non-null pointers, what's the point of `gsl::non_null<T*>` to create a non-null pointer?
+* Do I need `std::optional<T&>`? Or is it just a pointer?
+* What the heck is {cpp}17's `std::byte*` and when is it useful?
+* Is there still a need for `void*`?
+
+In the end you'll know exactly when to use which pointer-like type and why.
+
+
+[[XKotlinNativeEmbracingexistingecosystems]]
+== Kotlin/Native – Embracing existing ecosystems
+=== link:presenters.html#XHadiHariri[Hadi Hariri]
+
+Kotlin is a language that has been around on the JVM for a number of years, and over time has gained
+popularity. Its adoption by Android developers has given way for Google to announce official support for the
+language. But Kotlin goes beyond the JVM and Android. It also targets JavaScript and Native. The latter
+opens the door up to multiple platforms including iOS, macOS, Windows, and Linux.
+
+Of course, when talking native, the de facto language is C. It’s widely used, known by all and an industry
+standard. What can Kotlin possibly bring to the table that might entice someone to use it? In this talk
+we’re going to take a look at Kotlin and see why its focus on embracing existing platforms and providing
+smooth interoperability, along with the conciseness and readability of the language can lead to an
+attractive option for those developing native applications.
+
+
+[[XLinuxUserKernelABItheoftensurprisingrealitiesofhowCandCprogramsreallytalktotheOS]]
+== Linux User/Kernel ABI: the often surprising realities of how C and {cpp} programs really talk to the OS
+=== link:presenters.html#XGregLaw[Greg Law]
+
+All programs need to interact with the wider system in order to do useful work. C and {cpp} programmers typically write to the C library. It provides a mapping onto the OS that is a not-quite-perfect model of the OS underneath, and surprising behaviours can result. To be an expert programmer it is important to understand the ABI you are really programming to, for such times as you find yourself debugging via strace or without source code, fine grained profiling and optimisation, writing intercept libraries, etc.
+
+There are many gotchas. This talk covers how system calls are really implemented (int 0x80, sysenter, the vdso and the vsyscall page, and how return codes are translated into errno); how signal handlers really work (including the surprising syscall restart mechanism); how pthreads map onto OS primitives; the finer details of ptrace (the mechanism on top of which strace and gdb are built); and some interesting and surprising results when the subtleties of these various mechanism combine. Some of the other subtleties covered include what it means when things are in an uninterruptible sleep, and very useful info that can be gathered from the /proc filesystem.
+
+
+[[XMockingFramworksconsideredharmful]]
+== Mocking Framworks considered, harmful?!
+=== link:presenters.html#XPeterSommerlad[Peter Sommerlad]
+
+Software development without test automation can no longer be considered professional.
+However, you might have existing code bases or want to rely on external libraries that may make writing effective and fast unit tests hard or even near to impossible. A typical work-around for these situations is to introduce test stubs for such external dependencies to make your code testable.
+
+Some propose to use mocking frameworks, such as GoogleMock, together with unit testing frameworks to ease the specification of the replacement objects. These mocking frameworks often come with their own domain-specific language (DSL) to describe the behavior and expected usage of the mock object. In addition to a learning curve, the DSLs often do not help much, when things do not work. The current lack of standardized reflection in addition requires macro trickery making fixing problems even harder. A second issue, is that existing code often must be prepared to suite the mocking frameworks interception mechanism to allow to inject the mock objects.
+
+Last but not least test-driven-development (TDD) together with the use of a mocking framework can lead to high coupling, that TDD usually strives to reduce. The latter fact was described in Gerard Meszaros seminal work "XUnit Test Patterns" but as what often happens with the fine print or Pattern's liabilities, ignored by many.
+
+
+This talk demonstrates "classical" mocking frameworks, shows the problems and demonstrates how Cevelop's Mockator approach can help refactoring existing code to get it under test and how a very simple plain {cpp} solution can be used instead of complicated mocking framework for unit tests with dependent code replaced by test stubs or mocks.
+
+Outline:
+* Introduction
+** Fowler's Whisky Warehouse - classic example for Mocking Frameworks in {cpp}
+* Feathers' Seams: Dependency Injection 
+** Refactoring to Object Seams
+** Refactoring to Template Seams
+** Linker Seams
+** Preprocessor Seams as a last resort
+* Problem with "classic" Mocking Frameworks
+* Simpler Mocking with Mockator
+* Why and when you should not Mock
+
+
+[[XMonolithicDelivery]]
+== Monolithic Delivery
+=== link:presenters.html#XChrisOldwood[Chris Oldwood]
+
+When we hear the term "monolithic" we instantly think of architecture, but when was the last time you delivered an application on a mainframe or home computer? We've been using the term "monolithic architecture" as a pejorative for years but the real constraint is often not the architecture itself but the tight coupling in the delivery mechanism. What we have really been suffering from is "monolithic delivery". Even micro-services, the current darling of the software architecture world and answer to the monolith, is equally susceptible to tight coupling in the wrong hands.
+
+This session looks at the relationship between software design and delivery, and asks if the modern monolith is just misunderstood? In our rush to embrace the new world of micro-services are we prematurely optimising the wrong constraints?
+
+
+[[XNothingisbetterthancopyormove]]
+== Nothing is better than copy or move
+=== link:presenters.html#XRogerOrr[Roger Orr]
+
+{cpp}11 introduced 'move semantics' to facilitate transferring the contents of one object to another more efficiently than creating a copy and then erasing the original.
+This is particularly focussed on optimising the performance of temporary objects, such as when passing them into or out of a function call.
+
+However, in all the discussions about copying and moving it is easy to forget that not creating an object in the first place may be even more efficient. This can be something done by design choice, or an optimisation applied during compilation.
+For example, introduction of a temporary object by copying can be removed; this is is called 'copy elision' in {cpp} and has been permitted in the language for many years.
+
+{cpp}17 adds some additional specification around the creation of temporary variables with the phrase 'temporary materialization'.
+
+This presentation will look at some 'worked examples' of how this behaves in practice, and some things to be aware of.
+
+
+[[XParallelDesignPatternsandStreamParallelism]]
+== Parallel Design Patterns and Stream Parallelism
+=== link:presenters.html#XJDanielGarcia[J. Daniel Garcia]
+
+Parallel design patterns (also referred as skeletons) allow to express computations in terms of well known patterns and have allowed to have a common vocabulary (e.g. reduce, map/reduce, stencil, ...).
+
+In this talk I will present GrPPI (Generic and reusable Parallel Patterns Interface), an experimental library developed at UC3M for expressing parallelism through patterns.
+
+The talk will focus specially in stream parallelism. A model of computation where items are processed in a pipelined mode and which is suitable for a number of applications where flow of data need to be processed (examples range from video processing to tweet sentiment analysis). I will also highlight the composability property of streaming patterns which allows using them as building blocks to express complex computations.
+
+One of the design principles of GrPPI is its support of multiple back-ends. It currently supports sequential, OpenMP, IntelTBB, and plain threads (ISO {cpp} threads). More backends are on the way (e.g. Thrust or SYCL).
+
+GrPPI is open source and available at github (https://github.com/arcosuc3m/grppi).
+
+
+[[XPlayingwithProjections]]
+== Playing with Projections
+=== link:presenters.html#XMichelGrootjans[Michel Grootjans]
+
+In this session, you will be working for an online Quiz Platform. Based on the full event history of the past years, you will have to answer to business questions, like: how many players registered in the previous months, did our last ad campaign have any real impact, are we targeted by spammers, what kind of new campaigns should we launch? To solve these problems, you will need to transform an event stream to a structure, a projection, that can answer these questions.
+
+This is a hands-on session where you will be coding. You will be implementing projections based on an event stream. Don’t forget to bring your laptop or be prepared to pair with someone else. This is not an advanced workshop, so everyone can progress at their own pace, but you do have to be able to write code (if you can’t code, but you find a coder to pair with, that’s of course fine)!
+
+Clients are provided in several languages so you can start answering the business questions very swiftly. If you’d want to try this in a technology stack that we haven’t provided, just make sure you are able to read from a JSON file.
+
+
+[[XProceduralProgrammingItsBackItNeverWentAway]]
+== Procedural Programming: It's Back? It Never Went Away
+=== link:presenters.html#XKevlinHenney[Kevlin Henney]
+
+When programmers describe code as 'procedural', it's generally not meant as a compliment. There is a belief that we have collectively moved pass such thinking and onto better paradigms. But a paradigm is no more than a pattern language, a family of solutions fit for a context. Change the kind of problem you are solving and you may find a different solution makes sense — even, in these days where pure functions battle it out with classy objects, procedural programming.
+
+This talk takes a look at some of the past, present and future of procedural programming, looking at how there's more to it than many first assume, how it has informed and continues to influence language design and how it relates to other paradigms, such as functional and OO.
+
+
+[[XPythoncppIntegrationwithpybind11]]
+== Python/{cpp} Integration with pybind11
+=== link:presenters.html#XAustinBingham[Austin Bingham]
+
+Python and {cpp} are both popular languages that each bring a lot to the table.
+The languages also complement one another well: Python is high-level, dynamic,
+and easy to use while {cpp} is at-the-metal, static, and (in)famously tricky.
+There are times when there are real advantages to combining these disparate
+natures, and Python’s C API provides a strong interface for doing just that.
+Pybind11 is a {cpp} library that builds upon and improves Python’s C API to give
+users a simpler, more intuitive, and safer means to integrate Python and {cpp}.
+
+In this workshop you’ll learn how to use
+link:https://github.com/pybind/pybind11[pybind11] to effectively bridge the
+Python/{cpp} boundary. We’ll start by briefly looking at the fundamentals of the
+Python C API since that defines the “ground rules”; this includes things like
+reference counting, the basic object model, and so forth. We’ll then take a look
+at the pybind11 API and show how it provides the same functionality as the
+underlying C API, but does so in a way that doesn’t obscure the real semantics
+of the Python language.
+
+*This is a hands-on workshop where you’ll be doing programming, so bring a
+laptop*. You can work alone or in a group, but be prepared to write some code.
+
+Specific topics in this talk will include:
+
+- Exposing classes across the language boundary
+- Proper exception handling techniques
+- Module initialization
+- Packaging and code structure
+- Debugging and profiling
+- Negotiating the very different type system
+- Compilation and linking requirements
+
+We’ll look at using pybind11 for both extending Python (using {cpp} code in
+Python) and embedding it (using Python code from {cpp}.) Audience members will
+learn enough to do fairly sophisticated Python/{cpp} integration right away,
+they’ll see how easy it is to use Python rather than “greenspunning” their own
+language, and they’ll get the orientation they need in order to learn the rest
+of what there is to know.
+
+At the end we’ll look at a specific case study in which pybind11 was used to
+improve the performance of some Python functionality by a factor of 10. This
+example is useful not only because it shows how we can play to the strengths of
+{cpp} and Python, but it shows how we need to think about the “inter-language
+barrier” to do so harmoniously.
+
+Participants should have experience with {cpp} and Python, though they don’t
+need to be experts in either. If they work in groups, it’s sufficient that the
+group -- not all individuals -- has experience in both languages.
+
+
+[[XReadandwriteconsideredharmful]]
+== Read and write considered harmful
+=== link:presenters.html#XHubertMatthews[Hubert Matthews]
+
+We often think of reading and writing data as two aspects of the same phenomenon.  They are, however, quite different animals and lumping them together can lead to sub-optimal systems or the inability to see the larger picture.  This talk explores these differences across a wide range of topics - from high-level architecture to low-level concurrency, from REST APIs to functional programming, from security to performance and correctness - and suggests some other approaches that offer more fruitful design insights.
+
+
+[[XRuntimePolymorphismBacktotheBasics]]
+== Runtime Polymorphism: Back to the Basics
+=== link:presenters.html#XLouisDionne[Louis Dionne]
+
+{cpp} solves the problem of runtime polymorphism in a very specific way. It does so through inheritance, by having all classes that will be used polymorphically inherit from the same base class, and then using a table of function pointers (the virtual table) to perform dynamic dispatch when a method is called. Polymorphic objects are then accessed through pointers to their base class, which encourages storing objects on the heap and accessing them via pointers. This is both inconvenient and inefficient when compared to traditional value semantics. As Sean Parent said: Inheritance is the base class of evil. 
+
+It turns out that this is only one of many possible designs, each of which has different tradeoffs and characteristics. This talk will explore the design space for runtime polymorphism in {cpp}, and in particular will introduce a policy-based approach to solving the problem. We will see how this approach enables runtime polymorphism with stack-allocated storage, heap-allocated storage, shared storage, no storage at all (reference semantics), and more. We will also see how we can get fine-grained control over the dispatch mechanism to beat the performance of classic virtual tables in some cases. The examples will be based on a real implementation in the Dyno library [1], but the principles are independent from the library. 
+
+At the end of the talk, the audience will walk out with a clear understanding of the different ways of implementing runtime polymorphism, their tradeoffs, and with guidelines on when to use one implementation or another. 
+
+[1]: https://github.com/ldionne/dyno
+
+
+[[XSchemeLispFeeltheCool]]
+== Scheme Lisp: Feel the Cool
+=== link:presenters.html#XAndyBalaam[Andy Balaam]
+
+It has long been known that the perfect programming language was designed in the 1970s: Scheme is that language, and in this session we will discover what makes it so beautiful, and maybe even briefly touch on some of the things that make it terrible.
+
+We'll look at the fundamental building blocks of Lisp: lists and functions (which are really the same thing), the way we write code using recursion, and some more advanced features as time allows.
+
+We'll try to learn enough to understand how Lisp has influenced the languages more commonly used today, and to help us write better code in those languages.
+
+
+[[XScriptingGit]]
+== Scripting Git
+=== link:presenters.html#XCharlesBailey[Charles Bailey]
+
+Git is the most popular version control system in use today; it is highly flexible and supports many different workflows. One of its strengths is its openness to scripting. This talk looks at the basic principles that support best practice for scripting Git and then looks at two areas of practical application of Git scripting.
+
+## Introduction
+
+First we explore the options for extending and automating Git, both scripting directly against the command line interface and using an API or a library such as libgit2 or one of the many bindings available for various scripting languages.
+
+Next we look at the difference between "porcelain" commands, those targeted at interactive use by humans, and "plumbing" commands, lower level commands with stable interfaces designed for scripting. We examine the potential pitfalls of scripting against "porcelain" and how to achieve the effects of common "porcelain" commands by directly connecting "plumbing" together.
+
+## Finding regressions - automatic bisect
+
+`git bisect` is a powerful tool for finding regressions but can take a significant time if driven manually. We look at how to automate `git bisect` and how to get the optimal result from bisect even when you have a history which includes challenges such as commits which don't compile or which have other conflicting known regressions that hinder direct testing of the regression under test.
+
+## Continuous integration and automating merges
+
+The need to automate merges can be driven from a number of different aims. Continuous integration - the automated testing of proposed changes with an integration branch - is one obvious example.
+
+Repositories with many active contributors can experience contention at the point of pushing to the integration branch. In traditional workflows, a developer needs to fetch the current version of the integration branch to merge locally before being able to push to the integration branch. This starts to break down when there are many pushes every minute and running any sort of test on the merged commit before pushing becomes impractical. Handing off the merging of developer branches to an automated central process is one solution.
+
+We look at how merges can be automated and at the error handling that is needed to cope when conflicts happen.
+
+
+[[XSimplicitynotjustforbeginners]]
+== Simplicity: not just for beginners
+=== link:presenters.html#XKateGregory[Kate Gregory]
+
+Many people say that simple code is better code, but fewer put it into practice. In this talk I’ll spend a little time on why simpler is better, and why we resist simplicity. Then I’ll provide some specific approaches that are likely to make your code simpler, and discuss what you need to know and do in order to consistently write simpler code and reap the benefits of that simplicity. Code samples will be in {cpp} and some material will be {cpp}-specific.
+
+
+[[XSimplytheBestOptimisingwithanEvolutionaryComputingFramework]]
+== Simply the Best: Optimising with an Evolutionary Computing Framework
+=== link:presenters.html#XFrancesBuontempo[Frances Buontempo], link:presenters.html#XChristopherSimons[Christopher Simons]
+
+Inspired by the biological process of evolution in nature, evolutionary algorithms have been widely used for optimization problems, i.e. searching for the ‘best’ solution(s) to a problem from a space of possibilities. This highly interactive programming workshop is aimed at programmers with reasonable competency in Java who wish to better understand evolutionary algorithms, and implement them using a framework. 
+
+The workshop begins with a brief introduction on evolutionary algorithms and the many freely available frameworks for optimization with evolutionary computing. Next, taking the open source Java Class Library for Evolutionary Computing (JCLEC) (http://jclec.sourceforge.net), workshop participants are encouraged to program with the framework to address three optimization challenges such as: 
+(i)	‘OneMax’, a ‘hello world’-type example for evolutionary algorithms, 
+(ii)	‘how to program you way out of a paper bag’, and 
+(iii)	‘travelling salesman problem’ (or TSP). TSP is like a kata for Machine Learning. TSP-type problems tend to crop up quite a lot…
+
+By the end of the workshop, participants will have gained a practical understanding of the important components of evolutionary algorithms (e.g. solution representations, fitness measures, diversity preservation operators), and know how implement the components via a framework. Some nice fun ‘certificates’ can be issued to participants programming their way out of a paper bag. 
+
+Participants are strongly encouraged to download and install the JCLEC framework before attending this programming workshop, and bring their own laptop with a Java development environment installed. 
+
+Chris and Frances are grateful to Aurora Ramirez of the Knowledge Discovery and Intelligent Systems (KDIS) research group at the University of Cordoba, Spain, for her insight into the JCLEC framework.
+
+
+[[XSoftwaredevelopmentlearningtowalkagain]]
+== Software development – learning to walk again
+=== link:presenters.html#XSebRose[Seb Rose]
+
+Software development seems to advance at an ever increasing pace.  However, lurking under the surface of
+relentless progress, I believe there is a rich strata of continuity. In this session we will explore these
+foundational aspects of our trade - informally and illustrated by some pretty pictures.
+
+The first article I wrote for an ACCU journal was in 2003 (https://accu.org/index.php/articles/363) where I
+drew an awkward analogy between software projects and building a shed. Over the years, I’ve found that I
+have a penchant for analogies and this session will continue in that vein. Don’t worry, though, I’m not
+going to bore you with pictures of building sites or aphorisms from lean manufacturing.
+
+Instead, I’m going to take you on a gentle walk on some mountainous paths in the south of France. There’ll
+be red wine and unit testing; oak forests and scope creep; deep river gorges and CI pipelines. I’ll ask you
+to walk with me and take a close look at the concepts that underpin our profession.
+
+“We must learn to walk before we can run” is an age-old adage. We all learned to walk decades ago. Many of
+us learnt how to develop software shortly thereafter. However, just as running is not simply walking faster,
+neither is better software development simply working with the latest shiny tools. By slowing down,
+observing our behaviour, considering alternatives, and deliberately practicing different approaches we can
+re-learn how to develop software. Or confirm that how we’re doing it now is just fine.
+
+As long-time ACCU conference chair, Jon Jagger, reminds us in the FAQ of the wonderful Cyber-Dojo: “Stop
+trying to go faster; start trying to go slower. Don’t think about finishing; think about improving. Think
+about practising.”
+
+
+[[XSwiftDrivenDevelopment]]
+== Swift Driven Development
+=== link:presenters.html#XPhilNash[Phil Nash]
+
+There are always idiosyncrasies to consider when adopting TDD in a specific language and eco-system. Often there are opportunities we should identify and embrace in order to get the most out of it - sometimes taking things to a new level.
+
+This is the case in Swift. As a language, as well as the tooling around it, there are features that we can take advantage of to test drive to the max!
+
+This session will deconstruct TDD to see what, of it's essence, we can capture in a different, even more productive, way in Swift, and run through a live demo of how this all fits together.
+
+
+[[XTalesofCthe6502andtheBBCwithaddedpython]]
+== Tales of C, the 6502 and the BBC (with added python)
+=== link:presenters.html#XBenjaminMisell[Benjamin Misell ]
+
+Any of you from the 80’s will remember the BBC Micro. Well I got one about half a year ago and have been fascinated by it ever since. The 8-bit 2MHz limitations are part of the joy of it.
+
+Ever since I learnt it had an assembler I’ve been learning assembly and one day I just thought “Let’s write a C compiler for this” (bad idea), but I went with it and that’s what this talk is about my journey and findings along the way of writing a C compiler in python.
+
+
+[[XTheBadlandsofCProfessionalGameDevelopment]]
+== The Badlands of {cpp}: Professional Game Development
+=== link:presenters.html#XValentinGalea[Valentin Galea]
+
+A lighthearted yet technical talk about the way {cpp} is used (and misused) in video games programming.
+
+A survey detailing how game developers approach everything {cpp}: from compilation to usage of STL, or extending the language with reflection systems. A showcase of some good things, some bad, while portraying the challenging demands of games programming.
+
+The target audience is everyone interested or aspiring in professional game development, although veterans should also find something interesting.
+
+
+[[XTheIncredibleShrinkingStandard]]
+== The Incredible Shrinking Standard
+=== link:presenters.html#XAlisdairMeredith[Alisdair Meredith]
+
+With each iteration the ISO {cpp} standard grows and sprouts new features. However, in order to avoid accumulating a terminal case of technical debt, a smaller subset of features are deprecated and eventually retired along the way.
+
+This talk will look at the evolution of  {cpp} from {cpp}98 to {cpp}17, highlighting how the removal of features has impacted the language, and nudged users towards towards an emerging notion of best practices.
+
+
+[[XTheShapeofaProgram]]
+== The Shape of a Program
+=== link:presenters.html#XLisaLippincott[Lisa Lippincott]
+
+When we talk about programs, we often use metaphors of space: we speak of connection and separation, of
+paths and boundaries, of areas and lengths. We clearly have some intuition that sees a program as a shape.
+
+In this talk, I will take this intuition seriously, applying topology, the fundamental mathematics of
+space. I will show how a program can be mathematically described as a shape ― a bitopological manifold ―
+arranging actions and capabilities in a frame of time, space, causality, and possibility.
+
+No previous knowledge of topology will be assumed.
+
+
+[[XThefantasticfourcodingpatternsofContinuousDelivery]]
+== The fantastic four coding patterns of Continuous Delivery
+=== link:presenters.html#XLucaMinudel[Luca Minudel]
+
+When I joined Scoured Ferrari F1 racing team in 2006, I was asked to
+increase the speed of software development while at the same time increase
+the reliability and reduce the number of bugs.
+
+That sounded like a paradoxical puzzle to me. And why didn’t I know the
+solution already, given that I was hired as an expert?
+
+This challenge, in a high pressure fast paced environment, led me to the
+finding of four CD coding patterns, two that are known nowadays, and two
+that are new.
+
+In this session, I will tell you the story of this discovery and the
+learning, and I will introduce you to the four patterns that enabled us to
+increase the speed of software development without the need to trade speed
+for quality or safety.
+
+
+
+[[XThemightychallengeofmodellinggeopoliticalbehaviourinTotalWarhowAIcandeliverentertainment]]
+== The mighty challenge of modelling geopolitical behaviour in Total War: how AI can deliver entertainment.
+=== link:presenters.html#XDuyguCakmak[Duygu Cakmak], link:presenters.html#XGuyDavidson[Guy Davidson]
+
+Grand strategy games such as the Total War series create a very complex execution environment with a large number of objects. This places significant time and memory restrictions on the game AI. The decisions that the AI needs to make are highly dependent upon the current state of the world, requiring a deep and careful analysis of these objects.
+
+The resulting search space is huge. It needs to be investigated with limited memory and time. Therefore, we need to be very careful about what algorithms we select to tackle this space, and we need to incorporate profiling and optimization techniques to ensure the game AI is sufficiently performant.
+
+In this talk we'll discuss the memory and time constraints of the campaign side of the Total War series, how we approach them and the AI techniques that we employ to perform under these limitations.
+
+We will explain how we use Monte Carlo Tree Search with restricted tree building, branching and pruning for our game AI.
+
+We will also give insights into the profiling techniques we use and how they contribute to increasing the performance of the game AI.
+
+
+[[XTheongoingdesignandevolutionofcyberdojo]]
+== The ongoing design and evolution of cyber-dojo
+=== link:presenters.html#XJonJagger[Jon Jagger]
+
+In this talk I provide an update on its further evolution, following the same format as 2017. Details to follow (I cannot provide details of the evolution yet as a lot of it will be happening between now and the conference!)
+
+
+[[XThereIsABetterFuture]]
+== There Is A Better Future
+=== link:presenters.html#XFelixPetriconi[Felix Petriconi]
+
+In this session we’ll examine many ways that _std::future_ is broken and how an alternative, _stlab::future_ (designed by Sean Parent and myself), addresses these issues and also provides features beyond futures and continuations, for example support for modelling graphs of single threaded tasks.
+ 
+The second part of this presentation will cover *Communicating Sequential Processes* (CSP) channels which are also offered by the stlab library. These channels can be used to create graphs of n:m input/output tasks all running in parallel.
+ 
+A basic understanding of threads, mutex and locks will be assumed, but familiarity with functional programming, while helpful, is not required to understand the content of this session.
+
+
+[[XThese10tricksthatonlylibraryimplementorsknow]]
+== These 10 tricks that only library implementors know!
+=== link:presenters.html#XJonathanWakeley[Jonathan Wakeley], link:presenters.html#XMarshallClow[Marshall Clow]
+
+{cpp} standard library implementations contain many subtle coding idioms and tricks. They implement things like the "Empty Base Class Optimization", classes with deleted copy/move semantics, using allocators to manage objects, exception safety, multiple implementations of single features with dispatching to the correct implementation determined by the input types.
+
+In this session, Marshall and Jonathan will cover these and several other tips for writing robust generic code.
+
+
+[[XThreeyearsofRustAlookaround]]
+== Three years of Rust - A look around
+=== link:presenters.html#XFlorianGilcher[Florian Gilcher]
+
+In only three years, Rust came from a long way from being an interesting new research language to a productive language used by industry players such as Dropbox, Facebook and others.
+
+Shortly before its third birthday, I'd like to take the chance to give an overview of the language. What do we have, what's missing, what's coming and what changed in the last three years?
+
+A short introduction into the hallmark features of the language is included.
+
+This talk will give a useful overview both to curious non-practitioners as well as seasoned Rustaceans.
+
+
+[[XTurtlesHillclimbingHammersPaperbags]]
+== Turtles! Hill climbing! Hammers! Paper bags!
+=== link:presenters.html#XFrancesBuontempo[Frances Buontempo]
+
+Previously, Frances Buontempo has demonstrated a variety of ways to program yourself out of a paper bag using machine learning techniques.
+This begged the question: how do you program your way into a paper bag?
+This talk will show you how, beginning with rectangular paper bags and moving on to advanced topics of crumpled paper bags.
+If you walk along a line, say the edge of a paper bag, how can you tell you're as far down (or up) as possible?
+Using turtle graphics, you can make a turtle walk a line or even hill climb.
+He will have to try the whole edge to decide when to stop.
+If he follows the steepest gradient, he may end up in a small dip and miss a lower spot, however using the gradient is quicker than trying everywhere.
+You can then try advanced topics including stochastic gradient descent (do something random) or simulated annealing (hitting it with a hammer).
+These techniques underpin many areas including neural networks.
+There won't be time to give a full talk or tutorial on neural networks, but you  will go away prepared to follow a variety of neural network, deep learning and other machine learning talks and demos and even try them yourself.
+This topic isn't as hard as people make sound. 
+For the curious, for experts who want a different slant on what they know and for people who want to watch the turtles move.
+
+
+[[XTypesafeCLOL]]
+== Type safe {cpp} – LOL! :-)
+=== link:presenters.html#XBjörnFahller[Björn Fahller]
+
+So called "strong types", genuinely type safe alternatives to "typedef:s" are often seen as a way to prevent bugs, but they can also be used to improve clarity in your code, and even increase performance. It is underappreciated how strong the type safety guarantees in {cpp} are, because it takes knowledge and a bit of discipline to make use of it.
+
+In this session, I give motivating examples for why strong types are good, and present some of the techniques for creating them. The simplest techniques requires no library support, but I will also show some more sophisticated solutions from open source libraries available on github. We will go through what happens with both production code and test code when you use them, and also discuss the pros and cons of the different approaches.
+
+
+[[XUptoSpeedSuggestionstowardbetteronboardingdocumentation]]
+== Up to Speed - Suggestions toward better on-boarding documentation
+=== link:presenters.html#XSamathyBarratt[Samathy Barratt]
+
+Documenting your code is one thing, but producing useful reading to help a new employee get up to speed with your codebase(s), development environment and development practices is entirely another.
+
+This talk aims to help seasoned developers think like a new graduate and offers a practical discussion on improving the on-boarding experience of new Software Engineering employees through producing great documentation.
+
+You may know how to build your code, we'll be looking at how you make sure the new developer gets up to speed without guessing.
+
+
+[[XWhatsnewaboutfakenews]]
+== What's new about fake news?
+=== link:presenters.html#XGailOllis[Gail Ollis]
+
+A quick overview of some ways in which technology  interacts with human psychology to create the conditions for misinformation to flourish. But there's some good news too.
+
+
+[[XWouldreserveupgradedowngradeMethodsImprovestdshared_mutex]]
+== Would 'reserve'/'upgrade'/'downgrade' Methods Improve 'std::shared_mutex'?
+=== link:presenters.html#XJeffreyMendelsohn[Jeffrey Mendelsohn]
+
+In theory, there are methods that can be added to 'std::shared_mutex' to improve the lock's performance in common usage scenarios.  For instance, the process of obtaining an exclusive lock can be split into two parts:
+ 1) obtain a shared lock now with the added guarantee to be the only possible exclusive owner, and
+ 2) waiting for all other shared lock owners to release their locks.
+In other words, 'reserve' the write lock and 'upgrade' the reservation to the write lock.  This separation allows the reserving thread to do read operations while waiting for other readers to release their shared locks.  Conversely, there are usage patterns where atomically releasing the write lock and obtaining a read lock, to allow other readers to share the lock, would be valuable.
+
+Is complicating the 'std::shared_mutex' interface with these items worthwhile?  How much of a performance increase is reasonably expected in the scenarios where these methods are desired?
+
+This talk starts with a review of the {cpp}17 specification for 'std::shared_mutex'.  Then, a simple competitive implementation for 'std::shared_mutex', that supports these methods, is presented.  Finally, benchmark results are analyzed with regard to a three dimensional domain: number of concurrent lock accesses, percentage of read accesses, and duration of lock hold time.
+
+Due to time constraints, all presented benchmark results are from a Linux system.
+
+
+[[XZeroallocationandnotypeerasurefutures]]
+== Zero-allocation & no type erasure futures
+=== link:presenters.html#XVittorioRomeo[Vittorio Romeo]
+
+The most popular implementations of *futures*, including `std::future`, use _dynamic allocation_ and _type erasure_ in order to allow composition of futures into fork/join asynchronous computation graphs. While this overhead is unavoidable when the control flow of the asynchronous graph depends on run-time conditions, it is unnecessary when the _"shape"_ of the computation graph is known at compile-time.
+
+* Is it possible to implement composable futures without dynamic allocation and type erasure?
+
+* Is it worth it?
+
+After a brief overview of the upcoming `std::experimental::future` additions focused on composability, this talk answers these questions showing the train of thought behind the design and implementation of an experimental future library, *step-by-step*. Running time, compilation time, and generated assembly benchmarks/comparisons will be provided and analyzed.
+
+The code covered in the talk will make use of C{plus}{plus}17 language and library features, that will be explained throughout the presentation. The intended audience for the talk should be familiar with most C{plus}{plus}11/14 language features and with `std::future` _(or `boost::future`)_. Knowledge of {cpp}17 features is helpful but not required.
+

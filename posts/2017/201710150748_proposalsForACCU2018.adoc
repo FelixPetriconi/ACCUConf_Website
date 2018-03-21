@@ -1,0 +1,41 @@
+////
+.. title: Proposals for ACCU 2018
+.. date: 2017-10-15T07:48+01:00
+.. type: text
+////
+
+Tomorrow (2017-10-16) at, most likely, some time around 09:01+01:00 the call for proposals for ACCU 2018
+sessions will open. The call will close at 2017-11-17T23:59+00:00.
+
+The conference comprises:
+
+* 90 minute sessions, either:
+** 60 minute presentation with 30 minutes questions and answersfootnote:[Some people choose to structure this
+   as 90 minutes of interactive presentation instead of 60 minutes presentation and 30 minutes  Q&A, and
+   that is fine – the point is to have interaction and dialogue. A 90 minutes one-way presentation without
+   interaction is not really what we want.].
+** a workshopfootnote:[A workshop is all about people doing things.].
+* 180 minute workshopsfootnote:[For the situation when 90 minutes is just too short for the activity.].
+* 20 minute sessions, 15 minute presentation and 5 minutes questions and answers.
+
+There are also lightning talk sessions, but, as ever, these are organised at the conference: this call is for
+proposals for just the scheduled sessions. This call is though also for the:
+
+* full day (6 hour with breaks) pre-conference workshops
+
+Although not part of the conference per se, they are separate pay-for things, we manage them as part of the
+overall event.
+
+There is a "lead presenter deal" for lead presenters of 90 (and 180) minute sessions. This comprises a free
+conference ticket, two nights accommodation at the conference hotel, remuneration of travel expenses if
+needed, and a free ticket to the conference dinner. Sadly it is not possible to provide a "presenter deal"
+for the 20 minute presentations. Lead presenters of the full-day pre-conference workshops get a free
+conference ticket, two nights accommodation at the conference hotel, reimbursement of travel expenses if
+needed, and an honorarium.
+
+We anticipate getting submissions from all the usual suspects, and that is good: an ACCU without the usual
+suspects would be suspect.
+
+However we really want to see lots of sessions from people not in the set of usual suspects as well. If any
+"not a usual suspect", or indeed any "usual suspect", wants to discuss an idea before making a proposal
+please email the conference chair conference@accu.org.

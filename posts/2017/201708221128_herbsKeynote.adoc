@@ -1,0 +1,36 @@
+////
+.. title: Herb's Keynote
+.. date: 2017-08-22T11:28+01:00
+.. type: text
+////
+
+When we first asked Herb Sutter to come back to ACCU and do a keynote, he agreed, but wasn't sure which of
+many things he would talk about. We ran with a meta-title and some meta-blurb so as to allow for any
+possibility. A week before he was due to be on stage, Herb emailed us with the title and blurb for his
+keynote, which by now had been scheduled as the closing event for ACCU 2017. We quickly changed the
+meta-title and meta-blurb to the real title
+https://conference.accu.org/stories/2017/sessions.html#XThoughtsonMetaclasses[Thoughts on Metaclasses] and
+associated blurb, which still seemed a bit meta, but quite classy. He also made what seemed at the time a
+strange request. He was happy for the session to be videoed, but wanted an embargo on publishing for a
+while.
+
+Anyone who was at the session will, I suspect, agree that is was one of the most exciting session on C++ in
+ACCU history – the energy of the audience during the session was palpable. This was borne out by the
+questions going on for a good 80 minutes after the presentation.
+
+Despite lots of requests for immediate publication of the video of this by now world famous ACCU session,
+the organisers stood firm on their commitment to the embargo. Herb wanted to make a presentation to the full
+C++ committee before the ACCU video was published; it was important for the ACCU organisers to fulfil their
+commitment to Herb. The embargo was lifted 2017-07-26 with Herb publishing his
+https://herbsutter.com/2017/07/26/metaclasses-thoughts-on-generative-c/[blog post] about all this. The ACCU
+video of the session was release a few minutes after the blog post was published and is
+https://www.youtube.com/watch?v=6nsyX37nsRs[here]. For once in the history of the Internet, the comments are
+actually worth reading.
+
+The ACCU conference has a https://www.youtube.com/channel/UCJhay24LTpO1s4bIZxuIqKw[You Tube channel] Notice
+the header image is a photo of the opening of Herb's session.
+
+We look forward to getting Herb, and also Bjarne Stroustrup and Andrew Sutton, back to ACCU, to bring more
+new C++ things to us. All keynotes are unique, many are very special (as Herb's ACCU 2017 one was), none are
+reproducible – nor should we try to reproduce per se. The challenge for the committee and organisers is try
+and get another keynote that creates the same audience energy. This is an aim, not a meta-aim.

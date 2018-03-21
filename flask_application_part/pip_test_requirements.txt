@@ -1,4 +1,0 @@
-# The packages required for testing.
-
-pytest
-hypothesis

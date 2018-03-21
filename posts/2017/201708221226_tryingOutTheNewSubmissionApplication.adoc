@@ -1,0 +1,59 @@
+////
+.. title: Trying Out The New Submission Application
+.. date: 2017-08-22T12:26+01:00
+.. type: text
+////
+
+The ACCU 2108 call for session proposals isn't actually open, but it seems wise to try the software out to
+try and make it usable, unlike last year.  Things are still very much under development, this is alpha or
+perhaps beta software at this stage in the general scheme of things.
+
+If you fancy doing a source trial feel free to follow the instructions below.  If you just want to try
+things out, I have set up https://cfp.testconference.accu.org
+as though it were a live call for session proposals. Any comments, criticisms,
+bug reports, etc. please file issues on GitHub
+https://github.com/ACCUConf/ACCUConf_Submission_Web_Application/issues
+
+The source for this Web application is at https://github.com/ACCUConf/ACCUConf_Submission_Web_Application
+please clone the repository in the usual Git/GitHub-ish way. You will need to ensure you have SQLite3 and
+Python3 installed, and then ensure you have the Python packages in pip_runtime_requirements.txt installed. I
+do:
+
+    pip3 install --user --upgrade -r pip_runtime_requirements.txt
+
+If you want to run the tests (and who doesn't :-) you will also need the
+packages in pip_test_requirements.txt.
+
+Running the Python tests:
+
+    pytest tests_cfp
+
+    pytest tests_cfp__selenium
+
+The tests should be green. Running the JavaScript tests requires NPM with
+Mocha. If you have those installed then:
+
+    npm test
+
+should also be green.
+
+To actually run the application, you have to first create a database:
+
+    ./cli.sh db_init
+
+to create accuconf.db. Then:
+
+    ./run_cfp.sh
+
+should set the server going. Navigating to localhost:8000 with a browser
+should get you to the page. The default state should be "closed" so nothing
+interesting happens. To change the state close the server, and create the file
+accuconf_config.py with the line:
+
+    from models.configuration import CallForProposalsOpen as Config
+
+and then start the server.
+
+For any comments, criticisms, bug reports, etc. please file issues on GitHub
+https://github.com/ACCUConf/ACCUConf_Submission_Web_Application/issues Pull
+requests with constructive changes will be most welcome.

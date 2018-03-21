@@ -1,7 +1,0 @@
-# A virtualenv is being used to run the Flask application so use the latest versions from PyPI
-
-Flask
-Flask-Bootstrap
-Flask-Cors
-SQLAlchemy
-Flask_SQLAlchemy

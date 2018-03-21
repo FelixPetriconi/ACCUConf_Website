@@ -1,0 +1,29 @@
+////
+.. title: And So Begins The Process To ACCU 2018
+.. date: 2017-07-04T17:35+01:00
+.. type: text
+////
+
+The observant may have noticed something of a change in the ACCU conference website. We have decided that
+#363e6d (aka Dark Midnight Blue) will be the colour for ACCU 2018. The rationale for this will not be
+revealed now (so as to engender a feeling of suspense) and may, or may not, be revealed sometime in the next
+8 monthsfootnote:[With apologies to the late (, very late) Douglas Adams for the allusion to the style of
+writing in Hitchhiker's Guide to the Galaxy.].
+
+The website has been rearranged to create a clean slate for ACCU 2018, with ACCU 2017 joining ACCU 2016 in
+the "Previous ACCU" drop down menu. I expect various changes to happen to the website over the next few
+months. The source is still a https://github.com/ACCUConf/ACCUConf_Website[Git repository on
+GitHub]. Investigators of this repository will notice that it is now just the source of the static website
+generated using https://getnikola.com[Nikola]. The Web application for submission and review is being
+rewritten and is now separated completed from the main website – avoiding many of the problems people had
+last year. The new "submission Web application" has it's own repository
+https://github.com/ACCUConf/ACCUConf_Submission_Web_Application[here]. Work has only just started on this
+Python3/Flask/SQLAlchemy/SQLite-implemented system, but should
+progress very rapidly. If you want to get involved, please feel free to chip in using the issues, and think
+about possible pull requests.
+
+Although the conference dates are now fixed (Workshop day 2018-04-10, Conference days 2018-04-11/P4D), the
+dates of the call for proposals, etc. are just proposals. Unlikely to change, but they may.
+
+If you know anyone who wants to sponsor the conference, get them to contact mailto:conference@accu.org[The
+Conference Chair] in the first instance.

@@ -1,9 +1,0 @@
-# A virtualenv is used for running the application, all that has to be provided via Debian packages is the
-# virtualenv, Python base install and the Apache WSGI plugin.
-
-python3-venv
-libapache2-mod-wsgi-py3
-
-# All other dependencies should then be checked or installed, including:
-
-# python3

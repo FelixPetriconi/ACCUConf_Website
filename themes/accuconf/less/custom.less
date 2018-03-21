@@ -1,0 +1,112 @@
+// ACCU 2017 was an orange colour
+//@accucolour: #ff5e00; // rgba(255, 94, 0, 1)
+// ACCU 2018 was dark midnight blue
+@accucolour: #363e6d;
+
+
+@padding: 3px;
+@greybackgroundcolour: #eeeeee; // rgba(238, 238, 238, 1);
+
+body {
+    width: 100%;
+}
+
+a {
+    color: @accucolour;
+    font-style: italic;
+}
+
+a:hover {
+    color: @accucolour;
+    font-style: italic;
+}
+
+a:visited {
+    color: @accucolour;
+    font-style: italic;
+}
+
+.dt-published {
+    color: @accucolour;
+    font-style: normal;
+}
+
+.u-url {
+    color: @accucolour;
+    font-style: normal;
+}
+
+.row {
+    width: 100%;
+}
+
+.banner {
+  background-color: @greybackgroundcolour;
+  height: image-height("assets/images/accu2018_369x124.png");
+  width: 100%;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+}
+
+.body-content {
+    margin-left: 15px;
+}
+
+.navbar {
+    border: 0px;
+    border-radius: 0px;
+}
+
+.navbar > * {
+    float: none;
+}
+
+.nav {
+    float: none;
+}
+
+.nav > li {
+    float: none;
+}
+
+.panel {
+    background-color: @greybackgroundcolour;
+}
+
+.sponsor {
+    background-color: @greybackgroundcolour;
+}
+
+.nolist {
+    list-style: none;
+}
+
+.accuconf-menu {
+    background-color: @greybackgroundcolour;
+}
+
+.accuconf-toggle-link {
+    height: 50px;
+}
+
+.hide {
+    display: none;
+}
+
+
+/* Change the link colour in Asciidoc tables. */
+
+table a {
+    color: black;
+}
+
+table a:visited {
+    color: #222222;
+}
+
+
+#footer {
+    foreground-color: #000000;
+    background-color: @greybackgroundcolour;
+}

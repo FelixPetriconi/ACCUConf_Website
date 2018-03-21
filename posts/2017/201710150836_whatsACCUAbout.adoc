@@ -1,0 +1,29 @@
+////
+.. title: What's ACCU About
+.. date: 2017-10-15T08:36+01:00
+.. type: text
+////
+
+The previous post was to let people know about the mechanics of session proposals and their submission. It
+did not though set out the scope of ACCU conference content – hence this post.
+
+ACCU the organisation (https://accu.org) is a membership organisation of software developers, software
+engineers, programmers, coders, choose your preferred label for someone that creates software. The members are
+interested in programming, programming languages, testing, the tools of developing software, the process of
+developing software, and all related things. The tag line for the organisation is _Professionalism in
+Programming_. ACCU produces two journals, CVu and Overload, published every other month.
+
+ACCU the conference is put on by ACCU the organisation, but is open to anyone who wishes to attend, not just
+members of the organisation. Obviously ACCU the organisation hopes that anyone not a member that attends
+ACCU the conference joins ACCU the organisation – and there is a stand at the conference for people to do exactly
+that.
+
+So for content, ACCU the conference is looking for any material that is interesting to people who create
+software. Historically, ACCU has a lot of {cpp} and C content, and is proud of that: ACCU is the foremost
+annual conference for people interested in {cpp} and C, at least in and around the UK. But it is not just a
+{cpp} and C conference, ACCU is about programming in whatever language people are using, with whatever tools
+and processes people are using: D, Chapel, Java, Kotlin, C#, F#, Groovy, Rust, Go, Python, Ruby, Lisp, to
+name just a few programming languages about which there have been sessions at ACCU conferences.
+
+The call for session proposals opens tomorrow, if you have an idea for a session do submit it. If you want
+to chat an idea over with someone before submitting, please email the conference chair conference@accu.org

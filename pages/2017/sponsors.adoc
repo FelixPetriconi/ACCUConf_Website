@@ -1,0 +1,32 @@
+////
+.. title: ACCU 2017 Sponsors
+.. description: The Sponsors and Exhibitors
+.. type: text
+////
+
+This page is dedicated to the sponsors and exhibitors of ACCU 2017. The presence of the exhibitors and the
+contributions of the sponsors is a core component of the conference, and so we have here a permanent record
+of their presence, logos of the moment, and links to the pages that were relevant at the time of the
+conference. (As ever with the Web, links may eventually fail.)
+
+
+image::/assets/images/2017_SponsorLogos/Bloomberg_black.png[Bloomberg, align="center", link=https://www.techatbloomberg.com/]
+
+image::/assets/images/2017_SponsorLogos/Jetbrains_NL.jpg[JetBrains, align="center", width=70%, link=https://www.jetbrains.com/]
+
+image::/assets/images/2017_SponsorLogos/Undo_Master_3x.png[Undo, align="center", width=60%, link=http://undo.io/]
+
+image::/assets/images/2017_SponsorLogos/MosaicLogo.png[Mosaic, align="center", link=http://mosaic.fm/]
+
+image::/assets/images/2017_SponsorLogos/OcadoTechnology.png["Ocado Technology", align="center", link=http://www.ocadotechnology.com/]
+
+image::/assets/images/2017_SponsorLogos/conan_io.svg[Conan, align="center", width=60%, link=https://conan.io/]
+
+image::/assets/images/2017_SponsorLogos/qbs_software_logo.png["QBS Software", align="center", link=http://www.qbssoftware.com/products/Intel_Parallel_Studio_XE/overview/_prodintelparxe]
+
+image::/assets/images/2017_SponsorLogos/riverblade_logo.png[Riverblade, align="center", link=https://www.riverblade.co.uk]
+
+image::/assets/images/2017_SponsorLogos/snsystems.png[SNSystems, align="center", link=http://snsystems.com/]
+
+// Steema did not, it seems, in the end, deliver on their sponsorship.
+// image::/assets/images/2017_SponsorLogos/Steema_logo.png[Steema, align="center", width=40%, link=https://www.steema.com/]

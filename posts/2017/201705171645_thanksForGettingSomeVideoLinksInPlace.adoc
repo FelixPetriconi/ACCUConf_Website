@@ -1,0 +1,13 @@
+////
+.. title: Thanks For Getting Some Video Links In Place
+.. date: 2017-05-17T16:45+01:00
+.. type: text
+////
+
+Huge thanks to Ahto Truu for sending in a pull request updating the ACCU 2017 conference schedule page with
+links to the videos. Not all have been checked, and not all are there as yet. If you find an error, or a
+link not yet in place, please feel free to send in a pull request, or at least an email telling us the
+changes needed.
+
+Thanks again Ahto Truu for getting the "updates after the conference stuff" moving. The pressure is now on
+us to do the slide PDFs!
