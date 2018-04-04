@@ -104,8 +104,8 @@ Björn wrote his first program in 1980. After completing his MSc in CS and Engin
 Occasionally Björn has been seen tinkering with unorthodox software constructs, pondering "what can be done with this?" He lives in Stockholm.
 
 
-[[XCharlesBailey]]
-== Charles Bailey
+[[XCBBailey]]
+== CB Bailey
 
 link:sessions.html#XScriptingGit[Scripting Git]
 
@@ -374,7 +374,7 @@ Jez Higgins is a jobbing programmer so dedicated to the cause of software crafts
 
 link:sessions.html#XCModulesandLargeScaleDevelopment[C++ Modules and Large Scale Development]
 
-TBD, very similar to past, except book WILL be done in 2018!
+John Lakos, author of Large-Scale {cpp} Software Design, serves at Bloomberg LP in New York City as a senior architect and mentor for {cpp} Software Development world-wide.  He is also an active voting member of the {cpp} Standards Committee’s Evolution Working Group. Previously, Dr. Lakos directed the design and development of infrastructure libraries for proprietary analytic financial applications at Bear Stearns. For 12 years prior, Dr. Lakos developed large frameworks and advanced ICCAD applications at Mentor Graphics, for which he holds multiple software patents. His academic credentials include a Ph.D. in Computer Science ('97) and an Sc.D. in Electrical Engineering ('89) from Columbia University. Dr. Lakos received his undergraduate degrees from MIT in Mathematics ('82) and Computer Science ('81). His next book, entitled Large-Scale {cpp}—Volume I: Process and Architecture, is anticipated later this year.
 
 
 [[XJonJagger]]
@@ -391,6 +391,8 @@ I’m a software consultant specializing in practice, process, test driven devel
 == Jon Kalb
 
 link:sessions.html#XCTodayTheBeastisBack[C++ Today: The Beast is Back]
+
+link:sessions.html#XGrilltheCCommittee[Grill the C++ Committee]
 
 Jon Kalb is a freelance {cpp} instructor and chairs {cpp}Now, CppCon, and the Boost Steering Committee. He has been programming in {cpp} for over 25 years and has written {cpp} for Amazon, Apple, Dow Chemical, Intuit, Lotus, Microsoft, Netscape, Sun, and Yahoo!
 
@@ -439,8 +441,8 @@ link:sessions.html#XIjustwantedtopointtosomething[I just wanted to point to some
 Jonathan is a CS student passionate about {cpp}. In his spare time he writes libraries like foonathan/memory which provides memory allocator implementations. He is also working on standardese which is a documentation generator specifically designed for {cpp}. Jonathan tweets at @foonathan and blogs about various {cpp} and library development related topics at foonathan.net.
 
 
-[[XJonathanWakeley]]
-== Jonathan Wakeley
+[[XJonathanWakely]]
+== Jonathan Wakely
 
 link:sessions.html#XThese10tricksthatonlylibraryimplementorsknow[These 10 tricks that only library implementors know!]
 
@@ -617,7 +619,7 @@ He is a member of the BSI {cpp} panel, catchily known as IST/5/-/21, and has rep
 
 link:sessions.html#XBestpracticeswhenaccessingBigDataoranyotherdata[Best practices when accessing Big Data or any other data!]
 
-.Dr Rosemary Francis is an expert in I/O profiling and high-performance computing with a PhD in Computer Architecture from the University of Cambridge. She is a regular speaker at conferences including IEEE and Linux foundation events and sits on the advisory board for the Ideaspace startup accelerator and the Raspberry Pi foundation. Rosemary founded Ellexus, the I/O profiling company, after working in the semiconductor industry. Today Ellexus provides unique application and cluster monitoring tools to commercial and research organisations around the world, helping them to optimise their applications and manage their IT infrastructure. 
+Dr Rosemary Francis is an expert in I/O profiling and high-performance computing with a PhD in Computer Architecture from the University of Cambridge. She is a regular speaker at conferences including IEEE and Linux foundation events and sits on the advisory board for the Ideaspace startup accelerator and the Raspberry Pi foundation. Rosemary founded Ellexus, the I/O profiling company, after working in the semiconductor industry. Today Ellexus provides unique application and cluster monitoring tools to commercial and research organisations around the world, helping them to optimise their applications and manage their IT infrastructure. 
 
 
 [[XSamathyBarratt]]
@@ -671,21 +673,6 @@ He blogs at cucumber.io and tweets as @sebrose.
 link:sessions.html#XMultiCoringandNonBlockinginsteadofMultiThreadingorusingReActorstobuildScalableInteractiveDistributedSystems["Multi-Coring" and "Non-Blocking" instead of "Multi-Threading", or using (Re)Actors to build Scalable Interactive Distributed Systems]
 
 Sergey has 20+ years of software development experience, including 15+ years of experience in architectural positions. Among other things, he was a co-architect of a G20 online stock exchange, and a sole architect of a major online game with 400K+ simultaneous players. He's also known for his articles in CUJ, {cpp} Report, and Overload, as well as for his blog ithare.com; he also spoke at ACCU and CPPCON, and successfully Kickstarted his upcoming 9-volume book "Development & Deployment of Multiplayer Online Games".
-
-
-[[XStephenKelly]]
-== Stephen Kelly
-
-link:sessions.html#XEmbracingModernCMakeLibraryDependenciesandPackages[Embracing Modern CMake – Library Dependencies and Packages]
-
-Stephen Kelly has been working with {cpp} as a Software Engineer for 10 years. After starting out contributing to KDE applications and libraries, he subsequently became focused on the dependencies of KDE. 
-
-This took him on a journey of contributing for many years to Qt and CMake, and integrating the two in a way which was innovative at the time, but seems obvious now.
-
-Stephen eventually progressed further up the stack to follow compiler development more closely via Clang, and {cpp} development via isocpp proposals.
-
-Stephen lives in Dublin, works at Havok and likes running.
-
 
 
 [[XSteveHolden]]

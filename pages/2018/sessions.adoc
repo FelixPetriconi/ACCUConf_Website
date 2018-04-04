@@ -212,7 +212,7 @@ This talk is based, in part, on the book "{cpp} Today: The Beast is Back" publis
 {cpp}17 is out for a year now and at least partially supported by Clang, GCC, and Visual Studio.
 While {cpp} is no revolution and changes the style of programming (as {cpp}11 did),  it is a remarkable collection of many many features both in the core language and the library.
 
-Time to list the best and mopst useful improvements {cpp}17 (in my opinion) provides.
+Time to list the best and most useful improvements {cpp}17 (in my opinion) provides.
 
 
 
@@ -372,17 +372,6 @@ In this presentation we will look at the issues that prevent multithreaded code 
 TBN
 
 
-[[XEmbracingModernCMakeLibraryDependenciesandPackages]]
-== Embracing Modern CMake – Library Dependencies and Packages
-=== link:presenters.html#XStephenKelly[Stephen Kelly]
-
-Improvements in CMake in the last few years have propagated widely into updated guidelines for how to write CMake code, including those delivered at this conference last year.
-
-Once your code is target-centric and making use of transitive usage requirements, what's next? CMake offers a lot more tools to help library developers cater for their users - allowing them to easily create modern packages which can be used as intuitively as first-party code.
-
-This talk focuses on consuming a library written by someone else, considering whether the library is 'CMake aware' or not, and offering a set of guidelines for how to be a 'good citizen' when creating a library or a set of libraries with CMake.
-
-
 [[XFightingthecontrolstragedyandmadnessforpilotsandprogrammers]]
 == Fighting the controls: tragedy and madness for pilots and programmers
 === link:presenters.html#XDanieleProcida[Daniele Procida]
@@ -446,6 +435,15 @@ In the second part of this talk Jonathan introduces a novel implementation
 of this model in the Rust programming language (known as Grease) and
 discusses how this compares to a traditional C implementation.
 
+
+
+[[XGrilltheCCommittee]]
+== Grill the {cpp} Committee
+=== link:presenters.html#XJonKalb[Jon Kalb]
+
+We will assemble a panel of people on the "JTC1/SC22/WG21 - The {cpp} Standards Committee - ISOCPP". There will be a facilitator. Hopefully there will be an audience.
+
+This is an opportunity for people to "grill the committee" and find out what is, maybe, may not be, or isn't in the pipeline for the next {cpp} standard.
 
 
 [[XHCCBringingModernCtoaGPUNearYou]]
@@ -762,7 +760,7 @@ We'll try to learn enough to understand how Lisp has influenced the languages mo
 
 [[XScriptingGit]]
 == Scripting Git
-=== link:presenters.html#XCharlesBailey[Charles Bailey]
+=== link:presenters.html#XCBBailey[CB Bailey]
 
 Git is the most popular version control system in use today; it is highly flexible and supports many different workflows. One of its strengths is its openness to scripting. This talk looks at the basic principles that support best practice for scripting Git and then looks at two areas of practical application of Git scripting.
 
@@ -949,7 +947,7 @@ A basic understanding of threads, mutex and locks will be assumed, but familiari
 
 [[XThese10tricksthatonlylibraryimplementorsknow]]
 == These 10 tricks that only library implementors know!
-=== link:presenters.html#XJonathanWakeley[Jonathan Wakeley], link:presenters.html#XMarshallClow[Marshall Clow]
+=== link:presenters.html#XJonathanWakely[Jonathan Wakely], link:presenters.html#XMarshallClow[Marshall Clow]
 
 {cpp} standard library implementations contain many subtle coding idioms and tricks. They implement things like the "Empty Base Class Optimization", classes with deleted copy/move semantics, using allocators to manage objects, exception safety, multiple implementations of single features with dispatching to the correct implementation determined by the input types.
 

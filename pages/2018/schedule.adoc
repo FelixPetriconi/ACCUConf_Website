@@ -16,9 +16,9 @@ _The schedule is subject to change without notice until 2018-04-14._
 [cols="5*^", options="header"]
 |===
 |
-|Bristol 3
 |Empire
 |SS Great Britain
+|Concorde
 |Wallace
 
 |10:00
@@ -204,6 +204,12 @@ link:presenters.html#XPaulGrenyer[Paul Grenyer] +
 |12:30
 5+^|Lunch
 
+|13:00
+5+^|Code Club Workshop, Conservatory/ACCU Lounge
+
+|13:45
+5+^|Lunch
+
 |14:00
 |link:sessions.html#XCModulesandLargeScaleDevelopment[{cpp} Modules and Large Scale Development] +
  +
@@ -245,8 +251,8 @@ link:presenters.html#XEoinWoods[Eoin Woods]
 |17:30
 5+^|Break
 
-|18:00
-5+^|Lightning Talks (1 hour)
+|17:35
+5+^|Lightning Talks (30 minutes)
 
 |19:30
 5+^|Conference Dinner (19:30 for drinks, 20:00 service)
@@ -284,14 +290,20 @@ link:presenters.html#XMathieuRopert[Mathieu Ropert]
 |link:sessions.html#XSimplicitynotjustforbeginners[Simplicity: not just for beginners] +
  +
 link:presenters.html#XKateGregory[Kate Gregory]
-|link:sessions.html#XEmbracingModernCMakeLibraryDependenciesandPackages[Embracing Modern CMake – Library Dependencies and Packages] +
+|link:sessions.html#XTheIncredibleShrinkingStandard[The Incredible Shrinking Standard] +
  +
-link:presenters.html#XStephenKelly[Stephen Kelly]
+link:presenters.html#XAlisdairMeredith[Alisdair Meredith]
 |link:sessions.html#XGraphsFromNovicetoGraphanista[Graphs: From Novice to Graphanista] +
  +
 link:presenters.html#XDomDavis[Dom Davis]
 
 |12:30
+5+^|Lunch
+
+|13:00
+5+^|ACCU – The View From The Conference, Conservatory/ACCU Lounge
+
+|13:45
 5+^|Lunch
 
 |14:00
@@ -342,9 +354,9 @@ link:presenters.html#XJonathantheJPsterPallant[Jonathan 'theJPster' Pallant]
 |link:sessions.html#XHCCBringingModernCtoaGPUNearYou[HCC: Bringing Modern {cpp} to a GPU Near You] +
  +
 link:presenters.html#XAlexVoicu[Alex Voicu]
-|link:sessions.html#XTheIncredibleShrinkingStandard[The Incredible Shrinking Standard] +
+|link:sessions.html#XGrilltheCCommittee[Grill the {cpp} Committee] +
  +
-link:presenters.html#XAlisdairMeredith[Alisdair Meredith]
+link:presenters.html#XJonKalb[Jon Kalb]
 |link:sessions.html#XCryptographyforProgrammers[Cryptography for Programmers] +
  +
 link:presenters.html#XDanielJames[Daniel James]
@@ -383,7 +395,7 @@ link:presenters.html#XArneMertz[Arne Mertz]
 |link:sessions.html#XThese10tricksthatonlylibraryimplementorsknow[These 10 tricks that only library implementors know!] +
  +
 link:presenters.html#XMarshallClow[Marshall Clow] +
-link:presenters.html#XJonathanWakeley[Jonathan Wakeley]
+link:presenters.html#XJonathanWakely[Jonathan Wakely]
 |link:sessions.html#XThereIsABetterFuture[There Is A Better Future] +
  +
 link:presenters.html#XFelixPetriconi[Felix Petriconi]
@@ -416,7 +428,7 @@ link:presenters.html#XChrisOldwood[Chris Oldwood]
 link:presenters.html#XVigneshwerDhinakaran[Vigneshwer Dhinakaran]
 |link:sessions.html#XScriptingGit[Scripting Git] +
  +
-link:presenters.html#XCharlesBailey[Charles Bailey]
+link:presenters.html#XCBBailey[CB Bailey]
 
 |13:00
 5+^|Lunch
@@ -424,8 +436,8 @@ link:presenters.html#XCharlesBailey[Charles Bailey]
 |13:30
 5+^|ACCU AGM
 
-|
-5+^|
+|14:15
+5+^|Lunch
 
 |14:30
 |link:sessions.html#XHeterogeneousProgramminginCtoday[Heterogeneous Programming in {cpp} today] +
