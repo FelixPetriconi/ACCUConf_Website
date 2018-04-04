@@ -1,0 +1,36 @@
+////
+.. title: Notes for Presenters
+.. type: text
+////
+
+Here we collect together some points, in no particular order, to help presenters in successfully running an
+ACCU conference session. If you think of something to add to this page, feel free to send in a pull request
+to the GitHub repository at https://github.com/ACCUConf/ACCUConf_Website
+
+Slides and projection are a big hassle for presenters at most conferences. How often has a presenter spent
+the first five minutes of their session fiddling to get the slides showing so they can actually start their
+presentation?
+
+* ACCU presenters are expected to use their own laptop for their session. If this is not possible, the
+organisers need prior notice.
+* At ACCU conferences we trying to ensure a 1080p (1920x1080) projector with HDMI, but with backup up of
+VGA, in each of the session rooms – HDMI is the much preferred connection, especially for sessions being
+recorded.  It is assumed that presenters bring their own connector adapter if their laptop does not have an
+HDMI or a VGA connector.
+* Savvy presenters try connecting their laptop to an HDMI screen before coming to the conference to try and
+iron out all the issues of setting the laptop into the state they want.
+* There are many clever and sophisticated presenter aids for dual head presentation, but never underestimate
+the simplicity of using PDF files in mirror mode.
+* Savvy presenters go to the room they are to present in at the beginning of the break before their session
+and set up for their session. There are unexpected issues even for the most experienced and practised
+presenters, it is best to have lots of time to deal with them.
+
+Another big issue, especially for people who need Internet access, is Internet access.
+
+* ACCU always gets a special channel on the hotel conference support WiFi network.  The SSID changes each
+year, as does the password. Details available on registration.
+* Presenters who require an Internet connection that must have no danger of too many people in the audience
+connecting to the Internet and causing issues tend to use their own mobile internet.
+* Wise to check out coverage as soon as you can, not at the last minute. If your Internet connection
+requirements are not covered by either of the above then contact the conference staff as soon as you can,
+and we will sort something out.

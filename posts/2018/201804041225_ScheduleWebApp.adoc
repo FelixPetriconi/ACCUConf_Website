@@ -1,0 +1,14 @@
+////
+.. title: Schedule Web App
+.. date: 2018-04-04T12:25+01:00
+.. type: text
+////
+
+For ACCU 2017, Austin Bingham of http://sixty-north.com/[Sixty North] created an ACCU conference schedule
+Web application implemented in http://elm-lang.org/[Elm]. After the conference he donated the code to the
+ACCU Conference. Sadly, despite lots of good intentions, it has not been developed over the year. It seems
+though right to have it running anyway. So the ACCU 2018 schedule Web application is at
+https://testconference.accu.org/schedule_app/
+
+If you do want to get stuck in to helping to develop the Web app the master Git repository is at
+https://github.com/ACCUConf/ACCUConf_Schedule_Web_Application
