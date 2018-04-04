@@ -549,11 +549,11 @@ REDIRECTIONS = []
 DEPLOY_COMMANDS = {
     'conference': [
         'chmod -R go+rX output',
-        'rsync -rav --delete --exclude stats --exclude .well-known output/ conference@dennis.accu.org:/srv/conference.accu.org/public/htdocs/',
+        'rsync -rav --delete --exclude stats --exclude .well-known --exclude schedule_app output/ conference@dennis.accu.org:/srv/conference.accu.org/public/htdocs/',
     ],
     'testconference': [
         'chmod -R go+rX output',
-        'rsync -rav --delete --exclude stats --exclude .well-known output/ conference@dennis.accu.org:/srv/testconference.accu.org/public/htdocs/',
+        'rsync -rav --delete --exclude stats --exclude .well-known --exclude schedule_app output/ conference@dennis.accu.org:/srv/testconference.accu.org/public/htdocs/',
     ],
 }
 
