@@ -71,13 +71,6 @@ We will try to simulate a hard-to-test legacy code base and we will use some met
 We will also focus on how to use TDD "to design at a sustainable pace" and how to use tests to better listen to code.
 
 
-[[XBestpracticeswhenaccessingBigDataoranyotherdata]]
-== Best practices when accessing Big Data or any other data!
-=== link:presenters.html#XRosemaryFrancis[Rosemary Francis]
-
-In this talk I will explore best practices when accessing data on local or shared file systems. I will use examples of what can go wrong taken from real customer problems to back up how simple guidelines and good use of available tools can make a massive difference to the performance, reliability, scalability and portability of your code. There are free and commercial tools that can help, but they need to be combined with good coding and good working practices. Data doesn't have to be big to cause a problem, but as data sets grow, the way we access data has never been a more important consideration. Our customers work in scientific and high-performance computing with different trade-offs to make between time-to-market, reliability and performance, but what they all have in common is that they have to care about I/O.
-
-
 [[XBootstrappingaLocalCUserGroup]]
 == Bootstrapping a Local {cpp} User Group
 === link:presenters.html#XVictorCiura[Victor Ciura]
@@ -181,10 +174,10 @@ NB Although scheduled in a conference room, this session will take place in the 
 
 
 [[XCModulesandLargeScaleDevelopment]]
-== {cpp} Modules and Large Scale Development
+== {cpp} Modules and Large-Scale Development
 === link:presenters.html#XJohnLakos[John Lakos]
 
-Much has been said about how the upcoming module feature in {cpp} will improve compilation speeds and reduce reliance on the {cpp} preprocessor. However, program architecture will see the biggest impact. This talk explains how modules will change how you develop, organize, and deploy your code. We will also cover the stable migration of a large code base to be consumable both as modules and normal headers. All examples will be using the latest draft of the Modules TS.
+Much has been said about how the upcoming module feature in {cpp} will improve compilation speeds and reduce reliance on the {cpp} preprocessor. However, program architecture will see the biggest impact. This talk explains how modules will change how you develop, organize, and deploy your code. We will also cover the stable migration of a large code base to be consumable both as modules and as normal headers.
 
 
 [[XCTemplatesRevised]]
@@ -840,11 +833,13 @@ about practising.”
 == Swift Driven Development
 === link:presenters.html#XPhilNash[Phil Nash]
 
-There are always idiosyncrasies to consider when adopting TDD in a specific language and eco-system. Often there are opportunities we should identify and embrace in order to get the most out of it - sometimes taking things to a new level.
+There are always idiosyncrasies to consider when adopting TDD in a specific language and eco-system. Often there are opportunities we should identify and embrace in order to get the most out of it – sometimes taking things to a new level.
 
 This is the case in Swift. As a language, as well as the tooling around it, there are features that we can take advantage of to test drive to the max!
 
 This session will deconstruct TDD to see what, of it's essence, we can capture in a different, even more productive, way in Swift, and run through a live demo of how this all fits together.
+
+Prior experience of Swift is not required.
 
 
 [[XTalesofCthe6502andtheBBCwithaddedpython]]
@@ -992,17 +987,6 @@ For the curious, for experts who want a different slant on what they know and fo
 So called "strong types", genuinely type safe alternatives to "typedef:s" are often seen as a way to prevent bugs, but they can also be used to improve clarity in your code, and even increase performance. It is underappreciated how strong the type safety guarantees in {cpp} are, because it takes knowledge and a bit of discipline to make use of it.
 
 In this session, I give motivating examples for why strong types are good, and present some of the techniques for creating them. The simplest techniques requires no library support, but I will also show some more sophisticated solutions from open source libraries available on github. We will go through what happens with both production code and test code when you use them, and also discuss the pros and cons of the different approaches.
-
-
-[[XUptoSpeedSuggestionstowardbetteronboardingdocumentation]]
-== Up to Speed - Suggestions toward better on-boarding documentation
-=== link:presenters.html#XSamathyBarratt[Samathy Barratt]
-
-Documenting your code is one thing, but producing useful reading to help a new employee get up to speed with your codebase(s), development environment and development practices is entirely another.
-
-This talk aims to help seasoned developers think like a new graduate and offers a practical discussion on improving the on-boarding experience of new Software Engineering employees through producing great documentation.
-
-You may know how to build your code, we'll be looking at how you make sure the new developer gets up to speed without guessing.
 
 
 [[XWhatsnewaboutfakenews]]

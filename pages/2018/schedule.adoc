@@ -82,7 +82,7 @@ link:presenters.html#XDmitryKandalov[Dmitry Kandalov]
 5+^|WIBU Workshop, Conservatory/ACCU Lounge
 
 |13:45
-5+^|Lunch
+5+^|
 
 |14:00
 |link:sessions.html#XNothingisbetterthancopyormove[Nothing is better than copy or move] +
@@ -127,7 +127,7 @@ link:presenters.html#XFlorianGilcher[Florian Gilcher]
 5+^|Break
 
 |18:00
-5+^|Lightning Talks (1 hour)
+5+^|Lightning Talks (1 hour, Bristol Suite)
 
 |19:00
 5+^|Welcome Reception
@@ -208,10 +208,10 @@ link:presenters.html#XPaulGrenyer[Paul Grenyer] +
 5+^|Code Club Workshop, Conservatory/ACCU Lounge
 
 |13:45
-5+^|Lunch
+5+^|
 
 |14:00
-|link:sessions.html#XCModulesandLargeScaleDevelopment[{cpp} Modules and Large Scale Development] +
+|link:sessions.html#XCModulesandLargeScaleDevelopment[{cpp} Modules and Large-Scale Development] +
  +
 link:presenters.html#XJohnLakos[John Lakos]
 |link:sessions.html#XConceptBasedTesting[Concept Based Testing] +
@@ -232,15 +232,15 @@ link:presenters.html#XHubertMatthews[Hubert Matthews]
 5+^|Break
 
 |16:00
-|link:sessions.html#XCCountdownPubQuiz[{cpp} Countdown Pub Quiz] +
- +
-link:presenters.html#XJonJagger[Jon Jagger]
-|link:sessions.html#XParallelDesignPatternsandStreamParallelism[Parallel Design Patterns and Stream Parallelism] +
- +
-link:presenters.html#XJDanielGarcia[J. Daniel Garcia]
 |link:sessions.html#XProceduralProgrammingItsBackItNeverWentAway[Procedural Programming: It's Back? It Never Went Away] +
  +
 link:presenters.html#XKevlinHenney[Kevlin Henney]
+|link:sessions.html#XParallelDesignPatternsandStreamParallelism[Parallel Design Patterns and Stream Parallelism] +
+ +
+link:presenters.html#XJDanielGarcia[J. Daniel Garcia]
+|link:sessions.html#XCCountdownPubQuiz[{cpp} Countdown Pub Quiz] +
+ +
+link:presenters.html#XJonJagger[Jon Jagger]
 |link:sessions.html#XAlchemicalCodeRejuvenation[Alchemical Code Rejuvenation] +
  +
 link:presenters.html#XUbertoBarbini[Uberto Barbini]
@@ -251,8 +251,8 @@ link:presenters.html#XEoinWoods[Eoin Woods]
 |17:30
 5+^|Break
 
-|17:35
-5+^|Lightning Talks (30 minutes)
+|18:00
+5+^|Lightning Talks (1 hour, Empire)
 
 |19:30
 5+^|Conference Dinner (19:30 for drinks, 20:00 service)
@@ -304,7 +304,7 @@ link:presenters.html#XDomDavis[Dom Davis]
 5+^|ACCU – The View From The Conference, Conservatory/ACCU Lounge
 
 |13:45
-5+^|Lunch
+5+^|
 
 |14:00
 |link:sessions.html#XCTodayTheBeastisBack[{cpp} Today: The Beast is Back] +
@@ -337,11 +337,6 @@ link:sessions.html#XCanIchangemyorganisation[Can I change my organisation?] +
  +
 link:presenters.html#XFelixPetriconi[Felix Petriconi] +
  +
- +
-link:sessions.html#XUptoSpeedSuggestionstowardbetteronboardingdocumentation[Up to Speed - Suggestions toward better on-boarding documentation] +
- +
-link:presenters.html#XSamathyBarratt[Samathy Barratt] +
- +
 
 |link:sessions.html#XGreaseAMessagePassingApproachtoProtocolStacksinRust[Grease: A Message-Passing Approach to Protocol Stacks in Rust] +
  +
@@ -371,7 +366,7 @@ link:presenters.html#XArneMertz[Arne Mertz]
 5+^|Break
 
 |18:00
-5+^|Lightning Talks (1 hour)
+5+^|Lightning Talks (1 hour, Bristol Suite)
 
 |19:00
 5+^|Bloomberg Event
@@ -399,15 +394,13 @@ link:presenters.html#XJonathanWakely[Jonathan Wakely]
 |link:sessions.html#XThereIsABetterFuture[There Is A Better Future] +
  +
 link:presenters.html#XFelixPetriconi[Felix Petriconi]
-|link:sessions.html#XBestpracticeswhenaccessingBigDataoranyotherdata[Best practices when accessing Big Data or any other data!] +
- +
-link:presenters.html#XRosemaryFrancis[Rosemary Francis]
-|link:sessions.html#XCreatinganIncrementalArchitectureforyourSystem[Creating an Incremental Architecture for your System] +
- +
-link:presenters.html#XGiovanniAsproni[Giovanni Asproni]
 |link:sessions.html#XMultiCoringandNonBlockinginsteadofMultiThreadingorusingReActorstobuildScalableInteractiveDistributedSystems["Multi-Coring" and "Non-Blocking" instead of "Multi-Threading", or using (Re)Actors to build Scalable Interactive Distributed Systems] +
  +
 link:presenters.html#XSergeyIgnatchenko[Sergey Ignatchenko]
+|link:sessions.html#XCreatinganIncrementalArchitectureforyourSystem[Creating an Incremental Architecture for your System] +
+ +
+link:presenters.html#XGiovanniAsproni[Giovanni Asproni]
+|TBC
 
 |11:00
 5+^|Break
@@ -437,7 +430,7 @@ link:presenters.html#XCBBailey[CB Bailey]
 5+^|ACCU AGM
 
 |14:15
-5+^|Lunch
+5+^|
 
 |14:30
 |link:sessions.html#XHeterogeneousProgramminginCtoday[Heterogeneous Programming in {cpp} today] +

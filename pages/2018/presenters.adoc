@@ -372,7 +372,7 @@ Jez Higgins is a jobbing programmer so dedicated to the cause of software crafts
 [[XJohnLakos]]
 == John Lakos
 
-link:sessions.html#XCModulesandLargeScaleDevelopment[C++ Modules and Large Scale Development]
+link:sessions.html#XCModulesandLargeScaleDevelopment[C++ Modules and Large-Scale Development]
 
 John Lakos, author of Large-Scale {cpp} Software Design, serves at Bloomberg LP in New York City as a senior architect and mentor for {cpp} Software Development world-wide.  He is also an active voting member of the {cpp} Standards Committee’s Evolution Working Group. Previously, Dr. Lakos directed the design and development of infrastructure libraries for proprietary analytic financial applications at Bear Stearns. For 12 years prior, Dr. Lakos developed large frameworks and advanced ICCAD applications at Mentor Graphics, for which he holds multiple software patents. His academic credentials include a Ph.D. in Computer Science ('97) and an Sc.D. in Electrical Engineering ('89) from Columbia University. Dr. Lakos received his undergraduate degrees from MIT in Mathematics ('82) and Computer Science ('81). His next book, entitled Large-Scale {cpp}—Volume I: Process and Architecture, is anticipated later this year.
 
@@ -612,28 +612,6 @@ Roger has been a member of ACCU since 1999; he's on the ACCU committee, the ACCU
 He also writes the occasional article for CVu and Overload.
 
 He is a member of the BSI {cpp} panel, catchily known as IST/5/-/21, and has represented the UK at {cpp} ISO standards meetings since 2010.
-
-
-[[XRosemaryFrancis]]
-== Rosemary Francis
-
-link:sessions.html#XBestpracticeswhenaccessingBigDataoranyotherdata[Best practices when accessing Big Data or any other data!]
-
-Dr Rosemary Francis is an expert in I/O profiling and high-performance computing with a PhD in Computer Architecture from the University of Cambridge. She is a regular speaker at conferences including IEEE and Linux foundation events and sits on the advisory board for the Ideaspace startup accelerator and the Raspberry Pi foundation. Rosemary founded Ellexus, the I/O profiling company, after working in the semiconductor industry. Today Ellexus provides unique application and cluster monitoring tools to commercial and research organisations around the world, helping them to optimise their applications and manage their IT infrastructure. 
-
-
-[[XSamathyBarratt]]
-== Samathy Barratt
-
-link:sessions.html#XUptoSpeedSuggestionstowardbetteronboardingdocumentation[Up to Speed - Suggestions toward better on-boarding documentation]
-
-Samathy Barratt is a passionate technologist and LGBTQ+ Activist.
-
-Her primary interests lie in highly technical software engineering, new & cutting edge computer science practices, new software tools, languages and cutting edge hardware. 
-
-Samathy thoroughly loves to share with others. She loves the concept of free and open source software and will take any chance she can to help others learn and improve themselves.
-
-She currently studies a BSc at Coventry University.
 
 
 [[XSchalkCronjé]]
