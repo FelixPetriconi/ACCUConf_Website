@@ -382,7 +382,7 @@ Jez Higgins is a jobbing programmer so dedicated to the cause of software crafts
 [[XJimHague]]
 == Jim Hague
 
-link:sessions.html#XTheClacks[The Clacks]
+link:sessions.html#XTheClacksinDiscworldandRoundworld[The Clacks in Discworld and Roundworld]
 
 After spending 13 years developing applications for Czech Air Traffic Control, Jim bailed out in 2016 and landed in the world of DNS. He now spends his workdays coding while sitting between two DNS RFC authors. It’s possible he might be learning something in the process.
 

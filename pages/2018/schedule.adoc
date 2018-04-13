@@ -343,7 +343,7 @@ link:sessions.html#XCanIchangemyorganisation[Can I change my organisation?] +
 link:presenters.html#XFelixPetriconi[Felix Petriconi] +
  +
  +
-link:sessions.html#XTheClacks[The Clacks] +
+link:sessions.html#XTheClacksinDiscworldandRoundworld[The Clacks in Discworld and Roundworld] +
  +
 link:presenters.html#XJimHague[Jim Hague] +
  +

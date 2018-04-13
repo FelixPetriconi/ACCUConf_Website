@@ -871,15 +871,17 @@ A survey detailing how game developers approach everything {cpp}: from compilati
 The target audience is everyone interested or aspiring in professional game development, although veterans should also find something interesting.
 
 
-[[XTheClacks]]
-== The Clacks
+[[XTheClacksinDiscworldandRoundworld]]
+== The Clacks in Discworld and Roundworld
 === link:presenters.html#XJimHague[Jim Hague]
 
+Readers of the late Terry Pratchett's Discworld novels will come across the 
+Clacks. The Clacks is a semaphore system used for sending messages rapidly
+across the Discworld and is explicitly non-magical.
 
-Something on the real-life clacks systems of the late 18th/early 19th
-centuries, including the first on-line fraud and why the Discworld
-clacks does, in fact, need magic to work.
-    
+Here in Roundworld, similar semaphore systems arose in the late 18th and early 
+19th centuries. We'll look at a couple of these systems, and muse on the 
+similarities and differences to Discworld practice.
 
 
 [[XTheIncredibleShrinkingStandard]]
