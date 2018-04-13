@@ -5,6 +5,14 @@
 .. type: text
 ////
 
+[[XAhtoTruu]]
+== Ahto Truu
+
+link:sessions.html#XWhatarehashtreesandwhyyoushouldcare[What are hash trees and why you should care]
+
+During his two and a half decades in the ICT industry, Ahto has worked in hardware installations and user support, as a software developer and architect, and as a systems analyst. Currently he is busy helping Guardtime's customers preserve the integrity of their important data. Outside his day job he coaches Estonia's team to the high school students' programming competitions. He has also been writing programming columns for the popular science magazines A&A and Horisont.
+
+
 [[XAlexVoicu]]
 == Alex Voicu
 
@@ -203,6 +211,8 @@ He is currently working with Java and JVM languages such as http://kotlinlang.or
 [[XDomDavis]]
 == Dom Davis
 
+link:sessions.html#XIfYou’reHappyandYouKnowItInsidetheMindofaDeveloper[ If You’re Happy and You Know It (Inside the Mind of a Developer)]
+
 link:sessions.html#XGraphsFromNovicetoGraphanista[Graphs: From Novice to Graphanista]
 
 Dom Davis is a veteran of The City and a casualty of The Financial Crisis. Not content with bringing the world to its knees he then went off to help break the internet before winding up in Norfolk where he messes about doing development and devops. Dom has been writing code since his childhood sometime in the last millennium – he hopes some day to become good at it.
@@ -367,6 +377,14 @@ Jeffrey Mendelsohn is currently a Team Lead in a software infrastructure group a
 link:sessions.html#XChrisandJezsOldSkoolArtisanSoftwareWorkshop[Chris and Jez's Old Skool Artisan Software Workshop]
 
 Jez Higgins is a jobbing programmer so dedicated to the cause of software craftsmanship he once cycled to the conference from Birmingham. He was the 2017 Player of the Season for Kings Heath Hockey Club Mens IIIs. He can be contacted for programming assistance or hockey coaching at @jezhiggins or jez@jezuk.co.uk.
+
+
+[[XJimHague]]
+== Jim Hague
+
+link:sessions.html#XTheClacks[The Clacks]
+
+After spending 13 years developing applications for Czech Air Traffic Control, Jim bailed out in 2016 and landed in the world of DNS. He now spends his workdays coding while sitting between two DNS RFC authors. It’s possible he might be learning something in the process.
 
 
 [[XJohnLakos]]

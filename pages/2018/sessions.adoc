@@ -5,6 +5,15 @@
 .. type: text
 ////
 
+[[XIfYou’reHappyandYouKnowItInsidetheMindofaDeveloper]]
+==  If You’re Happy and You Know It (Inside the Mind of a Developer)
+=== link:presenters.html#XDomDavis[Dom Davis]
+
+
+If there ever were two peoples divided by a common language it’s “IT” and “The Business”; two poorly defined groups of people who spend a lot of time misunderstanding each other and believing that the others simply “don’t get it”, or “don’t have a clue”. While the latter claim is borne out of frustration, there is some weight to the former. In this session we’ll peel back the mind of a developer and show how what seem like simple requests can hide hideous complexity, and be wide open for misinterpretation. Aimed at everyone, including the whole spectrum of “IT” and “The Business”, hopefully we’ll learn to better communicate and avoid the common pitfalls that catch out so many IT projects.
+
+
+
 [[XMultiCoringandNonBlockinginsteadofMultiThreadingorusingReActorstobuildScalableInteractiveDistributedSystems]]
 == "Multi-Coring" and "Non-Blocking" instead of "Multi-Threading", or using (Re)Actors to build Scalable Interactive Distributed Systems
 === link:presenters.html#XSergeyIgnatchenko[Sergey Ignatchenko]
@@ -862,6 +871,17 @@ A survey detailing how game developers approach everything {cpp}: from compilati
 The target audience is everyone interested or aspiring in professional game development, although veterans should also find something interesting.
 
 
+[[XTheClacks]]
+== The Clacks
+=== link:presenters.html#XJimHague[Jim Hague]
+
+
+Something on the real-life clacks systems of the late 18th/early 19th
+centuries, including the first on-line fraud and why the Discworld
+clacks does, in fact, need magic to work.
+    
+
+
 [[XTheIncredibleShrinkingStandard]]
 == The Incredible Shrinking Standard
 === link:presenters.html#XAlisdairMeredith[Alisdair Meredith]
@@ -987,6 +1007,19 @@ For the curious, for experts who want a different slant on what they know and fo
 So called "strong types", genuinely type safe alternatives to "typedef:s" are often seen as a way to prevent bugs, but they can also be used to improve clarity in your code, and even increase performance. It is underappreciated how strong the type safety guarantees in {cpp} are, because it takes knowledge and a bit of discipline to make use of it.
 
 In this session, I give motivating examples for why strong types are good, and present some of the techniques for creating them. The simplest techniques requires no library support, but I will also show some more sophisticated solutions from open source libraries available on github. We will go through what happens with both production code and test code when you use them, and also discuss the pros and cons of the different approaches.
+
+
+[[XWhatarehashtreesandwhyyoushouldcare]]
+== What are hash trees and why you should care
+=== link:presenters.html#XAhtoTruu[Ahto Truu]
+
+
+Hash trees, or Merkle trees, proposed by Ralph C. Merkle in 1979, are binary trees where parent nodes are computed from child nodes using one-way hash functions.
+
+Hash trees can be used to build efficient authenticated data structures where a response to a query about the structure comes with a proof that the response is correct.
+
+The talk will give a quick introduction to hash functions and then goes on to discuss hash trees and some of the most important authenticated data structures that can be built based on the trees.
+
 
 
 [[XWhatsnewaboutfakenews]]

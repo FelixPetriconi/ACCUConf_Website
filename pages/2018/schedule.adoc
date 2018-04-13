@@ -327,6 +327,11 @@ link:sessions.html#XTalesofCthe6502andtheBBCwithaddedpython[Tales of C, the 6502
  +
 link:presenters.html#XBenjaminMisell[Benjamin Misell ] +
  +
+ +
+link:sessions.html#XIfYou’reHappyandYouKnowItInsidetheMindofaDeveloper[ If You’re Happy and You Know It (Inside the Mind of a Developer)] +
+ +
+link:presenters.html#XDomDavis[Dom Davis] +
+ +
 
 |link:sessions.html#XWhatsnewaboutfakenews[What's new about fake news?] +
  +
@@ -336,6 +341,16 @@ link:presenters.html#XGailOllis[Gail Ollis] +
 link:sessions.html#XCanIchangemyorganisation[Can I change my organisation?] +
  +
 link:presenters.html#XFelixPetriconi[Felix Petriconi] +
+ +
+ +
+link:sessions.html#XTheClacks[The Clacks] +
+ +
+link:presenters.html#XJimHague[Jim Hague] +
+ +
+ +
+link:sessions.html#XWhatarehashtreesandwhyyoushouldcare[What are hash trees and why you should care] +
+ +
+link:presenters.html#XAhtoTruu[Ahto Truu] +
  +
 
 |link:sessions.html#XGreaseAMessagePassingApproachtoProtocolStacksinRust[Grease: A Message-Passing Approach to Protocol Stacks in Rust] +
