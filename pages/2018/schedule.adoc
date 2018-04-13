@@ -323,14 +323,14 @@ link:sessions.html#XTheongoingdesignandevolutionofcyberdojo[The ongoing design a
 link:presenters.html#XJonJagger[Jon Jagger] +
  +
  +
+link:sessions.html#XIfYou’reHappyandYouKnowItInsidetheMindofaDeveloper[If You’re Happy and You Know It (Inside the Mind of a Developer)] +
+ +
+link:presenters.html#XDomDavis[Dom Davis] +
+ +
+ +
 link:sessions.html#XTalesofCthe6502andtheBBCwithaddedpython[Tales of C, the 6502 and the BBC (with added python)] +
  +
 link:presenters.html#XBenjaminMisell[Benjamin Misell ] +
- +
- +
-link:sessions.html#XIfYou’reHappyandYouKnowItInsidetheMindofaDeveloper[ If You’re Happy and You Know It (Inside the Mind of a Developer)] +
- +
-link:presenters.html#XDomDavis[Dom Davis] +
  +
 
 |link:sessions.html#XWhatsnewaboutfakenews[What's new about fake news?] +

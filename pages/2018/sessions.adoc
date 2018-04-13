@@ -5,15 +5,6 @@
 .. type: text
 ////
 
-[[XIfYou’reHappyandYouKnowItInsidetheMindofaDeveloper]]
-==  If You’re Happy and You Know It (Inside the Mind of a Developer)
-=== link:presenters.html#XDomDavis[Dom Davis]
-
-
-If there ever were two peoples divided by a common language it’s “IT” and “The Business”; two poorly defined groups of people who spend a lot of time misunderstanding each other and believing that the others simply “don’t get it”, or “don’t have a clue”. While the latter claim is borne out of frustration, there is some weight to the former. In this session we’ll peel back the mind of a developer and show how what seem like simple requests can hide hideous complexity, and be wide open for misinterpretation. Aimed at everyone, including the whole spectrum of “IT” and “The Business”, hopefully we’ll learn to better communicate and avoid the common pitfalls that catch out so many IT projects.
-
-
-
 [[XMultiCoringandNonBlockinginsteadofMultiThreadingorusingReActorstobuildScalableInteractiveDistributedSystems]]
 == "Multi-Coring" and "Non-Blocking" instead of "Multi-Threading", or using (Re)Actors to build Scalable Interactive Distributed Systems
 === link:presenters.html#XSergeyIgnatchenko[Sergey Ignatchenko]
@@ -564,6 +555,15 @@ We'll answer questions like:
 * Is there still a need for `void*`?
 
 In the end you'll know exactly when to use which pointer-like type and why.
+
+
+[[XIfYou’reHappyandYouKnowItInsidetheMindofaDeveloper]]
+== If You’re Happy and You Know It (Inside the Mind of a Developer)
+=== link:presenters.html#XDomDavis[Dom Davis]
+
+
+If there ever were two peoples divided by a common language it’s “IT” and “The Business”; two poorly defined groups of people who spend a lot of time misunderstanding each other and believing that the others simply “don’t get it”, or “don’t have a clue”. While the latter claim is borne out of frustration, there is some weight to the former. In this session we’ll peel back the mind of a developer and show how what seem like simple requests can hide hideous complexity, and be wide open for misinterpretation. Aimed at everyone, including the whole spectrum of “IT” and “The Business”, hopefully we’ll learn to better communicate and avoid the common pitfalls that catch out so many IT projects.
+
 
 
 [[XKotlinNativeEmbracingexistingecosystems]]

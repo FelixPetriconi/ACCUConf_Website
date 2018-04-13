@@ -211,9 +211,9 @@ He is currently working with Java and JVM languages such as http://kotlinlang.or
 [[XDomDavis]]
 == Dom Davis
 
-link:sessions.html#XIfYou’reHappyandYouKnowItInsidetheMindofaDeveloper[ If You’re Happy and You Know It (Inside the Mind of a Developer)]
-
 link:sessions.html#XGraphsFromNovicetoGraphanista[Graphs: From Novice to Graphanista]
+
+link:sessions.html#XIfYou’reHappyandYouKnowItInsidetheMindofaDeveloper[If You’re Happy and You Know It (Inside the Mind of a Developer)]
 
 Dom Davis is a veteran of The City and a casualty of The Financial Crisis. Not content with bringing the world to its knees he then went off to help break the internet before winding up in Norfolk where he messes about doing development and devops. Dom has been writing code since his childhood sometime in the last millennium – he hopes some day to become good at it.
 
