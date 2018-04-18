@@ -4,11 +4,11 @@
 
 image::images/2018/conf2015-JamesMcNellis-accu2015-begins.jpg[]
 
-*The ACCU conference schedule is published, and we assume all the presenters are busy preparing their
- sessions so there is no "last minute-ism" about the sessions. This year's theme is "magical, magical,
- magical place", make of it what you will. Please note, we are experimenting with having the conference
- dinner on Thursday and the Bloomberg party on Friday. If you have not already bought your ticket, booked
- your accommodation and travel, and bought your conference dinner ticket, why not?*
+*ACCU 2018 is now over and done. Thanks to everyone who submitted proposals. Apologies to those who could
+ not be accepted. Special thanks to the presenters for all their efforts to put on great sessions. Massive
+ thanks to all the attenders for making it a great conference.*
+
+*Now on to ACCU 2019…*
 
 Historically, ACCU has a lot of {cpp} and C content, and is proud of that: ACCU is the foremost annual
 conference for people interested in {cpp} and C, at least in and around the UK. But it is not just a {cpp}
