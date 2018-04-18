@@ -138,6 +138,8 @@ In this version, in each round, teams have ~7 minutes to write the smallest {cpp
 
 For example, the tokens in one round might be:
 
+[source,cpp]
+----
 const std::vector<std::string>> tokens =
 {
     "catch",
@@ -148,9 +150,12 @@ const std::vector<std::string>> tokens =
     "foobar",
     "operator",
 };
+----
 
 A winning program (53 characters long) might be:
 
+[source,c++]
+----
 class c {
   c operator->(){
     foobar: try{
@@ -160,6 +165,7 @@ class c {
     }
   }
 };
+----
 
 Numbers are limited: minimum two people per team, maximum 12 teams.
 
@@ -766,17 +772,17 @@ We'll try to learn enough to understand how Lisp has influenced the languages mo
 
 Git is the most popular version control system in use today; it is highly flexible and supports many different workflows. One of its strengths is its openness to scripting. This talk looks at the basic principles that support best practice for scripting Git and then looks at two areas of practical application of Git scripting.
 
-## Introduction
+=== Introduction
 
 First we explore the options for extending and automating Git, both scripting directly against the command line interface and using an API or a library such as libgit2 or one of the many bindings available for various scripting languages.
 
 Next we look at the difference between "porcelain" commands, those targeted at interactive use by humans, and "plumbing" commands, lower level commands with stable interfaces designed for scripting. We examine the potential pitfalls of scripting against "porcelain" and how to achieve the effects of common "porcelain" commands by directly connecting "plumbing" together.
 
-## Finding regressions - automatic bisect
+=== Finding regressions - automatic bisect
 
 `git bisect` is a powerful tool for finding regressions but can take a significant time if driven manually. We look at how to automate `git bisect` and how to get the optimal result from bisect even when you have a history which includes challenges such as commits which don't compile or which have other conflicting known regressions that hinder direct testing of the regression under test.
 
-## Continuous integration and automating merges
+=== Continuous integration and automating merges
 
 The need to automate merges can be driven from a number of different aims. Continuous integration - the automated testing of proposed changes with an integration branch - is one obvious example.
 
