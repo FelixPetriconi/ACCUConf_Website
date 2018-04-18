@@ -100,7 +100,8 @@ link:presenters.html#XJezHiggins[Jez Higgins] +
 link:presenters.html#XChrisOldwood[Chris Oldwood]
 |link:sessions.html#XSchemeLispFeeltheCool[Scheme Lisp: Feel the Cool] +
  +
-link:presenters.html#XAndyBalaam[Andy Balaam]
+link:presenters.html#XAndyBalaam[Andy Balaam] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Andy_Balaam_-_Scheme_Feel_the_Cool.pdf[(slides)]
 
 |15:30
 5+^|Break
@@ -115,7 +116,8 @@ link:presenters.html#XNicolaiJosuttis[Nicolai Josuttis]
 |link:sessions.html#XHowtoavoidbottleneckswhenconvertingserialcodetomultithreaded[How to avoid bottlenecks when converting serial code to multithreaded] +
  +
 link:presenters.html#XWojciechBasalaj[Wojciech Basalaj] +
-link:presenters.html#XRichardCorden[Richard Corden]
+link:presenters.html#XRichardCorden[Richard Corden] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/WojciechBasalaj_RichardCorden_-_How_to_avoid_bottlenecks_when_converting_serial_code_to_multithreaded.pdf[(slides)]
 |link:sessions.html#XAQuantumDataStructureForClassicalComputers[A Quantum Data Structure For Classical Computers] +
  +
 link:presenters.html#XCharleyBay[Charley Bay]
@@ -127,7 +129,7 @@ link:presenters.html#XFlorianGilcher[Florian Gilcher]
 5+^|Break
 
 |18:00
-5+^|Lightning Talks (1 hour, Bristol Suite)
+5+^|Lightning Talks (1 hour, Bristol Suite) link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Lightning_Talks_-_Wednesday.pdf[(slides)]
 
 |19:00
 5+^|Welcome Reception
@@ -188,11 +190,13 @@ link:presenters.html#XJeffreyMendelsohn[Jeffrey Mendelsohn] +
 |link:sessions.html#XHigherorderfunctionsfortherestofus[Higher order functions for the rest of us.] +
  +
 link:presenters.html#XBjörnFahller[Björn Fahller] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Bjorn_Fahller_-_Higher_Order_Functions_for_the_rest_of_us.pdf[(slides)]
  +
  +
 link:sessions.html#XBootstrappingaLocalCUserGroup[Bootstrapping a Local {cpp} User Group] +
  +
 link:presenters.html#XVictorCiura[Victor Ciura] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Victor_Ciura_-_Bootstrapping_a_Local_C++_User_Group.pdf[(slides)]
  +
  +
 link:sessions.html#XBuildingaTechCommunityintheEastfromalmostNothing[Building a Tech Community in the East from (almost) Nothing] +
@@ -220,10 +224,12 @@ link:presenters.html#XDietmarKühl[Dietmar Kühl]
 |link:sessions.html#XSimplytheBestOptimisingwithanEvolutionaryComputingFramework[Simply the Best: Optimising with an Evolutionary Computing Framework] +
  +
 link:presenters.html#XFrancesBuontempo[Frances Buontempo] +
-link:presenters.html#XChristopherSimons[Christopher Simons]
+link:presenters.html#XChristopherSimons[Christopher Simons] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Chris_Simon_-_Simply_the_Best.pdf[(slides)]
 |link:sessions.html#XMockingFramworksconsideredharmful[Mocking Framworks considered, harmful?!] +
  +
-link:presenters.html#XPeterSommerlad[Peter Sommerlad]
+link:presenters.html#XPeterSommerlad[Peter Sommerlad] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Peter_Sommerlad_-_Mocking_Frameworks.pdf[(slides)]
 |link:sessions.html#XReadandwriteconsideredharmful[Read and write considered harmful] +
  +
 link:presenters.html#XHubertMatthews[Hubert Matthews]
@@ -237,7 +243,8 @@ link:presenters.html#XHubertMatthews[Hubert Matthews]
 link:presenters.html#XKevlinHenney[Kevlin Henney]
 |link:sessions.html#XParallelDesignPatternsandStreamParallelism[Parallel Design Patterns and Stream Parallelism] +
  +
-link:presenters.html#XJDanielGarcia[J. Daniel Garcia]
+link:presenters.html#XJDanielGarcia[J. Daniel Garcia] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/J_Daniel_Garcia_-_Parallel_design_patterns_and_stream_parallelism.pdf[(slides)]
 |link:sessions.html#XCCountdownPubQuiz[{cpp} Countdown Pub Quiz] +
  +
 link:presenters.html#XJonJagger[Jon Jagger]
@@ -246,13 +253,14 @@ link:presenters.html#XJonJagger[Jon Jagger]
 link:presenters.html#XUbertoBarbini[Uberto Barbini]
 |link:sessions.html#XCommonWebappVulnerabilitiesandWhattoDoAboutThem[Common Webapp Vulnerabilities and What to Do About Them] +
  +
-link:presenters.html#XEoinWoods[Eoin Woods]
+link:presenters.html#XEoinWoods[Eoin Woods] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Eoin_Woods_-_Web_Security_Threats.pdf[(slides)]
 
 |17:30
 5+^|Break
 
 |18:00
-5+^|Lightning Talks (1 hour, Empire)
+5+^|Lightning Talks (1 hour, Empire) link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Lightning_Talks_-_Thursday.pdf[(slides)]
 
 |19:30
 5+^|Conference Dinner (19:30 for drinks, 20:00 service)
@@ -286,10 +294,12 @@ link:presenters.html#XLisaLippincott[Lisa Lippincott]
 link:presenters.html#XGregLaw[Greg Law]
 |link:sessions.html#XCAPIandABIversioning[{cpp} API & ABI versioning] +
  +
-link:presenters.html#XMathieuRopert[Mathieu Ropert]
+link:presenters.html#XMathieuRopert[Mathieu Ropert] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Mathieu_Ropert_-_API_&_ABI_Versioning.pdf[(slides)]
 |link:sessions.html#XSimplicitynotjustforbeginners[Simplicity: not just for beginners] +
  +
-link:presenters.html#XKateGregory[Kate Gregory]
+link:presenters.html#XKateGregory[Kate Gregory] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Kate_Gregory_-_Simplicity.pdf[(slides)]
 |link:sessions.html#XTheIncredibleShrinkingStandard[The Incredible Shrinking Standard] +
  +
 link:presenters.html#XAlisdairMeredith[Alisdair Meredith]
@@ -312,7 +322,8 @@ link:presenters.html#XDomDavis[Dom Davis]
 link:presenters.html#XJonKalb[Jon Kalb]
 |link:sessions.html#XDebugCWithoutRunning[Debug {cpp} Without Running] +
  +
-link:presenters.html#XAnastasiaKazakova[Anastasia Kazakova]
+link:presenters.html#XAnastasiaKazakova[Anastasia Kazakova] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Anastasia_Kazakova_-_Debug_CPP_no_Running.pdf[(slides)]
 |link:sessions.html#XHackersguidetoWebAssembly[Hacker's guide to Web Assembly] +
  +
 link:presenters.html#XVigneshwerDhinakaran[Vigneshwer Dhinakaran] +
@@ -331,6 +342,8 @@ link:presenters.html#XDomDavis[Dom Davis] +
 link:sessions.html#XTalesofCthe6502andtheBBCwithaddedpython[Tales of C, the 6502 and the BBC (with added python)] +
  +
 link:presenters.html#XBenjaminMisell[Benjamin Misell ] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Benjamin_Misell_-_Tales_of_C_the_6502_and_the_BBC.pdf[(slides)]
+ +
  +
 
 |link:sessions.html#XWhatsnewaboutfakenews[What's new about fake news?] +
@@ -351,11 +364,13 @@ link:presenters.html#XJimHague[Jim Hague] +
 link:sessions.html#XWhatarehashtreesandwhyyoushouldcare[What are hash trees and why you should care] +
  +
 link:presenters.html#XAhtoTruu[Ahto Truu] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Ahto_Truu_-_Hash_Trees.pdf[(slides)]
  +
 
 |link:sessions.html#XGreaseAMessagePassingApproachtoProtocolStacksinRust[Grease: A Message-Passing Approach to Protocol Stacks in Rust] +
  +
-link:presenters.html#XJonathantheJPsterPallant[Jonathan 'theJPster' Pallant]
+link:presenters.html#XJonathantheJPsterPallant[Jonathan 'theJPster' Pallant] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Jonathan_Pallant_-_Grease_-_An_introduction_to_message_passing_protocol_stacks_in_Rust.pdf[(slides)]
 
 |15:30
 5+^|Break
@@ -381,7 +396,7 @@ link:presenters.html#XArneMertz[Arne Mertz]
 5+^|Break
 
 |18:00
-5+^|Lightning Talks (1 hour, Bristol Suite)
+5+^|Lightning Talks (1 hour, Bristol Suite) link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Lightning_Talks_-_Friday.pdf[(slides)]
 
 |19:00
 5+^|Bloomberg Event
@@ -414,7 +429,8 @@ link:presenters.html#XFelixPetriconi[Felix Petriconi]
 link:presenters.html#XSergeyIgnatchenko[Sergey Ignatchenko]
 |link:sessions.html#XCreatinganIncrementalArchitectureforyourSystem[Creating an Incremental Architecture for your System] +
  +
-link:presenters.html#XGiovanniAsproni[Giovanni Asproni]
+link:presenters.html#XGiovanniAsproni[Giovanni Asproni] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Giovanni_Asproni_-_Creating_An_Incremental_Architecture.pdf[(slides)]
 |TBC
 
 |11:00
@@ -424,10 +440,12 @@ link:presenters.html#XGiovanniAsproni[Giovanni Asproni]
 |link:sessions.html#XThemightychallengeofmodellinggeopoliticalbehaviourinTotalWarhowAIcandeliverentertainment[The mighty challenge of modelling geopolitical behaviour in Total War: how AI can deliver entertainment.] +
  +
 link:presenters.html#XGuyDavidson[Guy Davidson] +
-link:presenters.html#XDuyguCakmak[Duygu Cakmak]
+link:presenters.html#XDuyguCakmak[Duygu Cakmak] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Guy_Davidson_Duygu_Cakmak_-_How_AI_can_deliver_entertainment_in_Total_War.pdf[(slides)]
 |link:sessions.html#XZeroallocationandnotypeerasurefutures[Zero-allocation & no type erasure futures] +
  +
-link:presenters.html#XVittorioRomeo[Vittorio Romeo]
+link:presenters.html#XVittorioRomeo[Vittorio Romeo] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Vittorio_Romeo_-_Zero_allocation_no_type_erasure_futures.pdf[(slides)]
 |link:sessions.html#XMonolithicDelivery[Monolithic Delivery] +
  +
 link:presenters.html#XChrisOldwood[Chris Oldwood]
@@ -436,7 +454,8 @@ link:presenters.html#XChrisOldwood[Chris Oldwood]
 link:presenters.html#XVigneshwerDhinakaran[Vigneshwer Dhinakaran]
 |link:sessions.html#XScriptingGit[Scripting Git] +
  +
-link:presenters.html#XCBBailey[CB Bailey]
+link:presenters.html#XCBBailey[CB Bailey] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/CB_Bailey_-_Scripting_Git.pdf[(slides)]
 
 |13:00
 5+^|Lunch
@@ -453,13 +472,15 @@ link:presenters.html#XCBBailey[CB Bailey]
 link:presenters.html#XMichaelWong[Michael Wong]
 |link:sessions.html#XTypesafeCLOL[Type safe {cpp} – LOL! :-)] +
  +
-link:presenters.html#XBjörnFahller[Björn Fahller]
+link:presenters.html#XBjörnFahller[Björn Fahller] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Bjorn_Fahller_-_Type_safe_c++.pdf[(slides)]
 |link:sessions.html#XBuildingModernNativeApplicationswithGradle[Building Modern Native Applications with Gradle] +
  +
 link:presenters.html#XSchalkCronjé[Schalk Cronjé]
 |link:sessions.html#XTurtlesHillclimbingHammersPaperbags[Turtles! Hill climbing! Hammers! Paper bags!] +
  +
-link:presenters.html#XFrancesBuontempo[Frances Buontempo]
+link:presenters.html#XFrancesBuontempo[Frances Buontempo] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Fran_Buontempo_-_Turtles!_Hill_climbing!_Hammers!_Paper_bags!.pdf[(slides)]
 |link:sessions.html#XHowtobepolitetounicorns[How to be polite to unicorns] +
  +
 link:presenters.html#XOdinHolmes[Odin Holmes]
@@ -470,7 +491,8 @@ link:presenters.html#XOdinHolmes[Odin Holmes]
 |16:30
 5+^|link:sessions.html#XSoftwaredevelopmentlearningtowalkagain[Software development – learning to walk again] +
  +
-link:presenters.html#XSebRose[Seb Rose]
+link:presenters.html#XSebRose[Seb Rose] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Seb_Rose_-_Learning_to_walk.pdf[(slides)]
 
 |17:30
 5+^|Close
