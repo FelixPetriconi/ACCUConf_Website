@@ -1,0 +1,8 @@
+////
+.. title: Attender Reports
+.. type: text
+////
+
+Here we have links to reports by people who attended ACCU 2018 that have been notified or discovered.
+
+* https://petriconi.net/?p=242[Felix Petriconi]
