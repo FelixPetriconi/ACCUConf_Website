@@ -87,7 +87,8 @@ link:presenters.html#XDmitryKandalov[Dmitry Kandalov]
 |14:00
 |link:sessions.html#XNothingisbetterthancopyormove[Nothing is better than copy or move] +
  +
-link:presenters.html#XRogerOrr[Roger Orr]
+link:presenters.html#XRogerOrr[Roger Orr] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Roger_Orr_-_Nothing_is_Better_than_Copy_or_Move.pdf[(slides)]
 |link:sessions.html#X105STLAlgorithmsinLessThananHour[105 STL Algorithms in Less Than an Hour] +
  +
 link:presenters.html#XJonathanBoccara[Jonathan Boccara]
@@ -283,7 +284,8 @@ link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Eoin_Woods_-_Web
 |09:30
 5+^|link:sessions.html#XTheShapeofaProgram[The Shape of a Program] +
  +
-link:presenters.html#XLisaLippincott[Lisa Lippincott]
+link:presenters.html#XLisaLippincott[Lisa Lippincott] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Lisa_Lippincott_-_The_Shape_of_a_Program.pdf[(slides)]
 
 |10:30
 5+^|Break
@@ -305,7 +307,8 @@ link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Kate_Gregory_-_S
 link:presenters.html#XAlisdairMeredith[Alisdair Meredith]
 |link:sessions.html#XGraphsFromNovicetoGraphanista[Graphs: From Novice to Graphanista] +
  +
-link:presenters.html#XDomDavis[Dom Davis]
+link:presenters.html#XDomDavis[Dom Davis] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Dom_Davis_-_From_Graph_to_Graphanista.pdf[(slides)]
 
 |12:30
 5+^|Lunch
@@ -337,6 +340,7 @@ link:presenters.html#XJonJagger[Jon Jagger] +
 link:sessions.html#XIfYou’reHappyandYouKnowItInsidetheMindofaDeveloper[If You’re Happy and You Know It (Inside the Mind of a Developer)] +
  +
 link:presenters.html#XDomDavis[Dom Davis] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Dom_Davis_-\_If_You\'re_Happy_And_You_Know_It_(Inside_The_Mind_of_a_Developer).pdf[(slides)] +
  +
  +
 link:sessions.html#XTalesofCthe6502andtheBBCwithaddedpython[Tales of C, the 6502 and the BBC (with added python)] +
@@ -354,6 +358,7 @@ link:presenters.html#XGailOllis[Gail Ollis] +
 link:sessions.html#XCanIchangemyorganisation[Can I change my organisation?] +
  +
 link:presenters.html#XFelixPetriconi[Felix Petriconi] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Felix_Petriconi_-_Can_I_Change_My_Organisation.pdf[(slides)]
  +
  +
 link:sessions.html#XTheClacksinDiscworldandRoundworld[The Clacks in Discworld and Roundworld] +
@@ -423,7 +428,8 @@ link:presenters.html#XMarshallClow[Marshall Clow] +
 link:presenters.html#XJonathanWakely[Jonathan Wakely]
 |link:sessions.html#XThereIsABetterFuture[There Is A Better Future] +
  +
-link:presenters.html#XFelixPetriconi[Felix Petriconi]
+link:presenters.html#XFelixPetriconi[Felix Petriconi]+
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Felix_Petriconi_-_There_Is_A_New_Future.pdf[(slides)]
 |link:sessions.html#XMultiCoringandNonBlockinginsteadofMultiThreadingorusingReActorstobuildScalableInteractiveDistributedSystems["Multi-Coring" and "Non-Blocking" instead of "Multi-Threading", or using (Re)Actors to build Scalable Interactive Distributed Systems] +
  +
 link:presenters.html#XSergeyIgnatchenko[Sergey Ignatchenko]
