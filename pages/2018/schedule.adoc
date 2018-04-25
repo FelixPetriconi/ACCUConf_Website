@@ -176,6 +176,7 @@ link:presenters.html#XNicolaiJosuttis[Nicolai Josuttis] +
 link:sessions.html#XHowPythonWinsNewFriends[How Python Wins New Friends] +
  +
 link:presenters.html#XSteveHolden[Steve Holden] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Steve_Holden_-_How_Python_Wins_New_Friends.pdf[(slides)]
  +
  +
 link:sessions.html#XTheBadlandsofCProfessionalGameDevelopment[The Badlands of {cpp}: Professional Game Development] +
