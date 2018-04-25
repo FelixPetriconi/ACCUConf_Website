@@ -176,7 +176,7 @@ link:presenters.html#XNicolaiJosuttis[Nicolai Josuttis] +
 link:sessions.html#XHowPythonWinsNewFriends[How Python Wins New Friends] +
  +
 link:presenters.html#XSteveHolden[Steve Holden] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Steve_Holden_-_How_Python_Wins_New_Friends.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Steve_Holden_-_How_Python_Wins_New_Friends.pdf[(slides)] +
  +
  +
 link:sessions.html#XTheBadlandsofCProfessionalGameDevelopment[The Badlands of {cpp}: Professional Game Development] +
@@ -186,25 +186,23 @@ link:presenters.html#XValentinGalea[Valentin Galea] +
  +
 link:sessions.html#XWouldreserveupgradedowngradeMethodsImprovestdshared_mutex[Would 'reserve'/'upgrade'/'downgrade' Methods Improve 'std::shared_mutex'?] +
  +
-link:presenters.html#XJeffreyMendelsohn[Jeffrey Mendelsohn] +
- +
+link:presenters.html#XJeffreyMendelsohn[Jeffrey Mendelsohn]
 
 |link:sessions.html#XHigherorderfunctionsfortherestofus[Higher order functions for the rest of us.] +
  +
 link:presenters.html#XBjörnFahller[Björn Fahller] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Bjorn_Fahller_-_Higher_Order_Functions_for_the_rest_of_us.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Bjorn_Fahller_-_Higher_Order_Functions_for_the_rest_of_us.pdf[(slides)] +
  +
  +
 link:sessions.html#XBootstrappingaLocalCUserGroup[Bootstrapping a Local {cpp} User Group] +
  +
 link:presenters.html#XVictorCiura[Victor Ciura] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Victor_Ciura_-_Bootstrapping_a_Local_C++_User_Group.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Victor_Ciura_-_Bootstrapping_a_Local_C++_User_Group.pdf[(slides)] +
  +
  +
 link:sessions.html#XBuildingaTechCommunityintheEastfromalmostNothing[Building a Tech Community in the East from (almost) Nothing] +
  +
-link:presenters.html#XPaulGrenyer[Paul Grenyer] +
- +
+link:presenters.html#XPaulGrenyer[Paul Grenyer]
 
 
 |12:30
@@ -348,9 +346,6 @@ link:sessions.html#XTalesofCthe6502andtheBBCwithaddedpython[Tales of C, the 6502
  +
 link:presenters.html#XBenjaminMisell[Benjamin Misell ] +
 link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Benjamin_Misell_-_Tales_of_C_the_6502_and_the_BBC.pdf[(slides)]
- +
- +
-
 |link:sessions.html#XWhatsnewaboutfakenews[What's new about fake news?] +
  +
 link:presenters.html#XGailOllis[Gail Ollis] +
@@ -359,7 +354,7 @@ link:presenters.html#XGailOllis[Gail Ollis] +
 link:sessions.html#XCanIchangemyorganisation[Can I change my organisation?] +
  +
 link:presenters.html#XFelixPetriconi[Felix Petriconi] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Felix_Petriconi_-_Can_I_Change_My_Organisation.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Felix_Petriconi_-_Can_I_Change_My_Organisation.pdf[(slides)] +
  +
  +
 link:sessions.html#XTheClacksinDiscworldandRoundworld[The Clacks in Discworld and Roundworld] +
@@ -371,8 +366,6 @@ link:sessions.html#XWhatarehashtreesandwhyyoushouldcare[What are hash trees and 
  +
 link:presenters.html#XAhtoTruu[Ahto Truu] +
 link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Ahto_Truu_-_Hash_Trees.pdf[(slides)]
- +
-
 |link:sessions.html#XGreaseAMessagePassingApproachtoProtocolStacksinRust[Grease: A Message-Passing Approach to Protocol Stacks in Rust] +
  +
 link:presenters.html#XJonathantheJPsterPallant[Jonathan 'theJPster' Pallant] +
