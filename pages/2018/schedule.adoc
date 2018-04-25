@@ -117,7 +117,7 @@ link:presenters.html#XNicolaiJosuttis[Nicolai Josuttis]
  +
 link:presenters.html#XWojciechBasalaj[Wojciech Basalaj] +
 link:presenters.html#XRichardCorden[Richard Corden] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/WojciechBasalaj_RichardCorden_-_How_to_avoid_bottlenecks_when_converting_serial_code_to_multithreaded.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Wojciech_Basalaj__Richard_Corden_-_How_to_avoid_bottlenecks_when_converting_serial_code_to_multithreaded.pdf[(slides)]
 |link:sessions.html#XAQuantumDataStructureForClassicalComputers[A Quantum Data Structure For Classical Computers] +
  +
 link:presenters.html#XCharleyBay[Charley Bay]
@@ -441,7 +441,7 @@ link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Giovanni_Asproni
  +
 link:presenters.html#XGuyDavidson[Guy Davidson] +
 link:presenters.html#XDuyguCakmak[Duygu Cakmak] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Guy_Davidson_Duygu_Cakmak_-_How_AI_can_deliver_entertainment_in_Total_War.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Guy_Davidson__Duygu_Cakmak_-_How_AI_can_deliver_entertainment_in_Total_War.pdf[(slides)]
 |link:sessions.html#XZeroallocationandnotypeerasurefutures[Zero-allocation & no type erasure futures] +
  +
 link:presenters.html#XVittorioRomeo[Vittorio Romeo] +

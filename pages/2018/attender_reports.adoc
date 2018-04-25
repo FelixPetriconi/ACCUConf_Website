@@ -7,3 +7,4 @@ Here we have links to reports by people who attended ACCU 2018 that have been no
 
 * https://petriconi.net/?p=242[Felix Petriconi]
 * https://mropert.github.io/2018/04/20/accu_2018/[Mathieu Ropert]
+* https://blog.jetbrains.com/clion/2018/04/accu-conf-2018-trip-report/[Anastasia Kazakova, Timur Doumler,  and Phil Nash of JetBrains]
