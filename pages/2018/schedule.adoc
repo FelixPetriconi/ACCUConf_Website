@@ -243,7 +243,6 @@ link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Hubert_Matthews_
 |link:sessions.html#XProceduralProgrammingItsBackItNeverWentAway[Procedural Programming: It's Back? It Never Went Away] +
  +
 link:presenters.html#XKevlinHenney[Kevlin Henney] +
-
 link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Kevlin_Henney_-_Procedural_Programming_It\'s_Back_It_Never_Went_Away.pdf[(slides)]
 |link:sessions.html#XParallelDesignPatternsandStreamParallelism[Parallel Design Patterns and Stream Parallelism] +
  +
