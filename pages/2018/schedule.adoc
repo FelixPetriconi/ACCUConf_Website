@@ -61,7 +61,8 @@ link:presenters.html#XGenAshley[Gen Ashley]
 |11:00
 |link:sessions.html#XDesigningmultithreadedcodeforscalability[Designing multithreaded code for scalability] +
  +
-link:presenters.html#XAnthonyWilliams[Anthony Williams]
+link:presenters.html#XAnthonyWilliams[Anthony Williams] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Anthony_Williams_-_Designing_Multithreaded_Code_for_Scalability.pdf[(slides)]
 |link:sessions.html#XRuntimePolymorphismBacktotheBasics[Runtime Polymorphism: Back to the Basics] +
  +
 link:presenters.html#XLouisDionne[Louis Dionne]
@@ -232,7 +233,8 @@ link:presenters.html#XPeterSommerlad[Peter Sommerlad] +
 link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Peter_Sommerlad_-_Mocking_Frameworks.pdf[(slides)]
 |link:sessions.html#XReadandwriteconsideredharmful[Read and write considered harmful] +
  +
-link:presenters.html#XHubertMatthews[Hubert Matthews]
+link:presenters.html#XHubertMatthews[Hubert Matthews] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Hubert_Matthews_-_Read_and_Write_Considered_Harmful.pdf[(slides)]
 
 |15:30
 5+^|Break
@@ -240,7 +242,9 @@ link:presenters.html#XHubertMatthews[Hubert Matthews]
 |16:00
 |link:sessions.html#XProceduralProgrammingItsBackItNeverWentAway[Procedural Programming: It's Back? It Never Went Away] +
  +
-link:presenters.html#XKevlinHenney[Kevlin Henney]
+link:presenters.html#XKevlinHenney[Kevlin Henney] +
+
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Kevlin_Henney_-_Procedural_Programming_It\'s_Back_It_Never_Went_Away.pdf[(slides)]
 |link:sessions.html#XParallelDesignPatternsandStreamParallelism[Parallel Design Patterns and Stream Parallelism] +
  +
 link:presenters.html#XJDanielGarcia[J. Daniel Garcia] +
