@@ -327,7 +327,7 @@ link:https://www.youtube.com/watch?v=4CdmGxc5BpU[(video)]
 |link:sessions.html#XCAPIandABIversioning[{cpp} API & ABI versioning] +
  +
 link:presenters.html#XMathieuRopert[Mathieu Ropert] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Mathieu_Ropert_-_API_&_ABI_Versioning.pdf[(slides)] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Mathieu_Ropert_-\_API_&_ABI_Versioning.pdf[(slides)] +
 link:https://www.youtube.com/watch?v=455A97XJLNk[(video)]
 |link:sessions.html#XSimplicitynotjustforbeginners[Simplicity: not just for beginners] +
  +
