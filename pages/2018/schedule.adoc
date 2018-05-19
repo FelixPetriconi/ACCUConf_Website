@@ -209,7 +209,7 @@ link:https://www.youtube.com/watch?v=cBs3TQXnZqw[(video)]
 |link:sessions.html#XHigherorderfunctionsfortherestofus[Higher order functions for the rest of us.] +
  +
 link:presenters.html#XBjörnFahller[Björn Fahller] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Bjorn_Fahller_-_Higher_Order_Functions_for_the_rest_of_us.pdf[(slides)] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Bjorn_Fahller_-\_Higher_Order_Functions_for_the_rest_of_us.pdf[(slides)] +
  +
  +
 link:sessions.html#XBootstrappingaLocalCUserGroup[Bootstrapping a Local {cpp} User Group] +
