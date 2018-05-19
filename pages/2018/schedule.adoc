@@ -395,7 +395,7 @@ link:https://www.youtube.com/watch?v=JDQEh-F_jxc[(video)] +
 link:sessions.html#XCanIchangemyorganisation[Can I change my organisation?] +
  +
 link:presenters.html#XFelixPetriconi[Felix Petriconi] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Felix_Petriconi_-_Can_I_Change_My_Organisation.pdf[(slides)] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Felix_Petriconi_-\_Can_I_Change_My_Organisation.pdf[(slides)] +
 link:https://www.youtube.com/watch?v=dQswjKAZBWM[(video)] +
  +
  +
