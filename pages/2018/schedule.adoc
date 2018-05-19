@@ -412,7 +412,7 @@ link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Ahto_Truu_-_Hash
 |link:sessions.html#XGreaseAMessagePassingApproachtoProtocolStacksinRust[Grease: A Message-Passing Approach to Protocol Stacks in Rust] +
  +
 link:presenters.html#XJonathantheJPsterPallant[Jonathan 'theJPster' Pallant] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Jonathan_Pallant_-_Grease_-_An_introduction_to_message_passing_protocol_stacks_in_Rust.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Jonathan_Pallant_-\_Grease_-_An_introduction_to_message_passing_protocol_stacks_in_Rust.pdf[(slides)]
 
 |15:30
 5+^|Break
