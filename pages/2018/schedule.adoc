@@ -53,7 +53,8 @@ link:presenters.html#XFlorianGilcher[Florian Gilcher]
 |09:30
 5+^|link:sessions.html#XDiversityandInclusivityinTech[Diversity & Inclusivity in Tech] +
  +
-link:presenters.html#XGenAshley[Gen Ashley]
+link:presenters.html#XGenAshley[Gen Ashley] +
+link:https://www.youtube.com/watch?v=FQ5kQElkar0[(video)]
 
 |10:30
 5+^|Break
@@ -65,13 +66,15 @@ link:presenters.html#XAnthonyWilliams[Anthony Williams] +
 link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Anthony_Williams_-_Designing_Multithreaded_Code_for_Scalability.pdf[(slides)]
 |link:sessions.html#XRuntimePolymorphismBacktotheBasics[Runtime Polymorphism: Back to the Basics] +
  +
-link:presenters.html#XLouisDionne[Louis Dionne]
+link:presenters.html#XLouisDionne[Louis Dionne] +
+link:https://www.youtube.com/watch?v=H8lFldGvt9w[(video)]
 |link:sessions.html#XFightingthecontrolstragedyandmadnessforpilotsandprogrammers[Fighting the controls: tragedy and madness for pilots and programmers] +
  +
 link:presenters.html#XDanieleProcida[Daniele Procida]
 |link:sessions.html#XSwiftDrivenDevelopment[Swift Driven Development] +
  +
-link:presenters.html#XPhilNash[Phil Nash]
+link:presenters.html#XPhilNash[Phil Nash] +
+link:https://www.youtube.com/watch?v=ZeuY_B8rx1Q[(video)]
 |link:sessions.html#XCoroutinesexplained[Coroutines explained] +
  +
 link:presenters.html#XDmitryKandalov[Dmitry Kandalov]
@@ -89,10 +92,12 @@ link:presenters.html#XDmitryKandalov[Dmitry Kandalov]
 |link:sessions.html#XNothingisbetterthancopyormove[Nothing is better than copy or move] +
  +
 link:presenters.html#XRogerOrr[Roger Orr] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Roger_Orr_-_Nothing_is_Better_than_Copy_or_Move.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Roger_Orr_-_Nothing_is_Better_than_Copy_or_Move.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=-dc5vqt2tgA[(video)]
 |link:sessions.html#X105STLAlgorithmsinLessThananHour[105 STL Algorithms in Less Than an Hour] +
  +
-link:presenters.html#XJonathanBoccara[Jonathan Boccara]
+link:presenters.html#XJonathanBoccara[Jonathan Boccara] +
+link:https://www.youtube.com/watch?v=bXkWuUe9V2I[(video)]
 |link:sessions.html#XPlayingwithProjections[Playing with Projections] +
  +
 link:presenters.html#XMichelGrootjans[Michel Grootjans]
@@ -103,7 +108,8 @@ link:presenters.html#XChrisOldwood[Chris Oldwood]
 |link:sessions.html#XSchemeLispFeeltheCool[Scheme Lisp: Feel the Cool] +
  +
 link:presenters.html#XAndyBalaam[Andy Balaam] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Andy_Balaam_-_Scheme_Feel_the_Cool.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Andy_Balaam_-_Scheme_Feel_the_Cool.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=tA1clbGDczI[(video)]
 
 |15:30
 5+^|Break
@@ -111,10 +117,12 @@ link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Andy_Balaam_-_Sc
 |16:00
 |link:sessions.html#XIjustwantedtopointtosomething[I just wanted to point to something!] +
  +
-link:presenters.html#XJonathanMüller[Jonathan Müller]
+link:presenters.html#XJonathanMüller[Jonathan Müller] +
+link:https://www.youtube.com/watch?v=B34LP4TS824[(video)]
 |link:sessions.html#XCTemplatesRevised[{cpp} Templates Revised] +
  +
-link:presenters.html#XNicolaiJosuttis[Nicolai Josuttis]
+link:presenters.html#XNicolaiJosuttis[Nicolai Josuttis] +
+link:https://www.youtube.com/watch?v=9PFMllbyaLM[(video)]
 |link:sessions.html#XHowtoavoidbottleneckswhenconvertingserialcodetomultithreaded[How to avoid bottlenecks when converting serial code to multithreaded] +
  +
 link:presenters.html#XWojciechBasalaj[Wojciech Basalaj] +
@@ -122,10 +130,12 @@ link:presenters.html#XRichardCorden[Richard Corden] +
 link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Wojciech_Basalaj__Richard_Corden_-_How_to_avoid_bottlenecks_when_converting_serial_code_to_multithreaded.pdf[(slides)]
 |link:sessions.html#XAQuantumDataStructureForClassicalComputers[A Quantum Data Structure For Classical Computers] +
  +
-link:presenters.html#XCharleyBay[Charley Bay]
+link:presenters.html#XCharleyBay[Charley Bay] +
+link:https://www.youtube.com/watch?v=2ZxKZHiASEg[(video)]
 |link:sessions.html#XThreeyearsofRustAlookaround[Three years of Rust - A look around] +
  +
-link:presenters.html#XFlorianGilcher[Florian Gilcher]
+link:presenters.html#XFlorianGilcher[Florian Gilcher] +
+link:https://www.youtube.com/watch?v=S6vIekisOJA[(video)]
 
 |17:30
 5+^|Break
@@ -154,7 +164,8 @@ link:presenters.html#XFlorianGilcher[Florian Gilcher]
 |09:30
 5+^|link:sessions.html#XKotlinNativeEmbracingexistingecosystems[Kotlin/Native – Embracing existing ecosystems] +
  +
-link:presenters.html#XHadiHariri[Hadi Hariri]
+link:presenters.html#XHadiHariri[Hadi Hariri] +
+link:https://www.youtube.com/watch?v=3K3oQ22nqfo[(video)]
 
 |10:30
 5+^|Break
@@ -162,37 +173,43 @@ link:presenters.html#XHadiHariri[Hadi Hariri]
 |11:00
 |link:sessions.html#XClassTemplateArgumentDeductioninC17[Class Template Argument Deduction in {cpp}17] +
  +
-link:presenters.html#XTimurDoumler[Timur Doumler]
+link:presenters.html#XTimurDoumler[Timur Doumler] +
+link:https://www.youtube.com/watch?v=STJExxBU54M[(video)]
 |link:sessions.html#XFinallyExecutorsforC[Finally Executors for {cpp}] +
  +
-link:presenters.html#XDetlefVollmann[Detlef Vollmann]
+link:presenters.html#XDetlefVollmann[Detlef Vollmann] +
+link:https://www.youtube.com/watch?v=Q8SWwKVg-mM[(video)]
 |link:sessions.html#XHownottoleadateamofsoftwareprofessionals[How not to lead a team of software professionals] +
  +
 link:presenters.html#XArjanvanLeeuwen[Arjan van Leeuwen]
 |link:sessions.html#XC17TheBestFeatures[{cpp}17 - The Best Features] +
  +
 link:presenters.html#XNicolaiJosuttis[Nicolai Josuttis] +
+link:https://www.youtube.com/watch?v=e2ZQyYr0Oi0[(video)] +
  +
  +
 link:sessions.html#XHowPythonWinsNewFriends[How Python Wins New Friends] +
  +
 link:presenters.html#XSteveHolden[Steve Holden] +
 link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Steve_Holden_-_How_Python_Wins_New_Friends.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=UjHQs2Ow1fY[(video)] +
  +
  +
 link:sessions.html#XTheBadlandsofCProfessionalGameDevelopment[The Badlands of {cpp}: Professional Game Development] +
  +
 link:presenters.html#XValentinGalea[Valentin Galea] +
+link:https://www.youtube.com/watch?v=wPvoeTTBzdY[(video)] +
  +
  +
 link:sessions.html#XWouldreserveupgradedowngradeMethodsImprovestdshared_mutex[Would 'reserve'/'upgrade'/'downgrade' Methods Improve 'std::shared_mutex'?] +
  +
-link:presenters.html#XJeffreyMendelsohn[Jeffrey Mendelsohn]
+link:presenters.html#XJeffreyMendelsohn[Jeffrey Mendelsohn] +
+link:https://www.youtube.com/watch?v=cBs3TQXnZqw[(video)]
 
 |link:sessions.html#XHigherorderfunctionsfortherestofus[Higher order functions for the rest of us.] +
  +
 link:presenters.html#XBjörnFahller[Björn Fahller] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Bjorn_Fahller_-_Higher_Order_Functions_for_the_rest_of_us.pdf[(slides)] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Bjorn_Fahller_-\_Higher_Order_Functions_for_the_rest_of_us.pdf[(slides)] +
  +
  +
 link:sessions.html#XBootstrappingaLocalCUserGroup[Bootstrapping a Local {cpp} User Group] +
@@ -203,7 +220,8 @@ link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Victor_Ciura_-_B
  +
 link:sessions.html#XBuildingaTechCommunityintheEastfromalmostNothing[Building a Tech Community in the East from (almost) Nothing] +
  +
-link:presenters.html#XPaulGrenyer[Paul Grenyer]
+link:presenters.html#XPaulGrenyer[Paul Grenyer] +
+link:https://www.youtube.com/watch?v=dfMFLO4zz9U[(video)]
 
 
 |12:30
@@ -218,10 +236,12 @@ link:presenters.html#XPaulGrenyer[Paul Grenyer]
 |14:00
 |link:sessions.html#XCModulesandLargeScaleDevelopment[{cpp} Modules and Large-Scale Development] +
  +
-link:presenters.html#XJohnLakos[John Lakos]
+link:presenters.html#XJohnLakos[John Lakos] +
+link:https://www.youtube.com/watch?v=HmI1XFEu_uY[(video)]
 |link:sessions.html#XConceptBasedTesting[Concept Based Testing] +
  +
-link:presenters.html#XDietmarKühl[Dietmar Kühl]
+link:presenters.html#XDietmarKühl[Dietmar Kühl] +
+link:https://www.youtube.com/watch?v=RI-dHvAcLEU[(video)]
 |link:sessions.html#XSimplytheBestOptimisingwithanEvolutionaryComputingFramework[Simply the Best: Optimising with an Evolutionary Computing Framework] +
  +
 link:presenters.html#XFrancesBuontempo[Frances Buontempo] +
@@ -230,11 +250,13 @@ link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Chris_Simon_-_Si
 |link:sessions.html#XMockingFramworksconsideredharmful[Mocking Framworks considered, harmful?!] +
  +
 link:presenters.html#XPeterSommerlad[Peter Sommerlad] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Peter_Sommerlad_-_Mocking_Frameworks.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Peter_Sommerlad_-_Mocking_Frameworks.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=SmevUyVendA[(video)]
 |link:sessions.html#XReadandwriteconsideredharmful[Read and write considered harmful] +
  +
 link:presenters.html#XHubertMatthews[Hubert Matthews] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Hubert_Matthews_-_Read_and_Write_Considered_Harmful.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Hubert_Matthews_-_Read_and_Write_Considered_Harmful.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=TFETtW86zAc[(video)]
 
 |15:30
 5+^|Break
@@ -243,21 +265,25 @@ link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Hubert_Matthews_
 |link:sessions.html#XProceduralProgrammingItsBackItNeverWentAway[Procedural Programming: It's Back? It Never Went Away] +
  +
 link:presenters.html#XKevlinHenney[Kevlin Henney] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Kevlin_Henney_-_Procedural_Programming_It\'s_Back_It_Never_Went_Away.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Kevlin_Henney_-_Procedural_Programming_It\'s_Back_It_Never_Went_Away.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=mrY6xrWp3Gs[(video)]
 |link:sessions.html#XParallelDesignPatternsandStreamParallelism[Parallel Design Patterns and Stream Parallelism] +
  +
 link:presenters.html#XJDanielGarcia[J. Daniel Garcia] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/J_Daniel_Garcia_-_Parallel_design_patterns_and_stream_parallelism.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/J_Daniel_Garcia_-_Parallel_design_patterns_and_stream_parallelism.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=o3Mid_t8nbY[(video)]
 |link:sessions.html#XCCountdownPubQuiz[{cpp} Countdown Pub Quiz] +
  +
 link:presenters.html#XJonJagger[Jon Jagger]
 |link:sessions.html#XAlchemicalCodeRejuvenation[Alchemical Code Rejuvenation] +
  +
-link:presenters.html#XUbertoBarbini[Uberto Barbini]
+link:presenters.html#XUbertoBarbini[Uberto Barbini] +
+link:https://www.youtube.com/watch?v=koGpF1solzM[(video)]
 |link:sessions.html#XCommonWebappVulnerabilitiesandWhattoDoAboutThem[Common Webapp Vulnerabilities and What to Do About Them] +
  +
 link:presenters.html#XEoinWoods[Eoin Woods] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Eoin_Woods_-_Web_Security_Threats.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Eoin_Woods_-_Web_Security_Threats.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=Z6mRVgpgNyk[(video)]
 
 |17:30
 5+^|Break
@@ -287,7 +313,8 @@ link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Eoin_Woods_-_Web
 5+^|link:sessions.html#XTheShapeofaProgram[The Shape of a Program] +
  +
 link:presenters.html#XLisaLippincott[Lisa Lippincott] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Lisa_Lippincott_-_The_Shape_of_a_Program.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Lisa_Lippincott_-_The_Shape_of_a_Program.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=IP5akjPwqEA[(video)]
 
 |10:30
 5+^|Break
@@ -295,18 +322,22 @@ link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Lisa_Lippincott_
 |11:00
 |link:sessions.html#XLinuxUserKernelABItheoftensurprisingrealitiesofhowCandCprogramsreallytalktotheOS[Linux User/Kernel ABI: the often surprising realities of how C and {cpp} programs really talk to the OS] +
  +
-link:presenters.html#XGregLaw[Greg Law]
+link:presenters.html#XGregLaw[Greg Law] +
+link:https://www.youtube.com/watch?v=4CdmGxc5BpU[(video)]
 |link:sessions.html#XCAPIandABIversioning[{cpp} API & ABI versioning] +
  +
 link:presenters.html#XMathieuRopert[Mathieu Ropert] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Mathieu_Ropert_-_API_&_ABI_Versioning.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Mathieu_Ropert_-\_API_&_ABI_Versioning.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=455A97XJLNk[(video)]
 |link:sessions.html#XSimplicitynotjustforbeginners[Simplicity: not just for beginners] +
  +
 link:presenters.html#XKateGregory[Kate Gregory] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Kate_Gregory_-_Simplicity.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Kate_Gregory_-_Simplicity.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=O50qTuM5OT0[(video)]
 |link:sessions.html#XTheIncredibleShrinkingStandard[The Incredible Shrinking Standard] +
  +
-link:presenters.html#XAlisdairMeredith[Alisdair Meredith]
+link:presenters.html#XAlisdairMeredith[Alisdair Meredith] +
+link:https://www.youtube.com/watch?v=YTV2frD1W4Y[(video)]
 |link:sessions.html#XGraphsFromNovicetoGraphanista[Graphs: From Novice to Graphanista] +
  +
 link:presenters.html#XDomDavis[Dom Davis] +
@@ -324,45 +355,54 @@ link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Dom_Davis_-_From
 |14:00
 |link:sessions.html#XCTodayTheBeastisBack[{cpp} Today: The Beast is Back] +
  +
-link:presenters.html#XJonKalb[Jon Kalb]
+link:presenters.html#XJonKalb[Jon Kalb] +
+link:https://www.youtube.com/watch?v=ZDZHSGFMdw0[(video)]
 |link:sessions.html#XDebugCWithoutRunning[Debug {cpp} Without Running] +
  +
 link:presenters.html#XAnastasiaKazakova[Anastasia Kazakova] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Anastasia_Kazakova_-_Debug_CPP_no_Running.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Anastasia_Kazakova_-_Debug_CPP_no_Running.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=GkedFz5XF-o[(video)]
 |link:sessions.html#XHackersguidetoWebAssembly[Hacker's guide to Web Assembly] +
  +
 link:presenters.html#XVigneshwerDhinakaran[Vigneshwer Dhinakaran] +
+link:https://www.youtube.com/watch?v=hjUtw73GqI0[(video)] +
  +
  +
 link:sessions.html#XTheongoingdesignandevolutionofcyberdojo[The ongoing design and evolution of cyber-dojo] +
  +
 link:presenters.html#XJonJagger[Jon Jagger] +
+link:https://www.youtube.com/watch?v=xASV4yNPIMw[(video)] +
  +
  +
 link:sessions.html#XIfYou’reHappyandYouKnowItInsidetheMindofaDeveloper[If You’re Happy and You Know It (Inside the Mind of a Developer)] +
  +
 link:presenters.html#XDomDavis[Dom Davis] +
 link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Dom_Davis_-\_If_You\'re_Happy_And_You_Know_It_(Inside_The_Mind_of_a_Developer).pdf[(slides)] +
+link:https://www.youtube.com/watch?v=2e6a-sim5uI[(video)] +
  +
  +
 link:sessions.html#XTalesofCthe6502andtheBBCwithaddedpython[Tales of C, the 6502 and the BBC (with added python)] +
  +
 link:presenters.html#XBenjaminMisell[Benjamin Misell ] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Benjamin_Misell_-_Tales_of_C_the_6502_and_the_BBC.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Benjamin_Misell_-_Tales_of_C_the_6502_and_the_BBC.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=L3pihTWPcKI[(video)]
 |link:sessions.html#XWhatsnewaboutfakenews[What's new about fake news?] +
  +
 link:presenters.html#XGailOllis[Gail Ollis] +
+link:https://www.youtube.com/watch?v=JDQEh-F_jxc[(video)] +
  +
  +
 link:sessions.html#XCanIchangemyorganisation[Can I change my organisation?] +
  +
 link:presenters.html#XFelixPetriconi[Felix Petriconi] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Felix_Petriconi_-_Can_I_Change_My_Organisation.pdf[(slides)] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Felix_Petriconi_-\_Can_I_Change_My_Organization.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=dQswjKAZBWM[(video)] +
  +
  +
 link:sessions.html#XTheClacksinDiscworldandRoundworld[The Clacks in Discworld and Roundworld] +
  +
 link:presenters.html#XJimHague[Jim Hague] +
+link:https://www.youtube.com/watch?v=M5anYrZeXIU[(video)] +
  +
  +
 link:sessions.html#XWhatarehashtreesandwhyyoushouldcare[What are hash trees and why you should care] +
@@ -372,7 +412,7 @@ link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Ahto_Truu_-_Hash
 |link:sessions.html#XGreaseAMessagePassingApproachtoProtocolStacksinRust[Grease: A Message-Passing Approach to Protocol Stacks in Rust] +
  +
 link:presenters.html#XJonathantheJPsterPallant[Jonathan 'theJPster' Pallant] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Jonathan_Pallant_-_Grease_-_An_introduction_to_message_passing_protocol_stacks_in_Rust.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Jonathan_Pallant_-\_Grease_-_An_introduction_to_message_passing_protocol_stacks_in_Rust.pdf[(slides)]
 
 |15:30
 5+^|Break
@@ -383,13 +423,16 @@ link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Jonathan_Pallant
 link:presenters.html#XAlexVoicu[Alex Voicu]
 |link:sessions.html#XGrilltheCCommittee[Grill the {cpp} Committee] +
  +
-link:presenters.html#XJonKalb[Jon Kalb]
+link:presenters.html#XJonKalb[Jon Kalb] +
+link:https://www.youtube.com/watch?v=YAP_xTsapW0[(video)]
 |link:sessions.html#XCryptographyforProgrammers[Cryptography for Programmers] +
  +
-link:presenters.html#XDanielJames[Daniel James]
+link:presenters.html#XDanielJames[Daniel James] +
+link:https://www.youtube.com/watch?v=3wiYUEyXC00[(video)]
 |link:sessions.html#XThefantasticfourcodingpatternsofContinuousDelivery[The fantastic four coding patterns of Continuous Delivery] +
  +
-link:presenters.html#XLucaMinudel[Luca Minudel]
+link:presenters.html#XLucaMinudel[Luca Minudel] +
+link:https://www.youtube.com/watch?v=rw9I39nUkXI[(video)]
 |link:sessions.html#XCodeReviewsWhyWhatandHow[Code Reviews: Why, What and How] +
  +
 link:presenters.html#XArneMertz[Arne Mertz]
@@ -422,18 +465,21 @@ link:presenters.html#XArneMertz[Arne Mertz]
 |link:sessions.html#XThese10tricksthatonlylibraryimplementorsknow[These 10 tricks that only library implementors know!] +
  +
 link:presenters.html#XMarshallClow[Marshall Clow] +
-link:presenters.html#XJonathanWakely[Jonathan Wakely]
+link:presenters.html#XJonathanWakely[Jonathan Wakely] +
+link:https://www.youtube.com/watch?v=wYd2V4nPn0E[(video)]
 |link:sessions.html#XThereIsABetterFuture[There Is A Better Future] +
  +
 link:presenters.html#XFelixPetriconi[Felix Petriconi]+
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Felix_Petriconi_-_There_Is_A_New_Future.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Felix_Petriconi_-_There_Is_A_New_Future.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=L63XGqiNuhI[(video)]
 |link:sessions.html#XMultiCoringandNonBlockinginsteadofMultiThreadingorusingReActorstobuildScalableInteractiveDistributedSystems["Multi-Coring" and "Non-Blocking" instead of "Multi-Threading", or using (Re)Actors to build Scalable Interactive Distributed Systems] +
  +
 link:presenters.html#XSergeyIgnatchenko[Sergey Ignatchenko]
 |link:sessions.html#XCreatinganIncrementalArchitectureforyourSystem[Creating an Incremental Architecture for your System] +
  +
 link:presenters.html#XGiovanniAsproni[Giovanni Asproni] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Giovanni_Asproni_-_Creating_An_Incremental_Architecture.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Giovanni_Asproni_-_Creating_An_Incremental_Architecture.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=914131UWAas[(video)]
 |TBC
 
 |11:00
@@ -444,17 +490,21 @@ link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Giovanni_Asproni
  +
 link:presenters.html#XGuyDavidson[Guy Davidson] +
 link:presenters.html#XDuyguCakmak[Duygu Cakmak] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Guy_Davidson__Duygu_Cakmak_-_How_AI_can_deliver_entertainment_in_Total_War.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Guy_Davidson__Duygu_Cakmak_-_How_AI_can_deliver_entertainment_in_Total_War.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=Km2U-R42XlU[(video)]
 |link:sessions.html#XZeroallocationandnotypeerasurefutures[Zero-allocation & no type erasure futures] +
  +
 link:presenters.html#XVittorioRomeo[Vittorio Romeo] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Vittorio_Romeo_-_Zero_allocation_no_type_erasure_futures.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Vittorio_Romeo_-_Zero_allocation_no_type_erasure_futures.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=GehO6LPu4qA[(video)]
 |link:sessions.html#XMonolithicDelivery[Monolithic Delivery] +
  +
-link:presenters.html#XChrisOldwood[Chris Oldwood]
+link:presenters.html#XChrisOldwood[Chris Oldwood] +
+link:https://www.youtube.com/watch?v=FVEmhWJQYwk[(video)]
 |link:sessions.html#XHackersguidetoRustProgramming[Hacker's guide to Rust Programming] +
  +
-link:presenters.html#XVigneshwerDhinakaran[Vigneshwer Dhinakaran]
+link:presenters.html#XVigneshwerDhinakaran[Vigneshwer Dhinakaran] +
+link:https://www.youtube.com/watch?v=3ftgMBXub5w[(video)]
 |link:sessions.html#XScriptingGit[Scripting Git] +
  +
 link:presenters.html#XCBBailey[CB Bailey] +
@@ -472,18 +522,22 @@ link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/CB_Bailey_-_Scri
 |14:30
 |link:sessions.html#XHeterogeneousProgramminginCtoday[Heterogeneous Programming in {cpp} today] +
  +
-link:presenters.html#XMichaelWong[Michael Wong]
+link:presenters.html#XMichaelWong[Michael Wong] +
+link:https://www.youtube.com/watch?v=1kOGbxnpt6M[(video)]
 |link:sessions.html#XTypesafeCLOL[Type safe {cpp} – LOL! :-)] +
  +
 link:presenters.html#XBjörnFahller[Björn Fahller] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Bjorn_Fahller_-_Type_safe_c++.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Bjorn_Fahller_-_Type_safe_c++.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=SWHvNvY-PHw[(video)]
 |link:sessions.html#XBuildingModernNativeApplicationswithGradle[Building Modern Native Applications with Gradle] +
  +
-link:presenters.html#XSchalkCronjé[Schalk Cronjé]
+link:presenters.html#XSchalkCronjé[Schalk Cronjé] +
+link:https://www.youtube.com/watch?v=kCyLn2zC-Vs[(video)]
 |link:sessions.html#XTurtlesHillclimbingHammersPaperbags[Turtles! Hill climbing! Hammers! Paper bags!] +
  +
 link:presenters.html#XFrancesBuontempo[Frances Buontempo] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Fran_Buontempo_-_Turtles!_Hill_climbing!_Hammers!_Paper_bags!.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Fran_Buontempo_-_Turtles!_Hill_climbing!_Hammers!_Paper_bags!.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=1bg1nF4E9dY[(video)]
 |link:sessions.html#XHowtobepolitetounicorns[How to be polite to unicorns] +
  +
 link:presenters.html#XOdinHolmes[Odin Holmes]
@@ -495,7 +549,8 @@ link:presenters.html#XOdinHolmes[Odin Holmes]
 5+^|link:sessions.html#XSoftwaredevelopmentlearningtowalkagain[Software development – learning to walk again] +
  +
 link:presenters.html#XSebRose[Seb Rose] +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Seb_Rose_-_Learning_to_walk.pdf[(slides)]
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Seb_Rose_-_Learning_to_walk.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=iFwm-_04rLg[(video)]
 
 |17:30
 5+^|Close
