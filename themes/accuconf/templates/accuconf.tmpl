@@ -13,20 +13,18 @@
 {% endmacro %}
 
 
-<!--
-	<a href="http://www.cvent.com/d/6tqq15"><img class="img-responsive" src="/assets/images/register_2018.jpg" alt="Register Now icon" align="right" width="200"></a>
--->
+<!-- a href="http://www.cvent.com/d/6tqq15"><img class="img-responsive" src="/assets/images/register_2018.jpg" alt="Register Now icon" align="right" width="200"></a -->
 
 {% macro registerbutton() %}
 {%endmacro %}
 
 {% macro dates() %}
 <ul class="nolist list-group">
-	<li> Call for Proposals: 2017-10-16 to 2017-11-17 </li>
-	<li> Notification Date: 2018-01-22 </li>
-	<li> Schedule Announcement: 2018-01-29 </li>
-	<li> Workshops Day: 2018-04-10 </li>
-	<li> Conference: 2018-04-11 to 2018-04-14 </li>
+	<li> Call for Proposals: 2018-10-05 to 2018-10-26 </li>
+	<li> Notification Date: 2018-01-18 </li>
+	<li> Schedule Announcement: 2018-01-25 </li>
+	<li> Workshops Day: 2019-04-09 </li>
+	<li> Conference: 2019-04-10 to 2019-04-13 </li>
 </ul>
 {% endmacro %}
 
@@ -41,12 +39,8 @@
 </p>
 {% endmacro %}
 
-{% macro sponsors() %}
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title">Sponsors</h3>
-  </div>
-  <div class="panel-body">
+
+<!-- div>
     <p><a href="https://www.techatbloomberg.com/"><img src="/assets/images/2018_SponsorLogos/Bloomberg_black.png" alt="Bloomberg Logo" class="img-responsive img-rounded center-block"/></a></p>
     <br/>
     <p><a href="https://www.jetbrains.com/"><img src="/assets/images/2018_SponsorLogos/Jetbrains_NL.jpg" alt="JetBrains Logo" class="img-responsive img-rounded center-block"/></a></p>
@@ -69,8 +63,18 @@
     <br/>
 	<p><a href="http://www.five.ai/"><img src="/assets/images/2018_SponsorLogos/Five-AI-logo.png" alt="Five AI Logo" class="img-responsive img-rounded center-block"></a></p>
 	<br/>
+<div -->
+
+
+{% macro sponsors() %}
+<!-- div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Sponsors</h3>
   </div>
-</div>
+  <div class="panel-body">
+
+  </div>
+</div -->
 {% endmacro %}
 
 {% macro committee() %}
@@ -116,21 +120,18 @@
 </div>
 {% endmacro %}
 
-<!--
-{% macro current_menu() %}
-{% endmacro %}
--->
-
 {% macro current_menu() %}
 <div class="collapse navbar-collapse" id="bs-navbar" aria-expanded="false">
 	<ul class="nav navbar-nav" id="navigation-links">
 		<li><a href="/news/index.html">News</a></li>
-		<li><a href="/2018/schedule.html">Schedule</a></li>
-		<li><a href="/2018/presenters.html">Presenters</a></li>
-		<li><a href="/2018/sessions.html">Sessions</a></li>
-		<li><a href="/2018/prices.html">Prices</a></li>
-		<li><a href="/2018/sponsors_and_exhibitors.html">Sponsors and Exhibitors</a></li>
-		<li><a href="/2018/attender_reports.html">Attender Reports</a></li>
+		<!-- li><a href="/2019/keynotes.html">Keynotes</a></li -->
+		<!-- li><a href="/2019/fulldayworkshops.html">Pre-conference Workshops</a></li -->
+		<!-- li><a href="/2019/schedule.html">Schedule</a></li -->
+		<!-- li><a href="/2019/presenters.html">Presenters</a></li -->
+		<!-- li><a href="/2019/sessions.html">Sessions</a></li -->
+		<!-- li><a href="/2019/prices.html">Prices</a></li -->
+		<!-- li><a href="/2019/sponsors_and_exhibitors.html">Sponsors and Exhibitors</a></li -->
+		<!-- li><a href="/2019/attender_reports.html">Attender Reports</a></li -->
 		<!-- li><a href="/schedule_app/index.html">Schedule Web Application</a></li -->
 		<li><a href="/lead_presenter_deals.html">Lead Presenter Deals</a></li>
 		<!-- li><a href="https://cfp.conference.accu.org">Call for Session Proposals</a></li -->
@@ -144,7 +145,20 @@
 	<a href="#" data-toggle="dropdown" class="navbar-brand">Previous ACCUs <b class="caret"></b></a>
 	<ul class="dropdown-menu">
 		<li>
-			<a href="/2017/accu2017.html">2017</a>
+			<a href="/2018/accu2018.html"><b>2018</b></a>
+			<ul>
+				<li><a href="/2018/schedule.html">Schedule</a></li>
+				<li><a href="/2018/presenters.html">Presenters</a></li>
+				<li><a href="/2018/sessions.html">Sessions</a></li>
+				<!-- li><a href="/2018/fulldayworkshops.html">Pre-conference Workshops</a></li -->
+				<li><a href="/2018/keynotes.html">Keynotes</a></li>
+				<li><a href="/2018/prices.html">Prices</a></li>
+				<li><a href="/2018/sponsors_and_exhibitors.html">Sponsors</a></li>
+				<li><a href="/2018/attender_reports.html">Attender Reports</a></li>
+			</ul>
+		</li>
+		<li>
+			<a href="/2017/accu2017.html"><b>2017</b></a>
 			<ul>
 				<li><a href="/2017/schedule.html">Schedule</a></li>
 				<li><a href="/2017/presenters.html">Presenters</a></li>
@@ -155,7 +169,7 @@
 			</ul>
 		</li>
 		<li>
-			<a href="#">2016</a>
+			<a href="/2016/accu2016.html"><b>2016</b></a>
 			<ul>
 				<li><a href="/2016/schedule.html">Schedule</a></li>
 				<li><a href="/2016/presenters.html">Presenters</a></li>

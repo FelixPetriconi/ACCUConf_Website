@@ -1,14 +1,12 @@
 ////
-.. title: ACCU 2018
+.. title: ACCU 2019
 ////
 
 image::images/2018/conf2015-JamesMcNellis-accu2015-begins.jpg[]
 
-*ACCU 2018 is now over and done. Thanks to everyone who submitted proposals. Apologies to those who could
- not be accepted. Special thanks to the presenters for all their efforts to put on great sessions. Massive
- thanks to all the attenders for making it a great conference.*
-
-*Now on to ACCU 2019…*
+*Work on preparing for ACCU 2019 is now underway. The most important thing for now is that people who want
+ to submit a session proposal need to be thinking about what they want to present. The Call for Proposals
+ will open 2018-10-05 and will close 2018-10-26.*
 
 Historically, ACCU has a lot of {cpp} and C content, and is proud of that: ACCU is the foremost annual
 conference for people interested in {cpp} and C, at least in and around the UK. But it is not just a {cpp}
