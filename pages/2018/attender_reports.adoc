@@ -9,3 +9,4 @@ Here we have links to reports by people who attended ACCU 2018 that have been no
 * https://mropert.github.io/2018/04/20/accu_2018/[Mathieu Ropert]
 * https://blog.jetbrains.com/clion/2018/04/accu-conf-2018-trip-report/[Anastasia Kazakova, Timur Doumler,  and Phil Nash of JetBrains]
 * https://arne-mertz.de/2018/04/accuconf-2018-trip-report/[Arne Mertz]
+* https://www.fluentcpp.com/2018/06/08/triple-trip-report-from-accu-c-russia-and-cnow/[Jonathan Boccara]
