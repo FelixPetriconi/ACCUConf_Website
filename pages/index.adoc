@@ -36,9 +36,10 @@ ACCU is a membership organisation for people involved in software creation. The 
 programming, programming languages, testing, the tools of developing software, the process of developing
 software, and all related things. The tag line for the organisation is _Professionalism in Programming_.
 
-The call for session proposals is now open. If you have an idea for a session do submit it at
-https://cfp.conference.accu.org If you want to mull an idea over with someone before submitting, please
-email the  mailto:conference@accu.org[conference chair]. Some notes about the lead presenter deals are link:/lead_presenter_deals.html[here].
+When the call for session proposals is open, details of the session and the presenters is submitted via the
+Web application at https://cfp.conference.accu.org . If you want to mull an idea over with someone before
+submitting, please email the mailto:conference@accu.org[conference chair]. Some notes about the lead
+presenter deals are link:/lead_presenter_deals.html[here].
 
 The ACCU conference latest news/blog is link:/news/index.html[here].
 
