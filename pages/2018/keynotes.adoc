@@ -6,7 +6,7 @@
 [[GenAshley]]
 == Gen Ashley
 
-=== Title
+=== Diversity & Inclusivity in Tech
 
 image:/images/2018/Keynotes/genAshley.jpeg[Gen Ashley image, width=250, float=right]
 
@@ -60,10 +60,12 @@ over 15 years. Host to Talking Kotlin, he works at JetBrains leading the Develop
 as much time as he can writing code.
 
 
-[LisaLippincott]
+[[LisaLippincott]]
 == Lisa Lippincott
 
 === The Shape of a Program
+
+Friday 2018-04-13T09:30+01:00
 
 image:/images/2018/Keynotes/lisaLippincott.jpeg[Lisa Lippincott image, width=250, float=right]
 
@@ -94,6 +96,7 @@ correctness a routine part of programming.
 
 image:/images/2018/Keynotes/sebRose.jpeg[Seb Rose image, width=250, float=right]
 
+Saturday 2018-04-14T16:30+01:00
 
 ==== Blurb
 
