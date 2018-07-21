@@ -2,7 +2,7 @@
 .. title: ACCU 2019
 ////
 
-image::images/2018/conf2015-JamesMcNellis-accu2015-begins.jpg[]
+image::https://accu.org/content/images/website/HerbSutterACCU2017.jpg[]
 
 *Work on preparing for ACCU 2019 is now underway. The most important thing for now is that people who want
  to submit a session proposal need to be thinking about what they want to present. The Call for Proposals
