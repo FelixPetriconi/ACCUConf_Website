@@ -1,5 +1,6 @@
 ////
 .. title: Keynote Speakers
+.. description: ACCU 2017 Keynote Speakers
 .. type: text
 ////
 

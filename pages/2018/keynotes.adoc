@@ -1,12 +1,13 @@
 ////
 .. title: Keynote Speakers
+.. description: ACCU 2018 Keynote Speakers
 .. type: text
 ////
 
 [[GenAshley]]
 == Gen Ashley
 
-=== Diversity & Inclusivity in Tech
+=== _Diversity & Inclusivity in Tech_
 
 image:/images/2018/Keynotes/genAshley.jpeg[Gen Ashley image, width=250, float=right]
 
@@ -33,7 +34,7 @@ the very first 1-Day Grace Hopper Conference in Europe which was held in London.
 [[HadiHariri]]
 == Hadi Hariri
 
-=== Kotlin/Native – Embracing existing ecosystems
+=== _Kotlin/Native – Embracing existing ecosystems_
 
 image:/images/2018/Keynotes/hadiHariri.png[Hadi Hariri image, width=250, float=right]
 
@@ -63,7 +64,7 @@ as much time as he can writing code.
 [[LisaLippincott]]
 == Lisa Lippincott
 
-=== The Shape of a Program
+=== _The Shape of a Program_
 
 Friday 2018-04-13T09:30+01:00
 
@@ -92,7 +93,7 @@ correctness a routine part of programming.
 [[SebRose]]
 == Seb Rose
 
-=== Software development – learning to walk again
+=== _Software development – learning to walk again_
 
 image:/images/2018/Keynotes/sebRose.jpeg[Seb Rose image, width=250, float=right]
 
