@@ -466,6 +466,7 @@ link:presenters.html#XArneMertz[Arne Mertz]
  +
 link:presenters.html#XMarshallClow[Marshall Clow] +
 link:presenters.html#XJonathanWakely[Jonathan Wakely] +
+link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2018/Marshall_Clow__Jonathan_Wakely_-_010_Tricks_that_only_Library_Implementers_Know.pdf[(slides)] +
 link:https://www.youtube.com/watch?v=wYd2V4nPn0E[(video)]
 |link:sessions.html#XThereIsABetterFuture[There Is A Better Future] +
  +
