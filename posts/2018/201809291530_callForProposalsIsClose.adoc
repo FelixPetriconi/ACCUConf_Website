@@ -1,0 +1,33 @@
+////
+.. title: The Call For Proposals is Close
+.. date: 2018-09-29T15:30+01:00
+.. type: text
+////
+
+A final reminder: the call for proposals for ACCU 2019 opens next week 2018-10-05 and is open for
+three weeks till 2018-10-26.
+
+ACCU is a conference about programming. Given the history of the ACCU organisation, there is a lot of {cpp},
+and some C, oriented content. However we have Rust, Go, Java, Kotlin, Groovy, Lisp, indeed any programming
+language oriented content. Also tools and techniques of programming content: TDD, BDD, Git, Mercurial,
+CMake, Meson, SCons, concurrency, parallelism, continuous integration, continuous delivery, creating
+software-based startups, the list isn't endless but it is big and it is flexible. Any and all content to do with
+programming is acceptable.
+
+The conference content is entirely created from the submitted proposals. Except for the keynotes. This year
+we have:
+
+* Angela Sasse
+* Kate Gregory
+* Paul Grenyer
+* Herb Sutter
+
+as our keynote speakers.
+
+As ever lead presenters of main conference sessions will get a "conference deal".
+
+For further details on ACCU the organisation go to https://accu.org and for further details on ACCU the
+conference go to https://conference.accu.org
+
+Submission of proposals will be by logging in and entering data into the submission Web application, which when
+the call is open will be at https://cfp.conference.accu.org
