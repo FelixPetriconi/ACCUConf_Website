@@ -4,15 +4,14 @@
 
 image::https://accu.org/content/images/website/HerbSutterACCU2017.jpg[]
 
-*Work on preparing for ACCU 2019 is now underway. The most important thing for now is that people who want
- to submit a session proposal need to be thinking about what they want to present. The Call for Proposals
- will open 2018-10-05 and will close 2018-10-26.*
+*The Call for Proposals for ACCU 2019 is now open.  It will close 2018-10-26T23:59+01:00.*
 
 Historically, ACCU has a lot of {cpp} and C content, and is proud of that: ACCU is the foremost annual
 conference for people interested in {cpp} and C, at least in and around the UK. But it is not just a {cpp}
 and C conference, ACCU is about programming in whatever language people are using, with whatever tools and
 processes people are using: D, Chapel, Java, Kotlin, C#, F#, Groovy, Rust, Go, Python, Ruby, Lisp, to name
-just a few programming languages about which there have been sessions at ACCU conferences.  The ACCU
+just a few programming languages about which there have been sessions at ACCU conferences.  Git, Mercurial,
+CMake, Meson, TDD, BDD, allthese tools and techniques have been the focus of sessions at ACCU. The ACCU
 Conference is looking for sessions that will be interesting to people who create software.
 
 The ACCU conference has:
