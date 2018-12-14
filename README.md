@@ -9,22 +9,35 @@ This repository contains the source for the [ACCU Conference website](http://con
 
 ## Getting Started
 
-Git and [Nikola](https://getnikola.com/) are needed, Git to clone this repository and Nikola to build the website.
+The following tools are needed:
+- [Git](https://git-scm.com/) – required to clone your GitHub fork of the repository, and to push changes to
+  your fork on GitHub ready to submit pull requests on GitHub.
+- [Python](https://www.python.org) – required to run Nikola. You should install Python 3, not Python 2. You
+  will most likely need to ensure the application pip3 is installed so as to install Nikola.
+- [Nikola](https://getnikola.com/) – required to build the website. This is a Python application, hence
+  requiring Python.
+- [AsciiDoctor](https://asciidoctor.org) required for Nikola to render individual source pages.
 
-Most operating system distributions package Git. If yours doesn't have Git you will need to install it via
-the most idiomatic way for your operating system.
+Linux and UNIX distributions may well allow installation of these using package management. For example on
+Debian Sid, there are packages for git, python3, python3-pip, and asciidoctor, but there is no package for
+nikola. macOS has Homebrew which like Debian Sid allows git, python3 (includes pip3), and asciidoctor to be
+installed but there is no formula for nikola. For Windows, there are installers for Git
+(https://git-scm.com/download/win or https://gitforwindows.org/) and Python
+(https://www.python.org/downloads/windows/); for AsciiDoctor you will need to install Ruby and Gem, and then
+install the AsciiDoctor gem https://asciidoctor.org/docs/install-toolchain/.
 
-Many operating system distributions package Nikola (some only the Python 2 version though :-( If there is
-not a suitable package then creating a virtualenv and installing Nikola from PyPI using pip works well, as
-does using per-user installed packages – Python 3 being the most senble choice of Python obviously. The file
-`requirements.txt` contains a list of the things needed to build the website. So if you need to set up your
-environment, the command:
+If there is a package for Nikola on your platform feel free to use that. It seems most likely though that
+most people will be installing Nikola using pip3 and the PyPI package repository.
+
+If you are installing Nikola using pip3, you may want to use a virtual environment, but it is likely easiest
+to install a user specific version. The file `requirements.txt` contains a list of the things needed to
+build the website. So if you need to set up your environment, the command:
 
     pip3 install --user --upgrade -r requirements.txt
 
-is a good way of setting up per-user packages initially, but also of updating – which should be done
-regularly. This will put the `nikola` executable in `$HOME/.local/bin` so you need to make sure that path is
-in your `PATH`.
+is a good way of setting up per-user packages initially, and also of updating – which should be done
+regularly. This will put the `nikola` executable somewhere sensible (this is `$HOME/.local/bin` on Debian
+Sid) but you need to make sure that the installation directory of this executable is in your `PATH`.
 
 With that done:
 
@@ -34,8 +47,8 @@ should build the website in ./output.
 
 ## Adding Material
 
-By convention all source is Asciidoc, even though Markdown or ReStructuredText are possible. So only
-Asciidoc please.
+By convention all source is AsciiDoc, even though Markdown or ReStructuredText are possible. So only
+AsciiDoc please.
 
 There are two sorts of material, posts and stories. Posts are blog entries, and will appear on the front
 page. Stories are free standing pages, that will have to be linked to from blog entries, the menu, or
