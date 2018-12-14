@@ -1,0 +1,36 @@
+////
+.. title: And So ACCU 2019 Begins
+.. date: 2018-06-20T16:30+01:00
+.. type: text
+////
+
+OK so ACCU 2019 isn't actually happening any time soon – it is scheduled for 2019-04-09 to 2019-04-13, but
+preparation and planning takes quite a long time. So this is really "Planning and Preparation for ACCU 2019 has
+Begun".
+
+We have a nice logo. Well, obviously, it is essentially the same logo as ever but with a numeral changed and
+in a different colour – continuity of brand imagery has a lot going for it. We hope you like the colour – or
+if you are in the USA: color :-).
+
+Of course, there can be no ACCU conference without good content, and good content requires lots of good
+submissions so the committee can select from them to create a great schedule. We are busy, OK I am busy,
+updating the submission Web application in the light of experience from last year. As there should be in any
+project, there is a deadline for these changes, and that is 2018-10-05. Why is that? Because that is the
+date of the opening of the Call for Proposals. This is really what this post is about, the *Call for
+Proposals*.
+
+The Call for Proposals will *open* _2018-10-05T10:00+00:00_.
+
+The Call for Proposals will *close* _2018-10-26T19:00+00:00_.
+
+So as to be fair to everyone who submits, these date/times are not negotiable. Neither will there be any
+extensionsfootnote:[If, as there was a couple of years ago, there is a problem with the submission system
+such that people cannot submit or amend proposals during the Call for Proposals, then appropriate
+negotiations or extensions will happen. I think it fair to say this is the only situation in which it
+would happen.]
+
+Anyone who has an idea for an ACCU conference session should think it through, plan it, and create the
+proposal ready to submit it during the Call for Proposals. Details on the sort of sessions at an ACCU
+conference are given on the link:/index.html[front page of the website].
+
+You have three months. Get planning to submit.

@@ -1,20 +1,17 @@
 ////
-.. title: ACCU 2018
+.. title: ACCU 2019
 ////
 
-image::images/2018/conf2015-JamesMcNellis-accu2015-begins.jpg[]
+image::https://accu.org/content/images/website/HerbSutterACCU2017.jpg[]
 
-*ACCU 2018 is now over and done. Thanks to everyone who submitted proposals. Apologies to those who could
- not be accepted. Special thanks to the presenters for all their efforts to put on great sessions. Massive
- thanks to all the attenders for making it a great conference.*
-
-*Now on to ACCU 2019…*
+*The Call for Proposals for ACCU 2019 is now open.  It will close 2018-10-26T23:59+01:00.*
 
 Historically, ACCU has a lot of {cpp} and C content, and is proud of that: ACCU is the foremost annual
 conference for people interested in {cpp} and C, at least in and around the UK. But it is not just a {cpp}
 and C conference, ACCU is about programming in whatever language people are using, with whatever tools and
 processes people are using: D, Chapel, Java, Kotlin, C#, F#, Groovy, Rust, Go, Python, Ruby, Lisp, to name
-just a few programming languages about which there have been sessions at ACCU conferences.  The ACCU
+just a few programming languages about which there have been sessions at ACCU conferences.  Git, Mercurial,
+CMake, Meson, TDD, BDD, allthese tools and techniques have been the focus of sessions at ACCU. The ACCU
 Conference is looking for sessions that will be interesting to people who create software.
 
 The ACCU conference has:
@@ -38,9 +35,10 @@ ACCU is a membership organisation for people involved in software creation. The 
 programming, programming languages, testing, the tools of developing software, the process of developing
 software, and all related things. The tag line for the organisation is _Professionalism in Programming_.
 
-The call for session proposals is now open. If you have an idea for a session do submit it at
-https://cfp.conference.accu.org If you want to mull an idea over with someone before submitting, please
-email the  mailto:conference@accu.org[conference chair]. Some notes about the lead presenter deals are link:/lead_presenter_deals.html[here].
+When the call for session proposals is open, details of the session and the presenters is submitted via the
+Web application at https://cfp.conference.accu.org . If you want to mull an idea over with someone before
+submitting, please email the mailto:conference@accu.org[conference chair]. Some notes about the lead
+presenter deals are link:/lead_presenter_deals.html[here].
 
 The ACCU conference latest news/blog is link:/news/index.html[here].
 

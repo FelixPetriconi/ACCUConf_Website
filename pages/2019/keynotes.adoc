@@ -1,0 +1,54 @@
+////
+.. title: Keynote Speakers
+.. description: ACCU 2019 Keynote Speakers
+.. type: text
+////
+
+[[AngelaSasse]]
+== M Angela Sasse
+
+image::/images/2019/sasse_photo.jpg[M Angela Sasse image, width=250, float=right]
+
+Wednesday 2019-04-10T09:30+01:00
+
+M Angela Sasse FREng is the Professor of Human-Centred Security at Ruhr University Bochum in Germany, and
+the Department of Computer Science at University College London, UK.  A usability researcher by training,
+she started investigating the causes and effects of usability issues with security mechanisms 20 years ago.
+In addition to studying specific mechanisms such as passwords, biometrics, access control, and encryption,
+her research has pioneered approaches to engaging employees, consumers and more recently developers and
+board members to build more effective security and privacy solutions. She was been the founding Director of
+the multidisciplinary UK Research Institute for Science of Cyber Security (RISCS) from 2012-2017, and was
+elected Fellow of the Royal Academy on Engineering in 2015.
+
+[[KateGregory]]
+== Kate Gregory
+
+image::/images/2019/kateGregory_CppCon2017.jpg[Kate Gregory image, width=250, float=right]
+
+Thursday 2019-04-11T09:30+01:00
+
+Kate Gregory has been using {cpp} for over thirty years. She writes, teaches, mentors, codes, and leads
+projects, primarily in {cpp}. Kate is a Microsoft Regional Director, a Visual {cpp} MVP, has written over a
+dozen books, and speaks at conferences and user groups around the world. Kate develops courses on {cpp},
+Visual Studio, and Windows programming for Pluralsight, is active on over a dozen StackExchange sites, and
+blogs infrequently.
+
+
+[[PaulGrenyer]]
+== Paul Grenyer
+
+image::/images/2019/paulGrenyer_IMG_6412.jpg[Paul Grenyer image, width=250, float=right]
+
+Friday 2019-04-12T09:30+01:00
+
+
+
+[[HerbSutter]]
+== Herb Sutter
+
+image::/images/2019/Herb-large-1.jpg[Herb Sutter image, width=250, float=right]
+
+Saturday 2019-04-13T16:30+01:00
+
+Herb is an author, designer of several ISO {cpp} features, and chair of the ISO {cpp} committee and the
+Standard {cpp} Foundation.

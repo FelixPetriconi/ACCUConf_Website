@@ -1,0 +1,26 @@
+////
+.. title: ACCU 2018
+.. type: text
+////
+
+
+ACCU 2018 took place at
+http://www.marriott.co.uk/hotels/travel/brsdt-bristol-marriott-hotel-city-centre/[Bristol Marriott Hotel
+City Centre] 2018-04-10 to 2018-04-14 – Tuesday 2018-04-10, the first day was, as ever, some full day workshops; the
+conference ran from Wednesday 2018-04-11 to, and including, Saturday 2018-04-14.
+
+There are various webpages acting as a record of the conference:
+
+
+* link:keynotes.html[The details of the keynotes.]
+* link:schedule.html[The schedule as happened.]
+* link:sessions.html[Blurbs of the sessions.]
+* link:presenters.html[Bios of the presenters.]
+* link:sponsors_and_exhibitors.html[Logos of the sponsors.]
+* link:attender_reports.html[Various conference reports by attenders that have been notified or discovered.]
+* link:prices.html[Conference prices]
+
+The schedule webpage contains links to videos on ACCU YouTube channel and PDFs of slides where these have
+been notofied/collected.
+
+The ACCUConf YouTube channel is https://www.youtube.com/channel/UCJhay24LTpO1s4bIZxuIqKw[here].

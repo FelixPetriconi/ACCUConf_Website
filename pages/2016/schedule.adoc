@@ -47,7 +47,7 @@ link:speakers.html#Mike_Long[Mike Long]
  +
 link:speakers.html#Cope[Cope] +
  +
-link:https://github.com/ACCUConf/ACCUConf_PDFs/blob/master/2016/Cope_keynote.pdf[slides]
+link:https://github.com/ACCUConf/PDFs_2016/blob/master/Cope_keynote.pdf[slides]
 
 |10:30
 5+^|Break

@@ -6,9 +6,10 @@
 
 ACCU 2017 took place at
 http://www.marriott.co.uk/hotels/travel/brsdt-bristol-marriott-hotel-city-centre/[Bristol Marriott Hotel
-City Centre] 2017-04-25 to 2017-04-29 – a little later than had become traditional, ACCU conferences have
-returned to being early April. Tuesday 2017-04-25, the first day was, as ever, some full day workshops. The
-conference ran from Wednesday 2017-04-26 to, and including, Saturday 2017-04-29.
+City Centre] 2017-04-25 to 2017-04-29 – as with ACCU 2016, a little later than had become traditional. (From
+ACCU 2018, the conferences have returned to being early April.) Tuesday 2017-04-25, the first day was, as
+ever, some full day workshops. The conference ran from Wednesday 2017-04-26 to, and including, Saturday
+2017-04-29.
 
 There are various webpages acting as a record of the conference:
 
@@ -19,6 +20,7 @@ There are various webpages acting as a record of the conference:
 * link:presenters.html[Bios of the presenters.]
 * link:sponsors.html[Logos of the sponsors.]
 
-The schedule webpage contains links to videos on YouTube and PDFs of the slides.
+The schedule webpage contains links to videos on ACCU YouTube channel and PDFs of slides where these
+have been notified/collected.
 
 The ACCUConf YouTube channel is https://www.youtube.com/channel/UCJhay24LTpO1s4bIZxuIqKw[here].

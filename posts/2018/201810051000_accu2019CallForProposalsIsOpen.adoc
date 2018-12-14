@@ -1,0 +1,46 @@
+////
+.. title: ACCU 2019 Call for Proposals is Open
+.. date: 2018-10-05T10:00+01:00
+.. type: text
+////
+
+The ACCU 2019 Call for Proposals is now open. It will close 2018-10-26T23:59+01:00.
+
+For further details on ACCU the organisation go to https://accu.org and for further details on ACCU the
+conference go to https://conference.accu.org
+
+Submission of proposals is by logging in and entering data into the submission Web application at
+https://cfp.conference.accu.org
+
+ACCU has a lot of {cpp} content, but it has much more: Python, C#, Go, Rust, Java, Kotlin, Lisp, Groovy,
+JRuby get a look in as programming languages. Also the tools, techniques, and processes of programming are
+things people present sessions on: ACCU is about anything and everything to do with programming. Main
+conference sessions are 90 minutes long and are one of:
+
+* 60 minute presentation with 30 minutes questions and answersfootnote:[Some people choose to structure this
+   as 90 minutes of interactive presentation instead of 60 minutes presentation and 30 minutes  Q&A, and
+   that is fine – the point is to have interaction and dialogue. A 90 minutes one-way presentation without
+   interaction is not really what we want.].
+* a workshopfootnote:[A workshop is all about people doing things.].
+
+Sometimes we have 180 minute workshops, i.e. double session ones, because 90 minute is sometimes just not
+enough!
+
+Lead presenters of main conference sessions are eligible for a "presenter deal" so as to be able to attend
+the conference even if they cannot get funding for expenses via another route.
+
+We also have "quickies" which are 20 minute sessions, 15 minute presentation and 5 minutes questions and
+answers. Currently we are not able to provide any form of "presenter deal" for these sessions, but we are
+looking for sponsors that might enable us to do something for these presenters.
+
+ACCU puts on full day pre-conference workshops/tutorials, i.e. 6 hours with breaks. There is a
+pre-conference workshop package" for lead presenters of these that includes an honorarium as well as
+expenses. We are looking for introductory sessions as well as deep dive sessions so as to get wide appeal:
+Rust for {cpp} programmers, {cpp} for people who do not already know it,as well as {cpp}17 and beyond, or
+using Rust for Python extensions,are just a few of the sorts of thing that would get well received.
+
+The ACCU Programme Committee members review all the proposals submitted and score them. They will from this
+year also provide "comments to proposers" as well as "comments to the committee". "Comments to the
+proposers" will be sent to the proposers as a matter of course. Having reviewed all the proposals the
+committee then meets to select and schedule the selected sessions. This is not an easy task, but it gets
+done despite this.

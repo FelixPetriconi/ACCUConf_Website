@@ -1,0 +1,22 @@
+////
+.. title: ACCU 2016
+.. type: text
+////
+
+
+ACCU 2016 took place at
+http://www.marriott.co.uk/hotels/travel/brsdt-bristol-marriott-hotel-city-centre/[Bristol Marriott Hotel
+City Centre] 2016-04-19 to 2016-04-23 – a little later than had become traditional. Tuesday 2016-04-19, the
+first day was, as ever, some full day workshops. The conference ran from Wednesday 2016-04-20 to, and
+including, Saturday 2016-04-23.
+
+There are various webpages acting as a record of the conference:
+
+* link:schedule.html[The schedule as happened.]
+* link:sessions.html[Blurbs of the sessions.]
+* link:presenters.html[Bios of the presenters.]
+
+The schedule webpage contains links to videos on the ACCU YouTube channel and PDFs of slides where these
+have been notified/collected.
+
+The ACCUConf YouTube channel is https://www.youtube.com/channel/UCJhay24LTpO1s4bIZxuIqKw[here].
