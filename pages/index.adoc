@@ -4,7 +4,10 @@
 
 image::https://accu.org/content/images/website/HerbSutterACCU2017.jpg[]
 
-*The Call for Proposals for ACCU 2019 is now open.  It will close 2018-10-26T23:59+01:00.*
+
+*The Call for Proposals for ACCU 2019 has now closed. Thanks to everyone who registered and submitted
+ proposals. The committee will now get to work reviewing the proposals.*
+
 
 Historically, ACCU has a lot of {cpp} and C content, and is proud of that: ACCU is the foremost annual
 conference for people interested in {cpp} and C, at least in and around the UK. But it is not just a {cpp}
