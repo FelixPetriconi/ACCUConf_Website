@@ -73,7 +73,7 @@ Over the course of this workshop, you’ll be introduced to Chapel’s unique la
 In the hands-on sessions, you’ll be free to explore Chapel features through a combination of prepared exercises and/or free-form programming – on your laptop and, with luck, even a modern Cray system.
 
 The fine print: Chapel requires a {cpp} compiler, POSIX threads, and a UNIX-like environment. Thus, attendees with Linux/*nix, MacOS, or Windows 10 with the Linux bash shell will have the best results. Alternatives include ssh-ing into such a system, Docker, or Windows with Cygwin. In short, if you arrive with access to a system (local or remote) where you can do a 'make'-based compile of a C/{cpp} hello world, you should be good to go.
-    
+
 
 
 [[XATestofStrength]]
@@ -140,7 +140,7 @@ insight, thinking, learning. SciFi offers Asimov's law of robots. Clearly first 
 Obviously brute force isn't intelligence. So what is? Do we need it to run on hardware? Conversely, could we
 exist in cyberspace without a body? Where will it end?
 
- 
+
 
 
 [[XAnOverviewofProgramOptimizationTechniques]]
@@ -330,8 +330,7 @@ In this talk, I will briefly cover the general ideas behind contracts programmin
 
 Additional note: The content of this talk will be influenced by the results of discussions at the March ISO {cpp} meeting where I will present the proposed wording of the feature.
 
-For reference, please see the latest ISO {cpp} paper "A Contract Design"
-[http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2016/p0380r1.pdf]
+For reference, please see the latest ISO {cpp} paper "A Contract Design" [http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2016/p0380r1.pdf]
 
 
 [[XCoroutinesandCDSLsforHumanScaleConcurrency]]
@@ -443,7 +442,7 @@ In the 2016 conference I did a 90 minute talk on the design and evolution of cyb
 * decision to abandon versioning
 * testing the micro-services using a dual client-server approach
 
-http://cyber-dojo.org is an open-source web-based application for hosting team-based coding dojos. 
+http://cyber-dojo.org is an open-source web-based application for hosting team-based coding dojos.
 
 
 
@@ -453,13 +452,13 @@ http://cyber-dojo.org is an open-source web-based application for hosting team-b
 
 Whether we like it or not, most of the programs out there are not deterministic; making developers to take an effort and start thinking about determinism, is known to be difficult.
 
-On the other hand, the case for deterministic programs is strong, with multiple benefits available for such programs. These benefits include such things as replay-based regression testing using production data, production post-mortem analysis (including both server-side and client-side), low-latency fault tolerance, and so on. 
+On the other hand, the case for deterministic programs is strong, with multiple benefits available for such programs. These benefits include such things as replay-based regression testing using production data, production post-mortem analysis (including both server-side and client-side), low-latency fault tolerance, and so on.
 
-Such benefits become even more important for interactive distributed systems, where various race conditions tend to represent a lion share of those bugs which manage to slip into production. 
+Such benefits become even more important for interactive distributed systems, where various race conditions tend to represent a lion share of those bugs which manage to slip into production.
 
-Fortunately, there exists a very practical approach (which has succeeded for a rather large real-world project) that allows to make components of a distributed system deterministic. 
+Fortunately, there exists a very practical approach (which has succeeded for a rather large real-world project) that allows to make components of a distributed system deterministic.
 
-The talk discusses benefits of deterministic components for distributed systems, different definitions of determinism from practical standpoint, and the way to implement deterministic components (very shortly - good old event-driven programs/ad-hoc FSMs/Reactors plus several tricks to make them deterministic). 
+The talk discusses benefits of deterministic components for distributed systems, different definitions of determinism from practical standpoint, and the way to implement deterministic components (very shortly - good old event-driven programs/ad-hoc FSMs/Reactors plus several tricks to make them deterministic).
 
 Level: Intermediate/Expert
 
@@ -530,7 +529,7 @@ In the end we'll see that, while not strictly a functional programming language,
 == Functional Programming for the Web with Elm
 === link:presenters.html#XAustin_Bingham[Austin Bingham]
 
-Elm is a statically-typed functional language designed for building reliable web applications with “great performance and no runtime exceptions”. Elm compiles to Javascript, is easy to embed into existing websites, and has great Javascript interop, meaning that you can use as little or as much Elm as you want in your project. In this talk I’ll introduce the audience to Elm, look at its syntax and tooling, and show where it fits into the larger picture of web development. I’ll also discuss the prescribed method for structuring programs built in Elm, “The Elm Architecture”. 
+Elm is a statically-typed functional language designed for building reliable web applications with “great performance and no runtime exceptions”. Elm compiles to Javascript, is easy to embed into existing websites, and has great Javascript interop, meaning that you can use as little or as much Elm as you want in your project. In this talk I’ll introduce the audience to Elm, look at its syntax and tooling, and show where it fits into the larger picture of web development. I’ll also discuss the prescribed method for structuring programs built in Elm, “The Elm Architecture”.
 
 Elm has a great community and excellent documentation, so my goal with this talk isn’t to give a comprehensive lecture on the language. Instead, I want to get you excited about the possibilities of Elm, maybe pique your interest in functional languages, and ultimately get you pointed in the right direction so that you can confidently start to explore Elm for yourself.
 
@@ -558,7 +557,7 @@ lend themselves to being tested this way, rather than, for example, by
 example-based testing. And since it's enlightening to compare and
 contrast styles and languages, I'll try and cover some different ones of
 those, including {cpp}, C#, F#, Python, Ruby, maybe some Scala, perhaps
-even a little Powershell. 
+even a little Powershell.
 
 No prior experience is required, but some exposure to automated testing in one or more languages will be helpful. Open to all.
 
@@ -627,8 +626,8 @@ This session is suitable for someone who has never thought of writing a programm
 == Implementing `variant` visitation using lambdas
 === link:presenters.html#XVittorio_Romeo[Vittorio Romeo]
 
-The addition of `std::variant` to the upcoming {cpp}17 standard will introduce a "type-safe sum type" to the STL. 
-Given a set of types, `std::variant` (and `boost::variant`) model an ADT ("algebraic data type") where only one of them can be active: they essentially are a type-safe "tagged union". 
+The addition of `std::variant` to the upcoming {cpp}17 standard will introduce a "type-safe sum type" to the STL.
+Given a set of types, `std::variant` (and `boost::variant`) model an ADT ("algebraic data type") where only one of them can be active: they essentially are a type-safe "tagged union".
 
 The interface they provide, however, is more cumbersome than it needs to be and doesn't lend itself to monadic composition. Defining exhaustive visitors requires the user to create a class with several `operator()` overloads, or to create a chain of `if constexpr(...)` calls. Both solutions are not very elegant.
 
@@ -688,13 +687,13 @@ We'll explore what challenges you might face when trying to adopt this way of wo
 == Introduction to Blockchain technology, and how to build something useful with it
 === link:presenters.html#XPaul_Cunnell[Paul Cunnell]
 
-Since the introduction of the Bitcoin crypto currency by Satoshi Nakamoto in 2008, there has been an explosion of interest in the adoption and use of blockchain, the fundamental technology underlying Bitcoin (and its many variants). At Mosaic Financial Markets we have been researching ways of understanding and applying blockchain technology, focussing primarily (but not exclusively) on the Ethereum blockchain, as Ethereum offers a fully programmable 'smart contract' capability. 
+Since the introduction of the Bitcoin crypto currency by Satoshi Nakamoto in 2008, there has been an explosion of interest in the adoption and use of blockchain, the fundamental technology underlying Bitcoin (and its many variants). At Mosaic Financial Markets we have been researching ways of understanding and applying blockchain technology, focussing primarily (but not exclusively) on the Ethereum blockchain, as Ethereum offers a fully programmable 'smart contract' capability.
 
-There is an enormous amount of interest (and hype) surrounding blockchains - we will explain what we have discovered, cut though some of the hype, and we hope give you some suggestions for working with this technology. 
+There is an enormous amount of interest (and hype) surrounding blockchains - we will explain what we have discovered, cut though some of the hype, and we hope give you some suggestions for working with this technology.
 
-We have found that to successfully build blockchain applications, we needed to change the way we were thinking about the application architecture, understanding the benefits and costs of using a globally distributed, trustless, resilient and immutable transaction record.  
+We have found that to successfully build blockchain applications, we needed to change the way we were thinking about the application architecture, understanding the benefits and costs of using a globally distributed, trustless, resilient and immutable transaction record.
 
-This session will give you an overview of the fundamental concepts behind blockchains, including Bitcoin and its variants, Ethereum, R3's Corda and other platforms under development. We will explain how we have lived with a rapidly-evolving platform which has undergone significant disruptive events, including the (in)famous 'DAO hack'. We have built three proof-of-concept Ethereum applications to help us understand what does and doesn't work, and we will show you how and why we built them. 
+This session will give you an overview of the fundamental concepts behind blockchains, including Bitcoin and its variants, Ethereum, R3's Corda and other platforms under development. We will explain how we have lived with a rapidly-evolving platform which has undergone significant disruptive events, including the (in)famous 'DAO hack'. We have built three proof-of-concept Ethereum applications to help us understand what does and doesn't work, and we will show you how and why we built them.
 
 
 
@@ -826,10 +825,10 @@ In this session we will rewrite a few methods of std::list to demonstrate some o
 === link:presenters.html#XOdin_Holmes[Odin Holmes]
 
 Many of the concepts presented in Andrei Alexandrescu's book "Modern {cpp} Design" were arguably ahead of their time. Many of the concepts could not be effectively or cleanly expressed due to a lack of language features and the user was often exposed to too much complexity.
- 
+
 Now 15 years later we have many more tools. Now Alexandrescu's as well as similar statically linking yet powerful and generic design patterns are proving invaluable in resource constrained and low latency fields.
 
-In this talk I will share my experience creating "post modern" {cpp} abstractions for bare metal hard realtime systems as well as my work on the tools needed to provide sleek and sexy public interfaces for these libraries such as various improvements to template metaprogramming libraries, lazy evaluation techniques and named parameters. 
+In this talk I will share my experience creating "post modern" {cpp} abstractions for bare metal hard realtime systems as well as my work on the tools needed to provide sleek and sexy public interfaces for these libraries such as various improvements to template metaprogramming libraries, lazy evaluation techniques and named parameters.
 
 I hope to add idioms and design patterns to any advanced programmers toolbox allowing them to more efficiently and more effectively abstract whatever domain they work in.
 
@@ -890,7 +889,7 @@ Contents:
 == Named parameters
 === link:presenters.html#XOdin_Holmes[Odin Holmes]
 
-The only boost.parameter library was seldom used, mainly because it is macro hell getting it working, its not SFINAE friendly and the return type of a function cannot depend on the types of the inputs. 
+The only boost.parameter library was seldom used, mainly because it is macro hell getting it working, its not SFINAE friendly and the return type of a function cannot depend on the types of the inputs.
 With modern {cpp} we can solve all those problems elegantly. This works especially well when making factory functions which spit out policy based class specializations.
 
 
@@ -922,7 +921,7 @@ The current specification is an initial version exposing parallel interfaces and
 == Passwords. Are. Not. Hard!
 === link:presenters.html#XDom_Davis[Dom Davis]
 
-Love them or loathe them, passwords are here for the foreseeable future so we really should learn how to deal with them properly. So much of what we think we know about passwords is based on historical half truths, and actually makes how we generally handle them less secure. 
+Love them or loathe them, passwords are here for the foreseeable future so we really should learn how to deal with them properly. So much of what we think we know about passwords is based on historical half truths, and actually makes how we generally handle them less secure.
 
 In this session we'll look at how to safely, securely and quickly store passwords for login, and take a look at what implementation details you could be leaking by making people jump through hoops to generate a "valid" password.
 
@@ -1059,7 +1058,7 @@ Programming language designers have to date largely failed the large-scale paral
 Chapel is my team’s effort to reverse these trends. It’s a general-purpose language in which scalable parallel programming has been a motivating theme from day one. It’s designed with productivity in mind in order to make parallel programming less arcane and more modern in style. It’s portable and open-source in order to support a broad community and reduce barriers to adoption. And yet, like any new language design being undertaken by a modest-sized team, it’s not without its challenges – both technical and social.
 
 In this talk, I’ll provide an introduction to Chapel’s motivating themes and features to give you a sense of what we are doing and why. I’ll also provide a glimpse into some of the challenges we wrestle with and how we are dealing with them. Whether you leave the talk a convert to Chapel or simply intrigued, I hope to challenge you to think about scalable parallelism as the first-class language feature that it deserves to be.
- 
+
 
 
 [[XTheCTypeSystemIsYourFriend]]
@@ -1095,7 +1094,7 @@ That gives us great power, and – as we all know – with great power comes gre
 We have to make choices every day that affect others, sometimes in subtle and non-intuitive ways. To mention just a few:
 
 * What logs should we capture? How does that change if we have to hand them over to the government?
-* Are our hiring practices fair? Are we sure about that? 
+* Are our hiring practices fair? Are we sure about that?
 * Is there bias in our algorithms that unfairly disadvantages some groups of people?
 * Is the core function of our software ethical? How about if it's deliberately misused?
 
@@ -1216,7 +1215,7 @@ dramatic, simplification of real-world {cpp} code.
 
 Recent European financial regulations have required "traceable time". The ability to prove the correctness of you timestamps relative to a defined reference such as UTC. The first such requirement within civilian industries.
 
-In this talk, we will take a look at the regulations and why they are challenging. We will define some words with which we can describe time readings, look at how time arrives at our machines, how we trace it, and how std::chrono and in fact all current programming languages lets us down. 
+In this talk, we will take a look at the regulations and why they are challenging. We will define some words with which we can describe time readings, look at how time arrives at our machines, how we trace it, and how std::chrono and in fact all current programming languages lets us down.
 
 We will then look into the future and see how the hard to do will become increasingly harder; we'll suggest why this is not just for the banks and hedge funds, how provably accurate wall clock time is going to be increasingly important in a connected, heterogeneous world.
 
@@ -1329,4 +1328,3 @@ for Linux ELF cores generated with programs that use libc malloc, and mostly
 working with windows MDMP files.  Some expected areas of growth are likely to
 include support for other allocators, such as tcmalloc and jemalloc, support
 for other dump formats, better scripting, and use of DWARF information to make usage analysis more precise.
-
