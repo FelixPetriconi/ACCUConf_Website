@@ -124,22 +124,70 @@
 {% endmacro %}
 
 {% macro current_menu() %}
-	<div class="collapse navbar-collapse" id="bs-navbar" aria-expanded="false">
-		<ul class="nav navbar-nav" id="navigation-links">
-			<li><a href="/news/index.html">News</a></li>
-			<li><a href="/2019/keynotes.html">Keynotes</a></li>
-			<!-- li><a href="/2019/fulldayworkshops.html">Pre-conference Workshops</a></li -->
-			<!-- li><a href="/2019/schedule.html">Schedule</a></li -->
-			<!-- li><a href="/2019/presenters.html">Presenters</a></li -->
-			<!-- li><a href="/2019/sessions.html">Sessions</a></li -->
-			<li><a href="/2019/prices.html">Prices</a></li>
-			<!-- li><a href="/2019/sponsors_and_exhibitors.html">Sponsors and Exhibitors</a></li -->
-			<!-- li><a href="/2019/attender_reports.html">Attender Reports</a></li -->
-			<!-- li><a href="/schedule_app/index.html">Schedule Web Application</a></li -->
-			<li><a href="/lead_presenter_deals.html">Lead Presenter Deals</a></li>
-			<!-- li><a href="https://cfp.conference.accu.org">Call for Proposals</a></li -->
-		</ul>
-	</div>
+	<nav class="navbar navbar-default accuconf-menu">
+		<div class="container-fluid">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse"
+								data-target="#bs-navbar" aria-expanded="false" aria-controls="bs-navbar">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<span>
+					<a class="navbar-brand" href="/"> {{blog_title|e }} </a>
+				</span>
+			</div>
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-navbar" aria-expanded="false">
+				<ul class="nav navbar-nav" id="navigation-links">
+					<li><a href="/news/index.html">News</a></li>
+					<li><a href="/2019/keynotes.html">Keynotes</a></li>
+					<li><a href="/lead_presenter_deals.html">Lead Presenter Deals</a></li>
+					<li><a href="https://cfp.conference.accu.org">Call For Papers</a></li>
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+							 aria-expanded="false">Previous ACCUConfs <span class="caret"></span></a>
+						<ul class="dropdown-menu">
+							<li>
+								<a href="/2018/accu2018.html"><b>2018</b></a>
+								<ul>
+									<li><a href="/2018/schedule.html">Schedule</a></li>
+									<li><a href="/2018/presenters.html">Presenters</a></li>
+									<li><a href="/2018/sessions.html">Sessions</a></li>
+									<!-- li><a href="/2018/fulldayworkshops.html">Pre-conference Workshops</a></li -->
+									<li><a href="/2018/keynotes.html">Keynotes</a></li>
+									<li><a href="/2018/prices.html">Prices</a></li>
+									<li><a href="/2018/sponsors_and_exhibitors.html">Sponsors</a></li>
+									<li><a href="/2018/attender_reports.html">Attender Reports</a></li>
+								</ul>
+							</li>
+							<li>
+								<a href="/2017/accu2017.html"><b>2017</b></a>
+								<ul>
+									<li><a href="/2017/schedule.html">Schedule</a></li>
+									<li><a href="/2017/presenters.html">Presenters</a></li>
+									<li><a href="/2017/sessions.html">Sessions</a></li>
+									<li><a href="/2017/fulldayworkshops.html">Pre-conference Workshops</a></li>
+									<li><a href="/2017/keynotes.html">Keynotes</a></li>
+									<li><a href="/2017/sponsors.html">Sponsors</a></li>
+								</ul>
+							</li>
+							<li>
+								<a href="/2016/accu2016.html"><b>2016</b></a>
+								<ul>
+									<li><a href="/2016/schedule.html">Schedule</a></li>
+									<li><a href="/2016/presenters.html">Presenters</a></li>
+									<li><a href="/2016/sessions.html">Sessions</a></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</div><!-- /.navbar-collapse -->
+		</div><!-- /.container-fluid -->
+	</nav>
 {% endmacro %}
 
 {% macro previous_conferences() %}
