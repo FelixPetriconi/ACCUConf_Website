@@ -1,0 +1,22 @@
+////
+.. title: T-Shirt Competition
+.. date: 2019-01-14T11:00+00:00
+.. type: text
+////
+
+Each ACCU conference has a t-shirt design competition to provide the design for the year's
+conference t-shirt. This year is no different.
+
+This year's conference social theme is Artificial Intelligence. The reason for this will become
+extremely apparent during the conference.
+
+So we want designs based on the idea of "artificial intelligence". Obviously the design will be
+t-shirt sized when printed so do bear this in mind when making submissions, both in terms of
+design and in terms of resolution of the submitted image.
+
+In past years we have announced the competition at the beginning of January with a four week
+submission period. Due to "stuff happens" things were not put in train early enough this
+year. However, since we must go to print at the end of January, we will have to go with a two
+week submission period. Sorry about this.
+
+So design ideas to conference@accu.org by 2019-01-28T12:00+00:00.
