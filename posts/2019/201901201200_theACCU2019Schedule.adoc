@@ -1,0 +1,16 @@
+////
+.. title: The ACCU 2019 Schedule
+.. date: 2019-01-20T12:00+00:00
+.. type: text
+////
+
+So a few days before the deadline, but later than we (The Programme Committee) would have liked,
+here is the https://conference.accu.org/2019/schedule.html[ACCU 2019 schedule].
+
+Obviously there are a few details missing, these will be filled in as the data comes in, but the
+schedule is in place and we believe is a very strong programme.
+
+People have already started registering for the pre-conference workshops and the conference
+itself – registering early is always good, especially for the pre-conference workshops.
+
+image::/assets/images/register_2019.png[link="http://www.cvent.com/d/dbqjfx"]
