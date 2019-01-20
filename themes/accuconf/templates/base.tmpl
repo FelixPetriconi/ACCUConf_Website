@@ -60,6 +60,35 @@
 		</div>
 	</div>
 	<!-- End For single column rendering  -->
+	<div class="col-lg-2">
+		<div class="hidden-xs">
+			<div class="row" id="greeter-row">
+				<div class="panel panel-default" id="greeter-panel">
+					<h4 id="greeter"></h4>
+				</div>
+			</div>
+		</div>
+			<div class="row">
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						<h3 class="panel-title">Dates</h3>
+					</div>
+					<div class="panel-body">
+						{{ accuconf.dates() }}
+					</div>
+				</div>
+				<div class="row">
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h3 class="panel-title">Location</h3>
+						</div>
+						<div class="panel-body">
+							{{ accuconf.location() }}
+						</div>
+					</div>
+				</div>
+			</div>
+	</div>
 	<!-- Main Content -->
 	<div class="col-lg-8">
 		<div id="content" role="main">
@@ -97,26 +126,6 @@
 						</div>
 					</div>
 				</div>
-			<div class="row">
-				<div class="panel panel-default">
-					<div class="panel-heading">
-						<h3 class="panel-title">Dates</h3>
-					</div>
-					<div class="panel-body">
-						{{ accuconf.dates() }}
-					</div>
-				</div>
-				<div class="row">
-					<div class="panel panel-default">
-						<div class="panel-heading">
-							<h3 class="panel-title">Location</h3>
-						</div>
-						<div class="panel-body">
-							{{ accuconf.location() }}
-						</div>
-					</div>
-				</div>
-			</div>
 		</div>
 		<div class="row">
 			{{ accuconf.committee() }}
