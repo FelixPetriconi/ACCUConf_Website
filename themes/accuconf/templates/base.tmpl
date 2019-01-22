@@ -54,14 +54,23 @@
 		</div>
 	</div>
 	<!-- End For single column rendering  -->
-	<div class="col-lg-2">
-		<div class="hidden-xs">
-			<div class="row" id="greeter-row">
-				<div class="panel panel-default" id="greeter-panel">
-					<h4 id="greeter"></h4>
+
+	<!-- Main Content -->
+	<div class="col-lg-8 col-lg-push-2">
+		<div id="content" role="main">
+			<div class="body-content">
+				<!--Body content-->
+				<div class="row">
+					{{ template_hooks['page_header']() }}
+					{% block content %}{% endblock %}
 				</div>
+				<!--End of body content-->
 			</div>
 		</div>
+	</div> <!--  End of col-lg-8 -->
+	<!-- End of main content -->
+
+	<div class="col-lg-2 col-lg-pull-8">
 			<div class="row">
 				<div class="panel panel-default">
 					<div class="panel-heading">
@@ -80,49 +89,14 @@
 							{{ accuconf.location() }}
 						</div>
 					</div>
-				</div>
-			</div>
-			
-		<div class="hidden-xs">
-			<div class="row">
-				<div class="container-fluid">
-					{{ accuconf.sponsors() }}
-				</div>
-			</div>
-				<div class="row">
-					<div class="container-fluid">
-						{{ accuconf.community_sponsors() }}
+					<div class="row">
+						{{ accuconf.organiser() }}
 					</div>
 				</div>
-		</div>
+			</div>
 	</div>
-	<!-- Main Content -->
-	<div class="col-lg-8">
-		<div id="content" role="main">
-			<div class="body-content">
-				<!--Body content-->
-				<div class="row">
-					{{ template_hooks['page_header']() }}
-					{% block content %}{% endblock %}
-				</div>
-				<!--End of body content-->
 
-				<footer id="footer">
-					{{ content_footer }}
-					{{ template_hooks['page_footer']() }}
-				</footer>
-			</div>
-		</div>
-	</div> <!--  End of col-lg-8 -->
-	<!-- End of main content -->
 	<div class="col-lg-2">
-		<div class="hidden-xs">
-			<div class="row" id="greeter-row">
-				<div class="panel panel-default" id="greeter-panel">
-					<h4 id="greeter"></h4>
-				</div>
-			</div>
-		</div>
 		<div class="hidden-xs">
 			{{ accuconf.cocbits() }}
 			<!-- Link to the registration site. -->
@@ -137,18 +111,24 @@
 		<div class="row">
 			{{ accuconf.committee() }}
 		</div>
-		<div class="row">
-			{{ accuconf.organiser() }}
+			<div class="row">
+				<div class="container-fluid">
+					{{ accuconf.sponsors() }}
+				</div>
 		</div>
-		<div class="row visible-xs">
-			{{ accuconf.sponsors() }}
+			<div class="row">
+				<div class="container-fluid">
+					{{ accuconf.community_sponsors() }}
+				</div>
 		</div>
-			<div class="row visible-xs">
-				{{ accuconf.community_sponsors() }}
-			</div>
 	</div>
 </div> <!--  End of div.row -->
 {{ base.late_load_js() }}
+<footer id="footer">
+	{{ content_footer }}
+	{{ template_hooks['page_footer']() }}
+</footer>
+
 {% block extra_js %}{% endblock %}
 {% if annotations and post and not post.meta('noannotations') %}
 	{{ notes.code() }}
