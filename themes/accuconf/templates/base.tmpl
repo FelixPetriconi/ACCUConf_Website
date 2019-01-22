@@ -29,13 +29,7 @@
 		<div class="row">
 			{{ accuconf.current_menu() }}
 		</div> <!-- End div.row for nav -->
-		<div class="hidden-xs">
-			<div class="row">
-				<div class="container-fluid">
-					{{ accuconf.sponsors() }}
-				</div>
-			</div>
-		</div>
+
 		<!-- End of Menubar -->
 	</div> <!-- End of col-lg-12 -->
 </div>
@@ -88,6 +82,19 @@
 					</div>
 				</div>
 			</div>
+			
+		<div class="hidden-xs">
+			<div class="row">
+				<div class="container-fluid">
+					{{ accuconf.sponsors() }}
+				</div>
+			</div>
+				<div class="row">
+					<div class="container-fluid">
+						{{ accuconf.community_sponsors() }}
+					</div>
+				</div>
+		</div>
 	</div>
 	<!-- Main Content -->
 	<div class="col-lg-8">
@@ -136,6 +143,9 @@
 		<div class="row visible-xs">
 			{{ accuconf.sponsors() }}
 		</div>
+			<div class="row visible-xs">
+				{{ accuconf.community_sponsors() }}
+			</div>
 	</div>
 </div> <!--  End of div.row -->
 {{ base.late_load_js() }}

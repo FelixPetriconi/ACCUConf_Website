@@ -22,7 +22,7 @@ _The schedule is subject to change without notice until 2019-04-13._
 |Concorde
 |Old Vic
 |Castle View
-|TBA
+|Conservatory
 
 |10:00
 |link:sessions.html#XAcceleratedTDDForMoreProductiveC[Accelerated TDD: For More Productive {cpp}] +
