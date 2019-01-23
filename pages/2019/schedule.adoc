@@ -191,9 +191,9 @@ link:presenters.html#XHubertMatthews[Hubert Matthews]
 |link:sessions.html#XWhatarehashtreesandwhyyoushouldcare[What are hash trees and why you should care] +
  +
 link:presenters.html#XAhtoTruu[Ahto Truu]
-|link:sessions.html#XAmodernscalablerisksystemarchitecture[A modern, scalable risk system architecture] +
+|link:sessions.html#XHowKotlinmakesyourJavacodebetter[How Kotlin makes your Java code better] +
  +
-link:presenters.html#XBurkhardKloss[Burkhard Kloss]
+link:presenters.html#XAndyBalaam[Andy Balaam]
 |link:sessions.html#XLeaveyourCbehindbetterembeddedlibraryinterfaceswithmodernC[Leave your C behind: better embedded library interfaces with modern {cpp}] +
  +
 link:presenters.html#XWoutervanOoijen[Wouter van Ooijen]
@@ -259,9 +259,9 @@ link:presenters.html#XNeilHorlock[Neil Horlock]
 |link:sessions.html#XItsPeopleCodeismadeoutofpeople[It's People! Code is made out of people!] +
  +
 link:presenters.html#XDomDavis[Dom Davis]
-|link:sessions.html#XHowKotlinmakesyourJavacodebetter[How Kotlin makes your Java code better] +
+|link:sessions.html#XAmodernscalablerisksystemarchitecture[A modern, scalable risk system architecture] +
  +
-link:presenters.html#XAndyBalaam[Andy Balaam]
+link:presenters.html#XBurkhardKloss[Burkhard Kloss]
 |link:sessions.html#XItsDNSJimbutnotasweknowit[It's DNS, Jim, but not as we know it] +
  +
 link:presenters.html#XJimHague[Jim Hague]
