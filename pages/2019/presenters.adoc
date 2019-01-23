@@ -235,11 +235,20 @@ link:sessions.html#XEvolutionaryAlgorithmsinPractice[Evolutionary Algorithms in 
 
 link:sessions.html#XTeachYourComputertoCodeFizzBuzz[Teach Your Computer to Code FizzBuzz]
 
-Frances Buontempo is currently editor of the ACCU’s Overload magazine and is a researcher at City, University of London, working on a project to provide diversity enhancements to SIEMS (Security Information and Event Management) http://disiem-project.eu/.
+Frances Buontempo is currently editor of the ACCU’s Overload magazine and has written a book on
+https://pragprog.com/book/fbmach/genetic-algorithms-and-machine-learning-for-programmers[Genetic
+Algorithms and Machine Learning]
 
-After graduating from Leeds University with a B.A. in Mathematics and Philosophy, she worked as a mathematics and IT secondary school teacher, eventually ending up as a programmer. During this time she obtained an M.Sc. in Pure Mathematics with the Open University, and then returned to Leeds University, to study for a PhD in data mining to predict how toxic organic chemicals might be. Between then and now, she has worked in various companies in London with a finance focus.
+After graduating from Leeds University with a B.A. in Mathematics and Philosophy, she worked as
+a mathematics and IT secondary school teacher, eventually ending up as a programmer. During this
+time she obtained an M.Sc. in Pure Mathematics with the Open University, and then returned to
+Leeds University, to study for a PhD in data mining to predict how toxic organic chemicals might
+be. Between then and now, she has worked in various companies in London with a finance focus.
 
-She has talked and written about various ways to program your way out of a paper bag, providing a gentle introduction to some machine learning approaches, while trying to keep up to date with new techniques.
+She has talked and written about various ways to program your way out of a paper bag, providing
+a gentle introduction to some machine learning approaches, while trying to keep up to date with
+new techniques.
+
 
 
 [[XGailOllis]]
