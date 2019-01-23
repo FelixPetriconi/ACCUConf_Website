@@ -13,19 +13,25 @@
 {% endmacro %}
 
 
-<!-- a href="http://www.cvent.com/d/6tqq15"><img class="img-responsive img-float-right" src="/assets/images/register_2018.jpg" alt="Register Now icon" width="200"></a -->
-
 {% macro registerbutton() %}
+	<a href="http://www.cvent.com/d/dbqjfx"><img class="img-responsive img-float-right" src="/assets/images/register_2019.png" alt="Register Now icon" width="200"></a>
 {%endmacro %}
 
 {% macro dates() %}
-	<ul class="nolist list-group">
-		<li> Call for Proposals: 2018-10-05 to 2018-10-26 </li>
-		<li> Notification Date: 2019-01-18 </li>
-		<li> Schedule Announcement: 2019-01-25 </li>
-		<li> Workshops Day: 2019-04-09 </li>
-		<li> Conference: 2019-04-10 to 2019-04-13 </li>
-	</ul>
+	<b>Call for Proposals:</b> <br/>
+			2018-10-05 to <br/>
+			2018-10-26 <br/>
+	<b>Notification Date:</b> <br/>
+			2019-01-18 <br/>
+	<b>Schedule Announcement:</b> <br/>
+		2019-01-25 <br/>
+	<b>Workshops Day:</b> <br/>
+		2019-04-09 <br/>
+	<b>Conference: </b><br/>
+		2019-04-10 to <br/>
+	  2019-04-13<br/>
+	</p>
+
 {% endmacro %}
 
 {% macro location() %}
@@ -41,16 +47,6 @@
 
 
 <!-- div>
-     <p><a href="https://www.techatbloomberg.com/"><img src="/assets/images/2018_SponsorLogos/Bloomberg_black.png" alt="Bloomberg Logo" class="img-responsive img-rounded center-block"/></a></p>
-     <br/>
-<p><a href="https://www.jetbrains.com/"><img src="/assets/images/2018_SponsorLogos/Jetbrains_NL.jpg" alt="JetBrains Logo" class="img-responsive img-rounded center-block"/></a></p>
-<br/>
-<p><a href="http://undo.io/"><img src="/assets/images/2018_SponsorLogos/Undo_Master_3x.png" alt="Undo Logo" class="img-responsive img-rounded center-block"/></a></p>
-<br/>
-<p><a href="http://mosaic.fm/"><img src="/assets/images/2018_SponsorLogos/MosaicLogo.png" alt="Mosaic Logo" class="img-responsive img-rounded center-block"/></a></p>
-<br/>
-<p><a href="https://www.conan.io/"><img src="/assets/images/2018_SponsorLogos/jfrog_conan_logo.png" alt="JFrog Conan Logo" class="img-responsive img-rounded center-block"/></a></p>
-<br/>
 <p><a href="https://www.kdab.com/"><img src="/assets/images/2018_SponsorLogos/KDAB_logo.png" alt="KDAB Logo" class="img-responsive img-rounded center-block"/></a></p>
 <br/>
 <p><a href="https://www.wibu.com/"><img src="/assets/images/2018_SponsorLogos/ws_logo_P321.jpg" alt="WIBU Logo" class="img-responsive img-rounded center-block"/></a></p>
@@ -59,22 +55,41 @@
 <br/>
 <p><a href="https://www.riverblade.co.uk"><img src="/assets/images/2018_SponsorLogos/Riverblade.png" alt="Riverblade Logo" class="img-responsive img-rounded center-block"></a></p>
 <br/>
-<p><a href="http://www.qbssoftware.com/products/Intel_Parallel_Studio_XE/overview/_prodintelparxe"><img src="/assets/images/2018_SponsorLogos/QBS.png" alt="QBS Logo" class="img-responsive img-rounded center-block"></a></p>
-<br/>
 <p><a href="http://www.five.ai/"><img src="/assets/images/2018_SponsorLogos/Five-AI-logo.png" alt="Five AI Logo" class="img-responsive img-rounded center-block"></a></p>
 <br/>
 <div -->
 
-
 {% macro sponsors() %}
-	<!-- div class="panel panel-default">
+	<div class="panel panel-default">
 		<div class="panel-heading">
 			<h3 class="panel-title">Sponsors</h3>
 		</div>
 		<div class="panel-body">
-
+			<p><a href="https://www.techatbloomberg.com/"><img src="/assets/images/2019_SponsorLogos/bloomberg_logo.jpg" alt="Bloomberg Logo" class="img-responsive img-rounded center-block"/></a></p>
+			<br/>
+			<p><a href="http://undo.io/"><img src="/assets/images/2019_SponsorLogos/Undo.png" alt="Undo Logo" class="img-responsive img-rounded center-block"/></a></p>
+			<br/>
+			<p><a href="https://www.jetbrains.com/"><img src="/assets/images/2019_SponsorLogos/Jetbrains.png" alt="JetBrains Logo" class="img-responsive img-rounded center-block"/></a></p>
+			<br/>
+			<p><a href="http://www.qbssoftware.com/products/Intel_Parallel_Studio_XE/overview/_prodintelparxe"><img src="/assets/images/2019_SponsorLogos/QBS.png" alt="QBS Logo" class="img-responsive img-rounded center-block"></a></p>
+			<br/>
+			<p><a href="https://www.conan.io/"><img src="/assets/images/2019_SponsorLogos/Jfrog-logo.jpg" alt="JFrog Conan Logo" class="img-responsive img-rounded center-block"/></a></p>
+			<br/>
+			<p><a href="http://mosaic.fm/"><img src="/assets/images/2019_SponsorLogos/Mosaic.png" alt="Mosaic Logo" class="img-responsive img-rounded center-block"/></a></p>
+			<br/>
 		</div>
-	</div -->
+	</div>
+{% endmacro %}
+
+{% macro community_sponsors() %}
+	<div class="panel panel-default">
+		<div class="panel-heading">
+			<h3 class="panel-title">Community Sponsors</h3>
+		</div>
+		<div class="panel-body">
+			<p><a href="https://cpponsea.uk"><img src="/assets/images/2019_SponsorLogos/cpponsea-logo-grey.jpg" alt="C++ on Sea Logo" class="img-responsive img-rounded centre-block"/></a></p>
+		</div>
+	</div>
 {% endmacro %}
 
 {% macro committee() %}
@@ -83,17 +98,17 @@
 			<h3 class="panel-title">Programme Committee</h3>
 		</div>
 		<div class="panel-body">
-			<ul class="nolist">
-				<li> Russel Winder (Chair) </li>
-				<li> Gail Ollis </li>
-				<li> Roger Orr </li>
-				<li> Felix Petriconi </li>
-				<li> CB Bailey </li>
-				<li> Anastasia Kazakova </li>
-				<li> Jon Kalb </li>
-				<li> Nina Dinka Ranns </li>
-				<li> Francis Glassborow </li>
-			</ul>
+			<p>
+				Russel Winder (Chair)<br/>
+				Gail Ollis <br/>
+				Roger Orr <br/>
+				Felix Petriconi <br/>
+				CB Bailey <br/>
+				Anastasia Kazakova <br/>
+				Jon Kalb <br/>
+				Nina Dinka Ranns <br/>
+				Francis Glassborow <br/>
+			</p>
 		</div>
 	</div>
 {% endmacro %}
@@ -110,37 +125,88 @@
 			<a href="http://www.archer-yates.co.uk/">
 				<h4> Archer Yates Ltd </h4>
 			</a>
-			<ul class="nolist">
-				<li> 7 Threshers Yard </li>
-				<li> West Street </li>
-				<li> Kingham </li>
-				<li> Oxfordshire OX7 6YF </li>
-				<li> </li>
-				<li> Telephone: +44 1608 659900 </li>
-				<li> Fax: +44 1608 659911 </li>
-				<li> Email: julie@archer-yates.co.uk </li>
-			</ul>
+			<p>
+				7 Threshers Yard <br/>
+				West Street <br/>
+				Kingham <br/>
+				Oxfordshire OX7 6YF <br/>
+				<br/>
+				Telephone: +44 1608 659900 <br/>
+				Fax: +44 1608 659911 <br/>
+				Email: accu@archer-yates.co.uk <br/>
+			</p>
 		</div>
 	</div>
 {% endmacro %}
 
 {% macro current_menu() %}
-	<div class="collapse navbar-collapse" id="bs-navbar" aria-expanded="false">
-		<ul class="nav navbar-nav" id="navigation-links">
-			<li><a href="/news/index.html">News</a></li>
-			<li><a href="/2019/keynotes.html">Keynotes</a></li>
-			<!-- li><a href="/2019/fulldayworkshops.html">Pre-conference Workshops</a></li -->
-			<!-- li><a href="/2019/schedule.html">Schedule</a></li -->
-			<!-- li><a href="/2019/presenters.html">Presenters</a></li -->
-			<!-- li><a href="/2019/sessions.html">Sessions</a></li -->
-			<!-- li><a href="/2019/prices.html">Prices</a></li -->
-			<!-- li><a href="/2019/sponsors_and_exhibitors.html">Sponsors and Exhibitors</a></li -->
-			<!-- li><a href="/2019/attender_reports.html">Attender Reports</a></li -->
-			<!-- li><a href="/schedule_app/index.html">Schedule Web Application</a></li -->
-			<li><a href="/lead_presenter_deals.html">Lead Presenter Deals</a></li>
-			<li><a href="https://cfp.conference.accu.org">Call for Proposals</a></li>
-		</ul>
-	</div>
+	<nav class="navbar navbar-default accuconf-menu">
+		<div class="container-fluid">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse"
+						data-target="#bs-navbar" aria-expanded="false" aria-controls="bs-navbar">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<span>
+					<a class="navbar-brand" href="/"> {{blog_title|e }} </a>
+				</span>
+			</div>
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-navbar" aria-expanded="false">
+				<ul class="nav navbar-nav" id="navigation-links">
+					<li><a href="/news/index.html">News</a></li>
+					<li><a href="/2019/keynotes.html">Keynotes</a></li>
+					<li><a href="/2019/schedule.html">Schedule</a></li>
+					<li><a href="/2019/presenters.html">Presenters</a></li>
+					<li><a href="/2019/sessions.html">Sessions</a></li>
+					<li><a href="/lead_presenter_deals.html">Lead Presenter Deals</a></li>
+					<!-- li><a href="https://cfp.conference.accu.org">Call For Papers</a></li -->
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+							 aria-expanded="false">Previous ACCUConfs <span class="caret"></span></a>
+						<ul class="dropdown-menu">
+							<li>
+								<a href="/2018/accu2018.html"><b>2018</b></a>
+								<ul>
+									<li><a href="/2018/schedule.html">Schedule</a></li>
+									<li><a href="/2018/presenters.html">Presenters</a></li>
+									<li><a href="/2018/sessions.html">Sessions</a></li>
+									<!-- li><a href="/2018/fulldayworkshops.html">Pre-conference Workshops</a></li -->
+									<li><a href="/2018/keynotes.html">Keynotes</a></li>
+									<li><a href="/2018/prices.html">Prices</a></li>
+									<li><a href="/2018/sponsors_and_exhibitors.html">Sponsors</a></li>
+									<li><a href="/2018/attender_reports.html">Attender Reports</a></li>
+								</ul>
+							</li>
+							<li>
+								<a href="/2017/accu2017.html"><b>2017</b></a>
+								<ul>
+									<li><a href="/2017/schedule.html">Schedule</a></li>
+									<li><a href="/2017/presenters.html">Presenters</a></li>
+									<li><a href="/2017/sessions.html">Sessions</a></li>
+									<li><a href="/2017/fulldayworkshops.html">Pre-conference Workshops</a></li>
+									<li><a href="/2017/keynotes.html">Keynotes</a></li>
+									<li><a href="/2017/sponsors.html">Sponsors</a></li>
+								</ul>
+							</li>
+							<li>
+								<a href="/2016/accu2016.html"><b>2016</b></a>
+								<ul>
+									<li><a href="/2016/schedule.html">Schedule</a></li>
+									<li><a href="/2016/presenters.html">Presenters</a></li>
+									<li><a href="/2016/sessions.html">Sessions</a></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</div><!-- /.navbar-collapse -->
+		</div><!-- /.container-fluid -->
+	</nav>
 {% endmacro %}
 
 {% macro previous_conferences() %}

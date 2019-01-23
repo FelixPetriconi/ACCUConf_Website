@@ -1,0 +1,85 @@
+////
+.. title: Prices
+.. type: text
+////
+
+
+== Conference Fees
+
+
+Please note, all rates stated below are excluding VAT.  VAT will be charged automatically at 20% and will be
+added at the end of registration, when you reach the payment page.
+
+
+Early Bird rates end at midnight on 20th February 2019, and the Standard rates will take effect
+automatically.
+
+For the full payment details, terms and conditions and cancellation/refund policy please click
+link:/docs/2019/ticket_purchase_terms_and_conditions.pdf[HERE]. Please make sure that you read through this
+carefully.
+
+
+
+|===
+| ACCU member rate | Early bird | Standard
+
+| Pre-conference tutorial/workshop day
+| £170
+| £200
+
+| 4-day conference
+| £565
+| £670
+
+| 1-day conference
+| £170
+| £200
+|===
+
+
+
+
+|===
+| ACCU non-member rate | Early bird | Standard
+
+| Pre-conference tutorial/workshop day
+| £200
+| £225
+
+| 4-day conference
+| £670
+| £770
+
+| 1-day conference
+| £200
+| £225
+|===
+
+
+
+
+|===
+| Student rate |
+
+| Pre-conference tutorial/workshop day
+| £170
+
+| 4-day conference
+| £250
+
+| 1-day conference
+| £100
+|===
+
+
+==  What's Included?
+
+* Access to the conference sessions on your chosen day/s
+* Three servings of refreshments during the course of your chosen day/s
+* Buffet lunch with tea/coffee on your chosen day/s
+* Complimentary invitation to the 'Welcome Reception' on Wednesday 10th April
+* Opportunity to purchase tickets to the Conference Dinner on Friday 12th April
+* If you have booked onto one of the Pre Conference Tutorials, then conference notes/handouts will be
+  provided where appropriate
+* Please note that accommodation and evening meals are not included in the delegate fees. Food and beverage
+  purchased outside of the main conference catering times are also not included.

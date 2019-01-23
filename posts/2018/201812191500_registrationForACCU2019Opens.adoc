@@ -1,0 +1,19 @@
+////
+.. title: Registration for ACCU 2019 Opens
+.. date: 2018-12-19T15:00+00:00
+.. type: text
+////
+
+Apologies to all for failing to keep the conference news updated over the last few weeks.
+
+The call for proposals is now closed. The programme committee did lots of reviewing and deciding and
+planning. We are thus at the stage of getting the draft schedule in place. This is a work in progress for
+the moment. More news soon.
+
+The important news of the moment is that the registration website is now up and running, and you can
+register for ACCU 2019. Indeed we already have some people registered.
+
+If you fancy joining the early bird registerers, nip over to http://www.cvent.com/d/dbqjfx and sign up.
+
+
+image::/assets/images/register_2019.png[link="http://www.cvent.com/d/dbqjfx"]

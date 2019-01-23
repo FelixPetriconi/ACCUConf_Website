@@ -10,143 +10,132 @@
 	{#  Leave this block alone. #}
 {% endblock %}
 {{ template_hooks['extra_head']() }}
-<link rel="icon"  type="image/png" href="/assets/images/accu2019_32x32.png">
+<link rel="icon" type="image/png" href="/assets/images/accu2019_32x32.png">
 </head>
 <body>
-	<a href="#content" class="sr-only sr-only-focusable">{{ messages("Skip to main content") }}</a>
-	<!--  Banner -->
-	<div class="container-fluid banner">
-		<a href="/">
-			<img class="img-responsive img-float-left" src="/assets/images/accu2019_368x124.png" alt="ACCUConf 2019 Logo"/>
-		</a>
-		<a href="https://accu.org">
-			<img class="img-responsive img-float-right" src="/assets/images/accu_logo.png" alt="ACCU Logo"/>
-		</a>
-	</div>
-	<div class="row">
-		<!-- Menubar -->
-		<div class="col-sm-3 col-md-3 col-lg-3">
-			<div class="row">
-				<nav class="navbar navbar-default accuconf-menu">
-					<div class="navbar-header">
-						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false">
-							<span class="sr-only">Toggle navigation</span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-						</button>
-						<span>
-							<a class="navbar-brand" href="/"> {{blog_title|e }} </a>
-						</span>
-					</div>
-					{{ accuconf.current_menu() }}
-					{{ accuconf.previous_conferences() }}
-				</nav>
-			</div> <!-- End div.row for nav -->
-			<div class="hidden-xs">
-				<div class="row">
-					<div class="container-fluid">
-						{{ accuconf.sponsors() }}
-					</div>
-				</div>
-			</div>
-			<!-- End of Menubar -->
-		</div> <!-- End of col-sm-3 col-md-3 col-lg-3 -->
-		<!-- For single column rendering - In mobiles and tablets -->
-		<div class="visible-xs-block">
-			<div class="container-fluid">
-				{{ accuconf.cocbits() }}
-				{{ accuconf.registerbutton() }}
-				<div class="accuconf-menu">
-					<a type="button" class="accuconf-toggle-link btn" data-toggle="collapse" href="#keydates">
-						<span class="accuconf-toggle glyphicon glyphicon-menu-hamburger"> Dates and Location </span>
-					</a>
-					<div class="collapse" id="keydates">
-						{{ accuconf.dates() }}
-						<hr/>
-						{{ accuconf.location() }}
-					</div>
+<a href="#content" class="sr-only sr-only-focusable">{{ messages("Skip to main content") }}</a>
+<!--  Banner -->
+<div class="container-fluid banner">
+	<a href="/">
+		<img class="img-responsive img-float-left" src="/assets/images/accu2019_368x124.png" alt="ACCUConf 2019 Logo"/>
+	</a>
+	<a href="https://accu.org">
+		<img class="img-responsive img-float-right" src="/assets/images/accu_logo.png" alt="ACCU Logo"/>
+	</a>
+</div>
+<div class="row">
+	<!-- Menubar -->
+	<div class="col-lg-12">
+		<div class="row">
+			{{ accuconf.current_menu() }}
+		</div> <!-- End div.row for nav -->
+
+		<!-- End of Menubar -->
+	</div> <!-- End of col-lg-12 -->
+</div>
+
+<div class="row">
+
+	<!-- For single column rendering - In mobiles and tablets -->
+	<div class="visible-xs-block">
+		<div class="container-fluid">
+			{{ accuconf.cocbits() }}
+			{{ accuconf.registerbutton() }}
+			<div class="accuconf-menu">
+				<a type="button" class="accuconf-toggle-link btn" data-toggle="collapse" href="#keydates">
+					<span class="accuconf-toggle glyphicon glyphicon-menu-hamburger"> Dates and Location </span>
+				</a>
+				<div class="collapse" id="keydates">
+					{{ accuconf.dates() }}
+					<hr/>
+					{{ accuconf.location() }}
 				</div>
 			</div>
 		</div>
-		<!-- End For single column rendering  -->
-		<!-- Main Content -->
-		<div class="col-sm-6 col-md-6 col-lg-6">
-			<div id="content" role="main">
-				<div class="body-content">
-					<!--Body content-->
-					<div class="row">
-						{{ template_hooks['page_header']() }}
-						{% block content %}{% endblock %}
-					</div>
-					<!--End of body content-->
+	</div>
+	<!-- End For single column rendering  -->
 
-					<footer id="footer">
-						{{ content_footer }}
-						{{ template_hooks['page_footer']() }}
-					</footer>
+	<!-- Main Content -->
+	<div class="col-lg-8 col-lg-push-2">
+		<div id="content" role="main">
+			<div class="body-content">
+				<!--Body content-->
+				<div class="row">
+					{{ template_hooks['page_header']() }}
+					{% block content %}{% endblock %}
 				</div>
+				<!--End of body content-->
 			</div>
-		</div> <!--  End of col-sm-6 -->
-		<!-- End of main content -->
-		<div class="col-sm-3 col-md-3 col-lg-3">
-			<div class="hidden-xs">
-				<div class="row" id="greeter-row">
-					<div class="panel panel-default" id="greeter-panel">
-						<h4 id="greeter"></h4>
+		</div>
+	</div> <!--  End of col-lg-8 -->
+	<!-- End of main content -->
+
+	<div class="col-lg-2 col-lg-pull-8">
+			<div class="row">
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						<h3 class="panel-title">Dates</h3>
+					</div>
+					<div class="panel-body">
+						{{ accuconf.dates() }}
+					</div>
+				</div>
+				<div class="row">
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<h3 class="panel-title">Location</h3>
+						</div>
+						<div class="panel-body">
+							{{ accuconf.location() }}
+						</div>
+					</div>
+					<div class="row">
+						{{ accuconf.organiser() }}
 					</div>
 				</div>
 			</div>
-			<div class="hidden-xs">
-				{{ accuconf.cocbits() }}
-				<!-- Link to the registration site. -->
-				<!-- div class="row">
+	</div>
+
+	<div class="col-lg-2">
+		<div class="hidden-xs">
+			{{ accuconf.cocbits() }}
+			<!-- Link to the registration site. -->
+				<div class="row">
 					<div class="panel panel-default">
 						<div class="panel-body">
 							{{ accuconf.registerbutton() }}
 						</div>
 					</div>
-				</div -->
-				<div class="row">
-					<div class="panel panel-default">
-						<div class="panel-heading">
-							<h3 class="panel-title">Dates</h3>
-						</div>
-						<div class="panel-body">
-							{{ accuconf.dates() }}
-						</div>
-					</div>
-					<div class="row">
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<h3 class="panel-title">Location</h3>
-							</div>
-							<div class="panel-body">
-								{{ accuconf.location() }}
-							</div>
-						</div>
-					</div>
 				</div>
-			</div>
-			<div class="row">
-				{{ accuconf.committee() }}
-			</div>
-			<div class="row">
-				{{ accuconf.organiser() }}
-			</div>
-			<div class="row visible-xs">
-				{{ accuconf.sponsors() }}
-			</div>
 		</div>
-	</div> <!--  End of div.row -->
-	{{ base.late_load_js() }}
-	{% block extra_js %}{% endblock %}
-	{% if annotations and post and not post.meta('noannotations') %}
-		{{ notes.code() }}
-	{% elif not annotations and post and post.meta('annotations') %}
-		{{ notes.code() }}
-	{% endif %}
-	{{ body_end }}
-	{{ template_hooks['body_end']() }}
+		<div class="row">
+			{{ accuconf.committee() }}
+		</div>
+			<div class="row">
+				<div class="container-fluid">
+					{{ accuconf.sponsors() }}
+				</div>
+		</div>
+			<div class="row">
+				<div class="container-fluid">
+					{{ accuconf.community_sponsors() }}
+				</div>
+		</div>
+	</div>
+</div> <!--  End of div.row -->
+{{ base.late_load_js() }}
+<footer id="footer">
+	{{ content_footer }}
+	{{ template_hooks['page_footer']() }}
+</footer>
+
+{% block extra_js %}{% endblock %}
+{% if annotations and post and not post.meta('noannotations') %}
+	{{ notes.code() }}
+{% elif not annotations and post and post.meta('annotations') %}
+	{{ notes.code() }}
+{% endif %}
+{{ body_end }}
+{{ template_hooks['body_end']() }}
 </body>
 </html>
