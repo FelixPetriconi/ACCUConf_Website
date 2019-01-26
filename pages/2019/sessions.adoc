@@ -385,6 +385,29 @@ Prepare yourself for an equal amount of stories, gotchas and workarounds, both o
 Please join me for a quick tour of a blatantly honest case-study on using Git / GitLab and related tools in a dynamic development team. Spoiler: no unicorns here.
 
 
+[[XFromnothingtotoomuchgrowingatechcommunityintheEastofEngland]]
+== From nothing to too much: growing a tech community in the East of England
+=== link:presenters.html#XPaulGrenyer[Paul Grenyer]
+
+In this hopefully light hearted and amusing keynote, Paul Grenyer will
+chart his journey from over excited puppy who needed to be hit over the
+nose with a rolled up newspaper to helping build one of the strongest and
+most successful tech communities in the UK in the massive tech hub of
+Norwich, still considered an insignificant back water by many.
+
+He’ll start by asking the question, why Norwich and help you understand one
+of the most misunderstood places in the UK. How a disperate, but highly
+talented tech community was brought together and runs three tour de force
+tech events every year and countless other tech related events to become
+recognised by TechNation as one of the strongest independent communities in
+the UK.
+
+Of course it wasn’t all plain sailing and Paul will look at the egos,
+politics and pitfalls of building a community like this. Just like so many
+of the software projects we work on everyday, there’s always more which can
+be done.
+
+
 [[XGPUprogrammingwithmodernC]]
 == GPU programming with modern {cpp}
 === link:presenters.html#XMichaelWong[Michael Wong]
@@ -882,13 +905,6 @@ TBA
 [[XTBA]]
 == TBA
 === link:presenters.html#XMAngelaSasse[M Angela Sasse]
-
-TBA
-
-
-[[XTBA]]
-== TBA
-=== link:presenters.html#XPaulGrenyer[Paul Grenyer]
 
 TBA
 

@@ -509,9 +509,22 @@ Patricia is a programmer who has worked mostly in {cpp} and Java. She has spent 
 [[XPaulGrenyer]]
 == Paul Grenyer
 
-link:sessions.html#XTBA[TBA]
+link:sessions.html#XFromnothingtotoomuchgrowingatechcommunityintheEastofEngland[From nothing to too much: growing a tech community in the East of England]
 
-TBA
+Paul is the CEO at Naked Element and a founder and organiser of Norfolk
+Developers (nor(DEV)), founder and one time organiser of SyncNorwich and
+one time ACCU member and committee member. Paul has been working in the
+software industry for nearly 20 years and has 15 years of programming
+experience prior to that.
+
+Having worked with all sorts of companies from small startups and SMEs to
+global investment banks and insurers, Paul has seen many different types of
+software developed in every way you can imagine, some which worked and some
+which didn’t.
+
+Paul is also the chair of nor(DEV):con, the biggest software development
+conference in the East of England.
+
 
 
 [[XPeterBindels]]

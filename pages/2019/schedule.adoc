@@ -242,7 +242,7 @@ link:presenters.html#XFelixPetriconi[Felix Petriconi]
 |*SS Great Britain*
 
 |09:30
-5+^|link:sessions.html#XTBA[TBA] +
+5+^|link:sessions.html#XFromnothingtotoomuchgrowingatechcommunityintheEastofEngland[From nothing to too much: growing a tech community in the East of England] +
  +
 link:presenters.html#XPaulGrenyer[Paul Grenyer]
 
