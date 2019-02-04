@@ -988,12 +988,16 @@ In the end we should have a solid idea of which error handling strategy to use w
 == The State of Package Management in {cpp}
 === link:presenters.html#XMathieuRopert[Mathieu Ropert]
 
-Package management was considered one of the hottest and crucial topics in the last 2 years. In 2017, Bjarne Stroustrup himself said this was a something we needed to solve to keep students interested in {cpp}.
+Package management was considered one of the hottest and crucial topics in the last 2 years. In
+2017, Bjarne Stroustrup himself said this was a something we needed to solve to keep students
+interested in {cpp}.
 
 Where do we stand today, in 2019? Join me for a tour of the topic, including:
+
 * A look at which tools we currently have, with a focus on Conan and VCPKG
 * What challenges we still have to overcome
 * How you can make your software easier to package and reuse
+
 
 
 [[XTheStoryofVillagersMarblesandOhABlockchain]]
