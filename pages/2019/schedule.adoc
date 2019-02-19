@@ -81,8 +81,8 @@ link:presenters.html#XVittorioRomeo[Vittorio Romeo]
 link:presenters.html#XAlisdairMeredith[Alisdair Meredith]
 |link:sessions.html#XBeyourownThreatbuster[Be your own Threatbuster!] +
  +
-link:presenters.html#XNatalia[Natalia] +
-link:presenters.html#XYueWang[Yue Wang]
+link:presenters.html#XNataliaOskina[Natalia Oskina] +
+link:presenters.html#XGiovanniAsproni[Giovanni Asproni]
 |link:sessions.html#XHaveFunAndLearnKotlin[Have Fun And Learn Kotlin] +
  +
 link:presenters.html#XUbertoBarbini[Uberto Barbini]
@@ -156,7 +156,7 @@ link:presenters.html#XDietmarKühl[Dietmar Kühl]
 |09:30
 5+^|link:sessions.html#XTBA[TBA] +
  +
-link:presenters.html#XKateGregory[Kate Gregory]
+link:presenters.html#XHerbSutter[Herb Sutter]
 
 |10:30
 5+^|Break
@@ -182,9 +182,9 @@ link:presenters.html#XTimurDoumler[Timur Doumler]
 5+^|Lunch
 
 |14:00
-|link:sessions.html#XWindowsNativeAPI[Windows Native API] +
+|link:sessions.html#XWhatDoWeMeanWhenWeSayNothingAtAll[What Do We Mean When We Say Nothing At All?] +
  +
-link:presenters.html#XRogerOrr[Roger Orr]
+link:presenters.html#XKateGregory[Kate Gregory]
 |link:sessions.html#XOptimisingasmallrealworldCapplication[Optimising a small real-world {cpp} application] +
  +
 link:presenters.html#XHubertMatthews[Hubert Matthews]
@@ -383,9 +383,9 @@ link:presenters.html#XArneMertz[Arne Mertz]
 |link:sessions.html#XCPUoptimizeddatastructuresmorefunwithassembler[CPU optimized data structures - more fun with assembler] +
  +
 link:presenters.html#XCBBailey[CB Bailey]
-|link:sessions.html#XWhatDoWeMeanWhenWeSayNothingAtAll[What Do We Mean When We Say Nothing At All?] +
+|link:sessions.html#XWindowsNativeAPI[Windows Native API] +
  +
-link:presenters.html#XKateGregory[Kate Gregory]
+link:presenters.html#XRogerOrr[Roger Orr]
 |link:sessions.html#XMoveSemanticsVersusLocalArenaMemoryAllocators[Move Semantics Versus Local ("Arena") Memory Allocators] +
  +
 link:presenters.html#XJohnLakos[John Lakos]
@@ -428,7 +428,7 @@ link:presenters.html#XAnastasiaKazakova[Anastasia Kazakova]
 |16:30
 5+^|link:sessions.html#XTBA[TBA] +
  +
-link:presenters.html#XHerbSutter[Herb Sutter]
+link:presenters.html#XKateGregory[Kate Gregory]
 
 |18:00
 5+^|Close

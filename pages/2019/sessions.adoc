@@ -207,7 +207,7 @@ First, we show how audio signals can be digitally represented in {cpp}, covering
 
 [[XBeyourownThreatbuster]]
 == Be your own Threatbuster!
-=== link:presenters.html#XYueWang[Yue Wang], link:presenters.html#XNatalia[Natalia]
+=== link:presenters.html#XGiovanniAsproni[Giovanni Asproni], link:presenters.html#XNataliaOskina[Natalia Oskina]
 
 Creating a quality web application is hard. It’s hard to gain customers, it’s hard to build your reputation and it’s hard to keep the costs low. Nevertheless, security is often an afterthought.
  

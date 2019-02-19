@@ -279,6 +279,14 @@ link:sessions.html#XMPINAuthenticationinVehicleTracking[M-PIN Authentication in 
 Software Engineer. Graduate from Pisa University and worked in several multinational companies. Member of the team that created HP Latex 3000. Managed and implemented features in Gisiecke and Devrient Hardware Security Modules and now working in a new brand Fleet Management System.
 
 
+[[XGiovanniAsproni]]
+== Giovanni Asproni
+
+link:sessions.html#XBeyourownThreatbuster[Be your own Threatbuster!]
+
+Giovanni works as a Principal Consultant for Zuhlke Engineering in London. He has been helping software companies and teams become more successful for many years by providing consulting, training and advice, as well as coding, to projects of all sizes. He is both a frequent conference speaker, and organiser. He is a past Chair of the London XPDay and the ACCU conferences, the Industry & Practice co-chair for XP2016, and the Conference Chair for SPA 2018 and SPA 2019. He is a member of the ACM and the IEEE Computer Society, and contributed to the book 97 Things Every Programmer Should Know, published by O’Reilly.
+
+
 [[XGregLaw]]
 == Greg Law
 
@@ -472,8 +480,8 @@ is a trustee on the cyber-dojo foundation.
 
 
 
-[[XNatalia]]
-== Natalia
+[[XNataliaOskina]]
+== Natalia Oskina
 
 link:sessions.html#XBeyourownThreatbuster[Be your own Threatbuster!]
 
@@ -693,12 +701,4 @@ Vittorio Romeo is a {cpp} enthusiast from a young age, now with a BS in Computer
 link:sessions.html#XLeaveyourCbehindbetterembeddedlibraryinterfaceswithmodernC[Leave your C behind: better embedded library interfaces with modern C++]
 
 Wouter van OOijen is a software engineer by profession and a hardware tinkerer by passion. He got his degree in Informatics from the Delft University of Technology. He has worked on embedded systems for industry, space, and military applications. Currently he teaches at the Technical Informatics section of the Hogeschool Utrecht, Netherlands. His main interest is the borderline between hardware and software. 
-
-
-[[XYueWang]]
-== Yue Wang
-
-link:sessions.html#XBeyourownThreatbuster[Be your own Threatbuster!]
-
-Graduated from University of York with a MSc in Software Engineering in 2007. Currently works for Zuhlke Engineering as a Senior Software Engineer. Passionate about innovation, clean code, CI/CD and Agile.
 
