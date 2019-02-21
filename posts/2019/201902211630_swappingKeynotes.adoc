@@ -1,0 +1,18 @@
+////
+.. title: Swapping Keynotes
+.. date: 2019-02-21T1630+00:00
+.. type: text
+////
+
+We published the ACCU 2019 schedule a month ago. There is the usual disclaimer that the schedule is
+subject to change without notice till the end of the conference – at which point the schedule is
+a record of the history so no further changes are possible. This usually means just amendments
+to the sessions, quickies, side events, or social events, as the keynotes are normally fixed
+points.
+
+This year an unusual situation means we need to swap two of the keynotes: Herb's Saturday
+closing keynote has become Thursday's opening keynote; and Kate's Thursday opening keynote has
+become Saturday's closing keynote. Given the circumstances this year, this was unfortunately The
+Right Thing To Do™ even though it is a change to the keynotes post publication of the schedule.
+
+image::/assets/images/register_2019.png[link="http://www.cvent.com/d/dbqjfx"]
