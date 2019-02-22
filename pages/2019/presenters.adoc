@@ -485,7 +485,10 @@ is a trustee on the cyber-dojo foundation.
 
 link:sessions.html#XBeyourownThreatbuster[Be your own Threatbuster!]
 
-Russian-born Software Engineer at Zuhlke Engineering UK. Started Computer Science education in Russia, specialised in Software Engineering in London. Addicted to travelling and new technologies. Artist and dancer at heart. Desires to explore how deep the security rabbit hole goes.
+Russian-born Software Engineer. Started Computer Science education in Russia, specialised in
+Software Engineering in London. Addicted to travelling and new technologies. Artist and dancer
+at heart. Desires to explore how deep the security rabbit hole goes.
+
 
 
 [[XNeilHorlock]]
