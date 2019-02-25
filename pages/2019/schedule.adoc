@@ -224,7 +224,10 @@ link:presenters.html#XFelixPetriconi[Felix Petriconi]
 5+^|Break
 
 |18:00
-5+^|Lightning Talks (1 hour, Empire)
+5+^|Lightning Talks (1 hour, Bristol Suite)
+
+|19:15
+5+^|Girl Geeks (Empire)
 |===
 
 
@@ -338,11 +341,14 @@ link:presenters.html#XStevenSimpson[Steven Simpson]
 |17:30
 5+^|Break
 
-|18:00
+|17:45
 5+^|Lightning Talks (1 hour, Bristol Suite)
 
-|19:30
-5+^|Conference Dinner (19:30 for drinks, 20:00 service)
+|19:45
+5+^|Conference Dinner (19:45 for drinks, 20:15 service)
+
+|22:15
+5+^|http://www.echoborg.com/[Echoborg]
 |===
 
 
