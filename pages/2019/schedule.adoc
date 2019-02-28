@@ -13,7 +13,7 @@ _The schedule is subject to change without notice until 2019-04-13._
 
 == Tuesday 2019-04-09
 
-[cols="8*^", options="header"]
+[cols="7*^", options="header"]
 |===
 |
 |Empire
@@ -22,7 +22,6 @@ _The schedule is subject to change without notice until 2019-04-13._
 |Concorde
 |Old Vic
 |Castle View
-|Conservatory
 
 |10:00
 |link:sessions.html#XAcceleratedTDDForMoreProductiveC[Accelerated TDD: For More Productive {cpp}] +
@@ -43,11 +42,10 @@ link:presenters.html#XKatharinaFey[Katharina Fey]
 link:presenters.html#XAustinBingham[Austin Bingham]
 |link:sessions.html#XACCUConf101anEarlyCareerTutorial[ACCUConf 101: an Early Career Tutorial] +
  +
+link:presenters.html#XRogerOrr[Roger Orr] +
+link:presenters.html#XGiovanniAsproni[Giovanni Asproni] +
+link:presenters.html#XKevlinHenney[Kevlin Henney] +
 link:presenters.html#XGailOllis[Gail Ollis]
-|link:sessions.html#XAnIntroductiontoKubernetes[An Introduction to Kubernetes] +
- +
-link:presenters.html#XJonJagger[Jon Jagger] +
-link:presenters.html#XMikeLong[Mike Long]
 |===
 
 
@@ -432,7 +430,7 @@ link:presenters.html#XAnastasiaKazakova[Anastasia Kazakova]
 5+^|Break
 
 |16:30
-5+^|link:sessions.html#XTBA[TBA] +
+5+^|link:sessions.html#XEmotionalCode[Emotional Code] +
  +
 link:presenters.html#XKateGregory[Kate Gregory]
 

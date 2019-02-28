@@ -282,6 +282,8 @@ Software Engineer. Graduate from Pisa University and worked in several multinati
 [[XGiovanniAsproni]]
 == Giovanni Asproni
 
+link:sessions.html#XACCUConf101anEarlyCareerTutorial[ACCUConf 101: an Early Career Tutorial]
+
 link:sessions.html#XBeyourownThreatbuster[Be your own Threatbuster!]
 
 Giovanni works as a Principal Consultant for Zuhlke Engineering in London. He has been helping software companies and teams become more successful for many years by providing consulting, training and advice, as well as coding, to projects of all sizes. He is both a frequent conference speaker, and organiser. He is a past Chair of the London XPDay and the ACCU conferences, the Industry & Practice co-chair for XP2016, and the Conference Chair for SPA 2018 and SPA 2019. He is a member of the ACM and the IEEE Computer Society, and contributed to the book 97 Things Every Programmer Should Know, published by O’Reilly.
@@ -356,14 +358,6 @@ John Lakos, author of Large-Scale {cpp} Software Design, and more recently his n
 
 
 
-[[XJonJagger]]
-== Jon Jagger
-
-link:sessions.html#XAnIntroductiontoKubernetes[An Introduction to Kubernetes]
-
-I’m a software consultant specializing in practice, process, test driven development, and complex-adaptive systems-thinking. Hire me! I’m 33 years old (hex) and I’ve loved software since I was 10 (decimal). I built cyber-dojo.org to promote deliberate practice for software developers. I’m the co-author (with Olve Maudal) of the Deep C/{cpp} slide deck (over 1,000,000 views) I’m the ex ECMA Task Group 2 C# convenor. I’ve had some C# books published. I’m the ex ACCU conference chairman. I’m married to the beautiful Natalie, and proud father of Ellie, Penny and Patrick. I love coarse fishing and salmon fishing. I live in Somerset, England. On twitter I’m @JonJagger
-
-
 [[XJonathanBoccara]]
 == Jonathan Boccara
 
@@ -383,7 +377,7 @@ Jonathan is an Embedded Systems Engineer, member of the Embedded Rust Working Gr
 [[XKateGregory]]
 == Kate Gregory
 
-link:sessions.html#XTBA[TBA]
+link:sessions.html#XEmotionalCode[Emotional Code]
 
 link:sessions.html#XWhatDoWeMeanWhenWeSayNothingAtAll[What Do We Mean When We Say Nothing At All?]
 
@@ -401,6 +395,8 @@ Katharina lives in Berlin and works as a software engineer at Ferrous Systems. S
 
 [[XKevlinHenney]]
 == Kevlin Henney
+
+link:sessions.html#XACCUConf101anEarlyCareerTutorial[ACCUConf 101: an Early Career Tutorial]
 
 link:sessions.html#XWhatDoYouMean[What Do You Mean?]
 
@@ -463,21 +459,6 @@ He is a member of the ISO {cpp} Directions Group (DG), and the Canadian Head of 
 He has been asked to speak/keynote at many conferences, companies, research centers, universities, including CPPCON, Bloomberg, U of Houston, U of Toronto, ACCU, {cpp}Now, Meeting {cpp}, AD{cpp}, CASCON, Bloomberg, CERN, Barcelona Supercomputing Center, FAU Erlangen, LSU, Universidad Carlos III de Madrid, Texas A&M University, Parallel, KIT School, CGO, IWOMP/IWOCL, Code::dive, many {cpp} Users group meetings, Euro TM Graduate School, and Going Native.
 He is the current Editor for the Concurrency TS and the Transactional Memory TS. 
 http://wongmichael.com/about
-
-
-[[XMikeLong]]
-== Mike Long
-
-link:sessions.html#XAnIntroductiontoKubernetes[An Introduction to Kubernetes]
-
-
-Mike is a Partner at Praqma, a Continuous Delivery and Devops
-consulting company based in Scandinavia. He has extensive experience
-delivering software in various cultures and industries. He helps
-organize several community events and conferences, including CoDe
-Academy which teaches Continuous Delivery to university students. Mike
-is a trustee on the cyber-dojo foundation.
-
 
 
 [[XNataliaOskina]]
@@ -568,6 +549,8 @@ Phil Nash is the author of the test frameworks, Catch – for {cpp} (and Objecti
 
 [[XRogerOrr]]
 == Roger Orr
+
+link:sessions.html#XACCUConf101anEarlyCareerTutorial[ACCUConf 101: an Early Career Tutorial]
 
 link:sessions.html#XWindowsNativeAPI[Windows Native API]
 

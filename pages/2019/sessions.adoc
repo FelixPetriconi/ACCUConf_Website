@@ -64,7 +64,7 @@ What would a scalable financial risk platform look like if it was started from a
 
 [[XACCUConf101anEarlyCareerTutorial]]
 == ACCUConf 101: an Early Career Tutorial
-=== link:presenters.html#XGailOllis[Gail Ollis]
+=== link:presenters.html#XRogerOrr[Roger Orr], link:presenters.html#XGiovanniAsproni[Giovanni Asproni], link:presenters.html#XKevlinHenney[Kevlin Henney], link:presenters.html#XGailOllis[Gail Ollis]
 
 
 This is an all-day pre-conference tutorial. But unlike the other 
@@ -155,33 +155,6 @@ The talk will cover the following topics:
 * Condition variables
 * Race conditions
 * Futures
-
-
-
-[[XAnIntroductiontoKubernetes]]
-== An Introduction to Kubernetes
-=== link:presenters.html#XMikeLong[Mike Long], link:presenters.html#XJonJagger[Jon Jagger]
-
-
-This course takes you through running and operating applications with
-kubernetes. You’ll learn how Kubernetes works, and how to best take
-advantage of cloud native technologies. Throughout the course we’ll
-take you through a variety of hands-on exercises designed to help you
-quickly grow from a beginner to a seasoned user:
-
-* Introduction to Kubernetes
-* Namespaces, Pods, and Deployments
-* Service Discovery and Load-balancing
-* Rolling out updates
-* Configuration and Secrets
-* Persistent Storage
-* Networking and Ingress
-* Helm Package Manager
-* Kubernetes Internals
-
-### Computer Setup
-
-Attendees will need to bring a laptop with an SSH client and bash installed.
 
 
 
@@ -318,6 +291,13 @@ This short talk presents how easy it is to replace some cases of dynamic polymor
 The {cpp} 20 object and memory model has no support for memory allocated from, or managed by, elsewhere to the currently running {cpp} program. This makes it impossible to legally write a dynamic memory allocator which uses memory not available to the {cpp} program when it began life, so global `operator new` in every hosted {cpp} implementation today relies on undefined behaviour. For similar reasons, shared memory, memory mapped files, or even virtual memory, cannot be legally used in {cpp} programs without relying on undefined or unspecified behaviour. https://wg21.link/P0593[P0593 _Implicit creation of objects for low-level object manipulation_] "solves" this by enabling the {cpp} program to tell the compiler "trust me, I'm the programmer", which is a useful stop-gap, but it leaves one wanting for something better.
 
 This talk will recap the {cpp} 20 object and memory model, illustrating the mismatch between reality on the ground for the programmer for over twenty years, and the {cpp} programming language. We will look at the next generation of storage devices which directly expose to the host computer the on-device internal filing system (e.g. the https://www.snia.org/sites/default/files/SDC/2017/presentations/Object_ObjectDriveStorage/Ki_Yang_Seok_Key_Value_SSD_Explained_Concept_Device_System_and_Standard.pdf[Samsung KV-SSD]), such that i/o is exclusively key-value load and store operations, rather than reads and writes of bytes. We shall muse on how a future {cpp} object and memory model might be adjusted to more closely match hardware and kernel reality.
+
+
+[[XEmotionalCode]]
+== Emotional Code
+=== link:presenters.html#XKateGregory[Kate Gregory]
+
+Programmers, it turns out, are human beings. This means they not only feel emotions, they leave traces of those emotions behind in their code. Kate will show you why that is so, and what you can do about it.
 
 
 [[XEvolutionaryAlgorithmsinPractice]]
@@ -891,13 +871,6 @@ Visualization leverages research on human visual perception. Its application in 
 [[XTBA]]
 == TBA
 === link:presenters.html#XHerbSutter[Herb Sutter]
-
-TBA
-
-
-[[XTBA]]
-== TBA
-=== link:presenters.html#XKateGregory[Kate Gregory]
 
 TBA
 
