@@ -85,6 +85,14 @@ link:sessions.html#XHeresmynumbercallmemaybeCallbacksinamultithreadedworld[Here'
 Anthony Williams is the author of {cpp} Concurrency in Action, and a UK-based developer, consultant and trainer with over 20 years of experience in {cpp}. He has been an active member of the BSI {cpp} Standards Panel since 2001, and is author or coauthor of many of the {cpp} Standards Committee papers that led up to the inclusion of the thread library in the {cpp}11 Standard. He continues to work on new facilities to enhance the {cpp} concurrency toolkit, both with standards proposals, and implementations of those facilities for the just::thread Pro extensions to the {cpp} thread library from Just Software Solutions Ltd. Anthony lives in the far west of Cornwall, England.
 
 
+[[XArjanvanLeeuwen]]
+== Arjan van Leeuwen
+
+link:sessions.html#XACCUConf101anEarlyCareerTutorial[ACCUConf 101: an Early Career Tutorial]
+
+Arjan van Leeuwen is a software developer and team lead at browser maker Opera Software, working on its eponymous web browser for desktop platforms, mostly in {cpp}. Reliability and speed are things that matter every day, but code quality is the subject that can really get him riled up. Arjan has worked on Opera Software’s flagship product, the Opera browser for computers, for over 10 years and has spoken regularly at ACCU conferences.
+
+
 [[XArneMertz]]
 == Arne Mertz
 

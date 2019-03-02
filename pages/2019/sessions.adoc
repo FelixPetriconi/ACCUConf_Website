@@ -64,7 +64,7 @@ What would a scalable financial risk platform look like if it was started from a
 
 [[XACCUConf101anEarlyCareerTutorial]]
 == ACCUConf 101: an Early Career Tutorial
-=== link:presenters.html#XRogerOrr[Roger Orr], link:presenters.html#XGiovanniAsproni[Giovanni Asproni], link:presenters.html#XKevlinHenney[Kevlin Henney], link:presenters.html#XGailOllis[Gail Ollis]
+=== link:presenters.html#XRogerOrr[Roger Orr], link:presenters.html#XGiovanniAsproni[Giovanni Asproni], link:presenters.html#XKevlinHenney[Kevlin Henney], link:presenters.html#XArjanvanLeeuwen[Arjan van Leeuwen], link:presenters.html#XGailOllis[Gail Ollis]
 
 
 This is an all-day pre-conference tutorial. But unlike the other 
