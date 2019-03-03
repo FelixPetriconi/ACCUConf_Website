@@ -40,7 +40,7 @@ link:presenters.html#XKatharinaFey[Katharina Fey]
 |link:sessions.html#XPythonBestPractices[Python Best Practices] +
  +
 link:presenters.html#XAustinBingham[Austin Bingham]
-|link:sessions.html#XACCUConf101anEarlyCareerTutorial[ACCUConf 101: an Early Career Tutorial] +
+|link:sessions.html#XACCUConference101anEarlyCareerTutorial[ACCU Conference 101: an Early Career Tutorial] +
  +
 link:presenters.html#XRogerOrr[Roger Orr] +
 link:presenters.html#XGiovanniAsproni[Giovanni Asproni] +

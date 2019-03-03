@@ -88,7 +88,7 @@ Anthony Williams is the author of {cpp} Concurrency in Action, and a UK-based de
 [[XArjanvanLeeuwen]]
 == Arjan van Leeuwen
 
-link:sessions.html#XACCUConf101anEarlyCareerTutorial[ACCUConf 101: an Early Career Tutorial]
+link:sessions.html#XACCUConference101anEarlyCareerTutorial[ACCU Conference 101: an Early Career Tutorial]
 
 Arjan van Leeuwen is a software developer and team lead at browser maker Opera Software, working on its eponymous web browser for desktop platforms, mostly in {cpp}. Reliability and speed are things that matter every day, but code quality is the subject that can really get him riled up. Arjan has worked on Opera Software’s flagship product, the Opera browser for computers, for over 10 years and has spoken regularly at ACCU conferences.
 
@@ -262,7 +262,7 @@ new techniques.
 [[XGailOllis]]
 == Gail Ollis
 
-link:sessions.html#XACCUConf101anEarlyCareerTutorial[ACCUConf 101: an Early Career Tutorial]
+link:sessions.html#XACCUConference101anEarlyCareerTutorial[ACCU Conference 101: an Early Career Tutorial]
 
 link:sessions.html#XHelpingDeveloperstoHelpEachOther[Helping Developers to Help Each Other]
 
@@ -290,7 +290,7 @@ Software Engineer. Graduate from Pisa University and worked in several multinati
 [[XGiovanniAsproni]]
 == Giovanni Asproni
 
-link:sessions.html#XACCUConf101anEarlyCareerTutorial[ACCUConf 101: an Early Career Tutorial]
+link:sessions.html#XACCUConference101anEarlyCareerTutorial[ACCU Conference 101: an Early Career Tutorial]
 
 link:sessions.html#XBeyourownThreatbuster[Be your own Threatbuster!]
 
@@ -404,7 +404,7 @@ Katharina lives in Berlin and works as a software engineer at Ferrous Systems. S
 [[XKevlinHenney]]
 == Kevlin Henney
 
-link:sessions.html#XACCUConf101anEarlyCareerTutorial[ACCUConf 101: an Early Career Tutorial]
+link:sessions.html#XACCUConference101anEarlyCareerTutorial[ACCU Conference 101: an Early Career Tutorial]
 
 link:sessions.html#XWhatDoYouMean[What Do You Mean?]
 
@@ -558,7 +558,7 @@ Phil Nash is the author of the test frameworks, Catch – for {cpp} (and Objecti
 [[XRogerOrr]]
 == Roger Orr
 
-link:sessions.html#XACCUConf101anEarlyCareerTutorial[ACCUConf 101: an Early Career Tutorial]
+link:sessions.html#XACCUConference101anEarlyCareerTutorial[ACCU Conference 101: an Early Career Tutorial]
 
 link:sessions.html#XWindowsNativeAPI[Windows Native API]
 
