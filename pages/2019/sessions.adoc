@@ -62,61 +62,48 @@ Even some of the more radical new systems are seem to be merely updated implemen
 What would a scalable financial risk platform look like if it was started from a clean slate, with modern tools and software engineering techniques? This talk looks at architectural principles, prototypes, problems and solutions.
 
 
-[[XACCUConf101anEarlyCareerTutorial]]
-== ACCUConf 101: an Early Career Tutorial
+[[XACCUConference101anEarlyCareerTutorial]]
+== ACCU Conference 101: an Early Career Tutorial
 === link:presenters.html#XRogerOrr[Roger Orr], link:presenters.html#XGiovanniAsproni[Giovanni Asproni], link:presenters.html#XKevlinHenney[Kevlin Henney], link:presenters.html#XArjanvanLeeuwen[Arjan van Leeuwen], link:presenters.html#XGailOllis[Gail Ollis]
-
 
 This is an all-day pre-conference tutorial. But unlike the other 
 tutorials, this Early Career Tutorial is exclusively for software 
 developers in their first years of work. You have had some experience of 
 professional programming, whether as a placement student or a graduate 
-level employee. You may be wondering if ACCUConf is for you and how it 
+level employee. You may be wondering if the ACCU conference is for you and how it 
 can help you. In the company of others with a similar level of 
 experience, this supportive tutorial will offer you clear and practical 
 guidance in key aspects of your work, drawn from a rich history of 
-previous ACCUConf material. Your tutors (to be announced) will be 
+previous ACCU conference material. Your tutors will be a
 variety of experts chosen from among well-known speakers for their 
 excellent content and delivery.
 
-This tutorial is chaired by Gail Ollis, an ACCUConf regular who 
-remembers what it was like to attend her first ACCUConf. After a long 
+This tutorial is chaired by Gail Ollis, an ACCU conference regular who 
+remembers what it was like to attend her first ACCU  conference. After a long 
 career in commercial software development Gail is now a lecturer in 
-programming and cyberpsychology at Bournemouth University.
+programming and cyber psychology at Bournemouth University.
 
 Sessions will include a mix of personal and technical skills:
 
+
 === Presentation Skills
+Technical presentations present their own particular challenge. This session will help you to communicate effectively the information you have to share.
 
-Technical presentations present their own particular challenge. This 
-session will help you to communicate effectively the information you 
-have to share.
-
-=== Software Architecture
-
-The high level structures of a software system play a key role in making 
-developers' lives harder or easier. This session will help you to look 
-at the bigger picture with an expert eye.
+=== Software Processes and Architecture
+The high level structures of a software system play a key role in making developers' lives harder or easier, as do the processes within which they work. This session will help you to look at the bigger picture with an expert eye.
 
 === Coding
+The obvious part of programming is to get the computer to do your bidding at all! This session will move beyond that to help you reflect on coding practices. ACCU’s tagline, after all, is "Professionalism in Programming".
 
-The obvious part of programming is to get the computer to do your 
-bidding at all! This session will move beyond that to help you reflect 
-on coding practices. ACCU's tagline, after all, is "Professionalism in 
-Programming".
+=== How to Work Better Together With Code Reviews
+Code reviews are at their best an invaluable part of the development process and at their worst not only a waste of time but also harmful to working relationships. This session will help you to benefit from the best version and avoid the pitfalls of the worst.
 
-=== Code review
+=== Better Debugging
+We spend a lot of time dealing with bugs - whether our own or other people's. Unfortunately much bug hunting is frustrating, haphazard, inefficient, and resource intensive. This session will look at some principles and strategies for making bug hunting more effective and less of a 'black art'.
 
-Code reviews are at their best an invaluable part of the development 
-process and at their worst not only a waste of time but also harmful to 
-working relationships. This session will help you to benefit from the 
-best version and avoid the pitfalls of the worst.
+=== Lightning Talks
+The day will end with your very own lightning talk session, the ideal opportunity to practice sharing your thoughts with a small, friendly audience.
 
-=== Lightning talks
-
-The day will end with your very own lightning talk session, the ideal 
-opportunity to practice sharing your thoughts with a small, friendly 
-audience.
 
 
 

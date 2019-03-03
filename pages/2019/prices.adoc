@@ -46,6 +46,11 @@ carefully.
 | £200
 | £225
 
+| Pre-conference Early Careers Workshop (flat fee)
+| £99
+| £99
+
+
 | 4-day conference
 | £670
 | £770
@@ -63,9 +68,6 @@ carefully.
 
 | Pre-conference tutorial/workshop day
 | £170
-
-| Pre-conference Early Careers Workshop (flat fee)
-| £99
 
 | 4-day conference
 | £250
