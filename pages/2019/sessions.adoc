@@ -120,6 +120,15 @@ But the advantages are definitely there! We just need a good grounding in what T
 That’s what this workshop aims to be. Whether you’ve never written a test before, or you’ve had some mileage with TDD already, be prepared to ratchet up your productivity by thinking about things in new ways and gaining more approaches to breaking down problems in sustainable ways.
 
 
+[[XAllocatorAwareAASoftware]]
+== Allocator-Aware (AA) Software
+=== link:presenters.html#XJohnLakos[John Lakos]
+
+The performance benefits of supplying local allocators are well-known and substantial [Lakos, ACCU’17]. Still, the real-world costs associated with orchestrating the integration of allocators throughout a code base, including training, supporting tools, enlarged interfaces (and contracts), and a heightened potential for inadvertent misuse cannot be ignored. Despite substantial upfront costs, when one considers collateral benefits for clients – such as rapid prototyping of alternative allocation strategies – the case for investing in a fully allocator-aware (AA) software infrastructure (SI) becomes even more compelling. Yet there remain many “concerns” based on hearsay or specious conjecture that is either overstated or incorrect.
+
+In this densely fact-infused talk, we begin by introducing a familiar analogy to drive home the business case for AASI.  Next we identify four syntactic styles based on three distinct models: {cpp}11, {cpp}17, and a brand new language-based approach being developed by Bloomberg for {cpp}23 (or later). Costs – both real and imagined – will be contrasted with performance as well as other important (“collateral”) benefits. The talk will conclude with a closer look at the economic imperative of pursuing a low-cost language-based alternative to AA software in post-modern {cpp}.
+
+
 [[XAnAdventureinRaceConditions]]
 == An Adventure in Race Conditions
 === link:presenters.html#XFelixPetriconi[Felix Petriconi]
@@ -651,17 +660,6 @@ As Kernighan says: everyone knows that debugging is twice as hard as writing a p
 This talk will demonstrate some of the power of newer versions of GDB (Reverse debug, dynamic printf, amazing scriptability with Python), as well as some of the other Linux debugging tools at your disposal: ftrace, strace, ltrace, valgrind, rr, asan, perf, and others. 
 
 The presentation works either as a stand-alone talk or as a follow on to Greg's popular 'GDB Power User' talk at ACCU 2017.
-
-
-[[XMoveSemanticsVersusLocalArenaMemoryAllocators]]
-== Move Semantics Versus Local ("Arena") Memory Allocators
-=== link:presenters.html#XJohnLakos[John Lakos]
-
-When it comes to maximizing runtime performance, few would argue that {cpp} is a poor choice.  Two fairly low-level features of modern {cpp} -- namely move semantics [{cpp}11] and Polymorphic Memory Resource (PMR) [{cpp}17] have demonstrated bona fide (and often dramatic) performance improvements under certain conditions. There are, however, circumstances where their use appears to be mutually inconsistent.
-
-In this talk we will explore conditions under which use of move semantics and local allocators make sense separately and together, and then understand the circumstances in which they are inconsistent and what to do about it.  It will turn out that, when local allocators are used properly to delineate natural memory boundaries, reduced access time will often dwarf the cost of a copy versus that of a move over the lifetime of long-running systems. 
-
-All information and recommendations will be supported by thoughtfully conceived, publicly available (repeatable)  benchmarks.
 
 
 [[XNavigatingthedevelopmentandevolutionofalibrary]]
