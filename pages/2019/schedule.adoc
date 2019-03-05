@@ -391,7 +391,7 @@ link:presenters.html#XCBBailey[CB Bailey]
 |link:sessions.html#XWindowsNativeAPI[Windows Native API] +
  +
 link:presenters.html#XRogerOrr[Roger Orr]
-|link:sessions.html#XMoveSemanticsVersusLocalArenaMemoryAllocators[Move Semantics Versus Local ("Arena") Memory Allocators] +
+|link:sessions.html#XAllocatorAwareAASoftware[Allocator-Aware (AA) Software] +
  +
 link:presenters.html#XJohnLakos[John Lakos]
 |link:sessions.html#XHaxeAnunderstatedpowerhouseforsoftwaredevelopment[Haxe: An understated powerhouse for software development] +
