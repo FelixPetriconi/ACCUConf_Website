@@ -310,7 +310,7 @@ Greg lives in Cambridge, UK with his wife Alison and children Abi and Sam. In hi
 [[XHerbSutter]]
 == Herb Sutter
 
-link:sessions.html#XTBA[TBA]
+link:sessions.html#XErrorhandlinginC[Error handling in C++]
 
 Herb is an author, designer of several ISO {cpp} features, and chair of the ISO {cpp} committee and the
 Standard {cpp} Foundation.
@@ -414,7 +414,7 @@ Kevlin is an independent consultant, speaker, writer and trainer. His developmen
 [[XMAngelaSasse]]
 == M Angela Sasse
 
-link:sessions.html#XTBA[TBA]
+link:sessions.html#XDeliveringsoftwarethatissecureandusablewhosjobisit[Delivering software that is secure and usable - who's job is it?]
 
 M Angela Sasse FREng is the Professor of Human-Centred Security at Ruhr University Bochum in Germany, and
 the Department of Computer Science at University College London, UK. A usability researcher by training, she
