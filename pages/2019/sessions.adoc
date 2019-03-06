@@ -273,6 +273,13 @@ In this talk, we'll touch a few important topics about cleaning up a code base. 
 In the end, there is the question of tooling or its absence. Especially when a {cpp} code base is tied to an old compiler and IDE for some reason, there still are ways to let the compiler and other tools help us.
 
 
+[[XDeliveringsoftwarethatissecureandusablewhosjobisit]]
+== Delivering software that is secure and usable - who's job is it?
+=== link:presenters.html#XMAngelaSasse[M Angela Sasse]
+
+TBA
+
+
 [[XEffectivereplacementofdynamicpolymorphismwithstdvariant]]
 == Effective replacement of dynamic polymorphism with std::variant
 === link:presenters.html#XMateuszPusz[Mateusz Pusz]
@@ -294,6 +301,13 @@ This talk will recap the {cpp} 20 object and memory model, illustrating the mism
 === link:presenters.html#XKateGregory[Kate Gregory]
 
 Programmers, it turns out, are human beings. This means they not only feel emotions, they leave traces of those emotions behind in their code. Kate will show you why that is so, and what you can do about it.
+
+
+[[XErrorhandlinginC]]
+== Error handling in {cpp}
+=== link:presenters.html#XHerbSutter[Herb Sutter]
+
+TBA
 
 
 [[XEvolutionaryAlgorithmsinPractice]]
@@ -851,20 +865,6 @@ world a slightly better place.
 === link:presenters.html#XEberhardGräther[Eberhard Gräther]
 
 Visualization leverages research on human visual perception. Its application in software engineering allows us to process information much quicker than in solely textual form. In this talk I will explain which laws for visually encoding/decoding information exist and how they are utilized by existing software visualizations to display different aspects of a software system. Then I will show how we applied this research to interactive source code navigation within Sourcetrail, a source explorer built on top of the LLVM/Clang LibTooling and Eclipse JDT Core libraries. The aim of this talk is to provide an overview of existing software visualization approaches and demonstrate their benefits and limits in day-to-day software development.
-
-
-[[XTBA]]
-== TBA
-=== link:presenters.html#XHerbSutter[Herb Sutter]
-
-TBA
-
-
-[[XTBA]]
-== TBA
-=== link:presenters.html#XMAngelaSasse[M Angela Sasse]
-
-TBA
 
 
 [[XTailoredstatictoolingusingClangClazy]]

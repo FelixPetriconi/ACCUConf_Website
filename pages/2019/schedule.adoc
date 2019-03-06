@@ -64,7 +64,7 @@ link:presenters.html#XArjanvanLeeuwen[Arjan van Leeuwen]
 |*SS Great Britain*
 
 |09:30
-5+^|link:sessions.html#XTBA[TBA] +
+5+^|link:sessions.html#XDeliveringsoftwarethatissecureandusablewhosjobisit[Delivering software that is secure and usable - who's job is it?] +
  +
 link:presenters.html#XMAngelaSasse[M Angela Sasse]
 
@@ -153,7 +153,7 @@ link:presenters.html#XDietmarKühl[Dietmar Kühl]
 |*SS Great Britain*
 
 |09:30
-5+^|link:sessions.html#XTBA[TBA] +
+5+^|link:sessions.html#XErrorhandlinginC[Error handling in {cpp}] +
  +
 link:presenters.html#XHerbSutter[Herb Sutter]
 
