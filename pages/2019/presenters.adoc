@@ -5,14 +5,6 @@
 .. type: text
 ////
 
-[[XAdamWilson]]
-== Adam Wilson
-
-link:sessions.html#XTheCaseforD[The Case for D]
-
-Adam Wilson is the owner of EllipticBit LLC, a small software consultancy focusing on both D and .NET. Prior to this he spent three years at Microsoft on an analytics product in Office365. He has over 20 years of experience writing code in a plethora of languages, including {cpp},  but recently has been primarily focused on D and C#.
-
-
 [[XAhtoTruu]]
 == Ahto Truu
 
@@ -628,6 +620,14 @@ link:sessions.html#XGoingMultiplatformwithKotlin[Going Multiplatform with Kotlin
 link:sessions.html#XTheStoryofVillagersMarblesandOhABlockchain[The Story of Villagers, Marbles and Oh, A Blockchain]
 
 An engineer and innovator, Supriya finds both thrill and solace in exploring and tinkering with new technologies. She has been involved with android app development lately and is a Kotlin enthusiast. She loves participating in hackathons, breathing life into ideas to create tangible products. She has won hackathons like Digital India Hackathon, WinTathon by LinkedIn, IndiaHacks - FinTech, etc. She is very fond of engaging in technical discussions and musings.
+
+
+[[XThomasGuest]]
+== Thomas Guest
+
+link:sessions.html#XBootstrappedbyBoost[Bootstrapped by Boost]
+
+@thomasguest is an experienced and enthusiastic software developer. He works for Clinithink in South Wales, where he wrestles to extract meaning from medical records using {cpp} and Python. In his spare time he enjoys puzzles, running and noodles. His website is wordaligned.org.
 
 
 [[XTimurDoumler]]

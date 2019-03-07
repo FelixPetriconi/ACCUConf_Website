@@ -195,6 +195,21 @@ We will talk about good security coding practices for web applications and how t
 In this talk I will explore best practices when accessing data on local or shared file systems. Examples of what can go wrong taken from real customer problems will be used to back up how simple guidelines and good use of available tools can make a massive difference to the performance, reliability, scalability and portability of your code. Data doesn't have to be big to cause a problem, but as data sets grow, the way we access data has never been a more important consideration. Our customers work in scientific and high-performance computing with different trade offs to make between time-to-market, reliability and performance, but what they all have in common is that they have to care about I/O.
 
 
+[[XBootstrappedbyBoost]]
+== Bootstrapped by Boost
+=== link:presenters.html#XThomasGuest[Thomas Guest]
+
+{cpp} the language has developed faster than {cpp} the library. So, whilst there are many ways to initialise an object, there's no standard way to parse a command line, let alone to serve a website. Fortunately the Boost libraries exist to fill the gap, extending the range of functionality available to {cpp} programmers.
+
+Boost is no panacea. Although its libraries are extensively reviewed and tested, they sometimes seem designed to show what can be done with {cpp} rather than what should be done. Some libraries could double up as compiler test suites, exposing toolchain performance and conformance issues. Using Boost means builds take longer and upgrades require attention.
+
+As a result, the code bases I've worked on have either avoided or cherry-picked from Boost, often preferring to hand-roll functionality present in the libraries. Recently, though, I have been working on a code base which uses Boost unreservedly.
+
+This code base is a search engine which uses natural language processing (NLP) techniques to locate information in unstructured medical narratives. It's largely the work of a single programmer, and could not have been constructed without leaning on Boost for graph processing, parsing, memory-mapped files, logging, serialisation, exposing a Python API, and also its extended suites of containers, algorithms and utilities.
+
+This case study explores in detail the use of Boost in this codebase. Although the code is proprietary, I will present real code showing how the libraries fit in and what they do. To provide context, there'll be an overview of some NLP and search techniques. The session will provide a practical introduction to several of the Boost libraries, and an honest reflection of my experience in using them.
+
+
 [[XCPubQuiz]]
 == {cpp} Pub Quiz
 === link:presenters.html#XFelixPetriconi[Felix Petriconi]
@@ -307,7 +322,9 @@ Programmers, it turns out, are human beings. This means they not only feel emoti
 == Error handling in {cpp}
 === link:presenters.html#XHerbSutter[Herb Sutter]
 
-TBA
+Error handling has fractured the {cpp} community into incompatible dialects, because of long-standing unresolved problems in {cpp} exception handling. Many projects turn off exception handling (EH) entirely, such as with -fno- except. Many others don't throw exceptions in code that has to run in statically bounded space or time. Still others don't know exceptions in code that may not be exception-safe, because they cannot see the invisible exceptional control flow paths.
+
+This talk summarizes the root causes and presents some early proposed solutions that we hope will let the community embrace using exceptions consistently for unified error handling. It also discusses the differences between program-recoverable errors (e.g., database connection dropped), program bugs (e.g., precondition violation), and exceeding resource limits (e.g., stack overflow) to demonstrate why these are three fundamentally different things with different audiences, and therefore should be reported in different ways. The talk will also cover what's already going on in {cpp} standardization today to evolve the standard library in these directions, including what's now already in {cpp}20 to lay the groundwork for these coming changes.
 
 
 [[XEvolutionaryAlgorithmsinPractice]]
@@ -912,17 +929,6 @@ Participants are strongly encouraged to download and install the JCLEC framework
 === link:presenters.html#XPatriciaAas[Patricia Aas]
 
 Security vulnerabilities and secure coding is often talked about in the abstract by programmers, but rarely understood. In this talk we will walk through a simple exploit, how it's developed and how it's used. The goal is to try to get a feeling for the point of view of an "attacker", and to slowly start looking at exploitation as another programming tool. We will mainly be looking at C and x86_64 assembly, so bring snacks.
-
-
-[[XTheCaseforD]]
-== The Case for D
-=== link:presenters.html#XAdamWilson[Adam Wilson]
-
-What is the D Programming Language? Is it trying to replace {cpp}? C#? Java? What niche does it fill? What limitations does it have? What can D do that other languages cannot? What about the Garbage Collector? This presentation will provide answers to these common questions and more.
-
-We will take a guided tour of the D Language and provide answers to these questions and more. We will cover everything from language interoperability and unique features to common misconceptions and criticisms. 
-
-This presentation is formatted as an overview and you can expect a torrent of code examples. Come prepared with your questions and we will attempt to answer as many as possible.
 
 
 [[XTheDawnOfANewError]]
