@@ -42,11 +42,17 @@ link:presenters.html#XKatharinaFey[Katharina Fey]
 link:presenters.html#XAustinBingham[Austin Bingham]
 |link:sessions.html#XACCUConference101anEarlyCareerTutorial[ACCU Conference 101: an Early Career Tutorial] +
  +
+link:presenters.html#XGailOllis[Gail Ollis] +
 link:presenters.html#XRogerOrr[Roger Orr] +
 link:presenters.html#XGiovanniAsproni[Giovanni Asproni] +
 link:presenters.html#XKevlinHenney[Kevlin Henney] +
-link:presenters.html#XGailOllis[Gail Ollis] +
 link:presenters.html#XArjanvanLeeuwen[Arjan van Leeuwen]
+
+|18:00
+6+^|Break
+
+|19:00
+6+^|Agile Bath & Bristol User Group Meeting (Bristol 3)
 |===
 
 
@@ -153,7 +159,7 @@ link:presenters.html#XDietmarKühl[Dietmar Kühl]
 |*SS Great Britain*
 
 |09:30
-5+^|link:sessions.html#XErrorhandlinginC[Error handling in {cpp}] +
+5+^|link:sessions.html#XUnfracturingCMakingexceptionsmoreaffordableandusable[Un-fracturing {cpp}: Making exceptions more affordable and usable] +
  +
 link:presenters.html#XHerbSutter[Herb Sutter]
 
@@ -178,7 +184,9 @@ link:presenters.html#XGregLaw[Greg Law]
 link:presenters.html#XTimurDoumler[Timur Doumler]
 
 |12:30
-5+^|Lunch
+5+^|Lunch +
+ +
+Book Signings: Anthony Williams, Frances Buontempo, Ivan Čukić, Jonathan Boccarra
 
 |14:00
 |link:sessions.html#XWhatDoWeMeanWhenWeSayNothingAtAll[What Do We Mean When We Say Nothing At All?] +
@@ -206,8 +214,8 @@ link:presenters.html#XWoutervanOoijen[Wouter van Ooijen]
 link:presenters.html#XAustinBingham[Austin Bingham]
 |link:sessions.html#XHelloWorldfromScratch[Hello World from Scratch] +
  +
-link:presenters.html#XSimonBrand[Simon Brand] +
-link:presenters.html#XPeterBindels[Peter Bindels]
+link:presenters.html#XPeterBindels[Peter Bindels] +
+link:presenters.html#XSimonBrand[Simon Brand]
 |link:sessions.html#XMonitoringTurningNoiseintoSignal[Monitoring: Turning Noise into Signal] +
  +
 link:presenters.html#XChrisOldwood[Chris Oldwood]
@@ -420,9 +428,9 @@ link:presenters.html#XStephenKelly[Stephen Kelly]
 |link:sessions.html#XHowtoTeachCandInfluenceaGeneration[How to Teach {cpp} and Influence a Generation] +
  +
 link:presenters.html#XChristopherDiBella[Christopher Di Bella]
-|link:sessions.html#XTheCaseforD[The Case for D] +
+|link:sessions.html#XBootstrappedbyBoost[Bootstrapped by Boost] +
  +
-link:presenters.html#XAdamWilson[Adam Wilson]
+link:presenters.html#XThomasGuest[Thomas Guest]
 |link:sessions.html#XCecosystemForbetterforworse[{cpp} ecosystem: For better, for worse] +
  +
 link:presenters.html#XAnastasiaKazakova[Anastasia Kazakova]
