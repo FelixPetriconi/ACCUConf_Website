@@ -324,12 +324,12 @@ link:sessions.html#XRangesfordistributedandasynchronoussystems[Ranges for distri
 Dr Ivan Čukić is the author of "Functional Programming in {cpp}" (Manning Publications), core developer of the KDE project and teacher at the Faculty of Mathematics in Belgrade.
 
 
-[[XJamesTurner]]
-== James Turner
+[[XJeanMichaëlCelerier]]
+== Jean-Michaël Celerier
 
 link:sessions.html#XTailoredstatictoolingusingClangClazy[Tailored static tooling using Clang: Clazy]
 
-James is a senior developer at KDAB, where he works on projects using {cpp}, Qt and OpenGL, as well delivering trainings in all of these areas to customers worldwide. He is a lead developer on FlightGear, the open-source, cross-platform flight simulator, and has previously worked on rich 2D and 3D simulations and interfaces spanning Windows, Mac, iOS and many varieties of Linux. 
+Jean-Michaël is a software developer at KDAB, where he works on projects using {cpp}, Qt and OpenGL. He has been interested in {cpp} for 14 years and develops various open-source software for digital artists with modern {cpp} and Qt, in particular ossia score, a cross-platform intermedia sequencer. He is part of the Bordeaux {cpp} user group team.
 
 
 [[XJezHiggins]]

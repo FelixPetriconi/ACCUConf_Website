@@ -316,7 +316,7 @@ link:presenters.html#XEberhardGräther[Eberhard Gräther] +
  +
 link:sessions.html#XTailoredstatictoolingusingClangClazy[Tailored static tooling using Clang: Clazy] +
  +
-link:presenters.html#XJamesTurner[James Turner] +
+link:presenters.html#XJeanMichaëlCelerier[Jean-Michaël Celerier] +
  +
  +
 link:sessions.html#XMPINAuthenticationinVehicleTracking[M-PIN Authentication in Vehicle Tracking] +

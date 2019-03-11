@@ -877,7 +877,7 @@ Visualization leverages research on human visual perception. Its application in 
 
 [[XTailoredstatictoolingusingClangClazy]]
 == Tailored static tooling using Clang: Clazy
-=== link:presenters.html#XJamesTurner[James Turner]
+=== link:presenters.html#XJeanMichaëlCelerier[Jean-Michaël Celerier]
 
 There's many patterns we learn to recognise in software, good and bad - and increasingly, we expect our compilers to spot those in our development. But we can improve on that - modern compilers give us all the building blocks to add static checking specific to a particular API, framework or even project.
 
