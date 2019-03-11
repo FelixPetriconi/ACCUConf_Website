@@ -584,10 +584,9 @@ Sergey is a software engineer at Facebook London with over 10 years of practical
 
 link:sessions.html#XHelloWorldfromScratch[Hello World from Scratch]
 
-Simon is Microsoft's {cpp} Developer Advocate. His background is in compilers and debuggers for embedded accelerators, but he's also interested in generic library design, metaprogramming, functional-style {cpp}, undefined behaviour, and making our communities more welcoming and inclusive.
+Simon is Microsoft’s {cpp} Developer Advocate. Their background is in compilers and debuggers for embedded accelerators, but they're also interested in generic library design, metaprogramming, functional-style {cpp}, undefined behaviour, and making our communities more welcoming and inclusive.
 
-Find him on Twitter @TartanLlama, and on his blog at blog.tartanllama.xyz.
-
+Find them on Twitter @TartanLlama and on their blog at blog.tartanllama.xyz.
 
 
 [[XStephenKelly]]
