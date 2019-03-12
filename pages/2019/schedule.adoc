@@ -159,7 +159,7 @@ link:presenters.html#XDietmarKühl[Dietmar Kühl]
 |*SS Great Britain*
 
 |09:30
-5+^|link:sessions.html#XUnfracturingCMakingexceptionsmoreaffordableandusable[Un-fracturing {cpp}: Making exceptions more affordable and usable] +
+5+^|link:sessions.html#XDefragmentingCMakingexceptionsmoreaffordableandusable[De-fragmenting {cpp}: Making exceptions more affordable and usable] +
  +
 link:presenters.html#XHerbSutter[Herb Sutter]
 
