@@ -45,10 +45,10 @@ link:presenters.html#XKevlinHenney[Kevlin Henney] +
 link:presenters.html#XArjanvanLeeuwen[Arjan van Leeuwen]
 
 |18:00
-6+^|Break
+5+^|Break
 
 |19:00
-6+^|Agile Bath & Bristol User Group Meeting (Bristol 3)
+5+^|Agile Bath & Bristol User Group Meeting (Bristol 3)
 |===
 
 
