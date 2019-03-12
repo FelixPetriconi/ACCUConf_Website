@@ -13,7 +13,7 @@ _The schedule is subject to change without notice until 2019-04-13._
 
 == Tuesday 2019-04-09
 
-[cols="7*^", options="header"]
+[cols="6*^", options="header"]
 |===
 |
 |Empire
@@ -21,15 +21,14 @@ _The schedule is subject to change without notice until 2019-04-13._
 |Wallace
 |Concorde
 |Old Vic
-|Castle View
 
 |10:00
 |link:sessions.html#XAcceleratedTDDForMoreProductiveC[Accelerated TDD: For More Productive {cpp}] +
  +
 link:presenters.html#XPhilNash[Phil Nash]
-|link:sessions.html#XCasaSecondLanguage[{cpp} as a Second Language] +
+|link:sessions.html#XPythonBestPractices[Python Best Practices] +
  +
-link:presenters.html#XSergeyAnpilov[Sergey Anpilov]
+link:presenters.html#XAustinBingham[Austin Bingham]
 |link:sessions.html#XEvolutionaryAlgorithmsinPractice[Evolutionary Algorithms in Practice] +
  +
 link:presenters.html#XChristopherSimons[Christopher Simons] +
@@ -37,9 +36,6 @@ link:presenters.html#XFrancesBuontempo[Frances Buontempo]
 |link:sessions.html#XAComprehensiveIntroductiontoRust[A Comprehensive Introduction to Rust] +
  +
 link:presenters.html#XKatharinaFey[Katharina Fey]
-|link:sessions.html#XPythonBestPractices[Python Best Practices] +
- +
-link:presenters.html#XAustinBingham[Austin Bingham]
 |link:sessions.html#XACCUConference101anEarlyCareerTutorial[ACCU Conference 101: an Early Career Tutorial] +
  +
 link:presenters.html#XGailOllis[Gail Ollis] +

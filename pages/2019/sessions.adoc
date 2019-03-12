@@ -217,38 +217,6 @@ This case study explores in detail the use of Boost in this codebase. Although t
 The {cpp} Pub Quiz is back! So join us on a fun tour passing by the light, the dark and the tricky corners of {cpp}! You will be working in small teams where I present code snippets in {cpp} and you will discuss, reason about and sometimes need to guess what the code snippet will print out. All snippets are educational and we will elaborate on the basics, the advanced and new parts of {cpp}.
 
 
-[[XCasaSecondLanguage]]
-== {cpp} as a Second Language
-=== link:presenters.html#XSergeyAnpilov[Sergey Anpilov]
-
-At first glance, {cpp} looks similar to that other programming language you're currently using. It
-has the same ``if``s and ``for``s you might be used to. There are even ``class``es in {cpp} that look
-similar to what you might have had in that other language!
-
-So you can just jump in and code as usual, and it will work. And since it's {cpp}, it will run
-amazingly fast. Right?
-
-Not exactly. Looking similar at first glance, {cpp} doesn't always behave as you might be used to.
-
-This is a crash course for software engineers familiar with the mainstream programming languages
-like Java/C#/Objective C/Python/PHP/etc., who want to (or need to) do some practical {cpp}.
-
-We're going to cover the following areas:
-
-- Values and Pointers. Value Semantics. References. Smart Pointers;
-- Object Lifecycle. Virtual Functions;
-- Exception Safety;
-- Move Semantics;
-- Basics of the {cpp} Build Process. Understanding Static and Dynamic Linking;
-- etc.
-
-We're not going to do the very basics, like the syntax. We're going to focus on the cases when
-your code looks reasonable, and it even compiles well, but it doesn't work as expected. We're
-also going to try to understand the philosophy of {cpp} and the rationale why things work as they
-do.
-
-
-
 [[XCecosystemForbetterforworse]]
 == {cpp} ecosystem: For better, for worse
 === link:presenters.html#XAnastasiaKazakova[Anastasia Kazakova]

@@ -570,15 +570,6 @@ link:sessions.html#XBestpracticeswhenaccessingBigDataoranyotherdata[Best practic
 Dr Rosemary Francis is an expert in I/O profiling and high-performance computing with a PhD in Computer Architecture from the University of Cambridge. She is a regular speaker at conferences including IEEE and Linux foundation events and sits on the advisory board for the Ideaspace startup accelerator and the Raspberry Pi foundation. Rosemary founded Ellexus, the I/O profiling company, after working in the semiconductor industry. Today Ellexus provides unique application and cluster monitoring tools to commercial and research organisations around the world, helping them to optimise their applications and manage their IT infrastructure. 
 
 
-[[XSergeyAnpilov]]
-== Sergey Anpilov
-
-link:sessions.html#XCasaSecondLanguage[C++ as a Second Language]
-
-Sergey is a software engineer at Facebook London with over 10 years of practical {cpp} experience on different platforms. Sergey runs internal workshops on {cpp} at Facebook.
-
-
-
 [[XSimonBrand]]
 == Simon Brand
 
