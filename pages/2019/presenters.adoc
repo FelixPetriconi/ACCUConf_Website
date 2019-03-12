@@ -302,7 +302,7 @@ Greg lives in Cambridge, UK with his wife Alison and children Abi and Sam. In hi
 [[XHerbSutter]]
 == Herb Sutter
 
-link:sessions.html#XUnfracturingCMakingexceptionsmoreaffordableandusable[Un-fracturing C++: Making exceptions more affordable and usable]
+link:sessions.html#XDefragmentingCMakingexceptionsmoreaffordableandusable[De-fragmenting C++: Making exceptions more affordable and usable]
 
 Herb is an author, designer of several ISO {cpp} features, and chair of the ISO {cpp} committee and the
 Standard {cpp} Foundation.

@@ -288,6 +288,15 @@ In this talk, we'll touch a few important topics about cleaning up a code base. 
 In the end, there is the question of tooling or its absence. Especially when a {cpp} code base is tied to an old compiler and IDE for some reason, there still are ways to let the compiler and other tools help us.
 
 
+[[XDefragmentingCMakingexceptionsmoreaffordableandusable]]
+== De-fragmenting {cpp}: Making exceptions more affordable and usable
+=== link:presenters.html#XHerbSutter[Herb Sutter]
+
+Error handling has fractured the {cpp} community into incompatible dialects, because of long-standing unresolved problems in {cpp} exception handling. Many projects turn off exception handling (EH) entirely, such as with -fno- except. Many others don't throw exceptions in code that has to run in statically bounded space or time. Still others don't know exceptions in code that may not be exception-safe, because they cannot see the invisible exceptional control flow paths.
+
+This talk summarizes the root causes and presents some early proposed solutions that we hope will let the community embrace using exceptions consistently for unified error handling. It also discusses the differences between program-recoverable errors (e.g., database connection dropped), program bugs (e.g., precondition violation), and exceeding resource limits (e.g., stack overflow) to demonstrate why these are three fundamentally different things with different audiences, and therefore should be reported in different ways. The talk will also cover what's already going on in {cpp} standardization today to evolve the standard library in these directions, including what's now already in {cpp}20 to lay the groundwork for these coming changes.
+
+
 [[XDeliveringsoftwarethatissecureandusablewhosjobisit]]
 == Delivering software that is secure and usable - who's job is it?
 === link:presenters.html#XMAngelaSasse[M Angela Sasse]
@@ -977,15 +986,6 @@ Human computing devices have a long way to go to match the computing power of th
 Can we learn from biology to build *biocomputers*? What is the biological equivalent of a transistor, a ROM or a CPU? How would we do I/O with a biocomputer, could we install a debugger in your brain cells, disassemble your genes or interface to our visual cortex?
 
 In this talk we give concrete numerical answers to these questions and pose some questions ourselves. For example, which is smarter, your smartphone or your beer?
-
-
-[[XUnfracturingCMakingexceptionsmoreaffordableandusable]]
-== Un-fracturing {cpp}: Making exceptions more affordable and usable
-=== link:presenters.html#XHerbSutter[Herb Sutter]
-
-Error handling has fractured the {cpp} community into incompatible dialects, because of long-standing unresolved problems in {cpp} exception handling. Many projects turn off exception handling (EH) entirely, such as with -fno- except. Many others don't throw exceptions in code that has to run in statically bounded space or time. Still others don't know exceptions in code that may not be exception-safe, because they cannot see the invisible exceptional control flow paths.
-
-This talk summarizes the root causes and presents some early proposed solutions that we hope will let the community embrace using exceptions consistently for unified error handling. It also discusses the differences between program-recoverable errors (e.g., database connection dropped), program bugs (e.g., precondition violation), and exceeding resource limits (e.g., stack overflow) to demonstrate why these are three fundamentally different things with different audiences, and therefore should be reported in different ways. The talk will also cover what's already going on in {cpp} standardization today to evolve the standard library in these directions, including what's now already in {cpp}20 to lay the groundwork for these coming changes.
 
 
 [[XWhatDoWeMeanWhenWeSayNothingAtAll]]
