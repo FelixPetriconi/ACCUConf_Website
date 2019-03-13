@@ -182,7 +182,7 @@ link:presenters.html#XTimurDoumler[Timur Doumler]
 |12:30
 5+^|Lunch +
  +
-Book Signings: Anthony Williams, Frances Buontempo, Ivan Čukić, Jonathan Boccarra
+Book Signings: Anthony Williams, Frances Buontempo, Ivan Čukić, Jonathan Boccarra (Conservatory)
 
 |14:00
 |link:sessions.html#XWhatDoWeMeanWhenWeSayNothingAtAll[What Do We Mean When We Say Nothing At All?] +
@@ -230,7 +230,11 @@ link:presenters.html#XFelixPetriconi[Felix Petriconi]
 5+^|Lightning Talks (1 hour, Bristol Suite)
 
 |19:15
-5+^|Girl Geeks (Empire)
+|
+|
+|
+|Girl Geeks
+|Audio Developer Meetup
 |===
 
 
