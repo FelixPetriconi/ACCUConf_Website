@@ -5,8 +5,11 @@
 image::https://accu.org/content/images/website/HerbSutterACCU2017.jpg[]
 
 
-*The Call for Proposals for ACCU 2019 has now closed. Thanks to everyone who registered and submitted
- proposals. The committee will now get to work reviewing the proposals.*
+*The Call for Proposals for ACCU 2019 was very successful. Thanks to everyone who registered and
+ submitted proposals. The committee reviewed all the proposals and chose the sessions to have in
+ the schedule – this was very hard as we had a very high level of quality of proposals. The
+ schedule can be seen link:2019/schedule.html[here]. You can register to attend the
+ pre-conference workshops and the conference itself http://www.cvent.com/d/dbqjfx[here].*
 
 
 Historically, ACCU has a lot of {cpp} and C content, and is proud of that: ACCU is the foremost annual
