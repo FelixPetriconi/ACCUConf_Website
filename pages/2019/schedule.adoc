@@ -235,7 +235,8 @@ link:presenters.html#XFelixPetriconi[Felix Petriconi]
 
 |19:15
 3+^|
-|Girl Geeks
+|Girl Geeks +
+(https://www.eventbrite.co.uk/e/girlgeekdinners-support-at-the-accu-sponsored-by-bloomberg-tickets-59358016425[Please register])
 |Audio Developer Meetup
 |===
 
