@@ -35,7 +35,7 @@ The ACCU conference has:
 There are also lightning talk sessions, but, as ever, these are organised at the conference.
 
 The ACCU Conference is put on by ACCU (https://accu.org), but is open to anyone who wishes to be there
-either as a presenter or just an attender.
+either as a presenter or an attender.
 
 ACCU is a membership organisation for people involved in software creation. The members are interested in
 programming, programming languages, testing, the tools of developing software, the process of developing
