@@ -619,17 +619,6 @@ Consequently, additions to applications can be very simple, but the metrics can 
 Whilst some specific code and infrastructure will be used for example purposes, all concepts discussed are cross-language, cross-platform and cross-infrastructure.
 
 
-[[XMentoringmyfirstseriousattempttogetastrangerintotech]]
-== Mentoring: my first serious attempt to get a stranger into tech
-=== link:presenters.html#XEmanuilTolev[Emanuil Tolev]
-
-There's a lack of developers, everybody's new hire positions stay open for months, the youngsters (allegedly) just lack the skills. Damn and a pint of double damn, but what can we do?
-
-One answer is, unsurprisingly as anything else in life, lots of hard work! Specifically, mentoring and career coaching. I'll talk about what those are, why you should consider doing them, and about my first attempt to help someone from an unusual background get the tech job they want. Including all the mistakes!
-
-You don't need to be a master of your craft to mentor someone into the world of tech. In fact, you can probably help them more than you realise as long as you're 6-9 months or more ahead of them.
-
-
 [[XMonitoringTurningNoiseintoSignal]]
 == Monitoring: Turning Noise into Signal
 === link:presenters.html#XChrisOldwood[Chris Oldwood]

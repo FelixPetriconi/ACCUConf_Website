@@ -1,0 +1,36 @@
+////
+.. title: Marriott Bristol City Centre – Conference Floorplan
+////
+
+Registration and the AYA help desk is in the Front Foyer.
+
+The Bristol Suite is the room used for plenary sessions such as the keynotes and the lightning
+talks. The Bristol suite is split into three to provide Bristol 1, Bristol 2, and Bristol 3 for
+the sessions. Empire Suite and SS Great Britain Suite are the other two of the five rooms used
+for sessions.
+
+The exhibitors and the refreshments are set out in the Front Foyer, Side Foyer, and in the space
+between Bristol Suite and Empire Suites and SS Great Britain Suite.
+
+image::/images/MarriottBristolCityCentre_Floorplans/ground_floor.png[]
+
+Some events will happen in the Conservatory which is on the first floor, more or less above
+Empire Suite. Access is via the lift or stairs next to SS Great Britain Suite. (Actually you can
+also get into The Conservatory from the hotel bar on the first floor, there is a corridor on the
+side of the restaurant labelled to the leisure facilities and the Conservatory.)
+
+image::/images/MarriottBristolCityCentre_Floorplans/conservatory.png[]
+
+Some of the pre-conference all-day workshops will happen in the basement.  Access is via the
+lift or stairs next to the SS Great Britain Suite. Bristol Old Vic Suite, Wallace Suite, and
+Cabot Suite are on one side of the corridor, Concorde Suit and Matthew Suite are on the other
+side of the same corridor.
+
+image::/images/MarriottBristolCityCentre_Floorplans/basement_rooms.png[]
+
+
+image::/images/MarriottBristolCityCentre_Floorplans/concorde.png[]
+
+Floor plan images were copied from
+https://www.marriott.co.uk/hotels/event-planning/business-meeting/brsdt-bristol-marriott-hotel-city-centre/
+This page is marked "© 1996 - 2019 Marriott International, Inc. All rights reserved. Marriott Proprietary Information"
