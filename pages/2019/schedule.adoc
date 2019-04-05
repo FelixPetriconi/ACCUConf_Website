@@ -303,19 +303,19 @@ link:presenters.html#XAndyThomason[Andy Thomason]
 link:presenters.html#XVictorCiura[Victor Ciura] +
  +
  +
-link:sessions.html#XTheStoryofVillagersMarblesandOhABlockchain[The Story of Villagers, Marbles and Oh, A Blockchain] +
- +
-link:presenters.html#XSupriyaSrivatsa[Supriya Srivatsa] +
- +
- +
 link:sessions.html#XEffectivereplacementofdynamicpolymorphismwithstdvariant[Effective replacement of dynamic polymorphism with std::variant] +
  +
 link:presenters.html#XMateuszPusz[Mateusz Pusz] +
  +
-
-|link:sessions.html#XMentoringmyfirstseriousattempttogetastrangerintotech[Mentoring: my first serious attempt to get a stranger into tech] +
  +
-link:presenters.html#XEmanuilTolev[Emanuil Tolev] +
+link:sessions.html#XTheStoryofVillagersMarblesandOhABlockchain[The Story of Villagers, Marbles and Oh, A Blockchain] +
+ +
+link:presenters.html#XSupriyaSrivatsa[Supriya Srivatsa] +
+ +
+
+|link:sessions.html#XMPINAuthenticationinVehicleTracking[M-PIN Authentication in Vehicle Tracking] +
+ +
+link:presenters.html#XGiorgioZoppi[Giorgio Zoppi] +
  +
  +
 link:sessions.html#XSoftwareVisualizationThehumanesolution[Software Visualization: The humane solution] +
@@ -326,11 +326,6 @@ link:presenters.html#XEberhardGräther[Eberhard Gräther] +
 link:sessions.html#XTailoredstatictoolingusingClangClazy[Tailored static tooling using Clang: Clazy] +
  +
 link:presenters.html#XJeanMichaëlCelerier[Jean-Michaël Celerier] +
- +
- +
-link:sessions.html#XMPINAuthenticationinVehicleTracking[M-PIN Authentication in Vehicle Tracking] +
- +
-link:presenters.html#XGiorgioZoppi[Giorgio Zoppi] +
  +
 
 

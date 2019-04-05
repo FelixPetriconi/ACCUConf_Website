@@ -193,14 +193,6 @@ link:sessions.html#XSoftwareVisualizationThehumanesolution[Software Visualizatio
 Eberhard Gräther is software developer, user experience designer and founder at Coati Software. He started programming {cpp} in his undergraduate CS degree at Salzburg University of Applied Sciences, majoring in game development. During multiple internships in the Google Chrome Graphics and Performance Teams he worked on tools for rendering performance analysis. He then specialized in Human Computer Interaction and developer tooling during a Master's degree, where he started working on Sourcetrail, a cross-platform source explorer for faster understanding of unfamiliar source code.
 
 
-[[XEmanuilTolev]]
-== Emanuil Tolev
-
-link:sessions.html#XMentoringmyfirstseriousattempttogetastrangerintotech[Mentoring: my first serious attempt to get a stranger into tech]
-
-Emanuil Tolev is a senior web developer turned community advocate (Elastic) through an unfortunate amount of volunteer work. Used to help run a small distributed agency focussing on Open Science and did some freelancing.
-
-
 [[XEoinWoods]]
 == Eoin Woods
 
