@@ -48,7 +48,7 @@ link:presenters.html#XArjanvanLeeuwen[Arjan van Leeuwen]
 5+^|Break
 
 |19:00
-5+^|Agile Bath & Bristol User Group Meeting (Bristol 3)
+5+^|Agile Bath & Bristol User Group Meeting (Empire)
 |===
 
 
