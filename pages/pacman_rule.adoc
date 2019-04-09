@@ -1,0 +1,15 @@
+////
+.. title: The Pac-Man Rule
+////
+
+Groups of people having conversions can often make closed circles which seems to exclude new
+people joining the group. This was observed by Eric Holscher (@ericholscher on Twitter) at many
+a conference so he proposed The Pac-Man Rule as a way of conversing groups making it obvious
+that they were ready for new people to join in the conversation. He has written about the idea
+https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/[here]. The "hidden agenda"
+behind conference making this idea "a thing" is to try and make conversing groups open,
+welcoming, and inclusive.
+
+Dylan Beattie (@dylanbeattie on Twitter) has made a short (21s) animation to show the idea:
+
+video::/videos/the-pac-man-rule.mp4[width=70%]
