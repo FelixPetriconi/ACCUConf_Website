@@ -165,6 +165,21 @@ In this talk we’ll look at an alternative approach that stores the metadata se
 To demonstrate these concepts we’ll look at _spor_, a tool that implements anchoring and anchor updating. The primary implementation of spor is in Python, so it’s very approachable and, indeed, open for contribution. As a side note, we’ll also look at a partial implementation of spor written in Rust. Finally, we’ll look at how spor is being used in Cosmic Ray, a mutation testing tool for Python.
 
 
+[[XAssumeWorstIntentDesigningfortheAbusiveEx]]
+== Assume Worst Intent (Designing for the Abusive Ex)
+=== link:presenters.html#XAlexChan[Alex Chan]
+
+Apps and services often build features with good intent, trying to improve interactivity or
+connections between our users. But what if one of your users has a stalker, or an abusive ex? You
+may have given them another way to hurt or harass your user.
+
+This session is a look at some common threat models – who is at most at-risk, and who is a
+threat to your most vulnerable users.
+
+The point of this session is to emphasise "this is a problem you need to think about", not offer
+silver bullets or lots of solutions.
+
+
 [[XAudioinstandardC]]
 == Audio in standard {cpp}
 === link:presenters.html#XTimurDoumler[Timur Doumler]
@@ -606,19 +621,6 @@ Milagro's purpose is to provide a secure, free, and positive open source alterna
 As use case we will show a fleet vehicle tracking application in {cpp}14 and how the embedded parts will log into the system to provide real time vehicle status using  Milagro Multi-Factor Authentication (Milagro-MFA).
 
 
-[[XMarvelousMetricsandWheretoCodeThem]]
-== Marvelous Metrics and Where to Code Them
-=== link:presenters.html#XStevenSimpson[Steven Simpson]
-
-Collecting metrics from infrastructure for monitoring purposes is very common. Increasingly, applications are now instrumented in order to emit metrics. This talk will not only explain why this is useful and how to do it, but will look at some simple code examples for metrics where a surprising wealth of information can be extracted.
-
-Metrics are fundamentally a method for recording historical data from infrastructure and software, but due to the limited numerical form, can be efficiently stored and queried over large time windows. It is useful know have a little background on why this is the case, and the operations which are available as a result.
-
-Consequently, additions to applications can be very simple, but the metrics can be post-processed in a way which allow us to extract a lot of information. For software developers, this reveals valuable insights into the internal operation of our applications, which can be used to troubleshoot bugs and investigate performance bottlenecks.
-
-Whilst some specific code and infrastructure will be used for example purposes, all concepts discussed are cross-language, cross-platform and cross-infrastructure.
-
-
 [[XMonitoringTurningNoiseintoSignal]]
 == Monitoring: Turning Noise into Signal
 === link:presenters.html#XChrisOldwood[Chris Oldwood]
@@ -903,6 +905,24 @@ Recently there has been a lot of interest in using ADTs (Algebraic Data Types) s
 This presentation summarises the material from my earlier talk, "Option(al) Is Not a Failure", where I survey existing error-handling approaches and score them against each other, leading up to the new proposal, p0709r1, "Zero-overhead deterministic exceptions". We then dig into this proposal in more depth and look at the implications, considering also the supporting proposals, p1028 (std::error) and p1029 ([[move relocates]]) and others. We'll also look at experiences with similar mechanisms in other languages, notably Swift, to get an idea of how it might work out in practice.
 
 In the end we should have a solid idea of which error handling strategy to use when, what's coming next, and how to approach code now that will play nicely in that possible future.
+
+
+[[XTheJaiProgrammingLanguageandWhatCanWeLearnFromIt]]
+== The Jai Programming Language and What Can We Learn From It
+=== link:presenters.html#XSasLuca[Sas Luca]
+
+Jai is a soon to be released programming language by famous game developer Jonathan Blow. The
+language focuses heavily on data oriented design, compile time functionality, and static
+reflection.
+
+In this session, we will briefly go over the main features of Jai, their rationale, and what we
+can learn from them in order to improve our code and {cpp} as a language. Jai has been in
+development since 2014 and is intended to act as an alternative to {cpp} for game developers.
+
+I believe that since then {cpp} has been moving in a similar direction to Jai and that there is a
+lot we can learn from Jai in order to improve {cpp}. I have been following Jai since its inception
+and believe there is a lot of value in analysing it in order to improve {cpp}.
+
 
 
 [[XTheStateofPackageManagementinC]]

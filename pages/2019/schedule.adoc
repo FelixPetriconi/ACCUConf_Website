@@ -312,6 +312,11 @@ link:sessions.html#XTheStoryofVillagersMarblesandOhABlockchain[The Story of Vill
  +
 link:presenters.html#XSupriyaSrivatsa[Supriya Srivatsa] +
  +
+ +
+link:sessions.html#XAssumeWorstIntentDesigningfortheAbusiveEx[Assume Worst Intent (Designing for the Abusive Ex)] +
+ +
+link:presenters.html#XAlexChan[Alex Chan] +
+ +
 
 |link:sessions.html#XMPINAuthenticationinVehicleTracking[M-PIN Authentication in Vehicle Tracking] +
  +
@@ -326,6 +331,11 @@ link:presenters.html#XEberhardGräther[Eberhard Gräther] +
 link:sessions.html#XTailoredstatictoolingusingClangClazy[Tailored static tooling using Clang: Clazy] +
  +
 link:presenters.html#XJeanMichaëlCelerier[Jean-Michaël Celerier] +
+ +
+ +
+link:sessions.html#XTheJaiProgrammingLanguageandWhatCanWeLearnFromIt[The Jai Programming Language and What Can We Learn From It] +
+ +
+link:presenters.html#XSasLuca[Sas Luca] +
  +
 
 
@@ -345,9 +355,7 @@ link:presenters.html#XJonathanPallant[Jonathan Pallant]
 |link:sessions.html#XElsewhereMemory[Elsewhere Memory] +
  +
 link:presenters.html#XNiallDouglas[Niall Douglas]
-|link:sessions.html#XMarvelousMetricsandWheretoCodeThem[Marvelous Metrics and Where to Code Them] +
- +
-link:presenters.html#XStevenSimpson[Steven Simpson]
+|TBC
 
 |17:30
 5+^|Break

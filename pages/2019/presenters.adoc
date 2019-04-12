@@ -14,6 +14,18 @@ During his two and a half decades in the ICT industry, Ahto has worked in hardwa
 
 
 
+[[XAlexChan]]
+== Alex Chan
+
+link:sessions.html#XAssumeWorstIntentDesigningfortheAbusiveEx[Assume Worst Intent (Designing for the Abusive Ex)]
+
+Alex is a software developer at Wellcome Collection, helping to build systems to store and
+preserve digital archives – everything from medical records to cat pictures. Outside work, they
+help to run the PyCon UK conference, contribute to open-source Python, and advocate for more
+inclusive events.
+
+
+
 [[XAlisdairMeredith]]
 == Alisdair Meredith
 
@@ -562,6 +574,16 @@ link:sessions.html#XBestpracticeswhenaccessingBigDataoranyotherdata[Best practic
 Dr Rosemary Francis is an expert in I/O profiling and high-performance computing with a PhD in Computer Architecture from the University of Cambridge. She is a regular speaker at conferences including IEEE and Linux foundation events and sits on the advisory board for the Ideaspace startup accelerator and the Raspberry Pi foundation. Rosemary founded Ellexus, the I/O profiling company, after working in the semiconductor industry. Today Ellexus provides unique application and cluster monitoring tools to commercial and research organisations around the world, helping them to optimise their applications and manage their IT infrastructure. 
 
 
+[[XSasLuca]]
+== Sas Luca
+
+link:sessions.html#XTheJaiProgrammingLanguageandWhatCanWeLearnFromIt[The Jai Programming Language and What Can We Learn From It]
+
+I am a student at the University of Leeds and main developer of Medicus. I love programming
+languages and high performance. My current toy project is a compile time NES emulator.
+
+
+
 [[XSimonBrand]]
 == Simon Brand
 
@@ -580,18 +602,6 @@ link:sessions.html#XExtendingclangtidyinthePresentandintheFuture[Extending clang
 Stephen Kelly has many years of experience in Free Software and open source with significant contributions to KDE, CMake, and Qt over many years.
 
 More recently he has been contributing to Clang Tooling APIs, adding new features to clang-tidy and clang-query as well as third-party tools.
-
-
-[[XStevenSimpson]]
-== Steven Simpson
-
-link:sessions.html#XMarvelousMetricsandWheretoCodeThem[Marvelous Metrics and Where to Code Them]
-
-Hardware verification engineer, turned software engineer, turned infrastructure engineer. Most recently involved with developing monitoring systems for supercomputers at a well known university, but with over ten years experience spanning a wide range of software engineering principles, problems and languages. This has ranged from developing firmware for high-performance network switches, building distributed SQL databases, and deploying HPC infrastructure.
-
-Working as an ASIC verification engineer has led to an unhealthy paranoia when it comes testing software. Having lost many hours debugging deadlocks and memory corruptions, is most content when able to solve complex problems with the intelligible, uncomplicated code which is easily understood by others.
-
-Previously a speaker at NDC Oslo, ACCU, CppCon, FOSDEM, PGDay conferences on various topics around databases and software development. Now moved to Oslo having lived in Bristol for thirteen years, primarily for the better weather.
 
 
 [[XSupriyaSrivatsa]]
