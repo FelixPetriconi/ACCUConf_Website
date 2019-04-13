@@ -355,7 +355,9 @@ link:presenters.html#XJonathanPallant[Jonathan Pallant]
 |link:sessions.html#XElsewhereMemory[Elsewhere Memory] +
  +
 link:presenters.html#XNiallDouglas[Niall Douglas]
-|TBC
+|link:sessions.html#XCecosystemForbetterforworse[{cpp} ecosystem: For better, for worse] +
+ +
+link:presenters.html#XAnastasiaKazakova[Anastasia Kazakova]
 
 |17:30
 5+^|Break
@@ -445,9 +447,16 @@ link:presenters.html#XChristopherDiBella[Christopher Di Bella]
 |link:sessions.html#XBootstrappedbyBoost[Bootstrapped by Boost] +
  +
 link:presenters.html#XThomasGuest[Thomas Guest]
-|link:sessions.html#XCecosystemForbetterforworse[{cpp} ecosystem: For better, for worse] +
+|link:sessions.html#XANewOpenSourceVirtualFileSystemrunningonWindowsinUsermode[A New Open Source Virtual File System – running on Windows in User mode!] +
  +
-link:presenters.html#XAnastasiaKazakova[Anastasia Kazakova]
+link:presenters.html#XJamesCain[James Cain] +
+ +
+ +
+link:sessions.html#XGoGetBetter[Go Get Better] +
+ +
+link:presenters.html#XDomDavis[Dom Davis] +
+ +
+
 
 |16:00
 5+^|Break

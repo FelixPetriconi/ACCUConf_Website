@@ -51,6 +51,35 @@ Rust does this with certain guarantees that are given to you as a developer at t
 This workshop will give you a detailed look at the Rust programming language and its capabilities. From the concurrency-aware type system to library linking behaviour, many beginner to intermediate topics will be covered.
 
 
+[[XANewOpenSourceVirtualFileSystemrunningonWindowsinUsermode]]
+== A New Open Source Virtual File System – running on Windows in User mode!
+=== link:presenters.html#XJamesCain[James Cain]
+
+We have developed our own File Server by using a SMB2/3 implementation running on Windows in
+User mode; it’s easier than writing a Kernel-Mode File System driver! This has now been open
+sourced using an Apache 2 license. We are hoping to build a community to build FUSE for Windows.
+
+This presentation will demonstrate the power of running Virtual File Systems in user mode, with
+plenty of live examples of doing things that you just can’t do in a normal filesystem – like
+embedding a database (remember WinFS anyone?).
+
+This talk then progresses to discuss the power of allowing programable recipes in filepath
+names. To explain, one example Filesystem driver enables the generation of media files to
+order - Just in Time rather than Just in Case. We will demonstrate adding the power of a Python
+interpreter to our VFS, and discover the power of allowing simple composable functions as folder
+names. We are *programming* the filepath.
+
+The presenter will include multiple live demonstrations of the techniques he has invented using
+these technologies during the talk.  Learning Objectives:
+
+- Learn how elegant, simple and well documented the SMB2/3 protocol really is.
+- Learn how hard it is to develop an SMB2/3 server. (Hint: we provide solutions to the hard
+  bits).
+- Learn how much of Windows can be re-used to develop an SMB2/3 server.
+- Get some ideas of what you can do with a user mode file system for your own projects – and
+  some of them really are very naughty :-)
+
+
 [[XAmodernscalablerisksystemarchitecture]]
 == A modern, scalable risk system architecture
 === link:presenters.html#XBurkhardKloss[Burkhard Kloss]
@@ -405,6 +434,17 @@ be done.
 Parallel programming can be used to take advance of multi-core and heterogeneous architectures and can significantly increase the performance of software. It has gained a reputation for being difficult, but is it really? Modern {cpp} has gone a long way to making parallel programming easier and more accessible; providing both high-level and low-level abstractions. {cpp}11 introduced the {cpp} memory model and standard threading library which includes threads, futures, promises, mutexes, atomics and more. {cpp}17 takes this further by providing high level parallel algorithms; parallel implementations of many standard algorithms; and much more is expected in {cpp}20. The introduction of the parallel algorithms also opens {cpp} to supporting non-CPU architectures, such as GPU, FPGAs, APUs and other accelerators.
 
 This talk will show you the fundamentals of parallelism; how to recognise when to use parallelism, how to make the best choices and common parallel patterns such as reduce, map and scan which can be used over and again. It will show  you how to make use of the {cpp} standard threading library, but it will take this further by teaching you how to extend parallelism to heterogeneous devices, using the SYCL programming model to implement these patterns on a GPU using standard {cpp}.
+
+
+[[XGoGetBetter]]
+== Go Get Better
+=== link:presenters.html#XDomDavis[Dom Davis]
+
+A 40 minute introduction into The Go programming language. Go is designed to be a simple
+language that’s easy to grok. In this session we’ll quickly cover the basics of the the language
+before diving into some of the more fun aspects such as concurrency, and its use with
+Docker. We’ll also look at some of the gotchas the language has so if you’ve already dabbled
+we’ll help you go get better.
 
 
 [[XGoingMultiplatformwithKotlin]]

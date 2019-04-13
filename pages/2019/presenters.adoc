@@ -190,6 +190,8 @@ be a moderator of the newsgroup comp.lang.c++.moderated. He frequently answers q
 [[XDomDavis]]
 == Dom Davis
 
+link:sessions.html#XGoGetBetter[Go Get Better]
+
 link:sessions.html#XItsPeopleCodeismadeoutofpeople[It's People! Code is made out of people!]
 
 Dom Davis is a veteran of The City and a casualty of The Financial Crisis. Not content with bringing the world to its knees he then went off to help break the internet before winding up in Norfolk where he messes about doing development and devops. Dom has been writing code since his childhood sometime in the last millennium – he hopes some day to become good at it.
@@ -326,6 +328,20 @@ Hubert Matthews has been programming in {cpp} for over 20 years and he has been 
 link:sessions.html#XRangesfordistributedandasynchronoussystems[Ranges for distributed and asynchronous systems]
 
 Dr Ivan Čukić is the author of "Functional Programming in {cpp}" (Manning Publications), core developer of the KDE project and teacher at the Faculty of Mathematics in Belgrade.
+
+
+[[XJamesCain]]
+== James Cain
+
+link:sessions.html#XANewOpenSourceVirtualFileSystemrunningonWindowsinUsermode[A New Open Source Virtual File System – running on Windows in User mode!]
+
+Dr James Westland Cain is Principal Architect – Software at Grass Valley, where he develops
+software to support collaborative workflows in both Film production and News and Sports
+Television. His work research interests include file systems innovation and browser based video
+production. He was granted a PhD in Advanced Software Engineering by Reading University and is
+currently a Visiting Research Fellow at Brunel University. He has numerous international patents
+granted, has published dozens of refereed academic papers and regularly speaks at industrial
+conferences.
 
 
 [[XJeanMichaëlCelerier]]
