@@ -46,7 +46,7 @@ If you read unclear code on a daily basis, like legacy code for instance, this p
 
 The safe systems programming language "Rust" by Mozilla is all the talk these days. From `noalloc` embedded systems, via command-line tools all the way to distributed networking services, Rust is being used to make systems more reliable and scalable.
 
-Rust does this with certain guarantees that are given to you as a developer at the compile-time of your program. This includes memory-safety, thread-safety and many zero-cost abstractions. But how does it all work? And more importantly, how can you use it, without having to reboot your entire project while also having to learn a completely new language? 
+Rust does this with certain guarantees that are given to you as a developer at the compile-time of your program. This includes memory-safety, thread-safety and many zero-cost abstractions. But how does it all work? And more importantly, how can you use it, without having to reboot your entire project while also having to learn a completely new language?
 
 This workshop will give you a detailed look at the Rust programming language and its capabilities. From the concurrency-aware type system to library linking behaviour, many beginner to intermediate topics will be covered.
 
@@ -95,21 +95,21 @@ What would a scalable financial risk platform look like if it was started from a
 == ACCU Conference 101: an Early Career Tutorial
 === link:presenters.html#XRogerOrr[Roger Orr], link:presenters.html#XGiovanniAsproni[Giovanni Asproni], link:presenters.html#XKevlinHenney[Kevlin Henney], link:presenters.html#XArjanvanLeeuwen[Arjan van Leeuwen], link:presenters.html#XGailOllis[Gail Ollis]
 
-This is an all-day pre-conference tutorial. But unlike the other 
-tutorials, this Early Career Tutorial is exclusively for software 
-developers in their first years of work. You have had some experience of 
-professional programming, whether as a placement student or a graduate 
-level employee. You may be wondering if the ACCU conference is for you and how it 
-can help you. In the company of others with a similar level of 
-experience, this supportive tutorial will offer you clear and practical 
-guidance in key aspects of your work, drawn from a rich history of 
+This is an all-day pre-conference tutorial. But unlike the other
+tutorials, this Early Career Tutorial is exclusively for software
+developers in their first years of work. You have had some experience of
+professional programming, whether as a placement student or a graduate
+level employee. You may be wondering if the ACCU conference is for you and how it
+can help you. In the company of others with a similar level of
+experience, this supportive tutorial will offer you clear and practical
+guidance in key aspects of your work, drawn from a rich history of
 previous ACCU conference material. Your tutors will be a
-variety of experts chosen from among well-known speakers for their 
+variety of experts chosen from among well-known speakers for their
 excellent content and delivery.
 
-This tutorial is chaired by Gail Ollis, an ACCU conference regular who 
-remembers what it was like to attend her first ACCU  conference. After a long 
-career in commercial software development Gail is now a lecturer in 
+This tutorial is chaired by Gail Ollis, an ACCU conference regular who
+remembers what it was like to attend her first ACCU  conference. After a long
+career in commercial software development Gail is now a lecturer in
 programming and cyber psychology at Bournemouth University.
 
 Sessions will include a mix of personal and technical skills:
@@ -187,9 +187,9 @@ The talk will cover the following topics:
 == Anchored metadata
 === link:presenters.html#XAustinBingham[Austin Bingham]
 
-When building software, we often need to associate metadata with the code we’re writing. A typical example is when we need to tell our linters to ignore a specific range of code. A common approach to adding this metadata is to embed it directly in the code using the syntax of the language, but this approach has a number of drawbacks including language specificity, potential for collision, and cluttering of the code. 
+When building software, we often need to associate metadata with the code we’re writing. A typical example is when we need to tell our linters to ignore a specific range of code. A common approach to adding this metadata is to embed it directly in the code using the syntax of the language, but this approach has a number of drawbacks including language specificity, potential for collision, and cluttering of the code.
 
-In this talk we’ll look at an alternative approach that stores the metadata separate from the code using a technique called _anchoring_. The metadata is associated with an _anchor_, a region of code inside the source file. Critically, the anchor also includes a _context_, a snapshot of the code surrounding the anchored region. As the source code is changed, this context – along with some very interesting algorithms for aligning text - is used to automatically update the anchors. 
+In this talk we’ll look at an alternative approach that stores the metadata separate from the code using a technique called _anchoring_. The metadata is associated with an _anchor_, a region of code inside the source file. Critically, the anchor also includes a _context_, a snapshot of the code surrounding the anchored region. As the source code is changed, this context – along with some very interesting algorithms for aligning text - is used to automatically update the anchors.
 
 To demonstrate these concepts we’ll look at _spor_, a tool that implements anchoring and anchor updating. The primary implementation of spor is in Python, so it’s very approachable and, indeed, open for contribution. As a side note, we’ll also look at a partial implementation of spor written in Rust. Finally, we’ll look at how spor is being used in Cosmic Ray, a mutation testing tool for Python.
 
@@ -223,12 +223,12 @@ First, we show how audio signals can be digitally represented in {cpp}, covering
 === link:presenters.html#XGiovanniAsproni[Giovanni Asproni], link:presenters.html#XNataliaOskina[Natalia Oskina]
 
 Creating a quality web application is hard. It’s hard to gain customers, it’s hard to build your reputation and it’s hard to keep the costs low. Nevertheless, security is often an afterthought.
- 
+
 However…
 Have you considered the cost of fixing security issues later?
 What about the reputational damage of a security breach?
 Are you worried about your customers’ data?
- 
+
 We will talk about good security coding practices for web applications and how to apply them early on using some real world examples. We will also help you to think about your website’s vulnerabilities from the view of a hacker.
 
 
@@ -252,6 +252,8 @@ As a result, the code bases I've worked on have either avoided or cherry-picked 
 This code base is a search engine which uses natural language processing (NLP) techniques to locate information in unstructured medical narratives. It's largely the work of a single programmer, and could not have been constructed without leaning on Boost for graph processing, parsing, memory-mapped files, logging, serialisation, exposing a Python API, and also its extended suites of containers, algorithms and utilities.
 
 This case study explores in detail the use of Boost in this codebase. Although the code is proprietary, I will present real code showing how the libraries fit in and what they do. To provide context, there'll be an overview of some NLP and search techniques. The session will provide a practical introduction to several of the Boost libraries, and an honest reflection of my experience in using them.
+
+The code examples used in the session can be found in https://github.com/wordaligned/boost-examples[this GitHub repository].
 
 
 [[XCPubQuiz]]
@@ -389,7 +391,7 @@ In the last few years, Clang has opened up new possibilities in {cpp} tooling fo
 
 However, when special needs arise, maintainers of large codebases need to learn some of the Clang APIs to create their own porting aids. The Clang APIs necessarily form a more-exact picture of the structure of {cpp} code than most developers keep in their heads, and bridging the conceptual gap can be a daunting task.
 
-Tooling supplied with clang-tidy, such as clang-query, are indispensable in the discovery of the Clang AST. 
+Tooling supplied with clang-tidy, such as clang-query, are indispensable in the discovery of the Clang AST.
 
 This talk will show recent and future features in Clang tooling, as well as Tips, Tricks and Traps encountered on the journey to quality refactoring tools. The audience will see how mechanical refactoring in a large codebase can become easy, given the right tools.
 
@@ -398,7 +400,7 @@ This talk will show recent and future features in Clang tooling, as well as Tips
 == Fighting Git Workflows
 === link:presenters.html#XVictorCiura[Victor Ciura]
 
-A medium size team, on a monthly release cycle, for a mature commercial product developed for almost 15 years. About a year ago we decided to join the rest of the Universe and switched from SVN to Git. What could go wrong there ? 
+A medium size team, on a monthly release cycle, for a mature commercial product developed for almost 15 years. About a year ago we decided to join the rest of the Universe and switched from SVN to Git. What could go wrong there ?
 Centralized workflow, feature branch workflow, GitFlow, forking workflow, OneFlow, No flow ?! Oh my ! To rebase or not to rebase ? That is the question.
 Prepare yourself for an equal amount of stories, gotchas and workarounds, both on the developer side of things, as well as the DevOps maintenance nightmare of CI/CD pipelines for testing, validation, daily builds and other necessary gears.
 Please join me for a quick tour of a blatantly honest case-study on using Git / GitLab and related tools in a dynamic development team. Spoiler: no unicorns here.
@@ -484,7 +486,7 @@ In this talk I discuss the language's killer features (and how I use them in GPU
 
 "To make an apple pie from scratch, you must first invent the universe" - Carl Sagan
 
-We'll show how a Hello World program in {cpp} works from scratch, inventing the universe as we go along. We'll demystify the journey your source code takes from textual representation to bytes executing on your processor. If you've ever wondered how the myriad of tools involved in translating and running {cpp} operate and fit together, then this talk is for you. 
+We'll show how a Hello World program in {cpp} works from scratch, inventing the universe as we go along. We'll demystify the journey your source code takes from textual representation to bytes executing on your processor. If you've ever wondered how the myriad of tools involved in translating and running {cpp} operate and fit together, then this talk is for you.
 
 Topics covered will include stages of compilation, linkers, static/shared libaries, object file loading, operating system interaction, and maybe some apple pie.
 
@@ -602,7 +604,7 @@ This talk will present the current state of my work on designing and implementin
 == Interactive {cpp} : Meet Jupyter / Cling - The data scientist's geeky younger sibling
 === link:presenters.html#XNeilHorlock[Neil Horlock]
 
-Jupyter notebooks have rapidly become the de facto way to share data science projects on portals such as Kaggle.  Jupyter is a great rich media prototyping and experimenting platform for Python and R but many people don't realise that you can use it for far more. 
+Jupyter notebooks have rapidly become the de facto way to share data science projects on portals such as Kaggle.  Jupyter is a great rich media prototyping and experimenting platform for Python and R but many people don't realise that you can use it for far more.
 
 This talk will be predominantly live demo and some limited slide presentation, introducing Jupyter notebooks, and the background to their more common use cases before finally diving into the Jupyter/Cling {cpp} interpreter to explore some of the impressive prototyping and exploratory potential of this powerful combination.
 
@@ -687,7 +689,7 @@ A practical talk with few slides, and lots of live demos of debugging tools and 
 
 As Kernighan says: everyone knows that debugging is twice as hard as writing a program in the first place. Debugging dominates software development, and is as important as it is overlooked. All too often we rely on printf or at best some basic gdb with not much more than 'breakpoint', 'continue', 'next' and 'print'.
 
-This talk will demonstrate some of the power of newer versions of GDB (Reverse debug, dynamic printf, amazing scriptability with Python), as well as some of the other Linux debugging tools at your disposal: ftrace, strace, ltrace, valgrind, rr, asan, perf, and others. 
+This talk will demonstrate some of the power of newer versions of GDB (Reverse debug, dynamic printf, amazing scriptability with Python), as well as some of the other Linux debugging tools at your disposal: ftrace, strace, ltrace, valgrind, rr, asan, perf, and others.
 
 The presentation works either as a stand-alone talk or as a follow on to Greg's popular 'GDB Power User' talk at ACCU 2017.
 
@@ -798,10 +800,10 @@ This programming model will be demonstrated along with the implementation of a s
 == Regular Types and Why Do I Care ?
 === link:presenters.html#XVictorCiura[Victor Ciura]
 
-“Regular” is not exactly a new concept (pun intended). If we reflect back on STL and its design principles, as best described by Alexander Stepanov in his 1998 “Fundamentals of Generic Programming” paper or his lecture on this topic, from 2002, we see that regular types naturally appear as necessary foundational concepts in programming. 
-    Why do we need to bother with such taxonomies ? Well, the STL now informally assumes such properties about the types it deals with and imposes such conceptual requirements for its data structures and algorithms to work properly. The new Concepts Lite proposal (hopefully part of {cpp}20) is based on precisely defined foundational concepts such as Semiregular, Regular, EqualityComparable, DefaultConstructible, LessThanComparable (strict weak ordering), etc. Formal specification of concepts is an ongoing effort in the ISO {cpp} Committee and these STL library concepts requirements are being refined as part of Ranges TS proposal (<experimental/ranges/concepts>). 
+“Regular” is not exactly a new concept (pun intended). If we reflect back on STL and its design principles, as best described by Alexander Stepanov in his 1998 “Fundamentals of Generic Programming” paper or his lecture on this topic, from 2002, we see that regular types naturally appear as necessary foundational concepts in programming.
+    Why do we need to bother with such taxonomies ? Well, the STL now informally assumes such properties about the types it deals with and imposes such conceptual requirements for its data structures and algorithms to work properly. The new Concepts Lite proposal (hopefully part of {cpp}20) is based on precisely defined foundational concepts such as Semiregular, Regular, EqualityComparable, DefaultConstructible, LessThanComparable (strict weak ordering), etc. Formal specification of concepts is an ongoing effort in the ISO {cpp} Committee and these STL library concepts requirements are being refined as part of Ranges TS proposal (<experimental/ranges/concepts>).
     Recent STL additions such as string_view, tuple, reference_wrapper, as well as new incoming types for {cpp}20 like std::span raise new questions regarding values types, reference types and non-owning “borrow” types.
-    Designing and implementing regular types is crucial in everyday programing, not just library design. Properly constraining types and function prototypes will result in intuitive usage; conversely, breaking subtle contracts for functions and algorithms will result in unexpected behavior for the caller. 
+    Designing and implementing regular types is crucial in everyday programing, not just library design. Properly constraining types and function prototypes will result in intuitive usage; conversely, breaking subtle contracts for functions and algorithms will result in unexpected behavior for the caller.
     This talk will explore the relation between Regular types (and other concepts) and STL containers & algorithms with examples, common pitfalls and guidance.
 
 
@@ -809,13 +811,13 @@ This programming model will be demonstrated along with the implementation of a s
 == Safe and Sane {cpp} Types
 === link:presenters.html#XPeterSommerlad[Peter Sommerlad]
 
-{cpp} is a complex language and with the introduction of move semantics, noexcept and constexpr in {cpp}11 and later, defining or declaring the right combination of magic keywords in the right place is daunting for the uninitiated. The talk will provide guidelines for how to circumvent expert territory and if needed, how to step there without shooting yourself in the foot or tripping a mine. 
+{cpp} is a complex language and with the introduction of move semantics, noexcept and constexpr in {cpp}11 and later, defining or declaring the right combination of magic keywords in the right place is daunting for the uninitiated. The talk will provide guidelines for how to circumvent expert territory and if needed, how to step there without shooting yourself in the foot or tripping a mine.
 
-Many {cpp} guidelines try to limit the use of language features so that resulting code has higher chances to be correct and safe. This talk will give an overview of the kind of classes you can create in such a controlled setting and provides a map to where is expert territory that requires deliberate care about your classes. 
+Many {cpp} guidelines try to limit the use of language features so that resulting code has higher chances to be correct and safe. This talk will give an overview of the kind of classes you can create in such a controlled setting and provides a map to where is expert territory that requires deliberate care about your classes.
 
-For example, there is the Rule of Zero telling that you should let the compiler figure out what to provide. It carries far for the application level programmer, but still might not be sufficient. Should you then rely on the Rule of Five or Six? What would be the consequences? When should you actually deviate from the Rule of Zero and how? 
+For example, there is the Rule of Zero telling that you should let the compiler figure out what to provide. It carries far for the application level programmer, but still might not be sufficient. Should you then rely on the Rule of Five or Six? What would be the consequences? When should you actually deviate from the Rule of Zero and how?
 
-Another area are classes representing values. Value classes better not have virtual member functions. But should you use final or not? Do you really need class hierarchies? 
+Another area are classes representing values. Value classes better not have virtual member functions. But should you use final or not? Do you really need class hierarchies?
 
 You will learn what kinds of classes are safe to design and how to spell their special member functions.
 
@@ -905,20 +907,20 @@ In this talk we will explore how custom allocators can be used to overcome those
 == Teach Your Computer to Code FizzBuzz
 === link:presenters.html#XFrancesBuontempo[Frances Buontempo], link:presenters.html#XChristopherSimons[Christopher Simons]
 
-The process of natural evolution has inspired programmers to develop machine learning algorithms that can ‘evolve’ solutions to problems. Such ‘evolutionary algorithms’ have been widely applied and to illustrate their use, we take the evolution of a solution to the counting game FizzBuzz as an example. (A typical game of FizzBuzz involves counting through a sequence of numbers starting at one, but multiples of three are substituted with ‘Fizz’, multiples of five are substituted with ‘Buzz’, and multiples of fifteen are substituted with ‘FizzBuzz’.)  
+The process of natural evolution has inspired programmers to develop machine learning algorithms that can ‘evolve’ solutions to problems. Such ‘evolutionary algorithms’ have been widely applied and to illustrate their use, we take the evolution of a solution to the counting game FizzBuzz as an example. (A typical game of FizzBuzz involves counting through a sequence of numbers starting at one, but multiples of three are substituted with ‘Fizz’, multiples of five are substituted with ‘Buzz’, and multiples of fifteen are substituted with ‘FizzBuzz’.)
 
-This highly interactive programming workshop is aimed at programmers with reasonable competency in Java who wish to learn about evolutionary algorithms and implement them to solve FizzBuzz. 
+This highly interactive programming workshop is aimed at programmers with reasonable competency in Java who wish to learn about evolutionary algorithms and implement them to solve FizzBuzz.
 
 The workshop begins with a brief introduction on some of the biological processes of evolution and how they’ve shaped the approach of evolutionary algorithms. To get programming as quickly as possible, we use an evolutionary algorithm framework, the open source Java Class Library for Evolutionary Computing (JCLEC) (http://jclec.sourceforge.net).
 
 Workshop participants are introduced to programming with the framework by exploring:
-(i)	‘OneMax’, a ‘hello world’-type kata example for evolutionary algorithms, 
-(ii)	‘how to program you way out of a paper bag using genetic algorithms’, and then 
+(i)	‘OneMax’, a ‘hello world’-type kata example for evolutionary algorithms,
+(ii)	‘how to program you way out of a paper bag using genetic algorithms’, and then
 (iii)	‘FizzBuzz’, a counting game.
 
-The workshop then explains Genetic Programming (GP), where source code expressed as Abstract Syntax Trees (ASTs) (or other grammars) can directly evolved with evolutionary algorithms. We also explain how Genetic Programming has been used for automatic bug fixing and the ‘genetic improvement’ of programs. 
-  
-By the end of the workshop, participants will have gained a practical understanding of the components of evolutionary algorithms (e.g. solution representations, fitness measures, diversity preservation operators), and know how extend and implement them via a framework. 
+The workshop then explains Genetic Programming (GP), where source code expressed as Abstract Syntax Trees (ASTs) (or other grammars) can directly evolved with evolutionary algorithms. We also explain how Genetic Programming has been used for automatic bug fixing and the ‘genetic improvement’ of programs.
+
+By the end of the workshop, participants will have gained a practical understanding of the components of evolutionary algorithms (e.g. solution representations, fitness measures, diversity preservation operators), and know how extend and implement them via a framework.
 
 Participants are strongly encouraged to download and install the JCLEC framework before attending this programming workshop and bring their own laptop with a Java development environment installed.
 
@@ -985,7 +987,7 @@ Where do we stand today, in 2019? Join me for a tour of the topic, including:
 == The Story of Villagers, Marbles and Oh, A Blockchain
 === link:presenters.html#XSupriyaSrivatsa[Supriya Srivatsa]
 
-"Blockchain is to transaction, what the Internet is to information." 
+"Blockchain is to transaction, what the Internet is to information."
 That sounds mighty, but what really is blockchain? What void does it fill, and how does it really work behind the scenes?
 This story styled talk will walk you through a world of many marbles, some blocks and a chain, slowly exploring the nuances of the technology, wading through cryptography, consensus protocols and mastering the intricacies of the technology.
 
@@ -1049,4 +1051,3 @@ While it is rare to need to use these services directly (since the Win32 API pro
 I will look at the Native API from the application programmer's point of view and will also touch on how Microsoft provides a 32bit subsystem in the 64bit version of Windows.
 
 I hope this session will be of interest to all those who like to know more about how things work!
-
