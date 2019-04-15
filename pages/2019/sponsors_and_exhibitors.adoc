@@ -1,0 +1,60 @@
+////
+.. title: ACCU 2019 Sponsors
+.. description: Sponsors and Exhibitors
+.. type: text
+////
+
+This page is dedicated to the sponsors and exhibitors of ACCU 2019. The presence of the exhibitors and the
+contributions of the sponsors is a core component of the conference, and so we have here a permanent record
+of their presence, logos of the moment, and links to the pages that were relevant at the time of the
+conference. (As ever with the Web, links may eventually fail.)
+
+== Headline Sponsor
+
+{empty} +
+
+image::/assets/images/2019_SponsorLogos/bloomberg_logo.jpg[Bloomberg, align="center", link=https://www.techatbloomberg.com/]
+
+{empty} +
+
+== Sponsors
+
+image::/assets/images/2019_SponsorLogos/Graphcore_Wordmark_-_Brand_Colour_2x.png[Graphcore, align="center", width=60%, link=https://www.graphcore.ai/]
+
+image::/assets/images/2019_SponsorLogos/Jetbrains.png[JetBrains, align="center", width=60%, link=https://www.jetbrains.com/]
+
+{empty} +
+
+image::/assets/images/2019_SponsorLogos/conan_logo.png[JFrog Conan, align="center", width=70%, link=https://www.conan.io/]
+
+{empty} +
+
+image::/assets/images/2019_SponsorLogos/JumpTrading-Logo.png[JumpTrading, align="center", width=70%, link=https://www.jumptrading.com/]
+
+{empty} +
+
+image::/assets/images/2019_SponsorLogos/Mosaic.png[Mosaic, align="center", width=60%, link=http://mosaic.fm/]
+
+{empty} +
+
+image::/assets/images/2019_SponsorLogos/QBS.png[QBS, align="center", width=40%, link=http://www.qbssoftware.com/products/Intel_Parallel_Studio_XE/overview/_prodintelparxe/]
+
+{empty} +
+
+image::/assets/images/2019_SponsorLogos/Riverblade.png[Riverblade, align="center", link=https://www.riverblade.co.uk/]
+
+{empty} +
+
+image::/assets/images/2019_SponsorLogos/Undo_logo-tagline-colour-rgb.png[Undo, align="center", width=40%, link=http://undo.io/]
+
+{empty} +
+
+== Community Sponsors
+
+{empty} +
+
+image::/assets/images/2019_SponsorLogos/includeC++.svg[#include<C++>, align="center", link=https://www.includecpp.org]
+
+{empty} +
+
+image::/assets/images/2019_SponsorLogos/cpponsea-logo-grey.jpg[C++ on Sea, align="center", link=https://cpponsea.uk]
