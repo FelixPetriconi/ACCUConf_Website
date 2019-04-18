@@ -76,7 +76,8 @@ link:presenters.html#XMAngelaSasse[M Angela Sasse]
 |11:00
 |link:sessions.html#XHigherorderfunctionsandfunction_ref[Higher-order functions and `function_ref`] +
  +
-link:presenters.html#XVittorioRomeo[Vittorio Romeo]
+link:presenters.html#XVittorioRomeo[Vittorio Romeo] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/vittorio_romeo_-_higher_order_functions_and_function_ref.pdf[(slides)]
 |link:sessions.html#XHowC20CanSimplifystdtuple[How {cpp}20 Can Simplify std::tuple] +
  +
 link:presenters.html#XAlisdairMeredith[Alisdair Meredith]
@@ -100,14 +101,17 @@ link:presenters.html#XFilipvanlaenen[Filip van laenen]
 link:presenters.html#XJonathanBoccara[Jonathan Boccara]
 |link:sessions.html#XAnAdventureinRaceConditions[An Adventure in Race Conditions] +
  +
-link:presenters.html#XFelixPetriconi[Felix Petriconi]
+link:presenters.html#XFelixPetriconi[Felix Petriconi] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/felix_petriconi_-_an_adventure_in_race_conditions.pdf[(slides)]
 |link:sessions.html#XSnakesIntoSnakeOilWhatBlockchainsAreAndWhyTheyreTerrible[Snakes Into Snake Oil - What Blockchains Are And Why They're Terrible] +
  +
-link:presenters.html#XJezHiggins[Jez Higgins]
+link:presenters.html#XJezHiggins[Jez Higgins] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/jez_higgins_-_snakes_into_snake_oil.pdf[(slides)]
 |(continuation of 180 minute workshop)
 |link:sessions.html#XRangesfordistributedandasynchronoussystems[Ranges for distributed and asynchronous systems] +
  +
-link:presenters.html#XIvanČukić[Ivan Čukić]
+link:presenters.html#XIvanČukić[Ivan Čukić] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/ivan_cukic_-_ranges_for_distribuded_and_asynchronous_systems.pdf[(slides)]
 
 |15:30
 5+^|Break
@@ -119,7 +123,8 @@ link:presenters.html#XMarshallClow[Marshall Clow]
 |link:sessions.html#XHowdoesGitactuallywork[How does Git actually work?] +
  +
 link:presenters.html#XAndyBalaam[Andy Balaam] +
-link:presenters.html#XCBBailey[CB Bailey]
+link:presenters.html#XCBBailey[CB Bailey] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/cb_bailey__andy_balaam_-_how_does_git_actually_work.pdf[(slides)]
 |link:sessions.html#XTheAnatomyofanExploit[The Anatomy of an Exploit] +
  +
 link:presenters.html#XPatriciaAas[Patricia Aas]
@@ -157,7 +162,8 @@ link:presenters.html#XDietmarKühl[Dietmar Kühl]
 |09:30
 5+^|link:sessions.html#XDefragmentingCMakingexceptionsmoreaffordableandusable[De-fragmenting {cpp}: Making exceptions more affordable and usable] +
  +
-link:presenters.html#XHerbSutter[Herb Sutter]
+link:presenters.html#XHerbSutter[Herb Sutter] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/herb_sutter_-_de-fragmenting_cpp__making_exceptions_more_affordable_and_usable.pdf[(slides)]
 
 |10:30
 5+^|Break
@@ -168,13 +174,15 @@ link:presenters.html#XHerbSutter[Herb Sutter]
 link:presenters.html#XSupriyaSrivatsa[Supriya Srivatsa]
 |link:sessions.html#XHeresmynumbercallmemaybeCallbacksinamultithreadedworld[Here's my number; call me, maybe. Callbacks in a multithreaded world] +
  +
-link:presenters.html#XAnthonyWilliams[Anthony Williams]
+link:presenters.html#XAnthonyWilliams[Anthony Williams] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/anthony_williams_-_here_s_my_number_call_me_maybe__callbacks_in_a_multithreaded_world.pdf[(slides)]
 |link:sessions.html#XSecurebyDesignSecurityPrinciplesfortheWorkingDeveloper[Secure by Design - Security Principles for the Working Developer] +
  +
 link:presenters.html#XEoinWoods[Eoin Woods]
 |link:sessions.html#XMoreGDBwizardryand8otheressentialLinuxapplicationdebuggingtools[More GDB wizardry and 8 other essential Linux application debugging tools] +
  +
-link:presenters.html#XGregLaw[Greg Law]
+link:presenters.html#XGregLaw[Greg Law] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/greg_law_-_debugging_cpp.pdf[(slides)]
 |link:sessions.html#XAudioinstandardC[Audio in standard {cpp}] +
  +
 link:presenters.html#XTimurDoumler[Timur Doumler]
@@ -197,7 +205,8 @@ link:presenters.html#XKateGregory[Kate Gregory]
 link:presenters.html#XHubertMatthews[Hubert Matthews]
 |link:sessions.html#XWhatarehashtreesandwhyyoushouldcare[What are hash trees and why you should care] +
  +
-link:presenters.html#XAhtoTruu[Ahto Truu]
+link:presenters.html#XAhtoTruu[Ahto Truu] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/ahto_truu_-_what_are_hash_trees_and_why_you_should_care.pdf[(slides)]
 |link:sessions.html#XHowKotlinmakesyourJavacodebetter[How Kotlin makes your Java code better] +
  +
 link:presenters.html#XAndyBalaam[Andy Balaam]
@@ -215,7 +224,8 @@ link:presenters.html#XAustinBingham[Austin Bingham]
 |link:sessions.html#XHelloWorldfromScratch[Hello World from Scratch] +
  +
 link:presenters.html#XPeterBindels[Peter Bindels] +
-link:presenters.html#XSimonBrand[Simon Brand]
+link:presenters.html#XSimonBrand[Simon Brand] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/simon_brand__peter_bindels_-_hello_world_from_scratch.pdf[(slides)]
 |link:sessions.html#XMonitoringTurningNoiseintoSignal[Monitoring: Turning Noise into Signal] +
  +
 link:presenters.html#XChrisOldwood[Chris Oldwood]
@@ -225,7 +235,8 @@ link:presenters.html#XChristopherSimons[Christopher Simons] +
 link:presenters.html#XFrancesBuontempo[Frances Buontempo]
 |link:sessions.html#XCPubQuiz[{cpp} Pub Quiz] +
  +
-link:presenters.html#XFelixPetriconi[Felix Petriconi]
+link:presenters.html#XFelixPetriconi[Felix Petriconi] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/felix_petriconi_-_c%2B%2B_pub_quiz.pdf[(slides)]
 
 |17:30
 5+^|Break
@@ -265,19 +276,23 @@ link:presenters.html#XPaulGrenyer[Paul Grenyer]
 |11:00
 |link:sessions.html#XImplementingPhysicalUnitsLibraryforC[Implementing Physical Units Library for {cpp}] +
  +
-link:presenters.html#XMateuszPusz[Mateusz Pusz]
+link:presenters.html#XMateuszPusz[Mateusz Pusz] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/mateusz_pusz_-_implementing_physical_units_library_for_c%2B%2B.pdf[(slides)]
 |link:sessions.html#XInteractiveCMeetJupyterClingThedatascientistsgeekyyoungersibling[Interactive {cpp} : Meet Jupyter / Cling - The data scientist's geeky younger sibling] +
  +
 link:presenters.html#XNeilHorlock[Neil Horlock]
 |link:sessions.html#XItsPeopleCodeismadeoutofpeople[It's People! Code is made out of people!] +
  +
-link:presenters.html#XDomDavis[Dom Davis]
+link:presenters.html#XDomDavis[Dom Davis] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/dom_davis_-_people_-_code_is_made_out_of_people.pdf[(slides)]
 |link:sessions.html#XAmodernscalablerisksystemarchitecture[A modern, scalable risk system architecture] +
  +
-link:presenters.html#XBurkhardKloss[Burkhard Kloss]
+link:presenters.html#XBurkhardKloss[Burkhard Kloss] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/burkhard_kloss-a_modern_scalable_risk_system_architecture.pdf[(slides)]
 |link:sessions.html#XItsDNSJimbutnotasweknowit[It's DNS, Jim, but not as we know it] +
  +
-link:presenters.html#XJimHague[Jim Hague]
+link:presenters.html#XJimHague[Jim Hague] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/jim_hague_-_its_dns_jim.pdf[(slides)]
 
 |12:30
 5+^|Lunch
@@ -294,18 +309,21 @@ link:presenters.html#XJimHague[Jim Hague]
 link:presenters.html#XMichaelWong[Michael Wong]
 |link:sessions.html#XTamingDynamicMemoryAnIntroductiontoCustomAllocators[Taming Dynamic Memory - An Introduction to Custom Allocators] +
  +
-link:presenters.html#XAndreasWeis[Andreas Weis]
+link:presenters.html#XAndreasWeis[Andreas Weis] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/andreas_weis_-_taming_dynamic_memory__an_introduction_to_custom_allocators.pdf[(slides)]
 |link:sessions.html#XThecellasacomputerTuringcompleteandmassivelyparallel[The cell as a computer: Turing complete and massively parallel.] +
  +
 link:presenters.html#XAndyThomason[Andy Thomason]
 |link:sessions.html#XFightingGitWorkflows[Fighting Git Workflows] +
  +
 link:presenters.html#XVictorCiura[Victor Ciura] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/victor_ciura_-_fighting_git_workflows.pdf[(slides)]
  +
  +
 link:sessions.html#XEffectivereplacementofdynamicpolymorphismwithstdvariant[Effective replacement of dynamic polymorphism with std::variant] +
  +
 link:presenters.html#XMateuszPusz[Mateusz Pusz] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/mateusz_pusz_-_effective_replacement_of_dynamic_polymorphism_with_std_variant.pdf[(slides)] +
  +
  +
 link:sessions.html#XTheStoryofVillagersMarblesandOhABlockchain[The Story of Villagers, Marbles and Oh, A Blockchain] +
@@ -345,7 +363,8 @@ link:presenters.html#XSasLuca[Sas Luca] +
 |16:00
 |link:sessions.html#XProgrammingwithContractsinC20[Programming with Contracts in {cpp}20] +
  +
-link:presenters.html#XBjörnFahller[Björn Fahller]
+link:presenters.html#XBjörnFahller[Björn Fahller] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/bjorn_fahller_-_programming_with_contracts_in_cpp20.pdf[(slides)]
 |link:sessions.html#XTheStateofPackageManagementinC[The State of Package Management in {cpp}] +
  +
 link:presenters.html#XMathieuRopert[Mathieu Ropert]
@@ -354,10 +373,12 @@ link:presenters.html#XMathieuRopert[Mathieu Ropert]
 link:presenters.html#XJonathanPallant[Jonathan Pallant]
 |link:sessions.html#XElsewhereMemory[Elsewhere Memory] +
  +
-link:presenters.html#XNiallDouglas[Niall Douglas]
+link:presenters.html#XNiallDouglas[Niall Douglas] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/niall_douglas_-_elsewhere_memory.pdf[(slides)]
 |link:sessions.html#XCecosystemForbetterforworse[{cpp} ecosystem: For better, for worse] +
  +
-link:presenters.html#XAnastasiaKazakova[Anastasia Kazakova]
+link:presenters.html#XAnastasiaKazakova[Anastasia Kazakova] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/anastasia_kazakova_-_cpp_ecosystem_for_better_for_worse.pdf[(slides)]
 
 |17:30
 5+^|Break
@@ -391,7 +412,8 @@ link:presenters.html#XAnastasiaKazakova[Anastasia Kazakova]
 |09:30
 |link:sessions.html#XSafeandSaneCTypes[Safe and Sane {cpp} Types] +
  +
-link:presenters.html#XPeterSommerlad[Peter Sommerlad]
+link:presenters.html#XPeterSommerlad[Peter Sommerlad] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/peter_sommerlad_-_sane_and_safe_c%2B%2B_class_types.pdf[(slides)]
 |link:sessions.html#XWhatDoYouMean[What Do You Mean?] +
  +
 link:presenters.html#XKevlinHenney[Kevlin Henney]
@@ -403,7 +425,8 @@ link:presenters.html#XPhilNash[Phil Nash]
 link:presenters.html#XViktorKirilov[Viktor Kirilov]
 |link:sessions.html#XCleanerCodeforLargeScaleLegacyApplications[Clean(er) Code for Large Scale Legacy Applications] +
  +
-link:presenters.html#XArneMertz[Arne Mertz]
+link:presenters.html#XArneMertz[Arne Mertz] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/arne_mertz_-_clean_code_for_large_scale_legacy_applications.pdf[(slides)]
 
 |11:00
 5+^|Break
@@ -414,7 +437,8 @@ link:presenters.html#XArneMertz[Arne Mertz]
 link:presenters.html#XCBBailey[CB Bailey]
 |link:sessions.html#XWindowsNativeAPI[Windows Native API] +
  +
-link:presenters.html#XRogerOrr[Roger Orr]
+link:presenters.html#XRogerOrr[Roger Orr] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/roger_orr_-_windows_native_api.pdf[(slides)]
 |link:sessions.html#XAllocatorAwareAASoftware[Allocator-Aware (AA) Software] +
  +
 link:presenters.html#XJohnLakos[John Lakos]
@@ -423,7 +447,8 @@ link:presenters.html#XJohnLakos[John Lakos]
 link:presenters.html#XGeorgeCorney[George Corney]
 |link:sessions.html#XRegularTypesandWhyDoICare[Regular Types and Why Do I Care ?] +
  +
-link:presenters.html#XVictorCiura[Victor Ciura]
+link:presenters.html#XVictorCiura[Victor Ciura] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/victor_ciura_-_regular_types_and_why_do_i_care.pdf[(slides)]
 
 |13:00
 5+^|Lunch
@@ -437,7 +462,8 @@ link:presenters.html#XVictorCiura[Victor Ciura]
 |14:30
 |link:sessions.html#XBestpracticeswhenaccessingBigDataoranyotherdata[Best practices when accessing Big Data or any other data!] +
  +
-link:presenters.html#XRosemaryFrancis[Rosemary Francis]
+link:presenters.html#XRosemaryFrancis[Rosemary Francis] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/rosemary_francis_-_best_practice_when_accessing_big_data_or_any_other_data!.pdf[(slides)]
 |link:sessions.html#XExtendingclangtidyinthePresentandintheFuture[Extending clang-tidy in the Present and in the Future] +
  +
 link:presenters.html#XStephenKelly[Stephen Kelly]
