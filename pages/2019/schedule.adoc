@@ -423,7 +423,8 @@ link:presenters.html#XKevlinHenney[Kevlin Henney]
 link:presenters.html#XPhilNash[Phil Nash]
 |link:sessions.html#XNimthefirstnativelycompiledlanguagewithfullsupportforhotcodereloadingatruntime[Nim - the first natively compiled language with full support for hot code-reloading at runtime] +
  +
-link:presenters.html#XViktorKirilov[Viktor Kirilov]
+link:presenters.html#XViktorKirilov[Viktor Kirilov] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/viktor_kirilov_-_nim_hot_code_reloading.pdf[(slides)]
 |link:sessions.html#XCleanerCodeforLargeScaleLegacyApplications[Clean(er) Code for Large Scale Legacy Applications] +
  +
 link:presenters.html#XArneMertz[Arne Mertz] +
