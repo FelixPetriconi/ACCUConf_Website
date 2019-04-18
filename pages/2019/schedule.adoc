@@ -119,7 +119,8 @@ link:https://github.com/ACCUConf/PDFs_2019/blob/master/ivan_cukic_-_ranges_for_d
 |16:00
 |link:sessions.html#XNavigatingthedevelopmentandevolutionofalibrary[Navigating the development and evolution of a library] +
  +
-link:presenters.html#XMarshallClow[Marshall Clow]
+link:presenters.html#XMarshallClow[Marshall Clow] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/marshall_clow_-_youve_written_a_library.pdf[(slides)]
 |link:sessions.html#XHowdoesGitactuallywork[How does Git actually work?] +
  +
 link:presenters.html#XAndyBalaam[Andy Balaam] +
