@@ -278,14 +278,16 @@ link:presenters.html#XPaulGrenyer[Paul Grenyer]
 |link:sessions.html#XImplementingPhysicalUnitsLibraryforC[Implementing Physical Units Library for {cpp}] +
  +
 link:presenters.html#XMateuszPusz[Mateusz Pusz] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/mateusz_pusz_-_implementing_physical_units_library_for_c%2B%2B.pdf[(slides)]
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/mateusz_pusz_-_implementing_physical_units_library_for_c%2B%2B.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=nN5ya6oNImg[(video)]
 |link:sessions.html#XInteractiveCMeetJupyterClingThedatascientistsgeekyyoungersibling[Interactive {cpp} : Meet Jupyter / Cling - The data scientist's geeky younger sibling] +
  +
 link:presenters.html#XNeilHorlock[Neil Horlock]
 |link:sessions.html#XItsPeopleCodeismadeoutofpeople[It's People! Code is made out of people!] +
  +
 link:presenters.html#XDomDavis[Dom Davis] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/dom_davis_-_people_-_code_is_made_out_of_people.pdf[(slides)]
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/dom_davis_-_people_-_code_is_made_out_of_people.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=jiJesVwkXPw[(video)]
 |link:sessions.html#XAmodernscalablerisksystemarchitecture[A modern, scalable risk system architecture] +
  +
 link:presenters.html#XBurkhardKloss[Burkhard Kloss] +
@@ -371,7 +373,8 @@ link:https://github.com/ACCUConf/PDFs_2019/blob/master/bjorn_fahller_-_programmi
 link:presenters.html#XMathieuRopert[Mathieu Ropert]
 |link:sessions.html#XMonotrona1980sstylehomecomputerwritteninRust[Monotron - a 1980s style home computer written in Rust] +
  +
-link:presenters.html#XJonathanPallant[Jonathan Pallant]
+link:presenters.html#XJonathanPallant[Jonathan Pallant] +
+link:https://www.youtube.com/watch?v=BmjqAhRtvHI[(video)]
 |link:sessions.html#XElsewhereMemory[Elsewhere Memory] +
  +
 link:presenters.html#XNiallDouglas[Niall Douglas] +
@@ -436,21 +439,24 @@ link:https://github.com/ACCUConf/PDFs_2019/blob/master/arne_mertz_-_clean_code_f
 |11:30
 |link:sessions.html#XCPUoptimizeddatastructuresmorefunwithassembler[CPU optimized data structures - more fun with assembler] +
  +
-link:presenters.html#XCBBailey[CB Bailey]
+link:presenters.html#XCBBailey[CB Bailey] +
+link:https://www.youtube.com/watch?v=U3biGqMYRVU[(video)]
 |link:sessions.html#XWindowsNativeAPI[Windows Native API] +
  +
 link:presenters.html#XRogerOrr[Roger Orr] +
 link:https://github.com/ACCUConf/PDFs_2019/blob/master/roger_orr_-_windows_native_api.pdf[(slides)]
 |link:sessions.html#XAllocatorAwareAASoftware[Allocator-Aware (AA) Software] +
  +
-link:presenters.html#XJohnLakos[John Lakos]
+link:presenters.html#XJohnLakos[John Lakos] +
+link:https://www.youtube.com/watch?v=V0gmSPICJFQ[(video)]
 |link:sessions.html#XHaxeAnunderstatedpowerhouseforsoftwaredevelopment[Haxe: An understated powerhouse for software development] +
  +
 link:presenters.html#XGeorgeCorney[George Corney]
 |link:sessions.html#XRegularTypesandWhyDoICare[Regular Types and Why Do I Care ?] +
  +
 link:presenters.html#XVictorCiura[Victor Ciura] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/victor_ciura_-_regular_types_and_why_do_i_care.pdf[(slides)]
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/victor_ciura_-_regular_types_and_why_do_i_care.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=OMhzlcBl9Hc[(video)]
 
 |13:00
 5+^|Lunch
@@ -465,24 +471,29 @@ link:https://github.com/ACCUConf/PDFs_2019/blob/master/victor_ciura_-_regular_ty
 |link:sessions.html#XBestpracticeswhenaccessingBigDataoranyotherdata[Best practices when accessing Big Data or any other data!] +
  +
 link:presenters.html#XRosemaryFrancis[Rosemary Francis] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/rosemary_francis_-_best_practice_when_accessing_big_data_or_any_other_data!.pdf[(slides)]
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/rosemary_francis_-_best_practice_when_accessing_big_data_or_any_other_data!.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=B-QGTIEt97w[(video)]
 |link:sessions.html#XExtendingclangtidyinthePresentandintheFuture[Extending clang-tidy in the Present and in the Future] +
  +
-link:presenters.html#XStephenKelly[Stephen Kelly]
+link:presenters.html#XStephenKelly[Stephen Kelly] +
+link:https://www.youtube.com/watch?v=38tYYrnfNrs[(video)]
 |link:sessions.html#XHowtoTeachCandInfluenceaGeneration[How to Teach {cpp} and Influence a Generation] +
  +
-link:presenters.html#XChristopherDiBella[Christopher Di Bella]
+link:presenters.html#XChristopherDiBella[Christopher Di Bella] +
+link:https://www.youtube.com/watch?v=nzEPHkUxXZs[(video)]
 |link:sessions.html#XBootstrappedbyBoost[Bootstrapped by Boost] +
  +
 link:presenters.html#XThomasGuest[Thomas Guest]
 |link:sessions.html#XANewOpenSourceVirtualFileSystemrunningonWindowsinUsermode[A New Open Source Virtual File System – running on Windows in User mode!] +
  +
 link:presenters.html#XJamesCain[James Cain] +
+link:https://www.youtube.com/watch?v=tDUL3wEs2ew[(video)] +
  +
  +
 link:sessions.html#XGoGetBetter[Go Get Better] +
  +
 link:presenters.html#XDomDavis[Dom Davis] +
+link:https://www.youtube.com/watch?v=LuI9WQoVHVE[(video)] +
  +
 
 
