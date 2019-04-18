@@ -1,0 +1,32 @@
+////
+.. title: ACCU 2018 Programme Committee and Organisers
+.. type: text
+////
+
+== Program Committee
+
+* Chair:
+** Russel Winder
+* Members
+** Gail Ollis
+** Roger Orr
+** Felix Petriconi
+** CB Bailey
+** Anastasia Kazakova
+** Jon Kalb
+** Nina Dinka Ranns
+** Francis Glassborow
+
+== Organisers
+
+
+Archer Yates Ltd image:/assets/images/AYA_holding.png[Archer Yates Associates, width=10%, link=http://www.archer-yates.co.uk/]
+
+7 Threshers Yard +
+West Street +
+Kingham +
+Oxfordshire OX7 6YF
+
+Telephone: +44 1608 659900 +
+Fax: +44 1608 659911 +
+Email: accu@archer-yates.co.uk
