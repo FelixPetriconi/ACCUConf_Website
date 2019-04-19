@@ -342,6 +342,7 @@ link:presenters.html#XAlexChan[Alex Chan] +
 |link:sessions.html#XMPINAuthenticationinVehicleTracking[M-PIN Authentication in Vehicle Tracking] +
  +
 link:presenters.html#XGiorgioZoppi[Giorgio Zoppi] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/giorgio_zoppi_-_mpin_authentication_in_vehicle_tracking.pdf[(slides)] +
  +
  +
 link:sessions.html#XSoftwareVisualizationThehumanesolution[Software Visualization: The humane solution] +
@@ -357,6 +358,7 @@ link:presenters.html#XJeanMichaëlCelerier[Jean-Michaël Celerier] +
 link:sessions.html#XTheJaiProgrammingLanguageandWhatCanWeLearnFromIt[The Jai Programming Language and What Can We Learn From It] +
  +
 link:presenters.html#XSasLuca[Sas Luca] +
+link:https://www.youtube.com/watch?v=roLD9-TA06Q[(video)] +
  +
 
 
@@ -370,7 +372,9 @@ link:presenters.html#XBjörnFahller[Björn Fahller] +
 link:https://github.com/ACCUConf/PDFs_2019/blob/master/bjorn_fahller_-_programming_with_contracts_in_cpp20.pdf[(slides)]
 |link:sessions.html#XTheStateofPackageManagementinC[The State of Package Management in {cpp}] +
  +
-link:presenters.html#XMathieuRopert[Mathieu Ropert]
+link:presenters.html#XMathieuRopert[Mathieu Ropert] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/mathieu_ropert_-_the_state_of_package_management_in_cpp.pdf(slides)] +
+link:https://www.youtube.com/watch?v=k99_qbB2FvM[(video)]
 |link:sessions.html#XMonotrona1980sstylehomecomputerwritteninRust[Monotron - a 1980s style home computer written in Rust] +
  +
 link:presenters.html#XJonathanPallant[Jonathan Pallant] +
@@ -503,7 +507,8 @@ link:https://www.youtube.com/watch?v=LuI9WQoVHVE[(video)] +
 |16:30
 5+^|link:sessions.html#XEmotionalCode[Emotional Code] +
  +
-link:presenters.html#XKateGregory[Kate Gregory]
+link:presenters.html#XKateGregory[Kate Gregory] +
+link:https://www.youtube.com/watch?v=uloVXmSHiSo[(video)]
 
 |18:00
 5+^|Close
