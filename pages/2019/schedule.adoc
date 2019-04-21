@@ -1,4 +1,3 @@
-
 ////
 .. title: ACCU 2019 Schedule
 .. description: Schedule with links to session blurbs and presenter bios.
@@ -32,7 +31,8 @@ link:presenters.html#XAustinBingham[Austin Bingham]
 |link:sessions.html#XEvolutionaryAlgorithmsinPractice[Evolutionary Algorithms in Practice] +
  +
 link:presenters.html#XChristopherSimons[Christopher Simons] +
-link:presenters.html#XFrancesBuontempo[Frances Buontempo]
+link:presenters.html#XFrancesBuontempo[Frances Buontempo] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/fran_buontempo__chris_simons_-_teach_your_computer_to_code_fizzbuzz.pdf[(slides)]
 |link:sessions.html#XAComprehensiveIntroductiontoRust[A Comprehensive Introduction to Rust] +
  +
 link:presenters.html#XKatharinaFey[Katharina Fey]
@@ -134,7 +134,8 @@ link:presenters.html#XPatriciaAas[Patricia Aas]
 link:presenters.html#XGailOllis[Gail Ollis]
 |link:sessions.html#XHashing[#Hashing] +
  +
-link:presenters.html#XDietmarKühl[Dietmar Kühl]
+link:presenters.html#XDietmarKühl[Dietmar Kühl] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/dietmar_kuehl_-_hashing.pdf[(slides)]
 
 |17:30
 5+^|Break
@@ -172,11 +173,14 @@ link:https://github.com/ACCUConf/PDFs_2019/blob/master/herb_sutter_-_de-fragment
 |11:00
 |link:sessions.html#XGoingMultiplatformwithKotlin[Going Multiplatform with Kotlin] +
  +
-link:presenters.html#XSupriyaSrivatsa[Supriya Srivatsa]
+link:presenters.html#XSupriyaSrivatsa[Supriya Srivatsa] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/supriya_srivatsa_-_going_multiplatform_with_kotlin.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=j_FAvj5ouIg[(video)]
 |link:sessions.html#XHeresmynumbercallmemaybeCallbacksinamultithreadedworld[Here's my number; call me, maybe. Callbacks in a multithreaded world] +
  +
 link:presenters.html#XAnthonyWilliams[Anthony Williams] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/anthony_williams_-_here_s_my_number_call_me_maybe__callbacks_in_a_multithreaded_world.pdf[(slides)]
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/anthony_williams_-_here_s_my_number_call_me_maybe__callbacks_in_a_multithreaded_world.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=7hkqG8i0QaU[(video)]
 |link:sessions.html#XSecurebyDesignSecurityPrinciplesfortheWorkingDeveloper[Secure by Design - Security Principles for the Working Developer] +
  +
 link:presenters.html#XEoinWoods[Eoin Woods]
@@ -200,7 +204,8 @@ link:presenters.html#XTimurDoumler[Timur Doumler]
 |14:00
 |link:sessions.html#XWhatDoWeMeanWhenWeSayNothingAtAll[What Do We Mean When We Say Nothing At All?] +
  +
-link:presenters.html#XKateGregory[Kate Gregory]
+link:presenters.html#XKateGregory[Kate Gregory] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/kate_gregory_-_what_do_we_mean_when_we_say_nothing_at_all.pdf[(slides)]
 |link:sessions.html#XOptimisingasmallrealworldCapplication[Optimising a small real-world {cpp} application] +
  +
 link:presenters.html#XHubertMatthews[Hubert Matthews]
@@ -229,7 +234,8 @@ link:presenters.html#XSimonBrand[Simon Brand] +
 link:https://github.com/ACCUConf/PDFs_2019/blob/master/simon_brand__peter_bindels_-_hello_world_from_scratch.pdf[(slides)]
 |link:sessions.html#XMonitoringTurningNoiseintoSignal[Monitoring: Turning Noise into Signal] +
  +
-link:presenters.html#XChrisOldwood[Chris Oldwood]
+link:presenters.html#XChrisOldwood[Chris Oldwood] +
+link:https://www.youtube.com/watch?v=O6NJgcK6K7g[(video)]
 |link:sessions.html#XTeachYourComputertoCodeFizzBuzz[Teach Your Computer to Code FizzBuzz] +
  +
 link:presenters.html#XChristopherSimons[Christopher Simons] +
@@ -282,7 +288,8 @@ link:https://github.com/ACCUConf/PDFs_2019/blob/master/mateusz_pusz_-_implementi
 link:https://www.youtube.com/watch?v=nN5ya6oNImg[(video)]
 |link:sessions.html#XInteractiveCMeetJupyterClingThedatascientistsgeekyyoungersibling[Interactive {cpp} : Meet Jupyter / Cling - The data scientist's geeky younger sibling] +
  +
-link:presenters.html#XNeilHorlock[Neil Horlock]
+link:presenters.html#XNeilHorlock[Neil Horlock] +
+link:https://www.youtube.com/watch?v=UzfYG8GdB3I[(video)]
 |link:sessions.html#XItsPeopleCodeismadeoutofpeople[It's People! Code is made out of people!] +
  +
 link:presenters.html#XDomDavis[Dom Davis] +
@@ -295,7 +302,8 @@ link:https://github.com/ACCUConf/PDFs_2019/blob/master/burkhard_kloss-a_modern_s
 |link:sessions.html#XItsDNSJimbutnotasweknowit[It's DNS, Jim, but not as we know it] +
  +
 link:presenters.html#XJimHague[Jim Hague] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/jim_hague_-_its_dns_jim.pdf[(slides)]
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/jim_hague_-_its_dns_jim.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=WZ74TtMxWT4[(video)]
 
 |12:30
 5+^|Lunch
@@ -313,14 +321,18 @@ link:presenters.html#XMichaelWong[Michael Wong]
 |link:sessions.html#XTamingDynamicMemoryAnIntroductiontoCustomAllocators[Taming Dynamic Memory - An Introduction to Custom Allocators] +
  +
 link:presenters.html#XAndreasWeis[Andreas Weis] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/andreas_weis_-_taming_dynamic_memory__an_introduction_to_custom_allocators.pdf[(slides)]
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/andreas_weis_-_taming_dynamic_memory__an_introduction_to_custom_allocators.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=IGtKstxNe14[(video)]
 |link:sessions.html#XThecellasacomputerTuringcompleteandmassivelyparallel[The cell as a computer: Turing complete and massively parallel.] +
  +
-link:presenters.html#XAndyThomason[Andy Thomason]
+link:presenters.html#XAndyThomason[Andy Thomason] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/andy_thomason_-_the_cell_as_a_computer.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=Abbl8a-E-_Q[(video)]
 |link:sessions.html#XFightingGitWorkflows[Fighting Git Workflows] +
  +
 link:presenters.html#XVictorCiura[Victor Ciura] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/victor_ciura_-_fighting_git_workflows.pdf[(slides)]
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/victor_ciura_-_fighting_git_workflows.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=AgZqYGrAHE8[(video)] +
  +
  +
 link:sessions.html#XEffectivereplacementofdynamicpolymorphismwithstdvariant[Effective replacement of dynamic polymorphism with std::variant] +
@@ -332,6 +344,7 @@ link:https://github.com/ACCUConf/PDFs_2019/blob/master/mateusz_pusz_-_effective_
 link:sessions.html#XTheStoryofVillagersMarblesandOhABlockchain[The Story of Villagers, Marbles and Oh, A Blockchain] +
  +
 link:presenters.html#XSupriyaSrivatsa[Supriya Srivatsa] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/supriya_srivatsa_-_the_story_of_villagers%2C_marbles_and_oh%2C_a_blockchain.pdf[(slides)] +
  +
  +
 link:sessions.html#XAssumeWorstIntentDesigningfortheAbusiveEx[Assume Worst Intent (Designing for the Abusive Ex)] +
@@ -348,6 +361,7 @@ link:https://github.com/ACCUConf/PDFs_2019/blob/master/giorgio_zoppi_-_mpin_auth
 link:sessions.html#XSoftwareVisualizationThehumanesolution[Software Visualization: The humane solution] +
  +
 link:presenters.html#XEberhardGräther[Eberhard Gräther] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/eberhard_graether_-_software_visualization_the_humane_solution.pdf[(slides)] +
  +
  +
 link:sessions.html#XTailoredstatictoolingusingClangClazy[Tailored static tooling using Clang: Clazy] +
@@ -378,6 +392,7 @@ link:https://www.youtube.com/watch?v=k99_qbB2FvM[(video)]
 |link:sessions.html#XMonotrona1980sstylehomecomputerwritteninRust[Monotron - a 1980s style home computer written in Rust] +
  +
 link:presenters.html#XJonathanPallant[Jonathan Pallant] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/jonathan_pallant_-_monotron__a_1980s_style_home_computer_written_in_rust.pdf[(slides)] +
 link:https://www.youtube.com/watch?v=BmjqAhRtvHI[(video)]
 |link:sessions.html#XElsewhereMemory[Elsewhere Memory] +
  +
@@ -424,7 +439,8 @@ link:presenters.html#XPeterSommerlad[Peter Sommerlad] +
 link:https://github.com/ACCUConf/PDFs_2019/blob/master/peter_sommerlad_-_sane_and_safe_c%2B%2B_class_types.pdf[(slides)]
 |link:sessions.html#XWhatDoYouMean[What Do You Mean?] +
  +
-link:presenters.html#XKevlinHenney[Kevlin Henney]
+link:presenters.html#XKevlinHenney[Kevlin Henney] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/kevlin_henney_-_what_do_you_mean.pdf[(slides)]
 |link:sessions.html#XTheDawnOfANewError[The Dawn Of A New Error] +
  +
 link:presenters.html#XPhilNash[Phil Nash]
@@ -508,6 +524,7 @@ link:https://www.youtube.com/watch?v=LuI9WQoVHVE[(video)] +
 5+^|link:sessions.html#XEmotionalCode[Emotional Code] +
  +
 link:presenters.html#XKateGregory[Kate Gregory] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/kate_gregory_-_emotional_code.pdf[(slides)] +
 link:https://www.youtube.com/watch?v=uloVXmSHiSo[(video)]
 
 |18:00
