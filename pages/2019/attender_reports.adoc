@@ -6,3 +6,4 @@
 Here we have links to reports by people who attended ACCU 2019 that have been notified or discovered.
 
 * https://mropert.github.io/2019/04/19/accu_2019/[Mathieu Ropert]
+* https://oribenshir.github.io/afternoon_rusting/blog/ACCU-Summary[Ori Ben-Shir]
