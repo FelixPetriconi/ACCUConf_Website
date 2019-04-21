@@ -387,7 +387,7 @@ link:https://github.com/ACCUConf/PDFs_2019/blob/master/bjorn_fahller_-_programmi
 |link:sessions.html#XTheStateofPackageManagementinC[The State of Package Management in {cpp}] +
  +
 link:presenters.html#XMathieuRopert[Mathieu Ropert] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/mathieu_ropert_-_the_state_of_package_management_in_cpp.pdf(slides)] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/mathieu_ropert_-_the_state_of_package_management_in_cpp.pdf[(slides)] +
 link:https://www.youtube.com/watch?v=k99_qbB2FvM[(video)]
 |link:sessions.html#XMonotrona1980sstylehomecomputerwritteninRust[Monotron - a 1980s style home computer written in Rust] +
  +
