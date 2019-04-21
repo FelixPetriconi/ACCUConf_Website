@@ -31,8 +31,7 @@ link:presenters.html#XAustinBingham[Austin Bingham]
 |link:sessions.html#XEvolutionaryAlgorithmsinPractice[Evolutionary Algorithms in Practice] +
  +
 link:presenters.html#XChristopherSimons[Christopher Simons] +
-link:presenters.html#XFrancesBuontempo[Frances Buontempo] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/fran_buontempo__chris_simons_-_teach_your_computer_to_code_fizzbuzz.pdf[(slides)]
+link:presenters.html#XFrancesBuontempo[Frances Buontempo]
 |link:sessions.html#XAComprehensiveIntroductiontoRust[A Comprehensive Introduction to Rust] +
  +
 link:presenters.html#XKatharinaFey[Katharina Fey]
@@ -239,7 +238,8 @@ link:https://www.youtube.com/watch?v=O6NJgcK6K7g[(video)]
 |link:sessions.html#XTeachYourComputertoCodeFizzBuzz[Teach Your Computer to Code FizzBuzz] +
  +
 link:presenters.html#XChristopherSimons[Christopher Simons] +
-link:presenters.html#XFrancesBuontempo[Frances Buontempo]
+link:presenters.html#XFrancesBuontempo[Frances Buontempo] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/fran_buontempo__chris_simons_-_teach_your_computer_to_code_fizzbuzz.pdf[(slides)]
 |link:sessions.html#XCPubQuiz[{cpp} Pub Quiz] +
  +
 link:presenters.html#XFelixPetriconi[Felix Petriconi] +
