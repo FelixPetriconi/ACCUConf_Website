@@ -204,7 +204,8 @@ link:presenters.html#XTimurDoumler[Timur Doumler]
 |link:sessions.html#XWhatDoWeMeanWhenWeSayNothingAtAll[What Do We Mean When We Say Nothing At All?] +
  +
 link:presenters.html#XKateGregory[Kate Gregory] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/kate_gregory_-_what_do_we_mean_when_we_say_nothing_at_all.pdf[(slides)]
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/kate_gregory_-_what_do_we_mean_when_we_say_nothing_at_all.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=-Hb-9TUyjoo[(video)]
 |link:sessions.html#XOptimisingasmallrealworldCapplication[Optimising a small real-world {cpp} application] +
  +
 link:presenters.html#XHubertMatthews[Hubert Matthews]
@@ -225,7 +226,8 @@ link:presenters.html#XWoutervanOoijen[Wouter van Ooijen]
 |16:00
 |link:sessions.html#XAnchoredmetadata[Anchored metadata] +
  +
-link:presenters.html#XAustinBingham[Austin Bingham]
+link:presenters.html#XAustinBingham[Austin Bingham] +
+link:https://www.youtube.com/watch?v=gFeXb0LJjuM[(video)]
 |link:sessions.html#XHelloWorldfromScratch[Hello World from Scratch] +
  +
 link:presenters.html#XPeterBindels[Peter Bindels] +
@@ -401,7 +403,8 @@ link:https://github.com/ACCUConf/PDFs_2019/blob/master/niall_douglas_-_elsewhere
 |link:sessions.html#XCecosystemForbetterforworse[{cpp} ecosystem: For better, for worse] +
  +
 link:presenters.html#XAnastasiaKazakova[Anastasia Kazakova] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/anastasia_kazakova_-_cpp_ecosystem_for_better_for_worse.pdf[(slides)]
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/anastasia_kazakova_-_cpp_ecosystem_for_better_for_worse.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=43E5iYzrQn4[(video)]
 
 |17:30
 5+^|Break
