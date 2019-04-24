@@ -224,7 +224,8 @@ link:https://github.com/ACCUConf/PDFs_2019/blob/master/ahto_truu_-_what_are_hash
 link:https://www.youtube.com/watch?v=qkO1Y0Bh74U[(video)]
 |link:sessions.html#XHowKotlinmakesyourJavacodebetter[How Kotlin makes your Java code better] +
  +
-link:presenters.html#XAndyBalaam[Andy Balaam]
+link:presenters.html#XAndyBalaam[Andy Balaam] +
+link:https://www.artificialworlds.net/presentations/examples-of-kotlin-making-code-better/examples-of-kotlin-making-code-better.html[(slides)]
 |link:sessions.html#XLeaveyourCbehindbetterembeddedlibraryinterfaceswithmodernC[Leave your C behind: better embedded library interfaces with modern {cpp}] +
  +
 link:presenters.html#XWoutervanOoijen[Wouter van Ooijen]
