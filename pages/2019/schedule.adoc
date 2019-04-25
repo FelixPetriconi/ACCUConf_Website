@@ -134,6 +134,7 @@ link:https://github.com/ACCUConf/PDFs_2019/blob/master/cb_bailey__andy_balaam_-_
 |link:sessions.html#XTheAnatomyofanExploit[The Anatomy of an Exploit] +
  +
 link:presenters.html#XPatriciaAas[Patricia Aas] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/patricia_aas_-_the_anatomy_of_an_exploit.pdf[(slides)] +
 link:https://www.youtube.com/watch?v=tNJfD17TmsM[(video)]
 |link:sessions.html#XHelpingDeveloperstoHelpEachOther[Helping Developers to Help Each Other] +
  +
@@ -197,7 +198,8 @@ link:presenters.html#XGregLaw[Greg Law] +
 link:https://github.com/ACCUConf/PDFs_2019/blob/master/greg_law_-_debugging_cpp.pdf[(slides)]
 |link:sessions.html#XAudioinstandardC[Audio in standard {cpp}] +
  +
-link:presenters.html#XTimurDoumler[Timur Doumler]
+link:presenters.html#XTimurDoumler[Timur Doumler] +
+link:https://www.youtube.com/watch?v=_RNuH-NRHCE[(video)]
 
 |12:30
 5+^|Lunch
@@ -331,7 +333,8 @@ link:https://www.youtube.com/watch?v=WZ74TtMxWT4[(video)]
 |14:00
 |link:sessions.html#XGPUprogrammingwithmodernC[GPU programming with modern {cpp}] +
  +
-link:presenters.html#XMichaelWong[Michael Wong]
+link:presenters.html#XMichaelWong[Michael Wong] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/michael_wong_-_GPU_programming_with_modern_C%2B%2B.pdf[(slides)]
 |link:sessions.html#XTamingDynamicMemoryAnIntroductiontoCustomAllocators[Taming Dynamic Memory - An Introduction to Custom Allocators] +
  +
 link:presenters.html#XAndreasWeis[Andreas Weis] +
@@ -353,6 +356,7 @@ link:sessions.html#XEffectivereplacementofdynamicpolymorphismwithstdvariant[Effe
  +
 link:presenters.html#XMateuszPusz[Mateusz Pusz] +
 link:https://github.com/ACCUConf/PDFs_2019/blob/master/mateusz_pusz_-_effective_replacement_of_dynamic_polymorphism_with_std_variant.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=JGYxOieiZnY[(video)] +
  +
  +
 link:sessions.html#XTheStoryofVillagersMarblesandOhABlockchain[The Story of Villagers, Marbles and Oh, A Blockchain] +
@@ -493,6 +497,7 @@ link:https://www.youtube.com/watch?v=V0gmSPICJFQ[(video)]
 |link:sessions.html#XHaxeAnunderstatedpowerhouseforsoftwaredevelopment[Haxe: An understated powerhouse for software development] +
  +
 link:presenters.html#XGeorgeCorney[George Corney] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/george_corney_-_haxe_an_understated_powerhouse.pdf[(slides)] +
 link:https://www.youtube.com/watch?v=TbhkHrcslrE[(video)]
 |link:sessions.html#XRegularTypesandWhyDoICare[Regular Types and Why Do I Care ?] +
  +
