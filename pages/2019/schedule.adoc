@@ -115,7 +115,7 @@ link:https://github.com/ACCUConf/PDFs_2019/blob/master/jez_higgins_-_snakes_into
  +
 link:presenters.html#XIvanČukić[Ivan Čukić] +
 link:https://github.com/ACCUConf/PDFs_2019/blob/master/ivan_cukic_-_ranges_for_distribuded_and_asynchronous_systems.pdf[(slides)] +
-link:https://www.youtube.com/watch?v=D71_VaWy16k[(video)]
+link:https://www.youtube.com/watch?v=eelpmWo2fuU[(video)]
 
 |15:30
 5+^|Break
@@ -368,6 +368,7 @@ link:https://github.com/ACCUConf/PDFs_2019/blob/master/supriya_srivatsa_-_the_st
 link:sessions.html#XAssumeWorstIntentDesigningfortheAbusiveEx[Assume Worst Intent (Designing for the Abusive Ex)] +
  +
 link:presenters.html#XAlexChan[Alex Chan] +
+link:https://www.youtube.com/watch?v=qi4bMw7tyKk[(video)] +
  +
 
 |link:sessions.html#XMPINAuthenticationinVehicleTracking[M-PIN Authentication in Vehicle Tracking] +
@@ -493,6 +494,7 @@ link:https://github.com/ACCUConf/PDFs_2019/blob/master/roger_orr_-_windows_nativ
 |link:sessions.html#XAllocatorAwareAASoftware[Allocator-Aware (AA) Software] +
  +
 link:presenters.html#XJohnLakos[John Lakos] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/john_lakos_-_value_proposition_allocator-aware_(aa)_software.pdf[(slides)] +
 link:https://www.youtube.com/watch?v=V0gmSPICJFQ[(video)]
 |link:sessions.html#XHaxeAnunderstatedpowerhouseforsoftwaredevelopment[Haxe: An understated powerhouse for software development] +
  +
