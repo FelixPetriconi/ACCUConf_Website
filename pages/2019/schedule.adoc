@@ -494,7 +494,7 @@ link:https://github.com/ACCUConf/PDFs_2019/blob/master/roger_orr_-_windows_nativ
 |link:sessions.html#XAllocatorAwareAASoftware[Allocator-Aware (AA) Software] +
  +
 link:presenters.html#XJohnLakos[John Lakos] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/john_lakos_-_value_proposition_allocator-aware_(aa)_software.pdf[(slides)] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/john_lakos_-\_value_proposition_allocator-aware_(aa)_software.pdf[(slides)] +
 link:https://www.youtube.com/watch?v=V0gmSPICJFQ[(video)]
 |link:sessions.html#XHaxeAnunderstatedpowerhouseforsoftwaredevelopment[Haxe: An understated powerhouse for software development] +
  +
