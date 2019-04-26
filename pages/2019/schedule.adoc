@@ -100,7 +100,8 @@ link:presenters.html#XFilipvanlaenen[Filip van laenen]
 |link:sessions.html#X10TechniquestoUnderstandCodeYouDontKnow[10 Techniques to Understand Code You Don't Know] +
  +
 link:presenters.html#XJonathanBoccara[Jonathan Boccara] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/jonathan_boccara_-_10_techniques_to_understand_code_you_don't_know.pdf[(slides)]
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/jonathan_boccara_-_10_techniques_to_understand_code_you_don't_know.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=tOOK-VsWU-I[(video)]
 |link:sessions.html#XAnAdventureinRaceConditions[An Adventure in Race Conditions] +
  +
 link:presenters.html#XFelixPetriconi[Felix Petriconi] +
@@ -138,7 +139,8 @@ link:https://github.com/ACCUConf/PDFs_2019/blob/master/patricia_aas_-_the_anatom
 link:https://www.youtube.com/watch?v=tNJfD17TmsM[(video)]
 |link:sessions.html#XHelpingDeveloperstoHelpEachOther[Helping Developers to Help Each Other] +
  +
-link:presenters.html#XGailOllis[Gail Ollis]
+link:presenters.html#XGailOllis[Gail Ollis] +
+link:https://www.youtube.com/watch?v=5ipVQb9P4wQ[(video)]
 |link:sessions.html#XHashing[#Hashing] +
  +
 link:presenters.html#XDietmarKühl[Dietmar Kühl] +
@@ -227,7 +229,8 @@ link:https://www.youtube.com/watch?v=qkO1Y0Bh74U[(video)]
 |link:sessions.html#XHowKotlinmakesyourJavacodebetter[How Kotlin makes your Java code better] +
  +
 link:presenters.html#XAndyBalaam[Andy Balaam] +
-link:https://www.artificialworlds.net/presentations/examples-of-kotlin-making-code-better/examples-of-kotlin-making-code-better.html[(slides)]
+link:https://www.artificialworlds.net/presentations/examples-of-kotlin-making-code-better/examples-of-kotlin-making-code-better.html[(slides)] +
+link:https://www.youtube.com/watch?v=uCJjda6-HIY[(video)]
 |link:sessions.html#XLeaveyourCbehindbetterembeddedlibraryinterfaceswithmodernC[Leave your C behind: better embedded library interfaces with modern {cpp}] +
  +
 link:presenters.html#XWoutervanOoijen[Wouter van Ooijen]
@@ -254,7 +257,8 @@ link:https://www.youtube.com/watch?v=O6NJgcK6K7g[(video)]
  +
 link:presenters.html#XChristopherSimons[Christopher Simons] +
 link:presenters.html#XFrancesBuontempo[Frances Buontempo] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/fran_buontempo__chris_simons_-_teach_your_computer_to_code_fizzbuzz.pdf[(slides)]
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/fran_buontempo__chris_simons_-_teach_your_computer_to_code_fizzbuzz.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=yHt9tEFD61M[(video)]
 |link:sessions.html#XCPubQuiz[{cpp} Pub Quiz] +
  +
 link:presenters.html#XFelixPetriconi[Felix Petriconi] +
@@ -467,7 +471,8 @@ link:presenters.html#XKevlinHenney[Kevlin Henney] +
 link:https://github.com/ACCUConf/PDFs_2019/blob/master/kevlin_henney_-_what_do_you_mean.pdf[(slides)]
 |link:sessions.html#XTheDawnOfANewError[The Dawn Of A New Error] +
  +
-link:presenters.html#XPhilNash[Phil Nash]
+link:presenters.html#XPhilNash[Phil Nash] +
+link:https://www.youtube.com/watch?v=2Jhfubg9yvA[(video)]
 |link:sessions.html#XNimthefirstnativelycompiledlanguagewithfullsupportforhotcodereloadingatruntime[Nim - the first natively compiled language with full support for hot code-reloading at runtime] +
  +
 link:presenters.html#XViktorKirilov[Viktor Kirilov] +
