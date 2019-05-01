@@ -264,6 +264,7 @@ link:https://www.youtube.com/watch?v=MZo7k_IOCe8[(video)]
 |link:sessions.html#XMonitoringTurningNoiseintoSignal[Monitoring: Turning Noise into Signal] +
  +
 link:presenters.html#XChrisOldwood[Chris Oldwood] +
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/chris_oldwood_-_monitoring__turning_noise_into_signal.pdf[(slides)] +
 link:https://www.youtube.com/watch?v=O6NJgcK6K7g[(video)]
 |link:sessions.html#XTeachYourComputertoCodeFizzBuzz[Teach Your Computer to Code FizzBuzz] +
  +
