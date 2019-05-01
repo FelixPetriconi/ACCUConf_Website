@@ -1,6 +1,6 @@
 ////
 .. title: ACCU 2019 Schedule
-.. description: Schedule with links to session blurbs and presenter bios.
+.. description: Schedule with links to session blurbs, presenter bios, videos, and slides.
 .. type: text
 ////
 
@@ -67,7 +67,8 @@ link:presenters.html#XArjanvanLeeuwen[Arjan van Leeuwen]
 |09:30
 5+^|link:sessions.html#XDeliveringsoftwarethatissecureandusablewhosjobisit[Delivering software that is secure and usable - who's job is it?] +
  +
-link:presenters.html#XMAngelaSasse[M Angela Sasse]
+link:presenters.html#XMAngelaSasse[M Angela Sasse] +
+link:https://www.youtube.com/watch?v=tBmF7ofKoYQ[(video)]
 
 |10:30
 5+^|Break
@@ -85,13 +86,15 @@ link:https://www.youtube.com/watch?v=SvxBvSK4i4k[(video)]
 |link:sessions.html#XBeyourownThreatbuster[Be your own Threatbuster!] +
  +
 link:presenters.html#XNataliaOskina[Natalia Oskina] +
-link:presenters.html#XGiovanniAsproni[Giovanni Asproni]
+link:presenters.html#XGiovanniAsproni[Giovanni Asproni] +
+link:https://www.youtube.com/watch?v=WE9QiZM2mP0[(video)]
 |link:sessions.html#XHaveFunAndLearnKotlin[Have Fun And Learn Kotlin] +
  +
 link:presenters.html#XUbertoBarbini[Uberto Barbini]
 |link:sessions.html#XJSR385Learningfromthe125MillionDollarMarsClimateOrbiterMistake[JSR-385: Learning from the 125 Million Dollar Mars Climate Orbiter Mistake] +
  +
-link:presenters.html#XFilipvanlaenen[Filip van laenen]
+link:presenters.html#XFilipvanlaenen[Filip van laenen] +
+link:https://www.youtube.com/watch?v=QJ5LVsxLrZs[(video)]
 
 |12:30
 5+^|Lunch
@@ -110,7 +113,8 @@ link:https://www.youtube.com/watch?v=asgO4P2fhTw[(video)]
 |link:sessions.html#XSnakesIntoSnakeOilWhatBlockchainsAreAndWhyTheyreTerrible[Snakes Into Snake Oil - What Blockchains Are And Why They're Terrible] +
  +
 link:presenters.html#XJezHiggins[Jez Higgins] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/jez_higgins_-_snakes_into_snake_oil.pdf[(slides)]
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/jez_higgins_-_snakes_into_snake_oil.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=vw0H16rZW18[(video)]
 |(continuation of 180 minute workshop)
 |link:sessions.html#XRangesfordistributedandasynchronoussystems[Ranges for distributed and asynchronous systems] +
  +
@@ -131,7 +135,8 @@ link:https://www.youtube.com/watch?v=AClzFA1loww[(video)]
  +
 link:presenters.html#XAndyBalaam[Andy Balaam] +
 link:presenters.html#XCBBailey[CB Bailey] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/cb_bailey__andy_balaam_-_how_does_git_actually_work.pdf[(slides)]
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/cb_bailey__andy_balaam_-_how_does_git_actually_work.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=N0m42TKk_dc[(video)]
 |link:sessions.html#XTheAnatomyofanExploit[The Anatomy of an Exploit] +
  +
 link:presenters.html#XPatriciaAas[Patricia Aas] +
@@ -144,7 +149,8 @@ link:https://www.youtube.com/watch?v=5ipVQb9P4wQ[(video)]
 |link:sessions.html#XHashing[#Hashing] +
  +
 link:presenters.html#XDietmarKühl[Dietmar Kühl] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/dietmar_kuehl_-_hashing.pdf[(slides)]
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/dietmar_kuehl_-_hashing.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=CJsQSIp7-Ig[(video)]
 
 |17:30
 5+^|Break
@@ -174,7 +180,8 @@ link:https://github.com/ACCUConf/PDFs_2019/blob/master/dietmar_kuehl_-_hashing.p
 5+^|link:sessions.html#XDefragmentingCMakingexceptionsmoreaffordableandusable[De-fragmenting {cpp}: Making exceptions more affordable and usable] +
  +
 link:presenters.html#XHerbSutter[Herb Sutter] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/herb_sutter_-_de-fragmenting_cpp__making_exceptions_more_affordable_and_usable.pdf[(slides)]
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/herb_sutter_-_de-fragmenting_cpp__making_exceptions_more_affordable_and_usable.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=os7cqJ5qlzo[(video)]
 
 |10:30
 5+^|Break
@@ -193,11 +200,13 @@ link:https://www.youtube.com/watch?v=7hkqG8i0QaU[(video)]
 |link:sessions.html#XSecurebyDesignSecurityPrinciplesfortheWorkingDeveloper[Secure by Design - Security Principles for the Working Developer] +
  +
 link:presenters.html#XEoinWoods[Eoin Woods] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/eoin_woods_-_security_design_principles.pdf[(slides)]
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/eoin_woods_-_security_design_principles.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=YbjoaMN67Hw[(video)]
 |link:sessions.html#XMoreGDBwizardryand8otheressentialLinuxapplicationdebuggingtools[More GDB wizardry and 8 other essential Linux application debugging tools] +
  +
 link:presenters.html#XGregLaw[Greg Law] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/greg_law_-_debugging_cpp.pdf[(slides)]
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/greg_law_-_debugging_cpp.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=Yq6g_kvyvPU[(video)]
 |link:sessions.html#XAudioinstandardC[Audio in standard {cpp}] +
  +
 link:presenters.html#XTimurDoumler[Timur Doumler] +
@@ -220,7 +229,8 @@ link:https://github.com/ACCUConf/PDFs_2019/blob/master/kate_gregory_-_what_do_we
 link:https://www.youtube.com/watch?v=-Hb-9TUyjoo[(video)]
 |link:sessions.html#XOptimisingasmallrealworldCapplication[Optimising a small real-world {cpp} application] +
  +
-link:presenters.html#XHubertMatthews[Hubert Matthews]
+link:presenters.html#XHubertMatthews[Hubert Matthews] +
+link:https://www.youtube.com/watch?v=fDlE93hs_-U[(video)]
 |link:sessions.html#XWhatarehashtreesandwhyyoushouldcare[What are hash trees and why you should care] +
  +
 link:presenters.html#XAhtoTruu[Ahto Truu] +
@@ -233,7 +243,8 @@ link:https://www.artificialworlds.net/presentations/examples-of-kotlin-making-co
 link:https://www.youtube.com/watch?v=uCJjda6-HIY[(video)]
 |link:sessions.html#XLeaveyourCbehindbetterembeddedlibraryinterfaceswithmodernC[Leave your C behind: better embedded library interfaces with modern {cpp}] +
  +
-link:presenters.html#XWoutervanOoijen[Wouter van Ooijen]
+link:presenters.html#XWoutervanOoijen[Wouter van Ooijen] +
+link:https://www.youtube.com/watch?v=ArRuPzN7JXs[(video)]
 
 |15:30
 5+^|Break
@@ -248,7 +259,8 @@ link:https://www.youtube.com/watch?v=gFeXb0LJjuM[(video)]
  +
 link:presenters.html#XPeterBindels[Peter Bindels] +
 link:presenters.html#XSimonBrand[Simon Brand] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/simon_brand__peter_bindels_-_hello_world_from_scratch.pdf[(slides)]
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/simon_brand__peter_bindels_-_hello_world_from_scratch.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=MZo7k_IOCe8[(video)]
 |link:sessions.html#XMonitoringTurningNoiseintoSignal[Monitoring: Turning Noise into Signal] +
  +
 link:presenters.html#XChrisOldwood[Chris Oldwood] +
@@ -294,7 +306,8 @@ link:https://github.com/ACCUConf/PDFs_2019/blob/master/felix_petriconi_-_c%2B%2B
 |09:30
 5+^|link:sessions.html#XFromnothingtotoomuchgrowingatechcommunityintheEastofEngland[From nothing to too much: growing a tech community in the East of England] +
  +
-link:presenters.html#XPaulGrenyer[Paul Grenyer]
+link:presenters.html#XPaulGrenyer[Paul Grenyer] +
+link:https://www.youtube.com/watch?v=5YmwtiQf0fQ[(video)]
 
 |10:30
 5+^|Break
@@ -367,6 +380,7 @@ link:sessions.html#XTheStoryofVillagersMarblesandOhABlockchain[The Story of Vill
  +
 link:presenters.html#XSupriyaSrivatsa[Supriya Srivatsa] +
 link:https://github.com/ACCUConf/PDFs_2019/blob/master/supriya_srivatsa_-_the_story_of_villagers%2C_marbles_and_oh%2C_a_blockchain.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=rl2lXDkOcyU[(video)]+
  +
  +
 link:sessions.html#XAssumeWorstIntentDesigningfortheAbusiveEx[Assume Worst Intent (Designing for the Abusive Ex)] +
@@ -409,7 +423,8 @@ link:https://www.youtube.com/watch?v=roLD9-TA06Q[(video)] +
 |link:sessions.html#XProgrammingwithContractsinC20[Programming with Contracts in {cpp}20] +
  +
 link:presenters.html#XBjörnFahller[Björn Fahller] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/bjorn_fahller_-_programming_with_contracts_in_cpp20.pdf[(slides)]
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/bjorn_fahller_-_programming_with_contracts_in_cpp20.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=7L0fmYZmTWM[(video)]
 |link:sessions.html#XTheStateofPackageManagementinC[The State of Package Management in {cpp}] +
  +
 link:presenters.html#XMathieuRopert[Mathieu Ropert] +
@@ -464,7 +479,8 @@ link:https://www.youtube.com/watch?v=43E5iYzrQn4[(video)]
 |link:sessions.html#XSafeandSaneCTypes[Safe and Sane {cpp} Types] +
  +
 link:presenters.html#XPeterSommerlad[Peter Sommerlad] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/peter_sommerlad_-_sane_and_safe_c%2B%2B_class_types.pdf[(slides)]
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/peter_sommerlad_-_sane_and_safe_c%2B%2B_class_types.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=93RT8TgTshA[(video)]
 |link:sessions.html#XWhatDoYouMean[What Do You Mean?] +
  +
 link:presenters.html#XKevlinHenney[Kevlin Henney] +
