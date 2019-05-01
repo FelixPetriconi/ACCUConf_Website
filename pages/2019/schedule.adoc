@@ -380,7 +380,7 @@ link:sessions.html#XTheStoryofVillagersMarblesandOhABlockchain[The Story of Vill
  +
 link:presenters.html#XSupriyaSrivatsa[Supriya Srivatsa] +
 link:https://github.com/ACCUConf/PDFs_2019/blob/master/supriya_srivatsa_-_the_story_of_villagers%2C_marbles_and_oh%2C_a_blockchain.pdf[(slides)] +
-link:https://www.youtube.com/watch?v=rl2lXDkOcyU[(video)]+
+link:https://www.youtube.com/watch?v=rl2lXDkOcyU[(video)] +
  +
  +
 link:sessions.html#XAssumeWorstIntentDesigningfortheAbusiveEx[Assume Worst Intent (Designing for the Abusive Ex)] +
@@ -484,7 +484,8 @@ link:https://www.youtube.com/watch?v=93RT8TgTshA[(video)]
 |link:sessions.html#XWhatDoYouMean[What Do You Mean?] +
  +
 link:presenters.html#XKevlinHenney[Kevlin Henney] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/kevlin_henney_-_what_do_you_mean.pdf[(slides)]
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/kevlin_henney_-_what_do_you_mean.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=ndnvOElnyUg[(video)]
 |link:sessions.html#XTheDawnOfANewError[The Dawn Of A New Error] +
  +
 link:presenters.html#XPhilNash[Phil Nash] +
@@ -511,7 +512,8 @@ link:https://www.youtube.com/watch?v=U3biGqMYRVU[(video)]
 |link:sessions.html#XWindowsNativeAPI[Windows Native API] +
  +
 link:presenters.html#XRogerOrr[Roger Orr] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/roger_orr_-_windows_native_api.pdf[(slides)]
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/roger_orr_-_windows_native_api.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=a0KozcRhotM[(video)]
 |link:sessions.html#XAllocatorAwareAASoftware[Allocator-Aware (AA) Software] +
  +
 link:presenters.html#XJohnLakos[John Lakos] +
