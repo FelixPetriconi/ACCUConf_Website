@@ -41,7 +41,17 @@
 				{{ accuconf.registerbutton() }}
 				<div class="accuconf-menu">
 					<a type="button" class="accuconf-toggle-link btn" data-toggle="collapse" href="#keydates">
-						<span class="accuconf-toggle glyphicon glyphicon-menu-hamburger"> Dates and Location </span>
+						<span class="accuconf-toggle glyphicon glyphicon-menu-hamburger"> Dates and Location ACCU Autumn 2019</span>
+					</a>
+					<div class="collapse" id="keydates">
+						{{ accuconf.dates_2019_autumn() }}
+						<hr/>
+						{{ accuconf.location_2019_autumn() }}
+					</div>
+				</div>
+				<div class="accuconf-menu">
+					<a type="button" class="accuconf-toggle-link btn" data-toggle="collapse" href="#keydates">
+						<span class="accuconf-toggle glyphicon glyphicon-menu-hamburger"> Dates and Location ACCU 2020</span>
 					</a>
 					<div class="collapse" id="keydates">
 						{{ accuconf.dates() }}
@@ -70,24 +80,41 @@
 			<div class="row">
 				<div class="panel panel-default">
 					<div class="panel-heading">
-						<h3 class="panel-title">Dates</h3>
+						<h3 class="panel-title">Dates ACCU Autumn 2019</h3>
+					</div>
+					<div class="panel-body">
+						{{ accuconf.dates_2019_autumn() }}
+					</div>
+				</div>
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						<h3 class="panel-title">Location ACCU Autumn 2019</h3>
+					</div>
+					<div class="panel-body">
+						{{ accuconf.location_2019_autumn() }}
+					</div>
+				</div>
+				<div class="row">
+					{{ accuconf.organiser() }}
+				</div>
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						<h3 class="panel-title">Dates ACCU Autumn 2020</h3>
 					</div>
 					<div class="panel-body">
 						{{ accuconf.dates() }}
 					</div>
 				</div>
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						<h3 class="panel-title">Location Autumn 2020</h3>
+					</div>
+					<div class="panel-body">
+						{{ accuconf.location() }}
+					</div>
+				</div>
 				<div class="row">
-					<div class="panel panel-default">
-						<div class="panel-heading">
-							<h3 class="panel-title">Location</h3>
-						</div>
-						<div class="panel-body">
-							{{ accuconf.location() }}
-						</div>
-					</div>
-					<div class="row">
-						{{ accuconf.organiser() }}
-					</div>
+					{{ accuconf.organiser() }}
 				</div>
 			</div>
 		</div>
@@ -95,6 +122,9 @@
 			<div class="hidden-xs">
 				{{ accuconf.cocbits() }}
 				{{ accuconf.registerbutton() }}
+			</div>
+			<div class="row">
+				{{ accuconf.committee_2019_autumn() }}
 			</div>
 			<div class="row">
 				{{ accuconf.committee() }}
