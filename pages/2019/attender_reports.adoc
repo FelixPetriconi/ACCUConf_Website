@@ -9,3 +9,4 @@ Here we have links to reports by people who attended ACCU 2019 that have been no
 * https://oribenshir.github.io/afternoon_rusting/blog/ACCU-Summary[Ori Ben-Shir]
 * https://www.justsoftwaresolutions.co.uk/news/accu-2019-report.html[Anthony Williams]
 * http://freeyoursoul.online/conference-report-accu-2019[Quentin Balland]
+* http://www.gregcons.com/KateBlog/ACCUTripReport.aspx[Kate Gregory]
