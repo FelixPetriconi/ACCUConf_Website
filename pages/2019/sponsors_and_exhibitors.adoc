@@ -49,6 +49,15 @@ image::/assets/images/2019_SponsorLogos/Undo_logo-tagline-colour-rgb.png[Undo, a
 
 {empty} +
 
+
+== Speaker Sponsors
+
+{empty}
+
+image::/assets/images/2019_SponsorLogos/guardtime.png[Guardtime, align="center", width=60%, link=https://guardtime.com/]
+
+{empty}
+
 == Community Sponsors
 
 {empty} +
