@@ -2,7 +2,7 @@
 .. title: ACCU 2019
 ////
 
-image::https://accu.org/content/images/website/HerbSutterACCU2017.jpg[]
+image::images/2020/index_header_image.png[]
 
 
 *ACCU 2019 is now over. Planning is now in place for an ACCU 2019 Autumn Conference in Belfast
