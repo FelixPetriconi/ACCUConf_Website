@@ -352,7 +352,8 @@ link:https://www.youtube.com/watch?v=WZ74TtMxWT4[(video)]
 |link:sessions.html#XGPUprogrammingwithmodernC[GPU programming with modern {cpp}] +
  +
 link:presenters.html#XMichaelWong[Michael Wong] +
-link:https://github.com/ACCUConf/PDFs_2019/blob/master/michael_wong_-_GPU_programming_with_modern_C%2B%2B.pdf[(slides)]
+link:https://github.com/ACCUConf/PDFs_2019/blob/master/michael_wong_-_GPU_programming_with_modern_C%2B%2B.pdf[(slides)] +
+link:https://www.youtube.com/watch?v=a_m440rZ5h8[(video)]
 |link:sessions.html#XTamingDynamicMemoryAnIntroductiontoCustomAllocators[Taming Dynamic Memory - An Introduction to Custom Allocators] +
  +
 link:presenters.html#XAndreasWeis[Andreas Weis] +
