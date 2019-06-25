@@ -1,0 +1,21 @@
+////
+.. title: ACCU Autumn 2019 Call Extended
+.. date: 2019-05-24T13:46:00+01:00
+////
+
+== Extension to Call for Proposals Close Date
+
+Due to requests from some members of WG21 who wish to add proposals but
+for various reasons have been unable to, and also local Belfast groups
+who did not receive notification of the Call for Proposals in good time,
+I've decided to extend to close date until the 16th of June. This may
+result in a 3rd track at the conference if the quality of proposals
+matches those already received but I'll separately announce that after
+the extension is closed and all proposals have been reviewed.
+
+I'd like to thank all those who have already submitted proposals and
+will invite you to use the additional time to make amendments or
+adjustments to your proposal if needed, or even consider writing up
+another one!
+
+Jamie Allsop
