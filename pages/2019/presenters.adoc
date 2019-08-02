@@ -72,8 +72,6 @@ Andy Balaam loves code, and loves talking about code. His blog, articles and ope
 
 link:sessions.html#XThecellasacomputerTuringcompleteandmassivelyparallel[The cell as a computer: Turing complete and massively parallel.]
 
-=== Andy Thomason
-
 Andy has been writing code for a while since he built his first computer from a bucket of post office relays in the '70s.
 
 He has worked in games technology for a few decades with Sony and others and taught {cpp} programming to artists and programmers at Goldsmiths college.
@@ -112,7 +110,7 @@ link:sessions.html#XAnchoredmetadata[Anchored metadata]
 
 link:sessions.html#XPythonBestPractices[Python Best Practices]
 
-Austin is a founding director of Sixty North, a software consulting, training, and application development company. A native of Texas, in 2008 Austin moved to Stavanger, Norway where he helped develop industry-leading oil reservoir modeling software in {cpp} and Python. Prior to that he worked at National Instruments developing LabVIEW, at Applied Research Labs (Univ. of Texas at Austin) developing sonar systems for the U.S. Navy, and at a number of telecommunications companies. He is an experienced presenter, teacher, and author, as well as an active member of the open source community. Austin is the founder of Stavanger Software Developers, one of the largest and most active social software groups in the Stavanger region. Austin holds a Master of Science in Computer Engineering from the University of Texas at Austin. 
+Austin is a founding director of Sixty North, a software consulting, training, and application development company. A native of Texas, in 2008 Austin moved to Stavanger, Norway where he helped develop industry-leading oil reservoir modeling software in {cpp} and Python. Prior to that he worked at National Instruments developing LabVIEW, at Applied Research Labs (Univ. of Texas at Austin) developing sonar systems for the U.S. Navy, and at a number of telecommunications companies. He is an experienced presenter, teacher, and author, as well as an active member of the open source community. Austin is the founder of Stavanger Software Developers, one of the largest and most active social software groups in the Stavanger region. Austin holds a Master of Science in Computer Engineering from the University of Texas at Austin.
 
 
 [[XBjörnFahller]]
@@ -264,7 +262,7 @@ link:sessions.html#XACCUConference101anEarlyCareerTutorial[ACCU Conference 101: 
 
 link:sessions.html#XHelpingDeveloperstoHelpEachOther[Helping Developers to Help Each Other]
 
-I was a professional software developer for 20 years before asking “Why did they do THAT!?” one time too many and going off to take a psychology degree to try to find out. This led inexorably to PhD research at Bournemouth University, where I submitted my thesis "Helping programmers to help each other: a technique to facilitate understanding among professional software developers" in Autumn 2018. 
+I was a professional software developer for 20 years before asking “Why did they do THAT!?” one time too many and going off to take a psychology degree to try to find out. This led inexorably to PhD research at Bournemouth University, where I submitted my thesis "Helping programmers to help each other: a technique to facilitate understanding among professional software developers" in Autumn 2018.
 
 Like many postgraduate researchers, I took on part-time teaching work while studying for the PhD. This uncovered a love of teaching that rapidly spiralled into a new career. I am now a full-time lecturer at Bournemouth, bringing interdisciplinary skills to teaching both programming and cyberpsychology.
 
@@ -300,7 +298,7 @@ Giovanni works as a Principal Consultant for Zuhlke Engineering in London. He ha
 
 link:sessions.html#XMoreGDBwizardryand8otheressentialLinuxapplicationdebuggingtools[More GDB wizardry and 8 other essential Linux application debugging tools]
 
-Greg is the co-founder and CTO of Undo. He has over 20 years’ experience in the software industry and has held development and management roles at companies including the pioneering British computer firm Acorn, as well as fast-growing start ups, NexWave and Solarflare. It was at Acorn that Greg met Julian and on evenings and weekends, they invented the core technology that would eventually become UndoDB. Greg left Solarflare in 2012 to perform a dual CEO/CTO role during the start-up years. Greg has overseen the company as it transitioned from his garden shed to a scalable award-winning business. 
+Greg is the co-founder and CTO of Undo. He has over 20 years’ experience in the software industry and has held development and management roles at companies including the pioneering British computer firm Acorn, as well as fast-growing start ups, NexWave and Solarflare. It was at Acorn that Greg met Julian and on evenings and weekends, they invented the core technology that would eventually become UndoDB. Greg left Solarflare in 2012 to perform a dual CEO/CTO role during the start-up years. Greg has overseen the company as it transitioned from his garden shed to a scalable award-winning business.
 
 Greg lives in Cambridge, UK with his wife Alison and children Abi and Sam. In his spare time, Greg catches up on email.
 
@@ -401,7 +399,7 @@ link:sessions.html#XEmotionalCode[Emotional Code]
 
 link:sessions.html#XWhatDoWeMeanWhenWeSayNothingAtAll[What Do We Mean When We Say Nothing At All?]
 
-Kate Gregory has been using {cpp} for over thirty years. 
+Kate Gregory has been using {cpp} for over thirty years.
 She writes, teaches, mentors, codes, and leads projects, primarily in {cpp}. Kate is a Microsoft Regional Director, a Visual {cpp} MVP, has written over a dozen books, and speaks at conferences and user groups around the world. Kate develops courses on {cpp}, Visual Studio, and Windows programming for Pluralsight, is active on over a dozen StackExchange sites, blogs infrequently, and is happy to be part of {cpp} Twitter and the #include Discord server.
 
 
@@ -477,7 +475,7 @@ Michael Wong is the Vice President of Research and Development at Codeplay Softw
 He is a member of the ISO {cpp} Directions Group (DG), and the Canadian Head of Delegation to the ISO {cpp} Standard and a past CEO of OpenMP. He is also a Director and VP of ISOCPP.org, and Chair of all Programming Languages for Canada’s Standard Council. He has so many titles, it’s a wonder he can get anything done. He chairs WG21 SG14 Games Development/Low Latency/Financial/Embedded Devices and WG21 SG5 Transactional Memory, and is the co-author of a book on {cpp} and a number of {cpp}/OpenMP/Transactional Memory features including generalized attributes, user-defined literals, inheriting constructors, weakly ordered memory models, and explicit conversion operators. Having been the past {cpp} team lead to IBM’s XL {cpp} compiler means he has been messing around with designing the {cpp} language and {cpp} compilers for twenty-five years. His current research interest, i.e. what he would like to do if he had time is in the area of parallel programming, future programming models for Neural network, AI, Machine vision, safety/critical/ programming vulnerabilities, self-driving cars and low-power devices, lock-free programming, transactional memory, {cpp} benchmark performance, object model, generic programming and template metaprogramming. He holds a B.Sc from University of Toronto, and a Masters in Mathematics from University of Waterloo.
 
 He has been asked to speak/keynote at many conferences, companies, research centers, universities, including CPPCON, Bloomberg, U of Houston, U of Toronto, ACCU, {cpp}Now, Meeting {cpp}, AD{cpp}, CASCON, Bloomberg, CERN, Barcelona Supercomputing Center, FAU Erlangen, LSU, Universidad Carlos III de Madrid, Texas A&M University, Parallel, KIT School, CGO, IWOMP/IWOCL, Code::dive, many {cpp} Users group meetings, Euro TM Graduate School, and Going Native.
-He is the current Editor for the Concurrency TS and the Transactional Memory TS. 
+He is the current Editor for the Concurrency TS and the Transactional Memory TS.
 http://wongmichael.com/about
 
 
@@ -587,7 +585,7 @@ He is chair of the UK {cpp} panel and a member of the 'Direction Group' which re
 
 link:sessions.html#XBestpracticeswhenaccessingBigDataoranyotherdata[Best practices when accessing Big Data or any other data!]
 
-Dr Rosemary Francis is an expert in I/O profiling and high-performance computing with a PhD in Computer Architecture from the University of Cambridge. She is a regular speaker at conferences including IEEE and Linux foundation events and sits on the advisory board for the Ideaspace startup accelerator and the Raspberry Pi foundation. Rosemary founded Ellexus, the I/O profiling company, after working in the semiconductor industry. Today Ellexus provides unique application and cluster monitoring tools to commercial and research organisations around the world, helping them to optimise their applications and manage their IT infrastructure. 
+Dr Rosemary Francis is an expert in I/O profiling and high-performance computing with a PhD in Computer Architecture from the University of Cambridge. She is a regular speaker at conferences including IEEE and Linux foundation events and sits on the advisory board for the Ideaspace startup accelerator and the Raspberry Pi foundation. Rosemary founded Ellexus, the I/O profiling company, after working in the semiconductor industry. Today Ellexus provides unique application and cluster monitoring tools to commercial and research organisations around the world, helping them to optimise their applications and manage their IT infrastructure.
 
 
 [[XSasLuca]]
@@ -653,7 +651,7 @@ link:sessions.html#XHaveFunAndLearnKotlin[Have Fun And Learn Kotlin]
 
 Uberto is a polyglot programmer and independent consultant, with more than 20 years experience designing and building successful software products, currently working with finance institutions in London.
 He is a very passionate and opinionated programmer, he enjoys public speaking and blogging.
-Uberto's main interests are Jvm languages, Functional Programming and distributed computing. 
+Uberto's main interests are Jvm languages, Functional Programming and distributed computing.
 Currently in love with Kotlin.
 He firmly believe in Agile Manifesto values and principles and he is practicing TDD since 2000.
 
@@ -672,10 +670,10 @@ link:sessions.html#XFightingGitWorkflows[Fighting Git Workflows]
 
 link:sessions.html#XRegularTypesandWhyDoICare[Regular Types and Why Do I Care ?]
 
-Victor Ciura is a Senior Software Engineer at CAPHYON and Technical Lead on the Advanced Installer team (http://www.advancedinstaller.com). 
-For over a decade, he designed and implemented several core components and libraries of Advanced Installer.  
+Victor Ciura is a Senior Software Engineer at CAPHYON and Technical Lead on the Advanced Installer team (http://www.advancedinstaller.com).
+For over a decade, he designed and implemented several core components and libraries of Advanced Installer.
 
-He’s a regular guest at Computer Science Department of his Alma Mater, University of Craiova, where he gives student lectures & workshops on “Using {cpp}STL for Competitive Programming and Software Development”.  
+He’s a regular guest at Computer Science Department of his Alma Mater, University of Craiova, where he gives student lectures & workshops on “Using {cpp}STL for Competitive Programming and Software Development”.
 
 Currently, he spends most of his time working with his team on improving and extending the repackaging and virtualization technologies in Advanced Installer IDE, helping clients migrate their Win32 desktop apps to the Windows Store (AppX/MSIX).
 
@@ -702,5 +700,4 @@ Vittorio Romeo is a {cpp} enthusiast from a young age, now with a BS in Computer
 
 link:sessions.html#XLeaveyourCbehindbetterembeddedlibraryinterfaceswithmodernC[Leave your C behind: better embedded library interfaces with modern C++]
 
-Wouter van OOijen is a software engineer by profession and a hardware tinkerer by passion. He got his degree in Informatics from the Delft University of Technology. He has worked on embedded systems for industry, space, and military applications. Currently he teaches at the Technical Informatics section of the Hogeschool Utrecht, Netherlands. His main interest is the borderline between hardware and software. 
-
+Wouter van OOijen is a software engineer by profession and a hardware tinkerer by passion. He got his degree in Informatics from the Delft University of Technology. He has worked on embedded systems for industry, space, and military applications. Currently he teaches at the Technical Informatics section of the Hogeschool Utrecht, Netherlands. His main interest is the borderline between hardware and software.
