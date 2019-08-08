@@ -1,0 +1,202 @@
+////
+.. title: ACCU Autumn 2019 Schedule
+.. description: Schedule with links to session blurbs, presenter bios, videos, and slides.
+.. type: text
+////
+
+_The schedule is subject to change without notice until 2019-11-09._
+
+
+
+<<<
+
+== Sunday 2019-11-10
+
+[cols="4*^", options="header"]
+|===
+|
+3+^|Cathedral Quarter, Belfast
+
+|19:00 +
+ +
+19:30
+3+^|*Welcome to ACCU Autumn 2019!* +
+ with +
+link:sessions.html#XMovienight["Movie Night"] +
+ by +
+link:presenters.html#XWalterBrown[Walter Brown]
+
+|21:30
+3+^|Pub Crawl (and why not??)
+
+|===
+
+<<<
+
+== Monday 2019-11-11
+
+[cols="4*^", options="header"]
+|===
+|
+|*Lagan 1*
+|*Lagan 2*
+|*Lisburn*
+
+|08:30
+3+^|Conference Registration Opens
+
+|08:30
+3+^|Wake-up Time!
+
+|09:15 +
+ +
+09:30
+3+^|Conference Introduction & Orientation +
+ +
+*OPENING KEYNOTE* +
+link:sessions.html#XQuantifyingAccidentalComplexityAnEmpiricalLookatTeachingandUsingC[Quantifying Accidental Complexity: An Empirical Look at Teaching and Using {cpp}] +
+ +
+link:presenters.html#XHerbSutter[Herb Sutter] +
+
+|10:30
+3+^|Break
+
+|11:00
+|link:sessions.html#XCModulesandLargeScaleDevelopment[{cpp} Modules and Large-Scale Development] +
+ +
+link:presenters.html#XJohnLakos[John Lakos]
+|link:sessions.html#XTheC20SynchronizationLibrary[The {cpp}20 Synchronization Library] +
+ +
+link:presenters.html#XBryceAdelsteinLelbach[Bryce Adelstein Lelbach]
+|link:sessions.html#XIntroductiontoCacheObliviousAlgorithms[Introduction to Cache Oblivious Algorithms] +
+ +
+link:presenters.html#XMikeShah[Mike Shah]
+
+|12:30
+3+^|Lunch
+
+|13:30
+|link:sessions.html#XFormattingfloatingpointnumbers[Formatting floating-point numbers] +
+ +
+link:presenters.html#XVictorZverovich[Victor Zverovich]
+|link:sessions.html#XFasterCodeThroughParallelismonCPUsandGPUs[Faster Code Through Parallelism on CPUs and GPUs] +
+ +
+link:presenters.html#XDavidOlsen[David Olsen]
+|link:sessions.html#XInteropBetweenKotlinNativeandCSwifttheGoodtheBadandtheUgly[Interop Between Kotlin Native and {cpp} / Swift - the Good, the Bad and the Ugly] +
+ +
+link:presenters.html#XGarthGilmour[Garth Gilmour]
+
+
+|14:30
+3+^|Break
+
+|15:00
+|link:sessions.html#XCInsightsHowstuffworksLambdasandmore[{cpp} Insights: How stuff works, Lambdas and more!] +
+ +
+link:presenters.html#XAndreasFertig[Andreas Fertig]
+|link:sessions.html#XTheSecretLifeofNumbers[The Secret Life of Numbers] +
+ +
+link:presenters.html#XJohnMcFarlane[John McFarlane]
+|link:sessions.html#XServerlessContainerswithKEDA[Serverless Containers with KEDA] +
+ +
+link:presenters.html#XMarkAllan[Mark Allan]
+
+|16:00
+3+^|Break
+
+|16:30
+|link:sessions.html#XFromfunctionstoConceptsImpactonmaintainabilityandrefactoringforhigherleveldesignfeatures[From functions to Concepts: Impact on maintainability and refactoring for higher-level design features] +
+ +
+link:presenters.html#XTitusWinters[Titus Winters]
+|link:sessions.html#XAlgorithmIntuitionII[Algorithm Intuition II] +
+ +
+link:presenters.html#XConorHoekstra[Conor Hoekstra]
+|link:sessions.html#XTheTruthofaProcedure[The Truth of a Procedure] +
+ +
+link:presenters.html#XLisaLippincott[Lisa Lippincott]
+
+|18:00
+3+^|Lightning Talk Warm-up
+
+|18:15
+3+^|*LIGHTNING TALKS*
+
+|19:15
+3+^|Pre Dinner Chill
+
+| {nbsp} +
+19:30 +
+20:00 +
+21:30 to late
+3+^|*CONFERENCE DINNER* +
+Dinner Reception +
+Eating, Talking, Making Friends +
+After Dinner Party
+
+|===
+
+
+<<<
+
+== Tuesday 2019-11-12
+
+[cols="4*^", options="header"]
+|===
+|
+|*Lagan 1*
+|*Lagan 2*
+|*Lisburn*
+
+|09:30
+|link:sessions.html#XErrorisnotanerror[Error is not an error] +
+ +
+link:presenters.html#XJamieAllsop[Jamie Allsop] +
+link:presenters.html#XChrisKohlhoff[Chris Kohlhoff]
+|link:sessions.html#XTBC[To Be Confirmed] +
+ +
+link:presenters.html#XTBC[TBC]
+|link:sessions.html#XBetterCTADforC20[Better CTAD for {cpp}20] +
+ +
+link:presenters.html#XTimurDoumler[Timur Doumler]
+
+|11:00
+3+^|Breakfast Break
+
+|11:30
+|link:sessions.html#XEnforceInformIgnoreAssumeGradualAdoptionofContractsInProductionCode[Enforce Inform Ignore Assume - Gradual Adoption of Contracts In Production Code] +
+ +
+link:presenters.html#XAlisdairMeredith[Alisdair Meredith]
+|link:sessions.html#XTheManyVariantsofstdvariant[The Many Variants of std::variant] +
+ +
+link:presenters.html#XNevinLiber[Nevin ":-)" Liber]
+|link:sessions.html#XNomoresecretsWhyyoursecretsarentsafeandwhatyoucandoaboutit[No more secrets? Why your secrets aren't safe and what you can do about it] +
+ +
+link:presenters.html#XNeilHorlock[Neil Horlock]
+
+|13:00
+3+^|Lunch and Recharge!
+
+|14:30
+|link:sessions.html#XCoarsegrainedapplicationcompositionusingPipelinesandBuses[Coarse grained application composition using Pipelines and Buses] +
+ +
+link:presenters.html#XChrisKohlhoff[Chris Kohlhoff]
+|link:sessions.html#XMakeyourprogramsmorereliablewithFuzzing[Make your programs more reliable with Fuzzing] +
+ +
+link:presenters.html#XMarshallClow[Marshall Clow]
+|link:sessions.html#XFromAlgorithmtoGenericParallelCode[From Algorithm to Generic, Parallel Code] +
+ +
+link:presenters.html#XDietmarKühl[Dietmar Kühl]
+
+|16:00
+3+^|Break
+
+|16:30
+3+^|*CLOSING KEYNOTE* +
+link:sessions.html#XTheJourneytoHeterogeneousProgramming[The Journey to Heterogeneous Programming] +
+ +
+link:presenters.html#XMichaelWong[Michael Wong] +
+
+|18:00
+3+^|*CLOSE*
+
+|===

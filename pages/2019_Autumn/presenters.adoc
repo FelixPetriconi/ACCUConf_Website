@@ -1,0 +1,227 @@
+
+////
+.. title: ACCU Autumn 2019 Presenters
+.. description: List of presenter bios with links to session blurbs.
+.. type: text
+////
+
+
+[[XAlisdairMeredith]]
+== Alisdair Meredith
+
+link:sessions.html#XEnforceInformIgnoreAssumeGradualAdoptionofContractsInProductionCode[Enforce Inform Ignore Assume - Gradual Adoption of Contracts In Production Code]
+
+Alisdair Meredith is a software developer at BloombergLP in New York, and previous chair of the {cpp} Standard Committee Library Working Group.
+
+He has been an active member of the {cpp} committee for just over a decade, and by a lucky co-incidence his first meeting was the kick-off meeting for the project that would become {cpp}11, and also fixed the contents of the original library TR.
+
+He is currently working on the BDE project, BloombergLP's open source libraries that offer a foundation for {cpp} development, including a standard library implementation supporting the polymorphic allocator model proposed for standardization.
+
+
+[[XAndreasFertig]]
+== Andreas Fertig
+
+link:sessions.html#XCInsightsHowstuffworksLambdasandmore[{cpp} Insights: How stuff works, Lambdas and more!]
+
+Andreas is a freelance trainer and consultant for {cpp} specializing in embedded systems. Since his computer science studies in Karlsruhe, he has dealt with embedded systems and the associated requirements and peculiarities. He worked for about 10 years for Philips Medizin Systeme GmbH as a {cpp} software developer and architect with focus on embedded systems.
+
+He also develops macOS applications and is the author of cppinsights.io.
+
+
+[[XBryceAdelsteinLelbach]]
+== Bryce Adelstein Lelbach
+
+link:sessions.html#XTheC20SynchronizationLibrary[The {cpp}20 Synchronization Library]
+
+Bryce Adelstein Lelbach has spent nearly a decade developing libraries in {cpp}. Bryce is passionate about {cpp} evolution and is one of the leaders of the {cpp} community. He is an officer of ISO/IEC JTC1/SC22/WG21, the {cpp} Standards Committee. Bryce chairs both the {cpp} Committee's Tooling Study Group (SG15) and Library Evolution Incubator (SG18). He is the program chair for the C++Now and CppCon conferences, and the chief organizer of the Bay Area {cpp} User Group. On the {cpp} Committee, he has personally worked on the {cpp}17 parallel algorithms, executors, futures, senders/receivers, multidimensional arrays, and modules. Bryce works at NVIDIA, where he leads the CUDA {cpp} core libraries team. He is one of the initial developers of the HPX parallel runtime system. He also helped start the LLVMLinux initiative and has occasionally contributed to the Boost {cpp} libraries.
+
+
+[[XChrisKohlhoff]]
+== Chris Kohlhoff
+
+link:sessions.html#XErrorisnotanerror[Error is not an error] +
+link:sessions.html#XCoarsegrainedapplicationcompositionusingPipelinesandBuses[Coarse grained application composition using Pipelines and Buses]
+
+Chris Kohlhoff is the author of the Boost.Asio library. He has written {cpp} code for over two decades, in industries ranging from shrinkwrap to stock markets, cell phones to SCADA. He is presently Chief Engineer at Clearpool.io, and lives in Sydney.
+
+
+[[XConorHoekstra]]
+== Conor Hoekstra
+
+link:sessions.html#XAlgorithmIntuitionII[Algorithm Intuition II]
+
+Conor has a contagious passion and enthusiasm for programming languages, algorithms and competitive programming. He spent the first 4 years of his career working in Toronto, Canada at an insurance software company. In 2018, he moved down to Silicon Valley to work for Amazon. He has 5 years of {cpp} experience and is in the midst of falling in love with Haskell and functional programming. He also has a YouTube Channel where he covers solutions to competitive coding problems and more: ​https://www.youtube.com/codereport
+
+
+[[XDavidOlsen]]
+== David Olsen
+
+link:sessions.html#XFasterCodeThroughParallelismonCPUsandGPUs[Faster Code Through Parallelism on CPUs and GPUs]
+
+David Olsen has mare than two decades of software development experience in a variety of programming languages and development environments. For the last three years he has been the lead engineer for the PGI {cpp} compiler at NVIDIA.
+
+
+[[XDietmarKühl]]
+== Dietmar Kühl
+
+link:sessions.html#FromAlgorithmtoGenericParallelCode[From Algorithm to Generic, Parallel Code]
+
+Dietmar Kühl is a senior software developer at Bloomberg L.P. working
+on the data distribution environment used both internally and by enterprise installations at clients. Before joining Blooomberg he has done mainly consulting for software projects in the
+finance area. He is a regular attendee of the ANSI/ISO {cpp} standards committee, presents at conferences, and he used to
+be a moderator of the newsgroup comp.lang.c++.moderated. He frequently answers questions on Stackoverflow.
+
+
+[[XGarthGilmour]]
+== Garth Gilmour
+
+link:sessions.html#XInteropBetweenKotlinNativeandCSwifttheGoodtheBadandtheUgly[Interop Between Kotlin Native and {cpp} / Swift - the Good, the Bad and the Ugly]
+
+Garth is the Head of Learning at Instil. He gave up full time development back in 1999 to first teach {cpp} to C coders, then Java to {cpp} coders, then C# to Java coders and now teaches everything to everybody, but prefers to work in Kotlin. If he counted deliveries it would have gone past 1000 some time ago. He is the author of over twenty courses, speaks frequently at meetups, presents at conferences and co-organises the Belfast BASH series of developer events. When not at the whiteboard he coaches Krav Maga, lifts heavy weights and fights nerf wars with his kids.
+
+
+[[XHerbSutter]]
+== Herb Sutter
+
+link:sessions.html#XQuantifyingAccidentalComplexityAnEmpiricalLookatTeachingandUsingC[Quantifying Accidental Complexity: An Empirical Look at Teaching and Using {cpp}]
+
+Herb is an author, designer of several ISO {cpp} features, and chair of the ISO {cpp} committee and the
+Standard {cpp} Foundation.
+
+
+[[XJamieAllsop]]
+== Jamie Allsop
+
+link:sessions.html#XErrorisnotanerror[Error is not an error]
+
+Jamie is a long time {cpp} developer who started out with {cpp}Builder, and even wrote an international bestseller on it almost 20 years ago! He has spent many years developing software for highly constrained environments, first as an audio engineer for companies like DTS but now spends what coding time he has writing code in the ultra low latency finance domain.
+
+A speaker at conferences around the world for many years he often gives talks on agile development and organisational theory, particularly as it relates to distributed and dispersed teams; software architecture, particularly as it relates to constrained environments such as finance and low latency; and also tooling, both agile, build tools, and then any stuff in between.
+
+A long time member of the BSI {cpp} committee, {cpp} is his language of choice but like many he enjoys some Python too. Originally an electrical engineer by training he holds a PhD in Adaptive Framework Design for High Performance Systems and has continually sought ways to bring that interest and learning into his code bases. Currently CEO of Clearpool.io he is focused on developing new technology in the low latency exchange, crypto and AI space, all using {cpp} of course...
+
+
+[[XJohnLakos]]
+== John Lakos
+
+link:sessions.html#XCModulesandLargeScaleDevelopment[{cpp} Modules and Large-Scale Development]
+
+John Lakos, author of Large-Scale {cpp} Software Design, and more recently his new book Large-Scale {cpp}—Volume I: Process and Architecture, serves at Bloomberg LP in New York City as a senior architect and mentor for {cpp} Software Development world-wide.  He is also an active voting member of the {cpp} Standards Committee’s Evolution Working Group. Previously, Dr. Lakos directed the design and development of infrastructure libraries for proprietary analytic financial applications at Bear Stearns. For 12 years prior, Dr. Lakos developed large frameworks and advanced ICCAD applications at Mentor Graphics, for which he holds multiple software patents. His academic credentials include a Ph.D. in Computer Science ('97) and an Sc.D. in Electrical Engineering ('89) from Columbia University. Dr. Lakos received his undergraduate degrees from MIT in Mathematics ('82) and Computer Science ('81).
+
+
+[[XJohnMcFarlane]]
+== John McFarlane
+
+link:sessions.html#XTheSecretLifeofNumbers[The Secret Life of Numbers]
+
+John started programming 30 years ago on a BBC Micro but has since downgraded to x86-64. Three years ago, he got involved with SG14: the ISO {cpp} Study Group on Games, Embedded and HFT and has spent the intervening time exploring ways of making integers easier to use.
+
+He currently works at Jaguar Land Rover's software center in Shannon, Ireland where he divides his time between autonomous vehicles, training and safety standards.
+
+
+[[XLisaLippincott]]
+== Lisa Lippincott
+
+link:sessions.html#XTheTruthofaProcedure[The Truth of a Procedure]
+
+Lisa Lippincott designed the software architectures of Tanium and BigFix, two systems for managing large fleets of computers. She's also a language nerd, and has contributed to arcane parts of the {cpp} standard. In her spare time, she studies mathematical logic, and wants to make computer-checked proofs of correctness a routine part of programming.
+
+
+[[XMarkAllan]]
+== Mark Allan
+
+link:sessions.html#XServerlessContainerswithKEDA[Serverless Containers with KEDA]
+
+Mark is an Azure MVP based on the beautiful North Coast of Northern Ireland. He's been a professional developer since the 1980s and freelance since 2000, working on a myriad of projects for everything from local startups and councils to multinational corporations and federal government departments. While something of a technology omnivore, particularly if it's new and shiny, he currently tends towards Xamarin and React front-ends sitting on top of scalable Azure services, using a functional and reactive approach. In his spare time he's a STEM Ambassador, CoderDojo mentor, Barefoot volunteer and organiser of the Northern Ireland Developer Conference.
+
+
+[[XMarshallClow]]
+== Marshall Clow
+
+link:sessions.html#XMakeyourprogramsmorereliablewithFuzzing[Make your programs more reliable with Fuzzing]
+
+Marshall has been programming professionally for 35 years. He is the author of Boost.Algorithm, and has been a contributor to Boost for more than 15 years. He is the chairman of the Library working group of the {cpp} standard committee. He is the lead developer for libc++, the {cpp} standard library for LLVM.
+
+
+[[XMichaelWong]]
+== Michael Wong
+
+link:sessions.html#XTheJourneytoHeterogeneousProgramming[The Journey to Heterogeneous Programming]
+
+Michael Wong is the Vice President of Research and Development at Codeplay Software, a Scottish company that produces compilers, debuggers, runtimes, testing systems, and other specialized tools to aid software development for heterogeneous systems, accelerators and special purpose processor architectures, including GPUs and DSPs. He is now a member of the open consortium group known as Khronos and is Chair of the {cpp} Heterogeneous Programming language SYCL, used for GPU dispatch in native modern {cpp} (14/17), OpenCL, as well as guiding the research and development teams of ComputeSuite, ComputeAorta/ComputeCPP. For twenty years, he was the Senior Technical Strategy Architect for IBM compilers.
+
+He is a member of the ISO {cpp} Directions Group (DG), and the Canadian Head of Delegation to the ISO {cpp} Standard and a past CEO of OpenMP. He is also a Director and VP of ISOCPP.org, and Chair of all Programming Languages for Canada’s Standard Council. He has so many titles, it’s a wonder he can get anything done. He chairs WG21 SG14 Games Development/Low Latency/Financial/Embedded Devices and WG21 SG5 Transactional Memory, and is the co-author of a book on {cpp} and a number of {cpp}/OpenMP/Transactional Memory features including generalized attributes, user-defined literals, inheriting constructors, weakly ordered memory models, and explicit conversion operators. Having been the past {cpp} team lead to IBM’s XL {cpp} compiler means he has been messing around with designing the {cpp} language and {cpp} compilers for twenty-five years. His current research interest, i.e. what he would like to do if he had time is in the area of parallel programming, future programming models for Neural network, AI, Machine vision, safety/critical/ programming vulnerabilities, self-driving cars and low-power devices, lock-free programming, transactional memory, {cpp} benchmark performance, object model, generic programming and template metaprogramming. He holds a B.Sc from University of Toronto, and a Masters in Mathematics from University of Waterloo.
+
+He has been asked to speak/keynote at many conferences, companies, research centers, universities, including CPPCON, Bloomberg, U of Houston, U of Toronto, ACCU, {cpp}Now, Meeting {cpp}, AD{cpp}, CASCON, Bloomberg, CERN, Barcelona Supercomputing Center, FAU Erlangen, LSU, Universidad Carlos III de Madrid, Texas A&M University, Parallel, KIT School, CGO, IWOMP/IWOCL, Code::dive, many {cpp} Users group meetings, Euro TM Graduate School, and Going Native.
+He is the current Editor for the Concurrency TS and the Transactional Memory TS.
+http://wongmichael.com/about
+
+
+[[XMikeShah]]
+== Mike Shah
+
+link:sessions.html#XIntroductiontoCacheObliviousAlgorithms[Introduction to Cache Oblivious Algorithms]
+
+Michael D. Shah completed his Ph.D. at Tufts University in the Redline Research Group in 2017. His Ph.D. thesis advisor was Samuel Z. Guyer. Michael finished his Masters degree in Computer Science in 2013 at Tufts University and Bachelors in Computers Science Engineering at The Ohio State University in 2011. Currently Michael is an assistant teaching professor at Northeastern University. Michael discovered computer science at the age of 13 when googling ”how do I make games”. From that google search, Mike has worked as a freelance game developer, worked in industry for Intel, Sony PlayStation?, Oblong Industries, and researched at The Ohio Supercomputer Center to name a few. Mike cares about building tools to help programmers monitor and improve the performance of real-time applications– especially games.In Michael’s spare time he is a long distance runner, weight lifter, and amateur pizza maker.
+
+
+[[XNeilHorlock]]
+== Neil Horlock
+
+link:sessions.html#XNomoresecretsWhyyoursecretsarentsafeandwhatyoucandoaboutit[No more secrets? Why your secrets aren't safe and what you can do about it]
+
+Neil has 20+ years in financial services most of it spent in {cpp} of some description (not always good); working in a variety of roles from low latency/high-frequency trading systems to information security and architecture. He is currently working as an independent consultant and speaker and has run training courses and is a contributing analyst for the Tabb Group where he is typically engaged for FinTech company analysis and more obscure technical subjects such as Quantum Computing. Neil is a member of the ISO and BSI {cpp} panels.
+
+Outside of work, Neil is an active STEM Ambassador, and currently runs two code clubs, one at a local school and another as part of the Kent County Libraries Digital Dens initiative to bring STEM skills into deprived communities.
+
+
+[[XNevinLiber]]
+== Nevin ":-)" Liber
+
+link:sessions.html#XTheManyVariantsofstdvariant[The Many Variants of std::variant]
+
+Nevin ":-)" Liber is a computer scientist at Argonne National Laboratory, a {cpp} Committee member and a veteran {cpp} developer. He first discovered the language over three decades ago while at Bell Labs when a friend called and asked, “What do you know about {cpp}? You folks invented it!”
+
+His professional career has taken him across various industries and platforms: big data, low-latency, operating systems, embedded systems, telephony and now exascale computing, just to name a few. He spends much of his time pushing his peers, colleagues and friends (and just about anybody else willing to listen) to use modern {cpp} constructs along the way.
+
+Looking to learn more about the language, he got involved with the {cpp} Committee and hosted (with the generosity of his employer at the time) both the {cpp} and C Standards meetings in Chicago. These days he frequently finds himself in the middle of the debates involving the more contentious parts of the Standard Library.
+
+
+[[XTBC]]
+== TBC
+
+link:sessions.html#XTBC[To Be Confirmed]
+
+TBC
+
+
+[[XTimurDoumler]]
+== Timur Doumler
+
+link:sessions.html#XBetterCTADforC20[Better CTAD for {cpp}20]
+
+Timur Doumler is a {cpp} developer specialising in audio and music technology. Timur is an active member of the ISO {cpp} committee and the includecpp.org organisation team. He is passionate about writing clean code, providing good tools, and building inclusive communities.
+
+
+[[XTitusWinters]]
+== Titus Winters
+
+link:sessions.html#XFromfunctionstoConceptsImpactonmaintainabilityandrefactoringforhigherleveldesignfeatures[From functions to Concepts: Impact on maintainability and refactoring for higher-level design features]
+
+Titus is a Senior Staff Software Engineer at Google, where he has worked since 2010. He founded Abseil, Google’s open-source {cpp} library that underpins more than 250M lines of Google code with 12K+ active internal users. He is one of the four arbiters for Google’s official {cpp} style guidelines. For the last 8 years, Titus has been organizing, maintaining, and evolving the foundational components of Google’s {cpp} codebase using modern automation and tooling. Titus chairs the Library Evolution Working Group (LEWG) for the {cpp} Standard - the group responsible for API design proposals to the standard library.
+
+
+[[XVictorZverovich]]
+== Victor Zverovich
+
+link:sessions.html#XFormattingfloatingpointnumbers[Formatting floating-point numbers]
+
+Victor Zverovich is a software engineer at Facebook working on the Thrift RPC framework. Before joining Facebook in 2016, he worked for several years on modeling systems for mathematical optimization. He is an active contributor to open-source projects, an author of the {fmt} library and the ISO proposal P0645 to add a new formatting facility to {cpp}.
+
+
+[[XWalterBrown]]
+== Walter Brown
+
+link:sessions.html#XMovienight["Movie Night"]
+
+With broad experience in industry, academia, consulting, and research, Dr. Walter E. Brown has been a {cpp} programmer for over thirty-five years, joining the {cpp} standards effort in 2000. Among numerous other contributions, he is responsible for introducing such now-standard {cpp} library features as `cbegin`/`cend`, `common_type`, `gcd`, and `void_t`, as well as headers `<random>` and `<ratio>`. He has also significantly impacted such core language features as alias templates, contextual conversions, variable templates, and `static_assert`. He conceived and served as project editor for the International Standard on Mathematical Special Functions in {cpp}, now part of {cpp}17.When not playing with his grandchildren, Dr. Brown is an Emeritus participant in the {cpp} standards process, with several more core and library proposals under consideration.
