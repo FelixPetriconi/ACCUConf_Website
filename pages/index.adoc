@@ -29,6 +29,8 @@ The conference will follow the structure of ACCU conferences, having keynotes an
 sessions, with lots of break time to support the "corridor track" which is so important for
 actual conferring. There will also be lightning talks!
 
+Some suggestions for various things can be found link:2019_Autumn/suggestions.html[here].
+
 
 == ACCU 2020
 
@@ -75,5 +77,3 @@ There is an https://twitter.com/ACCUConf[@ACCUConf] Twitter account and
 https://twitter.com/hashtag/ACCUConf[#ACCUConf] is used as the hashtag.
 
 The conference code of conduct is https://conference.accu.org/coc_code_of_conduct.html[here].
-
-Suggestions by conference visitors can be found link:suggestions.html[here].
