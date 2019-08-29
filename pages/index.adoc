@@ -75,3 +75,5 @@ There is an https://twitter.com/ACCUConf[@ACCUConf] Twitter account and
 https://twitter.com/hashtag/ACCUConf[#ACCUConf] is used as the hashtag.
 
 The conference code of conduct is https://conference.accu.org/coc_code_of_conduct.html[here].
+
+Suggestions by conference visitors can be found link:suggestions.html[here].
