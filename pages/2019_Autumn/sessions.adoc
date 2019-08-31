@@ -35,7 +35,7 @@ This talk summarises the actual language rules behind CTAD and its most annoying
 
 With the help of {cpp} Insights we'll dive into how things work in {cpp}, through the eyes of the compiler.
 
-For example we'll walk through how the compiler generates lambdas and explore why you might care. We won't stop there through! We'll also look at some apparently simpler cases like implicit conversions and how in-class initializers work.
+For example we'll look at some apparently simple cases like implicit conversions, and how in-class initializers work. We won't stop there though! We'll also walk through how the compiler generates lambdas and explore why you might care.
 
 And of course this is {cpp} so it would be remiss of us not to also take a peek at one of our favourite {cpp} features: variadic templates!
 
