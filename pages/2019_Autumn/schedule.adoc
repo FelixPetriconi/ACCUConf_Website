@@ -152,9 +152,9 @@ After Dinner Party
  +
 link:presenters.html#XJamieAllsop[Jamie Allsop] +
 link:presenters.html#XChrisKohlhoff[Chris Kohlhoff]
-|link:sessions.html#XTBC[To Be Confirmed] +
+|link:sessions.html#XTransposethisLinearAlgebraforStandardC[Transpose(*this) - Linear Algebra for Standard {cpp}] +
  +
-link:presenters.html#XTBC[TBC]
+link:presenters.html#XBobSteagall[Bob Steagall]
 |link:sessions.html#XBetterCTADforC20[Better CTAD for {cpp}20] +
  +
 link:presenters.html#XTimurDoumler[Timur Doumler]

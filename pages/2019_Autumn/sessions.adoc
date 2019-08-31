@@ -182,13 +182,6 @@ TBC
 With the growing ubiquity of containers and the surge of interest in serverless and hyperscale solutions, it was only natural that the next step would be serverless containers. Learn how to build the best of both worlds with Kubernetes and KEDA.
 
 
-[[XTBC]]
-== To Be Confirmed
-=== link:presenters.html#XTBC[TBC]
-
-TBC
-
-
 [[XTheC20SynchronizationLibrary]]
 == The {cpp}20 Synchronization Library
 === link:presenters.html#XBryceAdelsteinLelbach[Bryce Adelstein Lelbach]
@@ -241,3 +234,14 @@ One way of modeling a procedure mathematically is to treat it as a statement abo
 In this session, I will explain how to read a procedure and its interface as a sentence, how that sentence may be true or false, possible or impossible, necessary or provable.
 
 This presentation of programming from a logician’s perspective is intended to complement the topologist’s perspective of my previous work, "The Shape of a Program", but is independent of the material covered there.
+
+
+[[XTransposethisLinearAlgebraforStandardC]]
+== Transpose(*this) - Linear Algebra for Standard {cpp}
+=== link:presenters.html#XBobSteagall[Bob Steagall]
+
+Linear algebra is a mathematical discipline of vital importance in today's world, with direct application to a huge variety of scientific and engineering problem domains, such as signal processing, computer graphics, gaming, medical imaging, machine learning and AI, data science, financial modelling, and scientific simulations, to name but a few. And yet, despite the relevance of linear algebra to so many aspects of modern life, the standard {cpp} library does not include a set of linear algebra facilities.
+
+This talk will describe efforts within the {cpp} standardization committee to change that.  We'll begin with a quick refresher on what linear algebra is, why it's so important in our modern world, and why linear algebra should be part of the standard library.
+
+Next, we'll cover the features and requirements set out in our proposal, and take a birds-eye look at the resulting design.  We'll see some examples of how the proposed interface could be used in day-to-day work, and then show how it can be customized.  Finally, we'll dive into the design to see how modern {cpp} allows us to specify an extensible interface that is intuitive, expressive, and supports fine-grained customization for those in search of higher performance.  Along the way, we'll look at a few of the design choices made and how they  compare to those of some other libraries.
