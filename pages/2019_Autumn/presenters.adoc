@@ -28,6 +28,14 @@ Andreas is a freelance trainer and consultant for {cpp} specializing in embedded
 He also develops macOS applications and is the author of cppinsights.io.
 
 
+[[XBobSteagall]]
+== Bob Steagall
+
+link:sessions.html#XTransposethisLinearAlgebraforStandardC[Transpose(*this) - Linear Algebra for Standard {cpp}]
+
+Bob Steagall has been working in {cpp} since discovering the second edition of "The {cpp} Programming Language" in a college bookstore in 1992. The majority of his career has been spent in medical imaging, where he led teams building applications for functional MRI and CT-based cardiac visualization. After a brief detour through the worlds of DNS and analytics, he’s now working in the area of distributed stream processing. He is a voting member of the {cpp} Standardization Committee, and has a blog where he occasionally writes about {cpp} and related topics. Bob holds BS and MS degrees in Physics, is an avid cyclist when weather permits, lives in fear of his wife’s cats.
+
+
 [[XBryceAdelsteinLelbach]]
 == Bryce Adelstein Lelbach
 
@@ -185,14 +193,6 @@ Nevin ":-)" Liber is a computer scientist at Argonne National Laboratory, a {cpp
 His professional career has taken him across various industries and platforms: big data, low-latency, operating systems, embedded systems, telephony and now exascale computing, just to name a few. He spends much of his time pushing his peers, colleagues and friends (and just about anybody else willing to listen) to use modern {cpp} constructs along the way.
 
 Looking to learn more about the language, he got involved with the {cpp} Committee and hosted (with the generosity of his employer at the time) both the {cpp} and C Standards meetings in Chicago. These days he frequently finds himself in the middle of the debates involving the more contentious parts of the Standard Library.
-
-
-[[XTBC]]
-== TBC
-
-link:sessions.html#XTBC[To Be Confirmed]
-
-TBC
 
 
 [[XTimurDoumler]]
