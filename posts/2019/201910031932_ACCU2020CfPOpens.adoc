@@ -1,0 +1,48 @@
+////
+.. title: ACCU 2020 – Call for Proposals Open
+.. date: 2019-10-03T1932+01:00
+.. type: text
+////
+
+Although ACCU Autumn 2019 has not yet happened (register http://www.cvent.com/d/n6qp1t[here]),
+we must look forward to ACCU 2020 (to be held 2020-03-25 to 2020-03-28, with pre-conference
+workshops 2020-03-24, at
+http://www.marriott.co.uk/hotels/travel/brsdt-bristol-marriott-hotel-city-centre/[Bristol
+Marriott Hotel City Centre]). In particular, it is time to open the ACCU 2020 Call for
+Proposals (CfP).
+
+If you are new to submitting sessions for ACCU conferences, you may want to read the ACCU 2020
+section on https://conference.accu.org/. It explains the types of session that can be
+submitted. It also has links to all the details about presenter deals.
+
+Big change to the CfP this year: instead of using our own, homegrown Web application to collect
+and review proposals, we are using the http://www.archer-yates.co.uk/[Archer Yates Associates]
+(AYA – the people who do all the ACCU conference organising) instance of Firebird – a system
+for managing conferences.
+
+So in order to submit a proposal you will need to go to:
+
+https://flame.firebird.systems/archer-yates/ACCU2020/MySubmissions
+
+Unless you are already logged in, this takes you to the sign-up/login page. You will need to
+sign up first so that you can then login and start submitting proposals.
+
+We believe the sequenced multi-page user interface for submitting proposal details is easy to
+use, and is easier/better than the old homegrown single page entry system.
+
+As in past years the presenter biography entries and the proposal summary blurb are AsciiDoc
+fragments – sadly at the time we open the CfP, the AsciiDoc fragment editor is not quite in place
+so you have to enter AsciiDoc using a plain text editor. It is hoped that the AsciiDoc editor will be
+in place next week. Not everyone chooses to use AsciiDoc, some people just enter plain text –
+entering plain text using the AsciiDoc fragment editor is fine.
+
+_NB The AsciiDoc fragments will be manipulated to appear within the source of the webpages on
+https://conference.accu.org, see for example https://conference.accu.org/2019/sessions.html[ACCU
+2019 Sessions]. It is best not to use any section heads in the fragments (they cause problems)
+but lists, code fragments, notes, etc, are all available. See https://asciidoctor.org/[here] for
+links to webpages explaining AsciiDoc._
+
+So as of 2019-10-04 until 2019-10-25 23:59+01:00 the ACCU 2020 CfP is open. As ever there will
+be no extension of the deadline, and we do not take late submissions.
+
+If you have any questions or problems please email conference@accu.org[the Conference Chair].
