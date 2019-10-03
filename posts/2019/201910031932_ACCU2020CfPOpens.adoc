@@ -45,4 +45,4 @@ links to webpages explaining AsciiDoc._
 So as of 2019-10-04 until 2019-10-25 23:59+01:00 the ACCU 2020 CfP is open. As ever there will
 be no extension of the deadline, and we do not take late submissions.
 
-If you have any questions or problems please email conference@accu.org[the Conference Chair].
+If you have any questions or problems please email mailto:conference@accu.org[the Conference Chair].
