@@ -1,0 +1,32 @@
+////
+.. title: Keynote Speakers
+.. description: ACCU 2020 Keynote Speakers
+.. type: text
+////
+
+[[KevlinHenney]]
+== Kevlin Henney
+
+image::/images/2020/kevlin_henney.jpg[Kevlin Henney image, width=250, float=right]
+
+Kevlin is an independent consultant, trainer, reviewer and writer. His development interests are
+in programming, people and practice. He has been a columnist for various magazines and web
+sites, a contributor to open source software and a member of more committees than is probably
+healthy (it has been said that "a committee is a cul-de-sac down which ideas are lured and then
+quietly strangled"). He is co-author of two volumes in the *Pattern-Oriented Software
+Architecture* series and editor of *97 Things Every Programmer Should Know* and the forthcoming
+*97 Things Every Java Programmer Should Know*.
+
+
+[[SeanParent]]
+== Sean Parent
+
+image::/images/2020/sean_parent.jpg[Sean Parent image, width=250, float=right]
+
+
+Sean Parent is a senior principal scientist and software architect for Adobe’s mobile digital
+imaging group and Photoshop. Sean has been at Adobe since 1993 when he joined as a senior
+engineer working on Photoshop and later managed Adobe’s Software Technology Lab. In 2009 Sean
+spent a year at Google working on Chrome OS before returning to Adobe. From 1988 through 1993
+Sean worked at Apple, where he was part of the system software team that developed the
+technologies allowing Apple’s successful transition to PowerPC.
