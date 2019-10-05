@@ -4,10 +4,27 @@
 .. type: text
 ////
 
+
+[[EmilyBache]]
+== Emily Bache
+
+image::/images/2020/emily_bache.jpg[Emily Bache image, width=250, float=right]
+
+Emily Bache is a Technical Agile Coach with ProAgile. She helps teams to improve their coding
+and testing skills, including Test-Driven Development.  Emily lives in Gothenburg, Sweden, but
+is originally from the UK. She is the author of "The Coding Dojo Handbook" and often speaks at
+international conferences.
+
+twitter: @emilybache
+
+blog: http://coding-is-like-cooking.info/
+
+
+
 [[KevlinHenney]]
 == Kevlin Henney
 
-image::/images/2020/kevlin_henney.jpg[Kevlin Henney image, width=250, float=right]
+image::/images/2020/kevlin_henney.jpg[Kevlin Henney image, width=200, float=right]
 
 Kevlin is an independent consultant, trainer, reviewer and writer. His development interests are
 in programming, people and practice. He has been a columnist for various magazines and web
