@@ -5,6 +5,19 @@
 ////
 
 
+[[PatriciaAas]]
+== Patricia Aas
+
+image::/images/2020/patricia_aas.jpg[Patricia Aas image, width=250, float=right]
+
+Patricia is a programmer and trainer that has worked on, among other things, two browsers (Opera
+and Vivaldi) and embedded telepresence endpoints for Cisco. Her focus on the end user has led
+her work more and more toward privacy and security, and she has recently started her own
+company, TurtleSec, hoping to contribute positively to the infosec and {cpp} communities. She is
+the organizer of the Oslo {cpp} User Group and an admin in the #include<{cpp}> organization
+hoping to improve diversity and inclusion in the {cpp} community.
+
+
 [[EmilyBache]]
 == Emily Bache
 
