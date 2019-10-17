@@ -58,7 +58,7 @@ Chris Kohlhoff is the author of the Boost.Asio library. He has written {cpp} cod
 
 link:sessions.html#XAlgorithmIntuitionII[Algorithm Intuition II]
 
-Conor has a contagious passion and enthusiasm for programming languages, algorithms and competitive programming. He spent the first 4 years of his career working in Toronto, Canada at an insurance software company. In 2018, he moved down to Silicon Valley to work for Amazon. He has 5 years of {cpp} experience and is in the midst of falling in love with Haskell and functional programming. He also has a YouTube Channel where he covers solutions to competitive coding problems and more: ​https://www.youtube.com/codereport
+Conor is a Senior Library Software Engineer at NVIDIA working on the RAPIDS team. He has 5+ years of professional {cpp} experience and is on the ISO {cpp} Canadian National Body. He is extremely passionate about programming languages, algorithms and beautiful code. He has a YouTube channel where he covers solutions to competitive programming problems using various programming languages and algorithms: https://www.youtube.com/codereport
 
 
 [[XDavidOlsen]]
