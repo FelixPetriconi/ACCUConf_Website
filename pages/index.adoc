@@ -1,12 +1,11 @@
 ////
-.. title: ACCU 2019
+.. title: ACCU Conferences
 ////
 
 image::images/2020/index_header_image.png[]
 
 
-*ACCU 2019 is now over. Planning is now in place for an ACCU 2019 Autumn Conference in Belfast
- 2019-11-11 and 2019-11-12 at
+*ACCU 2019 Autumn Conference will be held in Belfast 2019-11-11 and 2019-11-12 at
  https://www3.hilton.com/en/hotels/united-kingdom/hilton-belfast-BFSHITW/index.html[Hilton
  Hotel]. Also planning is in place for the ACCU 2020 conference (aka ACCU Spring Conference)
  which will be in the same hotel as ACCU 2019,
@@ -21,15 +20,12 @@ UK has been before or after the ACCU conference in the spring. This year however
 meeting in the UK is in November. ACCU is therefore putting on a two-day ACCU Autumn conference
 to abut with the WG21 meeting. So we have an ACCU Autumn 2019 conference being held in Belfast
 (https://www3.hilton.com/en/hotels/united-kingdom/hilton-belfast-BFSHITW/index.html[Hilton
-Hotel] 2019-11-11 and 2019-11-12. The call for session proposals will be 2019-05-10 to
-2019-05-26 using a variant of the software used for ACCU conferences in the past three years –
-so the URL will be https://cfp.conference.accu.org
+Hotel] 2019-11-11 and 2019-11-12.
 
 The conference will follow the structure of ACCU conferences, having keynotes and 90 minute
 sessions, with lots of break time to support the "corridor track" which is so important for
 actual conferring. There will also be lightning talks!
 
-Some suggestions for various things can be found link:2019_Autumn/suggestions.html[here].
 
 
 == ACCU 2020
