@@ -13,8 +13,8 @@
 TBC
 
 
-[[XAlgorithmIntuitionII]]
-== Algorithm Intuition II
+[[XBetterAlgorithmIntuition]]
+== Better Algorithm Intuition
 === link:presenters.html#XConorHoekstra[Conor Hoekstra]
 
 At {cpp}Now 2019, I gave the first installment of this talk entitled Algorithm Intuition, which went on to win Best Overall Talk of the conference. The talk covered the 11 algorithms in the `<numeric>` header. This talk will have the same goal, to develop algorithm intuition - but for algorithms in the `<algorithm>` header.
@@ -73,21 +73,6 @@ In this talk, Alisdair Meredith will present the four fundamental semantics of a
 This talk will refer to both the proposed {cpp}23 language support for contracts, and the open source BDE library facility that allows largely the same workflow in a {cpp}03 toolchain, as a practical alternative where the proposed language feature is not yet available for experimentation.
 
 
-[[XErrorisnotanerror]]
-== Error is not an error
-=== link:presenters.html#XJamieAllsop[Jamie Allsop], link:presenters.html#XChrisKohlhoff[Chris Kohlhoff]
-
-There has been a great deal of interest and activity in the space of error handling in the {cpp} community over the past few years and the topic of exceptions has always evoked strong views as to applicability and value.
-
-In the language itself we see several efforts to provide alternative error handling strategies and mechanisms that predicate on the idea that errors are a special case of flow control.
-
-This talk deconstructs the concept of an error into its constituent parts, and the shows a model of composition that allows reasoning about errors as events in a stack of state machines. We show that {cpp} exceptions as they exist today are a conflation of three separate issues that can, and probably should, be separated. We will hopefully demonstrate that this conflation and others that are commonplace in accepted wisdom of errors is one of the primary reasons why effective error handling strategies are hard to define.
-
-To address this challenge we show how errors can instead be reasoned about as events and in most cases errors are, in fact, not errors. To support this we introduce a more helpful vocabulary for considering events as triggers for state transition within, and context switches between, state machines within a system.
-
-We will examine examples from real-world use cases that demonstrate the utility of the vocabulary, and then illustrate how the facilities of {cpp}20 and beyond also fit into this world.
-
-
 [[XFasterCodeThroughParallelismonCPUsandGPUs]]
 == Faster Code Through Parallelism on CPUs and GPUs
 === link:presenters.html#XDavidOlsen[David Olsen]
@@ -128,7 +113,7 @@ In this talk I'll present example strategies for refactoring the interface of fu
 
 [[XInteropBetweenKotlinNativeandCSwifttheGoodtheBadandtheUgly]]
 == Interop Between Kotlin Native and {cpp} / Swift - the Good, the Bad and the Ugly
-=== link:presenters.html#XGarthGilmour[Garth Gilmour]
+=== link:presenters.html#XGarthGilmour[Garth Gilmour], link:presenters.html#XEamonnBoyle[Eamonn Boyle]
 
 This talk assumes familiarity with the basics of Kotlin and focuses on the low level mechanics of interoperability with existing libraries and frameworks. It is intended for Unix and Mac developers interested in adopting Kotlin Native on new projects.
 
@@ -229,11 +214,32 @@ The {cpp}20 synchronization library brings solutions - new lightweight synchroni
 In this example-oriented talk, you'll learn how and when to use these new tools to build scalable, modern {cpp} applications that can run in parallel on virtual any hardware, from embedded controllers to server CPUs to modern GPUs.
 
 
-[[XTheJourneytoHeterogeneousProgramming]]
-== The Journey to Heterogeneous Programming
+[[XTheDawnofaNewError]]
+== The Dawn of a New Error
+=== link:presenters.html#XPhilNash[Phil Nash]
+
+As a community we've tried many different ways to express, propagate and handle error conditions in our code over the years. Each seem to have different trade-offs, with none being perfect in all cases.
+
+This presentation is the follow-up to my earlier talk, "Option(al) Is Not a Failure", where I surveyed existing error-handling approaches and score them against each other, leading up to the new proposal, p0709, "Zero-overhead deterministic exceptions".
+
+We'll summarise some of that background so we're all on the same page, but in this talk we're going to dig into the proposal in more depth - and look at the supporting proposals, p1028 (`std::error`) and p1029 (`[[move relocates]]`) and others. We'll also comment similar mechanisms in other languages, notably Swift, to get an idea of how it might work out in practice
+
+
+[[XThefuturedirectionofCandHeterogeneousComputing]]
+== The future direction of {cpp} and Heterogeneous Computing
 === link:presenters.html#XMichaelWong[Michael Wong]
 
-TBC
+{cpp}20 will be out soon but what does the future hold?
+
+{cpp}20, with the release of the Committee Draft will undoubtedly be the largest {cpp} release since {cpp}11, with Concepts, Modules, Coroutines, all being major features. So,is there a deliberate future direction for {cpp}? Or is it a random collection of features. I like to think there is with the establishment of a Direction Group and as a member of this group, I will talk about how we work and how we collaborate to resolve recent issues while projecting ahead.
+
+This talk will offer an overview of {cpp}20 features and a look ahead to what could be coming for future {cpp} given the recent increase in the number of study groups, and the massive icreasae in interest through attendance and paper submissions.
+
+In particular it will focus on future parallelism features, especially those that focus on heterogeneous computing in service of serving all the new and latest hardware while continuing serve the needs of backward compatibility of milliions of {cpp} users.
+
+I would argue that heterogeneous support has been appearing in {cpp} since {cpp}11, in bits and pieces. While there is no single TS or project that is named Heterogeneous, there is a quiet revolution to add support and I will highlight the {cpp} Parallel and Concurrency features that have driven in this direction. If time permists, I will also showcase what SYCL, a heterogeneous {cpp} language offers.
+
+I hope the audience will come away with the view that {cpp} directions is more then concrete and that the future is bright!
 
 
 [[XTheManyVariantsofstdvariant]]
