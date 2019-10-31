@@ -10,7 +10,7 @@
 == "Movie Night"
 === link:presenters.html#XWalterBrown[Walter Brown]
 
-TBC
+Using video excerpts and short movies, Walter Brown will take us on a journey exploring and celebrating the programming profession, allowing us to reflect on where we've come from, and what it is that makes our profession great. Not to be missed!
 
 
 [[XBetterAlgorithmIntuition]]
