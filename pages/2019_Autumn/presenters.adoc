@@ -47,7 +47,6 @@ Bryce Adelstein Lelbach has spent nearly a decade developing libraries in {cpp}.
 [[XChrisKohlhoff]]
 == Chris Kohlhoff
 
-link:sessions.html#XErrorisnotanerror[Error is not an error] +
 link:sessions.html#XCoarsegrainedapplicationcompositionusingPipelinesandBuses[Coarse grained application composition using Pipelines and Buses]
 
 Chris Kohlhoff is the author of the Boost.Asio library. He has written {cpp} code for over two decades, in industries ranging from shrinkwrap to stock markets, cell phones to SCADA. He is presently Chief Engineer at Clearpool.io, and lives in Sydney.
@@ -56,7 +55,7 @@ Chris Kohlhoff is the author of the Boost.Asio library. He has written {cpp} cod
 [[XConorHoekstra]]
 == Conor Hoekstra
 
-link:sessions.html#XAlgorithmIntuitionII[Algorithm Intuition II]
+link:sessions.html#XBetterAlgorithmIntuition[Better Algorithm Intuition]
 
 Conor is a Senior Library Software Engineer at NVIDIA working on the RAPIDS team. He has 5+ years of professional {cpp} experience and is on the ISO {cpp} Canadian National Body. He is extremely passionate about programming languages, algorithms and beautiful code. He has a YouTube channel where he covers solutions to competitive programming problems using various programming languages and algorithms: https://www.youtube.com/codereport
 
@@ -80,6 +79,14 @@ finance area. He is a regular attendee of the ANSI/ISO {cpp} standards committee
 be a moderator of the newsgroup comp.lang.c++.moderated. He frequently answers questions on Stackoverflow.
 
 
+[[XEamonnBoyle]]
+== Eamonn Boyle
+
+link:sessions.html#XInteropBetweenKotlinNativeandCSwifttheGoodtheBadandtheUgly[Interop Between Kotlin Native and {cpp} / Swift - the Good, the Bad and the Ugly]
+
+Eamonn Boyle has over 15 years working as a developer, architect and team lead. For the last 3.5 years he’s been working as a full time trainer and coach, authoring and delivering courses on a range of topics to a broad range of delegates. These include paradigms and technologies from core language skills, Frameworks to tools and processes. He has also spoken at a number of events and meetups including .NET Developer Guild, BASH and GDG Dublin and aided in the delivery of workshops at KotlinConf, GOTO Amsterdam and RebelCon. Eamonn enjoys a good film, loves a good debate on current affairs and practicing his photography skills.
+
+
 [[XGarthGilmour]]
 == Garth Gilmour
 
@@ -98,9 +105,7 @@ Standard {cpp} Foundation.
 
 
 [[XJamieAllsop]]
-== Jamie Allsop
-
-link:sessions.html#XErrorisnotanerror[Error is not an error]
+== Jamie Allsop (Host)
 
 Jamie is a long time {cpp} developer who started out with {cpp}Builder, and even wrote an international bestseller on it almost 20 years ago! He has spent many years developing software for highly constrained environments, first as an audio engineer for companies like DTS but now spends what coding time he has writing code in the ultra low latency finance domain.
 
@@ -154,7 +159,7 @@ Marshall has been programming professionally for 35 years. He is the author of B
 [[XMichaelWong]]
 == Michael Wong
 
-link:sessions.html#XTheJourneytoHeterogeneousProgramming[The Journey to Heterogeneous Programming]
+link:sessions.html#XThefuturedirectionofCandHeterogeneousComputing[The future direction of C++ and Heterogeneous Computing]
 
 Michael Wong is the Vice President of Research and Development at Codeplay Software, a Scottish company that produces compilers, debuggers, runtimes, testing systems, and other specialized tools to aid software development for heterogeneous systems, accelerators and special purpose processor architectures, including GPUs and DSPs. He is now a member of the open consortium group known as Khronos and is Chair of the {cpp} Heterogeneous Programming language SYCL, used for GPU dispatch in native modern {cpp} (14/17), OpenCL, as well as guiding the research and development teams of ComputeSuite, ComputeAorta/ComputeCPP. For twenty years, he was the Senior Technical Strategy Architect for IBM compilers.
 
@@ -193,6 +198,16 @@ Nevin ":-)" Liber is a computer scientist at Argonne National Laboratory, a {cpp
 His professional career has taken him across various industries and platforms: big data, low-latency, operating systems, embedded systems, telephony and now exascale computing, just to name a few. He spends much of his time pushing his peers, colleagues and friends (and just about anybody else willing to listen) to use modern {cpp} constructs along the way.
 
 Looking to learn more about the language, he got involved with the {cpp} Committee and hosted (with the generosity of his employer at the time) both the {cpp} and C Standards meetings in Chicago. These days he frequently finds himself in the middle of the debates involving the more contentious parts of the Standard Library.
+
+
+[[XPhilNash]]
+== Phil Nash
+
+link:sessions.html#XTheDawnofaNewError[The Dawn of a New Error]
+
+Phil is one of the hosts of {cpp} London. He' also the autor of the {cpp} test framework, Catch2, and the composable command line parser, Clara. As Developer Advocate at JetBrains he's involved with CLion, AppCode and ReSharper {cpp}.
+
+More generally he's an advocate for good testing practices, TDD and using the type systems and functional techniques to reduce complexity and increase correctness. He's previously worked in Finance and Mobile as well as an independent consultant and coach specialising in TDD on iOS.
 
 
 [[XTimurDoumler]]

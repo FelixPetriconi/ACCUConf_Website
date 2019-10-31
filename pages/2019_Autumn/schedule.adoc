@@ -15,7 +15,7 @@ _The schedule is subject to change without notice until 2019-11-09._
 [cols="4*^", options="header"]
 |===
 |
-3+^|Cathedral Quarter, Belfast
+3+^|Hilton Hotel, Belfast
 
 |19:00 +
  +
@@ -27,7 +27,7 @@ link:sessions.html#XMovienight["Movie Night"] +
 link:presenters.html#XWalterBrown[Walter Brown]
 
 |21:30
-3+^|Pub Crawl (and why not??)
+3+^|Cathedral Quarter Pub Crawl (and why not??)
 
 |===
 
@@ -84,8 +84,8 @@ link:presenters.html#XVictorZverovich[Victor Zverovich]
 link:presenters.html#XDavidOlsen[David Olsen]
 |link:sessions.html#XInteropBetweenKotlinNativeandCSwifttheGoodtheBadandtheUgly[Interop Between Kotlin Native and {cpp} / Swift - the Good, the Bad and the Ugly] +
  +
-link:presenters.html#XGarthGilmour[Garth Gilmour]
-
+link:presenters.html#XGarthGilmour[Garth Gilmour] +
+link:presenters.html#XEamonnBoyle[Eamonn Boyle]
 
 |14:30
 3+^|Break
@@ -108,7 +108,7 @@ link:presenters.html#XMarkAllan[Mark Allan]
 |link:sessions.html#XFromfunctionstoConceptsImpactonmaintainabilityandrefactoringforhigherleveldesignfeatures[From functions to Concepts: Impact on maintainability and refactoring for higher-level design features] +
  +
 link:presenters.html#XTitusWinters[Titus Winters]
-|link:sessions.html#XAlgorithmIntuitionII[Algorithm Intuition II] +
+|link:sessions.html#XBetterAlgorithmIntuition[Better Algorithm Intuition] +
  +
 link:presenters.html#XConorHoekstra[Conor Hoekstra]
 |link:sessions.html#XTheTruthofaProcedure[The Truth of a Procedure] +
@@ -148,10 +148,9 @@ After Dinner Party
 |*Lisburn*
 
 |09:30
-|link:sessions.html#XErrorisnotanerror[Error is not an error] +
+|link:sessions.html#XTheDawnofaNewError[The Dawn of a New Error] +
  +
-link:presenters.html#XJamieAllsop[Jamie Allsop] +
-link:presenters.html#XChrisKohlhoff[Chris Kohlhoff]
+link:presenters.html#XPhilNash[Phil Nash]
 |link:sessions.html#XTransposethisLinearAlgebraforStandardC[Transpose(*this) - Linear Algebra for Standard {cpp}] +
  +
 link:presenters.html#XBobSteagall[Bob Steagall]
@@ -192,7 +191,7 @@ link:presenters.html#XDietmarKühl[Dietmar Kühl]
 
 |16:30
 3+^|*CLOSING KEYNOTE* +
-link:sessions.html#XTheJourneytoHeterogeneousProgramming[The Journey to Heterogeneous Programming] +
+link:sessions.html#XThefuturedirectionofCandHeterogeneousComputing[The future direction of {cpp} and Heterogeneous Computing] +
  +
 link:presenters.html#XMichaelWong[Michael Wong] +
 
