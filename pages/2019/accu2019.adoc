@@ -18,6 +18,7 @@ There are various webpages acting as a record of the conference:
 * link:sponsors_and_exhibitors.html[Logos of the sponsors.]
 * link:attender_reports.html[Various conference reports by attenders that have been notified or discovered.]
 * link:prices.html[Conference prices]
+* link:programme_committee_and_organisers.html[Programme Committee and Organiser]
 
 The schedule webpage contains links to videos on ACCU YouTube channel and PDFs of slides where these have
 been notofied/collected.

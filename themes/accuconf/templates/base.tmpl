@@ -17,13 +17,10 @@
 	<!--  Banner -->
 	<div class="container-fluid banner">
 		<a href="/">
-			<img class="img-responsive img-float-left" src="/assets/images/accu_autumn_2019_370x137.png" alt="ACCU Autumn 2019 Logo"/>
+			<img class="img-responsive img-float-left" src="/assets/images/accu2020_367x102.png" alt="ACCUConf 2020 Logo"/>
 		</a>
 		<a href="https://accu.org">
 			<img class="img-responsive img-float-right" src="/assets/images/accu_logo.png" alt="ACCU Logo"/>
-		</a>
-		<a href="/">
-			<img class="img-responsive center-block" src="/assets/images/accu2020_367x102.png" alt="ACCUConf 2020 Logo"/>
 		</a>
 	</div>
 	<!-- End Banner -->
@@ -41,17 +38,7 @@
 		<div class="visible-xs-block">
 			<div class="container-fluid">
 				{{ accuconf.cocbits() }}
-				{{ accuconf.registerbutton() }}
-				<div class="accuconf-menu">
-					<a type="button" class="accuconf-toggle-link btn" data-toggle="collapse" href="#keydates">
-						<span class="accuconf-toggle glyphicon glyphicon-menu-hamburger"> Dates and Location ACCU Autumn 2019</span>
-					</a>
-					<div class="collapse" id="keydates">
-						{{ accuconf.dates_2019_autumn() }}
-						<hr/>
-						{{ accuconf.location_2019_autumn() }}
-					</div>
-				</div>
+				{# {{ accuconf.registerbutton() }} #}
 				<div class="accuconf-menu">
 					<a type="button" class="accuconf-toggle-link btn" data-toggle="collapse" href="#keydates">
 						<span class="accuconf-toggle glyphicon glyphicon-menu-hamburger"> Dates and Location ACCU 2020</span>
@@ -83,25 +70,6 @@
 			<div class="row">
 				<div class="panel panel-default">
 					<div class="panel-heading">
-						<h3 class="panel-title">Dates ACCU Autumn 2019</h3>
-					</div>
-					<div class="panel-body">
-						{{ accuconf.dates_2019_autumn() }}
-					</div>
-				</div>
-				<div class="panel panel-default">
-					<div class="panel-heading">
-						<h3 class="panel-title">Location ACCU Autumn 2019</h3>
-					</div>
-					<div class="panel-body">
-						{{ accuconf.location_2019_autumn() }}
-					</div>
-				</div>
-				<div class="row">
-					{{ accuconf.organiser() }}
-				</div>
-				<div class="panel panel-default">
-					<div class="panel-heading">
 						<h3 class="panel-title">Dates ACCU 2020</h3>
 					</div>
 					<div class="panel-body">
@@ -124,10 +92,7 @@
 		<div class="col-lg-2">
 			<div class="hidden-xs">
 				{{ accuconf.cocbits() }}
-				{{ accuconf.registerbutton() }}
-			</div>
-			<div class="row">
-				{{ accuconf.committee_2019_autumn() }}
+				{# {{ accuconf.registerbutton() }} #}
 			</div>
 			<div class="row">
 				{{ accuconf.committee() }}

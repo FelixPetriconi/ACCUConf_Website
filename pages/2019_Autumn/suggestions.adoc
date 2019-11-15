@@ -4,13 +4,15 @@
 ////
 
 On this page we try to collect suggestions of conference visitors that might be useful to other
-visitors. You can adapt or add to this page by creating a pull request for the 
-https://github.com/ACCUConf/Website/[conference website] or ask somebody on the accu-general 
+visitors. You can adapt or add to this page by creating a pull request for the
+https://github.com/ACCUConf/Website/[conference website] or ask somebody on the accu-general
 mailing list to do it for you.
+
+image::/assets/images/accu_autumn_2019_370x137.png[ACCU Autmn 2019 Logo, float=right]
 
 == Sight seeing
 
-* I'd recommend the hop-on hop-off city tour bus that leaves from outside the Post Office on High 
+* I'd recommend the hop-on hop-off city tour bus that leaves from outside the Post Office on High
   Street: that will take you to some interesting place including the Falls Road and Shankill Road
   areas, which are the central nuclei of the Troubles. It's an unexpectedly educational tour. Also
   go see St Georges Market, which is close to the Hilton (one of the bus stops is there). [1]
@@ -18,12 +20,12 @@ mailing list to do it for you.
 == Food and drinks
 
 * The Hilton itself only has generic hotel beer choices. But there is Bittles Bar not too far away,
-  walk over to Victoria Street and turn right for a couple of blocks. Or there's the Crown near the 
+  walk over to Victoria Street and turn right for a couple of blocks. Or there's the Crown near the
   Europa hotel - further away, but a spectacularly well preserved venue. [1]
 
 == Clothing
 
-* I'd advise rainwear - it rains 200 days a year, or so I'm told, and that accords with my 
+* I'd advise rainwear - it rains 200 days a year, or so I'm told, and that accords with my
   experience. [1]
 
 == Recommended by

@@ -1,0 +1,14 @@
+////
+.. title: ACCU Autumn 2019
+.. type: text
+////
+ACCU Autumn 2019 took place at
+https://www3.hilton.com/en/hotels/united-kingdom/hilton-belfast-BFSHITW/index.html[Hilton Hotel]
+2019-11-11 and 2019-11-12.
+
+image::/assets/images/accu_autumn_2019_370x137.png[ACCU Autmn 2019 Logo, float=right]
+
+* link:schedule.html[The schedule as happened.]
+* link:sessions.html[Blurbs of the sessions.]
+* link:presenters.html[Bios of the presenters.]
+* link:programme_committee_and_organisers.html[Programme Committee and Organiser]
