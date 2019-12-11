@@ -65,7 +65,8 @@ link:presenters.html#XHerbSutter[Herb Sutter] +
 |11:00
 |link:sessions.html#XCModulesandLargeScaleDevelopment[{cpp} Modules and Large-Scale Development] +
  +
-link:presenters.html#XJohnLakos[John Lakos]
+link:presenters.html#XJohnLakos[John Lakos] +
+link:https://www.youtube.com/watch?v=lGZzN7WZ6EA[(video)]
 |link:sessions.html#XTheC20SynchronizationLibrary[The {cpp}20 Synchronization Library] +
  +
 link:presenters.html#XBryceAdelsteinLelbach[Bryce Adelstein Lelbach]
@@ -79,7 +80,8 @@ link:presenters.html#XMikeShah[Mike Shah]
 |13:30
 |link:sessions.html#XFormattingfloatingpointnumbers[Formatting floating-point numbers] +
  +
-link:presenters.html#XVictorZverovich[Victor Zverovich]
+link:presenters.html#XVictorZverovich[Victor Zverovich] +
+link:https://www.youtube.com/watch?v=_frCGEC23zo[(video)]
 |link:sessions.html#XFasterCodeThroughParallelismonCPUsandGPUs[Faster Code Through Parallelism on CPUs and GPUs] +
  +
 link:presenters.html#XDavidOlsen[David Olsen]
@@ -94,7 +96,8 @@ link:presenters.html#XEamonnBoyle[Eamonn Boyle]
 |15:00
 |link:sessions.html#XCInsightsHowstuffworksLambdasandmore[{cpp} Insights: How stuff works, Lambdas and more!] +
  +
-link:presenters.html#XAndreasFertig[Andreas Fertig]
+link:presenters.html#XAndreasFertig[Andreas Fertig] +
+link:https://www.youtube.com/watch?v=G0Z8FUJ4RLc[(video)]
 |link:sessions.html#XTheSecretLifeofNumbers[The Secret Life of Numbers] +
  +
 link:presenters.html#XJohnMcFarlane[John McFarlane]
@@ -108,7 +111,8 @@ link:presenters.html#XMarkAllan[Mark Allan]
 |16:30
 |link:sessions.html#XFromfunctionstoConceptsImpactonmaintainabilityandrefactoringforhigherleveldesignfeatures[From functions to Concepts: Impact on maintainability and refactoring for higher-level design features] +
  +
-link:presenters.html#XTitusWinters[Titus Winters]
+link:presenters.html#XTitusWinters[Titus Winters] +
+link:https://www.youtube.com/watch?v=9a18XkWw8vk[(video)]
 |link:sessions.html#XBetterAlgorithmIntuition[Better Algorithm Intuition] +
  +
 link:presenters.html#XConorHoekstra[Conor Hoekstra]
@@ -151,7 +155,8 @@ After Dinner Party
 |09:30
 |link:sessions.html#XTheDawnofaNewError[The Dawn of a New Error] +
  +
-link:presenters.html#XPhilNash[Phil Nash]
+link:presenters.html#XPhilNash[Phil Nash] +
+link:https://www.youtube.com/watch?v=T9aSGB9Lfzc[(video)]
 |link:sessions.html#XTransposethisLinearAlgebraforStandardC[Transpose(*this) - Linear Algebra for Standard {cpp}] +
  +
 link:presenters.html#XBobSteagall[Bob Steagall]
@@ -165,7 +170,8 @@ link:presenters.html#XTimurDoumler[Timur Doumler]
 |11:30
 |link:sessions.html#XEnforceInformIgnoreAssumeGradualAdoptionofContractsInProductionCode[Enforce Inform Ignore Assume - Gradual Adoption of Contracts In Production Code] +
  +
-link:presenters.html#XAlisdairMeredith[Alisdair Meredith]
+link:presenters.html#XAlisdairMeredith[Alisdair Meredith] +
+link:https://www.youtube.com/watch?v=bNF9_bJ8m7w[(video)]
 |link:sessions.html#XTheManyVariantsofstdvariant[The Many Variants of std::variant] +
  +
 link:presenters.html#XNevinLiber[Nevin ":-)" Liber]
@@ -182,7 +188,8 @@ link:presenters.html#XNeilHorlock[Neil Horlock]
 link:presenters.html#XChrisKohlhoff[Chris Kohlhoff]
 |link:sessions.html#XMakeyourprogramsmorereliablewithFuzzing[Make your programs more reliable with Fuzzing] +
  +
-link:presenters.html#XMarshallClow[Marshall Clow]
+link:presenters.html#XMarshallClow[Marshall Clow] +
+link:https://www.youtube.com/watch?v=x0FQkAPokfE[(video)]
 |link:sessions.html#XFromAlgorithmtoGenericParallelCode[From Algorithm to Generic, Parallel Code] +
  +
 link:presenters.html#XDietmarKühl[Dietmar Kühl]
