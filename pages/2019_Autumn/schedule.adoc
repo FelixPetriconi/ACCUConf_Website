@@ -174,7 +174,8 @@ link:presenters.html#XAlisdairMeredith[Alisdair Meredith] +
 link:https://www.youtube.com/watch?v=bNF9_bJ8m7w[(video)]
 |link:sessions.html#XTheManyVariantsofstdvariant[The Many Variants of std::variant] +
  +
-link:presenters.html#XNevinLiber[Nevin ":-)" Liber]
+link:presenters.html#XNevinLiber[Nevin ":-)" Liber] +
+link:https://github.com/ACCUConf/PDFs_Autumn_2019/blob/master/Nevin_Liber_-_The_Many_Variants_of_std_variant.pdf[(slides])
 |link:sessions.html#XNomoresecretsWhyyoursecretsarentsafeandwhatyoucandoaboutit[No more secrets? Why your secrets aren't safe and what you can do about it] +
  +
 link:presenters.html#XNeilHorlock[Neil Horlock]
@@ -192,7 +193,8 @@ link:presenters.html#XMarshallClow[Marshall Clow] +
 link:https://www.youtube.com/watch?v=x0FQkAPokfE[(video)]
 |link:sessions.html#XFromAlgorithmtoGenericParallelCode[From Algorithm to Generic, Parallel Code] +
  +
-link:presenters.html#XDietmarKühl[Dietmar Kühl]
+link:presenters.html#XDietmarKühl[Dietmar Kühl] +
+link:https://github.com/ACCUConf/PDFs_Autumn_2019/blob/master/Dietmar_Kuehl_-_From_Algorithm_To_Generic_Parallel_Code.pdf[(slides)]
 
 |16:00
 3+^|Break
