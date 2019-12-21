@@ -66,7 +66,8 @@ link:presenters.html#XHerbSutter[Herb Sutter] +
 |link:sessions.html#XCModulesandLargeScaleDevelopment[{cpp} Modules and Large-Scale Development] +
  +
 link:presenters.html#XJohnLakos[John Lakos] +
-link:https://www.youtube.com/watch?v=lGZzN7WZ6EA[(video)]
+link:https://www.youtube.com/watch?v=lGZzN7WZ6EA[(video)] +
+link:https://github.com/ACCUConf/PDFs_Autumn_2019/blob/master/John_Lakos_-_C%2B%2B_Modules_and_Large-Scale_Development.pdf[(slides)]
 |link:sessions.html#XTheC20SynchronizationLibrary[The {cpp}20 Synchronization Library] +
  +
 link:presenters.html#XBryceAdelsteinLelbach[Bryce Adelstein Lelbach]
@@ -81,7 +82,8 @@ link:presenters.html#XMikeShah[Mike Shah]
 |link:sessions.html#XFormattingfloatingpointnumbers[Formatting floating-point numbers] +
  +
 link:presenters.html#XVictorZverovich[Victor Zverovich] +
-link:https://www.youtube.com/watch?v=_frCGEC23zo[(video)]
+link:https://www.youtube.com/watch?v=\_frCGEC23zo[(video)] +
+link:https://github.com/ACCUConf/PDFs_Autumn_2019/blob/master/Victor_Zverovich_-_Formatting_floating-point_numbers.pdf[(slides)]
 |link:sessions.html#XFasterCodeThroughParallelismonCPUsandGPUs[Faster Code Through Parallelism on CPUs and GPUs] +
  +
 link:presenters.html#XDavidOlsen[David Olsen]
