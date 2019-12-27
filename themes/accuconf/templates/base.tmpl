@@ -10,7 +10,6 @@
 	{#  Leave this block alone. #}
 {% endblock %}
 {{ template_hooks['extra_head']() }}
-<link rel="icon" type="image/png" href="/assets/images/accu2019_32x32.png">
 </head>
 <body>
 	<a href="#content" class="sr-only sr-only-focusable">{{ messages("Skip to main content") }}</a>
@@ -38,7 +37,7 @@
 		<div class="visible-xs-block">
 			<div class="container-fluid">
 				{{ accuconf.cocbits() }}
-				{# {{ accuconf.registerbutton() }} #}
+				{{ accuconf.registerbutton() }}
 				<div class="accuconf-menu">
 					<a type="button" class="accuconf-toggle-link btn" data-toggle="collapse" href="#keydates">
 						<span class="accuconf-toggle glyphicon glyphicon-menu-hamburger"> Dates and Location ACCU 2020</span>
@@ -92,7 +91,7 @@
 		<div class="col-lg-2">
 			<div class="hidden-xs">
 				{{ accuconf.cocbits() }}
-				{# {{ accuconf.registerbutton() }} #}
+				{{ accuconf.registerbutton() }}
 			</div>
 			<div class="row">
 				{{ accuconf.committee() }}
