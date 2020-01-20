@@ -1,0 +1,16 @@
+////
+.. title: T-Shirt Competition
+.. date: 2020-01-20T12:00+00:00
+.. type: text
+////
+ACCU conferences tend to have themes. Not for the content of the sessions of the conference, obviously. 
+The conference themes are for the more social aspect of the conference. In particular,
+the conference dinner/supper (choose your preferred label here) on the Friday evening, and the t-shirts, and
+other bits and bobs.
+
+For reasons that are likely to become very apparent at 2020-03-27T20:30 in the Bristol Suite. As is traditional 
+we are having a competition to allow people to design the conference t-shirt based on the chosen theme.
+
+So if you fancy having a go at designing the ACCU 2020 t-shirt on the theme of "medieval times" send your mock
+up images to mailto:conference@accu.org[ACCUConf Chair] by 2019-02-10T12:00+00:00. We are sure there is a prize, 
+but we are not entirely sure what that is just at the minutefootnote:[But there definitely will be one, and not just a fridge magnet.].
