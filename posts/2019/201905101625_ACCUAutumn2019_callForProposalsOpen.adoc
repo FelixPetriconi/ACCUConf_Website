@@ -1,0 +1,12 @@
+////
+.. title: ACCU Autumn 2019 – Call for Proposals Open
+.. date: 2019-05-10T1625+01:00
+.. type: text
+////
+
+The Call for Proposals for the ACCU Autumn 2019 Conference to be held 2019-11-11 to
+2019-11-12 at
+https://www3.hilton.com/en/hotels/united-kingdom/hilton-belfast-BFSHITW/index.html[Hilton Hotel]
+in Belfast is now open. Go to https://cfp.conference.accu.org to register and submit a proposal.
+
+This conference abuts the WG21 committee meeting so expect lots of C++ folk to be around.

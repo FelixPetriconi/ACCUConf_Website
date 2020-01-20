@@ -1,0 +1,382 @@
+////
+.. title: Preconference Workshops
+.. description: Details of the ACCU 2020 preconference workshops being offered
+.. type: text
+////
+
+We are offering seven pre-conference workshops in 2020 – listed in no particular order:
+
+* <<ModernCppIdioms>> – Mateusz Pusz.
+* <<ACCU101>> – Gail Ollis, et al.
+* <<GoodModernCppDesignAndPractices>> – Peter Sommerlad.
+* <<JumpstartJulia>> – Erik Engheim.
+* <<IntroductionToCMake>> – Craig Scott.
+* <<GettingHighRegressionTestCoverageQuickly>> – Emily Bache.
+* <<BetterCode>> – Sean Parent.
+
+The workshops start at 10:00 and finish usually around 18:00. There are refreshments breaks
+morning and afternoon, and lunch is provided as part of the workshop.
+
+If too few people register for a workshop by the date we have to formally allocate resources,
+that workshop may have to be withdrawn. People registered on a workshop that has to be withdrawn
+will be offered transfer to another workshop with spaces available, or a refund.
+
+
+[[ModernCppIdioms]]
+== Modern {cpp} Idioms
+
+=== Presenter
+
+Mateusz Pusz
+
+=== Bio
+
+A software architect, chief engineer, and security champion with more than 15 years of
+experience in designing, writing and maintaining {cpp} code for fun and living. {cpp}
+consultant, trainer, conference speaker, and evangelist focused on Modern {cpp}. His main areas
+of interest and expertise are code performance, low latency, stability, and security. Mateusz
+worked at Intel for 13 years, and now he is the head of the {cpp} Competency Center at EPAM
+Systems. He is also a founder of Train IT that provides dedicated {cpp} trainings and consultant
+services to corporations. Mateusz is a contributor and an active voting member of the ISO {cpp}
+Committee (WG21) where, together with the best {cpp} experts in the world, he shapes the future
+of the {cpp} language. He is also a co-chair of WG21 Study Group 14 (SG14) responsible for
+driving performance and low latency subjects in the Committee. In 2013 Mateusz won “Bench Games
+2013” – worldwide competition in the {cpp} language knowledge.
+
+
+=== Abstract
+
+{cpp} is no longer C with classes and it never was only an Object Oriented language. {cpp} is a
+general-purpose programming language. It has imperative, object-oriented and generic programming
+features, while also providing facilities for low-level memory manipulation. If used correctly,
+it provides hard to beat performance. Such usage requires a good knowledge of {cpp} templates
+and Modern {cpp} Idioms which are much different from commonly known design patterns popularized
+by GoF book and invented to handle common use cases in pure OO languages like Java or C#.
+
+=== What you will learn
+
+During the workshop, we will refresh and broaden our knowledge about {cpp} templates and will
+learn Modern {cpp} Idioms like Niebloid, EBO, CRTP, Type Erasure, and many more. Crafting those
+skills will allow us to build powerful tools that are useful in the everyday work of every {cpp}
+developer.
+
+=== Experience required
+
+In order to be able to follow the workshop, you should be current with {cpp} and have some
+recent experience with writing simple {cpp} templates. {cpp}11/14 knowledge is suggested but not
+mandatory.
+
+=== Environment
+
+A laptop with a relatively new {cpp} compiler. It is recommended to have the latest version of
+one of the compilers (Visual Studio, gcc or clang).
+
+
+=== Max Participants:
+
+30
+
+
+[[ACCU101]]
+== ACCU 101: Early Career Day
+
+=== Presenters
+
+Gail Ollis,
+Kevlin Henney,
+Giovanni Asproni,
+Chris Oldwood,
+Roger Orr
+
+=== Bios
+
+Gail has been presenting at conferences since 2007. Sharing knowledge also become part of the
+day job, as a lecturer in programming and cyberpsychology at Bournemouth University. But that
+was an accidental second career. Before that Gail was for two decades a commercial software
+developer, eventually becoming so obsessed with the human aspects of the job that she took a
+psychology degree to investigate further. In 2019 she completed her PhD in psychology of
+software development and is working on applying her special interdisciplinary outlook to cyber
+security. She loves to help people learn and develop. She hosted the first ever ACCU Early
+Career Day last year and is looking forward to bringing together her Dream Team again to help
+more early career developers in 2020.
+
+Kevlin is an independent consultant, trainer, reviewer and writer. His development interests are
+in programming, people and practice. He has been a columnist for various magazines and web
+sites, a contributor to open source software and a member of more committees than is probably
+healthy (it has been said that "a committee is a cul-de-sac down which ideas are lured and then
+quietly strangled"). He is co-author of two volumes in the Pattern-Oriented Software
+Architecture series and editor of 97 Things Every Programmer Should Know and the forthcoming 97
+Things Every Java Programmer Should Know.
+
+Giovanni works as a Principal Consultant for Zühlke Engineering in London. He has been helping
+software companies and teams become more successful for many years by providing consulting,
+training and advice, as well as coding, to projects of all sizes. He is both a frequent
+conference speaker, and organiser. He is a past Chair of the London XPDay and the ACCU
+conferences, the Industry & Practice co-chair for XP2016, and the Conference Chair for SPA 2018
+and SPA 2019. He is a member of the ACM and the IEEE Computer Society, and contributed to the
+book 97 Things Every Programmer Should Know, published by O'Reilly.
+
+Chris is a freelance programmer who started out as a bedroom coder in the 80’s writing assembler
+on 8-bit micros. These days it's enterprise grade technology in plush corporate offices. He also
+commentates on the Godmanchester duck race and can be easily distracted via gort@cix.co.uk or
+@chrisoldwood.
+
+Roger has many years of experience in IT, using a variety of languages and platforms, working
+for a number of different companies over the years, mostly in the financial sector. His recent
+work has mostly been in {cpp}, on both Windows and Linux. Roger is one of the organisers of this
+conference and also runs the Code Critique column in ACCU's "CVu" magazine. He is chair of the
+UK {cpp} panel, has represented the UK at {cpp} ISO standards meetings since 2010, and is a
+member of the 'Direction Group', a five person group that recommends priorities for the ISO
+{cpp} standardisation committee.
+
+=== Abstract
+
+This is an all-day pre-conference tutorial. But unlike other tutorials, the Early Career Day is
+exclusively for software developers in their first years of work, whether as a placement student
+or a graduate level employee. In the company of others with a similar level of experience, this
+supportive tutorial will offer you clear and practical guidance in key aspects of your
+work. Your tutors are well-known speakers selected for their excellent content and clear
+delivery. If you are wondering if the ACCU conference is for you and how it can help you, this
+is a great way to try out a 'mini-conference' designed especially for you by experts.
+
+The day is chaired by Dr Gail Ollis, an ACCU conference regular who remembers what it was like
+to attend her first ACCU conference. After a long career in commercial software development Gail
+turned to teaching, as a lecturer in programming and cyberpsychology at Bournemouth
+University. Think of this session as a short course in honing your craft as a software
+developer, with an experienced lecturer as your course leader and the best presenters as your
+tutor.
+
+The content will include a mix of personal and technical skills, including:
+
+* Presentation Skills
+* Software Processes and Architecture
+* Code review
+* Debugging
+
+The day will end with your very own lightning talk session, the ideal opportunity to practice
+sharing your thoughts with a small, friendly audience.
+
+=== Max Participants
+
+15
+
+
+[[GoodModernCppDesignAndPractices]]
+== Good Modern {cpp} Design and Practices
+
+=== Presenter
+
+Peter Sommerlad
+
+=== Bio
+
+Peter Sommerlad is a consultant and trainer for Safe Modern {cpp} and Agile Software
+Engineering. Peter was professor at and director of IFS Institute for Software at FHO/HSR
+Rapperswil, Switzerland until February 2020. Peter is co-author of POSA Vol.1 and Security
+Patterns. He inspired the {cpp} IDE Cevelop with a unique {cpp} feedback, refactoring, and code
+modernization experience. Peter is a member of MISRA-{cpp}, Hillside, ACM, IEEE Computer
+Society, ACCU, ISO WG23 and the ISO WG21 {cpp} committee.
+
+=== Abstract
+
+This workshop is trying to simplify your use of {cpp}. We have many great rule sets to chose
+from, some partially outdated, like Scott Meyers 3rd edition, some futuristic, like the {cpp}
+core guidelines. While working on the AUTOSAR {cpp} and new MISRA {cpp} guidelines I found that
+many of the guidelines forbid things without giving actual guideline on how to do things and
+when to deviate.
+
+Also many talks on {cpp} explain the modern features and show how they work, but only few put
+things into context and show what to give up and how things combine sanely. I am guilty of that
+in the past as well, e.g., with my constexpr compile time computation talks at ACCU.
+
+This full day workshop is the result of thinking about that. It won't show the newest {cpp}2a
+feature by feature, but gives a coherent set of practices to improve your design and code using
+existing standard {cpp} features where they give you benefits.
+
+We will cover the following topics:
+
+* designing function interfaces in a way that they are easy to call correctly and hard to call
+  incorrectly
+* how to report function contract violations (at least 5 different ones) and their individual
+  benefits and liabilities, so you can make a conscious choice.
+* what parameter passing style and return value style works best under what conditions
+* how to create (parameter) type wrappers to avoid passing wrong arguments
+* class design for simple value wrappers to improve function interfaces
+* mix-in strategies for functionality and operators, so that creating value wrappers is simpler
+* provide an overview of class styles, e.g., value, manager, oo-bases and show how to select
+  from the rules for special member functions
+* take a look at the lesser known {cpp}11 feature of ref-qualified member functions and show why
+  and when to use them for your member functions
+
+If you are brave enough, bring your own examples that we can look at and discuss where they are
+perfect and where they could be improved. Otherwise, we will take a look at potential bugs in
+the {cpp} standard library design.
+
+=== Max Participants
+
+30
+
+
+[[JumpstartJulia]]
+== Jumpstart Julia
+
+=== Presenter
+
+Erik Engheim
+
+=== Bio
+
+Erik Engheim has been programming for the last two decades in a variety of programming languages
+primarily C/{cpp} but also Java, C#, Objective-C and Swift. He is the author of the "Getting
+Started with Julia" video course on the new programming language Julia used in high performance
+and scientific computing. He also has a passion for crypto currencies, UX design, space
+exploration, green technologies, robotics and micro controllers. Erik has worked in a variety of
+industries: Oil & Gas, Fintech, Video conferencing and IT consulting.
+
+==== Abstract
+
+Are you interested in learning how to write code in the new high performance language Julia,
+rapidly gaining traction within machine learning, data science and scientific computing? Or
+perhaps you are just looking for a new language which is expressive and fun to write code in?
+Julia is a new language which appeals to a diverse set of users. This workshop does not assume
+any prior experience with Julia. We will cover Julia's unique type system, multiple dispatch,
+functional programming and working with common types like strings, multidimensional arrays and
+dictionaries.
+
+=== Max Attendees
+
+15
+
+
+[[IntroductionToCMake]]
+== Introduction to CMake
+
+=== Presenter
+
+Craig Scott
+
+=== Bio
+
+Craig is a software consultant, CMake co-maintainer and author of the book “Professional CMake:
+A Practical Guide”. He has been developing cross-platform {cpp} software since 2001, targeting
+most major platforms and working on large scale frameworks, scientific algorithm development, Qt
+GUI applications, backend services and embedded devices. He is the founder of Crascit Pty Ltd
+and provides consulting services through that company.
+
+=== Abstract
+
+CMake is one of the most widely used build systems for C and {cpp} projects, but the initial
+task of learning how to use it effectively can be overwhelming. The abundance of outdated
+material online can make it hard to know if you are learning good practices or not. In this
+hands-on workshop delivered by one of the CMake maintainers, you will learn how to follow best
+practice to build and package an application. Emphasis will be on building the skills needed for
+working with CMake projects in day-to-day development.
+
+By the end of this workshop, participants should be able to do the following:
+
+* Set up a basic CMake project from scratch.
+* Define build targets for executables and libraries.
+* Correctly express the way targets use or depend on each other.
+* Express build requirements on targets and how they can propagate to other targets.
+* Install targets and files following a standard layout.
+* Produce packages in different formats.
+
+=== Pre-requisites
+
+A basic knowledge of C or {cpp}.
+
+Attendees will be expected to bring a laptop with the latest CMake release installed. Please
+ensure you have a compiler/toolchain installed according to the following requirements for your
+laptop's platform:
+
+* Windows: Visual Studio 2019 or later.
+* MacOS: Xcode 10 or later, with command-line tools installed.
+* Linux: The system default version of GCC should be sufficient on recent distributions.
+
+=== Max Attendees
+
+25
+
+
+[[GettingHighRegressionTestCoverageQuickly]]
+== Getting High Regression Test Coverage Quickly using Approval Testing
+
+=== Presenter
+
+Emily Bache
+
+=== Bio
+
+Emily Bache is a Technical Agile Coach with ProAgile. She helps teams to improve their coding
+and testing skills, including Test-Driven Development. Emily lives in Gothenburg, Sweden, but is
+originally from the UK. She is the author of "The Coding Dojo Handbook" and often speaks at
+international conferences.
+
+twitter: @emilybache
+
+blog: http://coding-is-like-cooking.info/
+
+=== Abstract
+
+There is lots of existing code in the world that lacks unit tests. In
+this workshop you will learn techniques for quickly adding
+regression tests, and in what situations you can use them.
+Often you need to change code that lacks automated tests, and you need to do
+that safely. In this workshop you will learn techniques for getting control of
+that code and quickly adding regression tests. We will work with several
+hands-on examples, and learn about in what situations you can use which
+techniques.
+
+Planned learning outcomes:
+
+* Differences with Approval testing compared with ordinary unit testing
+* how to use Code Coverage and Approval testing to make Characterization tests
+* Risks and benefits of Approval testing
+
+Suitable for: developers and testers who do automation. The examples and Approval testing tools
+we will use are available in several programming languages including Java, C#, Python and {cpp},
+although I will primarily demonstrate techniques using IntelliJ and Java.
+
+=== Max Attendees
+
+20
+
+
+[[BetterCode]]
+== Better Code
+
+=== Presenter
+
+Sean Parent
+
+=== Bio
+
+Sean Parent is a senior principal scientist and software architect for Adobe’s mobile digital
+imaging group and Photoshop. Sean has been at Adobe since 1993 when he joined as a senior
+engineer working on Photoshop and later managed Adobe’s Software Technology Lab. In 2009 Sean
+spent a year at Google working on Chrome OS before returning to Adobe. From 1988 through 1993
+Sean worked at Apple, where he was part of the system software team that developed the
+technologies allowing Apple’s successful transition to PowerPC.
+
+=== Abstract
+
+A workshop based on the Better Code series of lectures with opportunities to experiment and
+discuss the ideas presented.
+
+Writing code is challenging, especially writing efficient code on large projects. We'll cover
+types, algorithms, data-structures, runtime polymorphism concurrency, and relationships. Each
+section provides insight into how to reason about your code and specific techniques to build
+better code.
+
+The prerequisite for this course is a basic understanding of {cpp}. Developers at all levels
+will learn some new ideas and techniques to improve their code quality, efficiency, and
+readability.
+
+=== Requirements
+
+Please come prepared to run a {cpp}17 command-line application. [Links to a github repository
+with starter code will be provided in advance.]
+
+=== Max Attendees
+
+50

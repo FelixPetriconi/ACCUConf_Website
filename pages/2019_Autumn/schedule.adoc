@@ -1,0 +1,213 @@
+////
+.. title: ACCU Autumn 2019 Schedule
+.. description: Schedule with links to session blurbs, presenter bios, videos, and slides.
+.. type: text
+////
+
+_The schedule is subject to change without notice until 2019-11-09._
+
+image::/assets/images/accu_autumn_2019_370x137.png[ACCU Autmn 2019 Logo, float=right]
+
+
+<<<
+
+== Sunday 2019-11-10
+
+[cols="4*^", options="header"]
+|===
+|
+3+^|Hilton Hotel, Belfast
+
+|19:00 +
+ +
+19:30
+3+^|*Welcome to ACCU Autumn 2019!* +
+ with +
+link:sessions.html#XMovienight["Movie Night"] +
+ by +
+link:presenters.html#XWalterBrown[Walter Brown]
+
+|21:30
+3+^|Cathedral Quarter Pub Crawl (and why not??)
+
+|===
+
+<<<
+
+== Monday 2019-11-11
+
+[cols="4*^", options="header"]
+|===
+|
+|*Lagan 1*
+|*Lagan 2*
+|*Lisburn*
+
+|08:30
+3+^|Conference Registration Opens
+
+|08:30
+3+^|Wake-up Time!
+
+|09:15 +
+ +
+09:30
+3+^|Conference Introduction & Orientation +
+ +
+*OPENING KEYNOTE* +
+link:sessions.html#XQuantifyingAccidentalComplexityAnEmpiricalLookatTeachingandUsingC[Quantifying Accidental Complexity: An Empirical Look at Teaching and Using {cpp}] +
+ +
+link:presenters.html#XHerbSutter[Herb Sutter] +
+
+|10:30
+3+^|Break
+
+|11:00
+|link:sessions.html#XCModulesandLargeScaleDevelopment[{cpp} Modules and Large-Scale Development] +
+ +
+link:presenters.html#XJohnLakos[John Lakos] +
+link:https://www.youtube.com/watch?v=lGZzN7WZ6EA[(video)] +
+link:https://github.com/ACCUConf/PDFs_Autumn_2019/blob/master/John_Lakos_-_C%2B%2B_Modules_and_Large-Scale_Development.pdf[(slides)]
+|link:sessions.html#XTheC20SynchronizationLibrary[The {cpp}20 Synchronization Library] +
+ +
+link:presenters.html#XBryceAdelsteinLelbach[Bryce Adelstein Lelbach]
+|link:sessions.html#XIntroductiontoCacheObliviousAlgorithms[Introduction to Cache Oblivious Algorithms] +
+ +
+link:presenters.html#XMikeShah[Mike Shah]
+
+|12:30
+3+^|Lunch
+
+|13:30
+|link:sessions.html#XFormattingfloatingpointnumbers[Formatting floating-point numbers] +
+ +
+link:presenters.html#XVictorZverovich[Victor Zverovich] +
+link:https://www.youtube.com/watch?v=\_frCGEC23zo[(video)] +
+link:https://github.com/ACCUConf/PDFs_Autumn_2019/blob/master/Victor_Zverovich_-_Formatting_floating-point_numbers.pdf[(slides)]
+|link:sessions.html#XFasterCodeThroughParallelismonCPUsandGPUs[Faster Code Through Parallelism on CPUs and GPUs] +
+ +
+link:presenters.html#XDavidOlsen[David Olsen]
+|link:sessions.html#XInteropBetweenKotlinNativeandCSwifttheGoodtheBadandtheUgly[Interop Between Kotlin Native and {cpp} / Swift - the Good, the Bad and the Ugly] +
+ +
+link:presenters.html#XGarthGilmour[Garth Gilmour] +
+link:presenters.html#XEamonnBoyle[Eamonn Boyle]
+
+|14:30
+3+^|Break
+
+|15:00
+|link:sessions.html#XCInsightsHowstuffworksLambdasandmore[{cpp} Insights: How stuff works, Lambdas and more!] +
+ +
+link:presenters.html#XAndreasFertig[Andreas Fertig] +
+link:https://www.youtube.com/watch?v=G0Z8FUJ4RLc[(video)]
+|link:sessions.html#XTheSecretLifeofNumbers[The Secret Life of Numbers] +
+ +
+link:presenters.html#XJohnMcFarlane[John McFarlane]
+|link:sessions.html#XServerlessContainerswithKEDA[Serverless Containers with KEDA] +
+ +
+link:presenters.html#XMarkAllan[Mark Allan]
+
+|16:00
+3+^|Break
+
+|16:30
+|link:sessions.html#XFromfunctionstoConceptsImpactonmaintainabilityandrefactoringforhigherleveldesignfeatures[From functions to Concepts: Impact on maintainability and refactoring for higher-level design features] +
+ +
+link:presenters.html#XTitusWinters[Titus Winters] +
+link:https://www.youtube.com/watch?v=9a18XkWw8vk[(video)]
+|link:sessions.html#XBetterAlgorithmIntuition[Better Algorithm Intuition] +
+ +
+link:presenters.html#XConorHoekstra[Conor Hoekstra]
+|link:sessions.html#XTheTruthofaProcedure[The Truth of a Procedure] +
+ +
+link:presenters.html#XLisaLippincott[Lisa Lippincott]
+
+|18:00
+3+^|Lightning Talk Warm-up
+
+|18:15
+3+^|*LIGHTNING TALKS*
+
+|19:15
+3+^|Pre Dinner Chill
+
+| {nbsp} +
+19:30 +
+20:00 +
+21:30 to late
+3+^|*CONFERENCE DINNER* +
+Dinner Reception +
+Eating, Talking, Making Friends +
+After Dinner Party
+
+|===
+
+
+<<<
+
+== Tuesday 2019-11-12
+
+[cols="4*^", options="header"]
+|===
+|
+|*Lagan 1*
+|*Lagan 2*
+|*Lisburn*
+
+|09:30
+|link:sessions.html#XTheDawnofaNewError[The Dawn of a New Error] +
+ +
+link:presenters.html#XPhilNash[Phil Nash] +
+link:https://www.youtube.com/watch?v=T9aSGB9Lfzc[(video)]
+|link:sessions.html#XTransposethisLinearAlgebraforStandardC[Transpose(*this) - Linear Algebra for Standard {cpp}] +
+ +
+link:presenters.html#XBobSteagall[Bob Steagall]
+|link:sessions.html#XBetterCTADforC20[Better CTAD for {cpp}20] +
+ +
+link:presenters.html#XTimurDoumler[Timur Doumler]
+
+|11:00
+3+^|Breakfast Break
+
+|11:30
+|link:sessions.html#XEnforceInformIgnoreAssumeGradualAdoptionofContractsInProductionCode[Enforce Inform Ignore Assume - Gradual Adoption of Contracts In Production Code] +
+ +
+link:presenters.html#XAlisdairMeredith[Alisdair Meredith] +
+link:https://www.youtube.com/watch?v=bNF9_bJ8m7w[(video)]
+|link:sessions.html#XTheManyVariantsofstdvariant[The Many Variants of std::variant] +
+ +
+link:presenters.html#XNevinLiber[Nevin ":-)" Liber] +
+link:https://github.com/ACCUConf/PDFs_Autumn_2019/blob/master/Nevin_Liber_-_The_Many_Variants_of_std_variant.pdf[(slides])
+|link:sessions.html#XNomoresecretsWhyyoursecretsarentsafeandwhatyoucandoaboutit[No more secrets? Why your secrets aren't safe and what you can do about it] +
+ +
+link:presenters.html#XNeilHorlock[Neil Horlock]
+
+|13:00
+3+^|Lunch and Recharge!
+
+|14:30
+|link:sessions.html#XCoarsegrainedapplicationcompositionusingPipelinesandBuses[Coarse grained application composition using Pipelines and Buses] +
+ +
+link:presenters.html#XChrisKohlhoff[Chris Kohlhoff]
+|link:sessions.html#XMakeyourprogramsmorereliablewithFuzzing[Make your programs more reliable with Fuzzing] +
+ +
+link:presenters.html#XMarshallClow[Marshall Clow] +
+link:https://www.youtube.com/watch?v=x0FQkAPokfE[(video)]
+|link:sessions.html#XFromAlgorithmtoGenericParallelCode[From Algorithm to Generic, Parallel Code] +
+ +
+link:presenters.html#XDietmarKühl[Dietmar Kühl] +
+link:https://github.com/ACCUConf/PDFs_Autumn_2019/blob/master/Dietmar_Kuehl_-_From_Algorithm_To_Generic_Parallel_Code.pdf[(slides)]
+
+|16:00
+3+^|Break
+
+|16:30
+3+^|*CLOSING KEYNOTE* +
+link:sessions.html#XThefuturedirectionofCandHeterogeneousComputing[The future direction of {cpp} and Heterogeneous Computing] +
+ +
+link:presenters.html#XMichaelWong[Michael Wong] +
+
+|18:00
+3+^|*CLOSE*
+
+|===

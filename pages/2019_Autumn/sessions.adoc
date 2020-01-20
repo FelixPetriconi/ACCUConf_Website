@@ -1,0 +1,282 @@
+
+////
+.. title: ACCU Autumn 2019 Sessions
+.. description: List of session blurbs with links to presenters.
+.. type: text
+////
+
+
+[[XMovieNight]]
+== "Movie Night"
+=== link:presenters.html#XWalterBrown[Walter Brown]
+
+Using video excerpts and short movies, Walter Brown will take us on a journey exploring and celebrating the programming profession, allowing us to reflect on where we've come from, and what it is that makes our profession great. Not to be missed!
+
+
+[[XBetterAlgorithmIntuition]]
+== Better Algorithm Intuition
+=== link:presenters.html#XConorHoekstra[Conor Hoekstra]
+
+At {cpp}Now 2019, I gave the first installment of this talk entitled Algorithm Intuition, which went on to win Best Overall Talk of the conference. The talk covered the 11 algorithms in the `<numeric>` header. This talk will have the same goal, to develop algorithm intuition - but for algorithms in the `<algorithm>` header.
+
+
+[[XBetterCTADforC20]]
+== Better CTAD for {cpp}20
+=== link:presenters.html#XTimurDoumler[Timur Doumler]
+
+Class Template Argument Deduction (CTAD), introduced in {cpp}17, is a useful feature that allows us to write cleaner and shorter code by omitting class template arguments. Unfortunately, the actual language rules behind CTAD are quite complex, and there are many pitfalls. CTAD sometimes deduces unexpected template arguments, and often just doesn’t work at all on certain classes, even if most users would expect that it should.
+
+This talk summarises the actual language rules behind CTAD and its most annoying flaws and pitfalls. We will then talk about how the upcoming {cpp}20 standard will remove some of those flaws, leading to better and safer CTAD that is easier to use.
+
+
+[[XCInsightsHowstuffworksLambdasandmore]]
+== {cpp} Insights: How stuff works, Lambdas and more!
+=== link:presenters.html#XAndreasFertig[Andreas Fertig]
+
+With the help of {cpp} Insights we'll dive into how things work in {cpp}, through the eyes of the compiler.
+
+For example we'll look at some apparently simple cases like implicit conversions, and how in-class initializers work. We won't stop there though! We'll also walk through how the compiler generates lambdas and explore why you might care.
+
+And of course this is {cpp} so it would be remiss of us not to also take a peek at one of our favourite {cpp} features: variadic templates!
+
+Welcome to the compiler's world with {cpp} Insights, and at the very least come away from the talk with a whole new way of looking at the code you write!
+
+
+[[XCModulesandLargeScaleDevelopment]]
+== {cpp} Modules and Large-Scale Development
+=== link:presenters.html#XJohnLakos[John Lakos]
+
+Much has been said about how the upcoming module feature in {cpp} will improve compilation speeds and reduce reliance on the {cpp} preprocessor. However, program architecture will see the biggest impact.
+
+This talk explains how modules will change how you develop, organize, and deploy your code. We will also cover the stable migration of a large code base to be consumable both as modules and normal headers.
+
+
+[[XCoarsegrainedapplicationcompositionusingPipelinesandBuses]]
+== Coarse grained application composition using Pipelines and Buses
+=== link:presenters.html#XChrisKohlhoff[Chris Kohlhoff]
+
+In the world of low latency finance we are required to build systems that must provide high performance across multiple dimensions, for different deployments, but on the same codebase. We also are required to support very strict failure recovery and availability guarantees to meet ever increasing regulatory demands.
+
+In that environment a pipeline and bus architecture, in the spirit of algorithmic architecture (previously presented at ACCU), can be a highly effective composition technique for building such high performance systems.
+
+This talk will introduce the foundational libraries and techniques that support such a technique, and dive into some of the ways these libraries can leverage modern and future {cpp} features to solve common architectural problems in performance critical domains.
+
+
+[[XEnforceInformIgnoreAssumeGradualAdoptionofContractsInProductionCode]]
+== Enforce Inform Ignore Assume - Gradual Adoption of Contracts In Production Code
+=== link:presenters.html#XAlisdairMeredith[Alisdair Meredith]
+
+{cpp}23 is adding a contract checking facility directly into the language, but even prior to the language feature, contract checking systems, often build around macros such as `BSLS_ASSERT` in the Bloomberg open source BDE library, have supported developers describing their interfaces and auditing their code for errors.
+
+In this talk, Alisdair Meredith will present the four fundamental semantics of a contract check that can support rolling out a contract facility retroactively into a live production system. The basic workflow is insert the contracts as rich comments that are _Ignored_, then turn on some telemetry to _Inform_ you when contracts are violated, while continuing as before. Once there is confidence the system has addressed all known issues (which may take some time!) contracts can be _Enforced_, terminating the program when a violation is detected. Finally, for performance critical parts of the system, contracts may be _Assumed_ by the optimizer, rather then checked at runtime, once the system is believe to be bug free.
+
+This talk will refer to both the proposed {cpp}23 language support for contracts, and the open source BDE library facility that allows largely the same workflow in a {cpp}03 toolchain, as a practical alternative where the proposed language feature is not yet available for experimentation.
+
+
+[[XFasterCodeThroughParallelismonCPUsandGPUs]]
+== Faster Code Through Parallelism on CPUs and GPUs
+=== link:presenters.html#XDavidOlsen[David Olsen]
+
+Ever since multicore CPUs became widely available, programmers have been working to get compute-intensive code to run in parallel and take advantage of CPU hardware parallelism. This effort has continued in the era of general-purpose programming on GPUs. There are many approaches to parallelizing {cpp} code on multicore CPUs or GPUs: {cpp}11 threads, OpenMP or OpenACC pragmas, CUDA, and class libraries like Kokkos are among the options. The {cpp}17 standard introduced parallel versions of standard algorithms, offering an approach that is fully portable across {cpp}17 implementations and supports both CPUs and GPUs.
+
+This talk will survey many of these approaches and compare them for ease of use, clarity of the code, and performance. It will include an overview of the current state of implementations of {cpp}17 parallel algorithms in different compilers.
+
+
+[[XFormattingfloatingpointnumbers]]
+== Formatting floating-point numbers
+=== link:presenters.html#XVictorZverovich[Victor Zverovich]
+
+In this talk you will learn more than you ever wanted to know about floating-point formatting, from basics to recent developments in the area. You will find out why `printf` drags in a multiprecision arithmetic library, what the {cpp}17 `std::to_chars` all about, why it is so difficult to implement, and how to do it efficiently. You will also learn how the popular {fmt} library and the forthcoming {cpp}20 `std::format` do floating-point formatting, and how it can benefit your code.
+
+By the end of the talk you will be able to convert binary floating-point to decimal in your mind or you will get your money back!
+
+
+[[XFromAlgorithmtoGenericParallelCode]]
+== From Algorithm to Generic, Parallel Code
+=== link:presenters.html#XDietmarKühl[Dietmar Kühl]
+
+This presentation starts with a parallel algorithm as it is described in books and turns it into a generic implementation. Multiple options for running the algorithm concurrently based on different technologies (OpenMP, Threading Building Blocks, {cpp} standard-only) are explored.
+
+Using parallel algorithms seems like an obvious way to improve the performance of operations. However, to utilize more processsing power often requires additional work to be done and depending on available resources, and the size of the problem, the parallel version may actually take longer than a sequential version. Looking at the actual implementation for an algorithm should clarify some of the tradeoffs.
+
+Showing how a parallel algorithm can be implemented should also demonstrate how such an algorithm can be created when there is no suitable implementation available from the [standard {cpp}] library. As the implementation of a parallel algorithms isn't trivial it should also become clear that using a readily available implementation is much preferable.
+
+
+[[XFromfunctionstoConceptsImpactonmaintainabilityandrefactoringforhigherleveldesignfeatures]]
+== From functions to Concepts: Impact on maintainability and refactoring for higher-level design features
+=== link:presenters.html#XTitusWinters[Titus Winters]
+
+Higher levels of abstraction are useful for building things out of, but also have a higher cognitive and maintenance cost. That is, it's a lot easier to refactor a function than it is to change a type, and similarly easier to deal with a single concrete type than a class template, or a Concept, or a meta-Concept...
+
+In this talk I'll present example strategies for refactoring the interface of functions, classes, and class templates. I'll also discuss how the recent addition of Concepts and the proposals for even-more-abstract features affect long-term refactoring in {cpp}. If you're interested in refactoring, and it isn't immediately clear that a Concept published in a library can never change, this talk is for you.
+
+
+[[XInteropBetweenKotlinNativeandCSwifttheGoodtheBadandtheUgly]]
+== Interop Between Kotlin Native and {cpp} / Swift - the Good, the Bad and the Ugly
+=== link:presenters.html#XGarthGilmour[Garth Gilmour], link:presenters.html#XEamonnBoyle[Eamonn Boyle]
+
+This talk assumes familiarity with the basics of Kotlin and focuses on the low level mechanics of interoperability with existing libraries and frameworks. It is intended for Unix and Mac developers interested in adopting Kotlin Native on new projects.
+
+We begin by explaining how the language uses reference counting and a standard memory model to produce non-VM based applications that can be compiled across multiple platforms. We then show a sample library in C and how to use the cinterop tool to generate wrapper types which can be called directly from Kotlin.
+
+We build progressively on this library, enhancing it with the use of pointers (including function pointers and `void *`), opaque types, callbacks, dynamically allocated memory and other C features. Once the point has been proved in a contrived setting we will demo a Kotlin application that interoperates with mainstream open source libraries to show the practical utility.
+
+Having made the case for {cpp} interop we will then show a similar case study with Swift and discuss the relative merits of Swift and Kotlin for mobile development. Finally we will discuss performance and ways of creating meaningful metrics to inform your choice of language and platform.
+
+
+[[XIntroductiontoCacheObliviousAlgorithms]]
+== Introduction to Cache Oblivious Algorithms
+=== link:presenters.html#XMikeShah[Mike Shah]
+
+There have been a variety of talks recently on the importance of Data Oriented Design. That is, designing data structures optimized for maximizing cache hits, and minimizing cache misses to improve execution time. However software that runs code on multiple platforms, all with potentially different cache hierarchies, may make developing cache-aware algorithms difficult.
+
+In this talk, we will introduce and develop from scratch a cache oblivious algorithm to demonstrate what they are. The audience will leave this talk with knowledge of how to develop and use fundamental data structures that have been designed to be 'cache oblivious'.
+
+
+[[XMakeyourprogramsmorereliablewithFuzzing]]
+== Make your programs more reliable with Fuzzing
+=== link:presenters.html#XMarshallClow[Marshall Clow]
+
+Every day, you read about another security hole found in some widely-used piece of software. Browsers, media players, support libraries - the list goes on and on. You probably use some of those every day. In this talk, I'll talk about one technique, called "Fuzzing", which you can use to make your programs more reliable when dealing with data "from the outside".
+
+I'll talk about the general idea of Fuzzing, why it is useful, a brief history, the current state of the art, and some existing tools/libraries/services to help you harden your program. I'll also have some examples from libc++ and Boost.
+
+
+[[XNomoresecretsWhyyoursecretsarentsafeandwhatyoucandoaboutit]]
+== No more secrets? Why your secrets aren't safe and what you can do about it
+=== link:presenters.html#XNeilHorlock[Neil Horlock]
+
+Public key cryptography is ubiquitous, it secures our online lives, identifying and establishing trust with others and underpinning the payments we make. It ties together you blockchains and makes sure you cannot unravel them. In short, the modern world runs on public key infrastructures, so what if they were to break?
+
+Quantum computing is real and present and growing in power. This talk will look at quantum computing and the threat to present day security and identification. We'll look at why this is no longer tomorrow's problem and look at reasons why you really should be changing your approach to encryption sooner rather than later
+
+Finally, we'll have a look at solutions from using quantum science itself to secure your communications to post-quantum cryptography techniques that you can employ today with some practical demonstrations.
+
+
+[[XQuantifyingAccidentalComplexityAnEmpiricalLookatTeachingandUsingC]]
+== Quantifying Accidental Complexity: An Empirical Look at Teaching and Using {cpp}
+=== link:presenters.html#XHerbSutter[Herb Sutter]
+
+Often heard at conferences: “{cpp} is more complex than it needs to be!” This talk aims to back that statement up with data.
+
+It’s easy to show a series of anecdotes and “gotcha” examples. But it’s much harder, and so far I think unattempted, to systematically and empirically quantify {cpp}’s unneeded complexity broadly across the entire standard, to answer “by how much? where? how? and why?” backed up with hard data.
+
+In this talk, I’ll present what I believe is the first systematic empirical analysis that documents the complexity of teaching, learning, and using Standard {cpp} in a rigorously quantifiable way. Then I’ll draw some initial conclusions about how (in what ways) and why (for what reasons, root causes) that complexity arises, which can give us guidance on how to understand it — and even what we might be able to do about it.
+
+The key observation is that already we have a rich data set we can analyze to answer “what you need to teach and use {cpp}”: {cpp} has the largest body of published “guidance and do/don’t best practices” of any language. The bad news is that, sadly, all that guidance exists because it’s needed; even some rules I disagree with expose underlying problems that need to be resolved somehow. But the great news is that, happily, the {cpp} community has actually already self-documented all the important things we feel we need to teach {cpp} and to know to use well. All we need to do is invest the work to mine that trove of hard-won information.
+
+First, I’ll present the work I’ve done to exhaustively catalog each of the more than 1,000 individual “rules” or “guidelines” that appears in the major {cpp} guidance works and popular lint/check tools (some general, some intended for specific environments), including the following:
+
+* Bjarne Stroustrup and myself, eds.: {cpp} Core Guidelines
+* Myself and Andrei Alexandrescu: {cpp} Coding Standards
+* Scott Meyers: Effective {cpp} (3e), More Effective {cpp}, Effective Modern {cpp}, and “Breaking all the Eggs in {cpp}”
+* Myself: Exceptional {cpp}, More Exceptional {cpp}, and Exceptional {cpp} Style
+* Programming Research: High Integrity {cpp} Coding Standard (4.0)
+* Lockheed Martin and Bjarne Stroustrup: Joint Strike Fighter Air Vehicle {cpp} Coding Standards (aka JSF++)
+* PVS-Studio analyzer rules
+* Google Abseil Tips
+
+Next, I’ll take a first cut at classifying the rules according to Fred Brooks’ distinction of “essential vs. accidental complexity.” This is enough to get an initial percentage of “how much of what we have to teach about {cpp} is accidental complexity” that could in principle be addressed:
+
+* Essential complexity: Which are inherently necessary, that we would have to teach in any language with a similar feature? For example, “when writing a virtual function, remember to preserve substitutability (require no more and guarantee no less)” needs to be taught in any language with virtual functions, not just {cpp}.
+
+* Accidental complexity: Which are needed only because of how the feature is supported in {cpp}, that we do not have to teach in other languages that have similar features? For example, “never implicitly override a virtual function” needs to be taught in {cpp}, but not in a language where it illegal to override without writing something like “override.”
+
+Next, we’ll drill further into the data to discover patterns in the “accidental complexity” rules: Are there large clusters of rules that exist for a common root cause? (Spoiler: Yes. For example, one specific part of {cpp} is the root cause of nearly 10% of all rules.) Why are they this way? Can we do better?
+
+Finally, the talk concludes with thoughts about next steps and future directions. This talk is intended to be a starting point to launch a more-concrete round of discussion about Standard {cpp} as a whole based on quantifiable empirical data, and to help inform how we continue to think about {cpp} evolution as our powerful and popular language continues to evolve and improve and thrive for many years to come.
+
+(Note: This is a “beta” of a new talk presenting results of a study I’ve been conducting over the past two years. This one won’t be recorded, but I’ll give it again soon and there will be a video sometime in the next year.)
+
+
+[[XServerlessContainerswithKEDA]]
+== Serverless Containers with KEDA
+=== link:presenters.html#XMarkAllan[Mark Allan]
+
+With the growing ubiquity of containers and the surge of interest in serverless and hyperscale solutions, it was only natural that the next step would be serverless containers. Learn how to build the best of both worlds with Kubernetes and KEDA.
+
+
+[[XTheC20SynchronizationLibrary]]
+== The {cpp}20 Synchronization Library
+=== link:presenters.html#XBryceAdelsteinLelbach[Bryce Adelstein Lelbach]
+
+In the decade since {cpp}11 shipped, the hardware landscape has changed drastically. 10 years ago, we were still in the early stages of the concurrent processing revolution; 2 to 4 hardware threads were common and more than 10 was "many". Our tolerance for synchronization latency was greater; we were willing to pay microseconds and milliseconds.
+
+Today, dozens and hundreds of threads are common, and "many" means hundreds of thousands. Concurrent applications are plagued by contention challenges that were unimaginable a decade ago. With the traditional tools we have today, programmers often have to choose between unacceptable contention and unacceptable high latency when synchronizing between threads.
+
+The {cpp}20 synchronization library brings solutions - new lightweight synchronization primitives that can efficiently marshall hundreds of thousands of threads:
+
+- `std::atomic::wait`/`std::atomic::notify_*`: Efficient atomic waiting.
+- `std::atomic_ref`: Atomic operations on non-`std::atomic` objects.
+- `std::counting_semaphore`: Lightweight access coordination.
+- `std::latch` and `std::barrier`: Marshalling groups of threads.
+
+In this example-oriented talk, you'll learn how and when to use these new tools to build scalable, modern {cpp} applications that can run in parallel on virtual any hardware, from embedded controllers to server CPUs to modern GPUs.
+
+
+[[XTheDawnofaNewError]]
+== The Dawn of a New Error
+=== link:presenters.html#XPhilNash[Phil Nash]
+
+As a community we've tried many different ways to express, propagate and handle error conditions in our code over the years. Each seem to have different trade-offs, with none being perfect in all cases.
+
+This presentation is the follow-up to my earlier talk, "Option(al) Is Not a Failure", where I surveyed existing error-handling approaches and score them against each other, leading up to the new proposal, p0709, "Zero-overhead deterministic exceptions".
+
+We'll summarise some of that background so we're all on the same page, but in this talk we're going to dig into the proposal in more depth - and look at the supporting proposals, p1028 (`std::error`) and p1029 (`[[move relocates]]`) and others. We'll also comment similar mechanisms in other languages, notably Swift, to get an idea of how it might work out in practice
+
+
+[[XThefuturedirectionofCandHeterogeneousComputing]]
+== The future direction of {cpp} and Heterogeneous Computing
+=== link:presenters.html#XMichaelWong[Michael Wong]
+
+{cpp}20 will be out soon but what does the future hold?
+
+{cpp}20, with the release of the Committee Draft will undoubtedly be the largest {cpp} release since {cpp}11, with Concepts, Modules, Coroutines, all being major features. So,is there a deliberate future direction for {cpp}? Or is it a random collection of features. I like to think there is with the establishment of a Direction Group and as a member of this group, I will talk about how we work and how we collaborate to resolve recent issues while projecting ahead.
+
+This talk will offer an overview of {cpp}20 features and a look ahead to what could be coming for future {cpp} given the recent increase in the number of study groups, and the massive icreasae in interest through attendance and paper submissions.
+
+In particular it will focus on future parallelism features, especially those that focus on heterogeneous computing in service of serving all the new and latest hardware while continuing serve the needs of backward compatibility of milliions of {cpp} users.
+
+I would argue that heterogeneous support has been appearing in {cpp} since {cpp}11, in bits and pieces. While there is no single TS or project that is named Heterogeneous, there is a quiet revolution to add support and I will highlight the {cpp} Parallel and Concurrency features that have driven in this direction. If time permists, I will also showcase what SYCL, a heterogeneous {cpp} language offers.
+
+I hope the audience will come away with the view that {cpp} directions is more then concrete and that the future is bright!
+
+
+[[XTheManyVariantsofstdvariant]]
+== The Many Variants of `std::variant`
+=== link:presenters.html#XNevinLiber[Nevin ":-)" Liber]
+
+There was (and still is) much controversy around the discriminated union variant type included in {cpp}17. This talk is a first hand account of the history and process, as well as the details of the various design deliberations and tradeoffs that were made to achieve consensus. It will get into both the performance and usability considerations that were debated, as well as some speculation as to where the {cpp} committee might like to take it in the future (pattern matching, language-based variant, and so on), including any progress made at the Belfast {cpp} Standards meeting (taking place the week before this ACCU conference).
+
+If you'd like to learn more about `std::variant`, discriminated union variant types in general, or gain insight into what it takes to bring a feature through the standardisation process, then this talk is for you!
+
+
+[[XTheSecretLifeofNumbers]]
+== The Secret Life of Numbers
+=== link:presenters.html#XJohnMcFarlane[John McFarlane]
+
+They say that 'data expands to fill the space available for storage'. That goes double for numbers — of which there are many. This talk will present my view of numeric types as spans over an infinite range of digits. I'll use this perspective to explore some popular topics in {cpp} such as compile-time evaluation, fixed-point arithmetic and undefined behavior.
+
+While the audience is distracted by ones and zeros, I will flash up subliminal messages compelling them to use my Compositional Numeric Library!
+
+
+[[XTheTruthofaProcedure]]
+== The Truth of a Procedure
+=== link:presenters.html#XLisaLippincott[Lisa Lippincott]
+
+One way of modeling a procedure mathematically is to treat it as a statement about the ways in which events can be arranged by a computer. This conception brings programming into the domain of mathematical logic, the study of truth and proof in formal languages.
+
+In this session, I will explain how to read a procedure and its interface as a sentence, how that sentence may be true or false, possible or impossible, necessary or provable.
+
+This presentation of programming from a logician’s perspective is intended to complement the topologist’s perspective of my previous work, "The Shape of a Program", but is independent of the material covered there.
+
+
+[[XTransposethisLinearAlgebraforStandardC]]
+== Transpose(*this) - Linear Algebra for Standard {cpp}
+=== link:presenters.html#XBobSteagall[Bob Steagall]
+
+Linear algebra is a mathematical discipline of vital importance in today's world, with direct application to a huge variety of scientific and engineering problem domains, such as signal processing, computer graphics, gaming, medical imaging, machine learning and AI, data science, financial modelling, and scientific simulations, to name but a few. And yet, despite the relevance of linear algebra to so many aspects of modern life, the standard {cpp} library does not include a set of linear algebra facilities.
+
+This talk will describe efforts within the {cpp} standardization committee to change that.  We'll begin with a quick refresher on what linear algebra is, why it's so important in our modern world, and why linear algebra should be part of the standard library.
+
+Next, we'll cover the features and requirements set out in our proposal, and take a birds-eye look at the resulting design.  We'll see some examples of how the proposed interface could be used in day-to-day work, and then show how it can be customized.  Finally, we'll dive into the design to see how modern {cpp} allows us to specify an extensible interface that is intuitive, expressive, and supports fine-grained customization for those in search of higher performance.  Along the way, we'll look at a few of the design choices made and how they  compare to those of some other libraries.

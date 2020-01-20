@@ -1,0 +1,34 @@
+////
+.. title: ACCU 2019 Programme Committee and Organisers
+.. type: text
+////
+
+== Program Committee
+
+image::/assets/images/accu_autumn_2019_370x137.png[ACCU Autmn 2019 Logo, float=right]
+
+* Chair:
+** Jamie Allsop
+* Deputy Chair
+** Roger Orr
+* Members
+** Chris Kohlhoff<br/>
+** Felix Petriconi
+** Garth Gilmour
+** Timur Doumler
+** John McFarlane
+
+
+== Organisers
+
+
+Archer Yates Ltd image:/assets/images/AYA_holding.png[Archer Yates Associates, width=10%, link=http://www.archer-yates.co.uk/]
+
+7 Threshers Yard +
+West Street +
+Kingham +
+Oxfordshire OX7 6YF
+
+Telephone: +44 1608 659900 +
+Fax: +44 1608 659911 +
+Email: accu@archer-yates.co.uk

@@ -1,13 +1,17 @@
 ////
-.. title: ACCU 2019
+.. title: ACCU Conferences
 ////
 
-image::https://accu.org/content/images/website/HerbSutterACCU2017.jpg[]
+image::images/2020/index_header_image.png[]
 
 
-*The Call for Proposals for ACCU 2019 has now closed. Thanks to everyone who registered and submitted
- proposals. The committee will now get to work reviewing the proposals.*
+*ACCU 2019 Autumn Conference is now over and all attention is now on planning for ACCU 2020 conference
+ which will be in the same hotel as ACCU 2019,
+ http://www.marriott.co.uk/hotels/travel/brsdt-bristol-marriott-hotel-city-centre/[Bristol
+ Marriott City Centre] 2020-03-24 to 2020-03-28.*
 
+
+== ACCU 2020
 
 Historically, ACCU has a lot of {cpp} and C content, and is proud of that: ACCU is the foremost annual
 conference for people interested in {cpp} and C, at least in and around the UK. But it is not just a {cpp}
@@ -32,16 +36,17 @@ The ACCU conference has:
 There are also lightning talk sessions, but, as ever, these are organised at the conference.
 
 The ACCU Conference is put on by ACCU (https://accu.org), but is open to anyone who wishes to be there
-either as a presenter or just an attender.
+either as a presenter or an attender.
 
 ACCU is a membership organisation for people involved in software creation. The members are interested in
 programming, programming languages, testing, the tools of developing software, the process of developing
 software, and all related things. The tag line for the organisation is _Professionalism in Programming_.
 
-When the call for session proposals is open, details of the session and the presenters is submitted via the
-Web application at https://cfp.conference.accu.org . If you want to mull an idea over with someone before
-submitting, please email the mailto:conference@accu.org[conference chair]. Some notes about the lead
-presenter deals are link:/lead_presenter_deals.html[here].
+When the call for session proposals is open, details of the session and the presenters is
+submitted via the Web application at
+https://flame.firebird.systems/archer-yates/ACCU2020/MySubmissions[here]. If you want to mull an
+idea over with someone before submitting, please email the mailto:conference@accu.org[conference
+chair]. Some notes about the lead presenter deals are link:/lead_presenter_deals.html[here].
 
 The ACCU conference latest news/blog is link:/news/index.html[here].
 
