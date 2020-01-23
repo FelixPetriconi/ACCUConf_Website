@@ -3,6 +3,7 @@
 .. date: 2020-01-20T12:00+00:00
 .. type: text
 ////
+
 ACCU conferences tend to have themes. Not for the content of the sessions of the conference, obviously. 
 The conference themes are for the more social aspect of the conference. In particular,
 the conference dinner/supper (choose your preferred label here) on the Friday evening, and the t-shirts, and

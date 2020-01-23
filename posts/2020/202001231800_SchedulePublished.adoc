@@ -1,0 +1,20 @@
+////
+.. title: Schedule for ACCU 2020 Published
+.. date: 2020-01-23T18:00+00:00
+.. type: text
+////
+
+The conference programme committee is proud to announce the https://conference.accu.org/2020/schedule.html[ACCU 2020 Schedule] for the upcoming ACCU 2020
+conference. We think it is a strong programme. We are happy that some speakers from years back have returned, last year
+speakers proposed again and that there are new speakers as well.
+
+We have decided to move from our home grown conference application to https://firebird.systems[Firebird's] conferencing
+application. This system has successfully been used by our organizer http://www.archer-yates.co.uk/[Archer Yates Ltd.]
+for other events.
+
+So the actual schedule is currently been published on Firebird's system. Later we will mirror it to https://conference.accu.org.
+
+This year we have all pieces in place. But as soon as something changes we will update the page.
+
+People have already started registering for the pre-conference workshops and the conference
+itself – registering early is always good, especially for the pre-conference workshops.

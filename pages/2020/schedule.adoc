@@ -1,0 +1,18 @@
+////
+.. title: Schedule
+.. description: ACCU 2020 Schedule
+.. type: text
+////
+== Schedule
+
+The schedule is currently hosted on an https://flame.firebird.systems/archer-yates/ACCU2020/MyProgrammes#Programme.ItemPage.68.0[external page].
+++++
+<html>
+    <head>
+        <meta http-equiv="refresh" content="5;url=https://flame.firebird.systems/archer-yates/ACCU2020/MyProgrammes#Programme.ItemPage.68.0" />
+    </head>
+    <body>
+        <p>You will be redirected in 5 seconds...</p>
+    </body>
+</html>
+++++
