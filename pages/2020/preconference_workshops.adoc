@@ -334,8 +334,7 @@ Planned learning outcomes:
 * Risks and benefits of Approval testing
 
 Suitable for: developers and testers who do automation. The examples and Approval testing tools
-we will use are available in several programming languages including Java, C#, Python and {cpp},
-although I will primarily demonstrate techniques using IntelliJ and Java.
+we will use are available in several programming languages including Java, C#, Python and {cpp}.
 
 === Max Attendees
 
