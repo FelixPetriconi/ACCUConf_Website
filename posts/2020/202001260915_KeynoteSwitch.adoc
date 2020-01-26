@@ -1,0 +1,16 @@
+////
+.. title: Keynote Switch
+.. date: 2020-01-26T09:15+00:00
+.. type: text
+////
+
+We published the ACCU 2020 schedule just some days ago. There is the usual disclaimer that the schedule is
+subject to change without notice till the end of the conference. This is intended to mean just amendments
+to the sessions, quickies, side events, or social events, as the keynotes are normally fixed
+points.
+
+This year we have such an unusual situation, again. Which means we need to swap two of the keynotes this year too:
+Kevlins's Saturday closing keynote has become Thursday's opening keynote; and Sean's Thursday opening keynote has
+become Saturday's closing keynote. Given that constraints sometimes change - what never happens in real life
+software projects as we all know, - this was unfortunately The Right Thing To Do™ even though it is a change to the
+keynotes post publication of the schedule.
