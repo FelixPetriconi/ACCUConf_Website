@@ -43,6 +43,10 @@ regularly. This will put the `nikola` executable somewhere sensible (this is `$H
 Sid). You need to make sure that the installation directory of this executable is in your `PATH` so that you
 can run the `nikola` command from a command line.
 
+On Windows it is essential that at the end of conf.py the configuration variable is set like this
+
+    ASCIIDOC_BINARY = "asciidoctor.bat"
+
 With that done:
 
     nikola build
