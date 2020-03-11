@@ -4,9 +4,9 @@
 
 image::images/2020/index_header_image.png[]
 
-_The cornovirus Corvid-19 situation is very fluid just now. Many are asking how this affects
-ACCU 2020. The official position as at 2020-03-03T20:30+00:00 can be read in
-link:news/2020/202003032030_corvid19.html[this news item]._
+_The Coronavirus Covid-19 situation is very fluid just now. Many are asking how this affects
+ACCU 2020. The official position as at 2020-03-11T18:15+00:00 can be read in
+link:news/2020/202003032030_covid19.html[this news item]._
 
 *ACCU 2019 Autumn Conference is now over and all attention is now on planning for ACCU 2020 conference
  which will be in the same hotel as ACCU 2019,
